@@ -19,6 +19,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/src\/assets\/wordle-234.jpg" : {
+      "ft" : 16384,
+      "iS" : 10811,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/wordle-234.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/src\/components\/_all.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -559,7 +572,7 @@
     "creationDate" : 602205694.45881498,
     "displayValue" : "Wordles",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "meme-yesBaby",
+    "iconImageName" : "\/src\/assets\/wordle-234.jpg",
     "iconImageWasSetByUser" : 1,
     "lastBuiltDate" : 662767471.44406199
   },
