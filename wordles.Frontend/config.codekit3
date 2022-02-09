@@ -324,6 +324,14 @@
       "oAP" : "\/build\/dashboard\/index.html",
       "oF" : 0
     },
+    "\/src\/kit\/game\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/game\/index.html",
+      "oF" : 0
+    },
     "\/src\/kit\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -362,6 +370,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/build\/shared\/_script_content.html",
+      "oF" : 0
+    },
+    "\/src\/kit\/transforms\/_wordles.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/transforms\/_wordles.html",
       "oF" : 0
     },
     "\/src\/layouts\/all.less" : {
@@ -628,6 +644,14 @@
       "oAP" : "\/build\/xml\/wordles.xml",
       "oF" : 0
     },
+    "\/src\/xslt\/transform-wordles.xslt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xslt\/transform-wordles.xslt",
+      "oF" : 0
+    },
     "\/test" : {
       "ft" : 65536,
       "oA" : 1,
@@ -682,7 +706,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/src\/assets\/wordle-234.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 666121296.852741
+    "lastBuiltDate" : 666139734.37176096
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
