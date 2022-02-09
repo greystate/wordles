@@ -9,12 +9,6 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
-    },
     "\/src\/assets\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -563,10 +557,10 @@
   },
   "projectAttributes" : {
     "creationDate" : 602205694.45881498,
-    "displayValue" : "​project-template",
+    "displayValue" : "Wordles",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "brackets-red",
-    "iconImageWasSetByUser" : 0,
+    "iconImageName" : "meme-yesBaby",
+    "iconImageWasSetByUser" : 1,
     "lastBuiltDate" : 662767471.44406199
   },
   "projectSettings" : {

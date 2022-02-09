@@ -1,6 +1,6 @@
 {
-  "codekit.folder" : "project-template.Frontend",
+  "codekit.folder" : "wordles.Frontend",
   "workspace.art_style" : 0,
   "workspace.color" : 5,
-  "workspace.name" : "Project Template"
+  "workspace.name" : "Wordles"
 }
