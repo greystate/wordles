@@ -4,13 +4,14 @@
 	justify-content: center;
 	align-items: center;
 	font-size: 2rem;
+	font-weight: bold;
 	line-height: 1;
 	width: 4rem;
 	text-transform: uppercase;
-	border-radius: 0.2em;
+	border-radius: 0.1em;
 
-	background: #333;
-	color: #999;
+	background: #111;
+	color: var(--color-text);
 
 	&.wrong {
 		background: var(--bgcolor-wrong);
@@ -18,11 +19,9 @@
 
 	&.ok {
 		background: var(--bgcolor-ok);
-		color: #000;
 	}
 
 	&.correct {
 		background: var(--bgcolor-correct);
-		color: #000;
 	}
 }
