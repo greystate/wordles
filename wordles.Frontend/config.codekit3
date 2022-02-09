@@ -9,6 +9,12 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/build" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/build\/build",
+      "oF" : 0
+    },
     "\/src\/assets\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -27,7 +33,7 @@
       "oAP" : "\/build\/assets\/wordle-234.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
@@ -191,6 +197,32 @@
       "mS" : 0,
       "oA" : 1,
       "oAP" : "\/build\/assets\/text.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "rwU" : 0,
+      "sI" : 0,
+      "sU" : 0
+    },
+    "\/src\/components\/tile\/_tile.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/components\/tile\/_tile.html",
+      "oF" : 0
+    },
+    "\/src\/components\/tile\/tile.less" : {
+      "aP" : 1,
+      "bl" : 1,
+      "co" : 0,
+      "eJ" : 0,
+      "ft" : 1,
+      "iI" : 0,
+      "ma" : 0,
+      "mS" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/assets\/tile.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -520,6 +552,14 @@
       "sI" : 0,
       "sU" : 0
     },
+    "\/src\/xml\/wordles.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/wordles.xml",
+      "oF" : 0
+    },
     "\/test" : {
       "ft" : 65536,
       "oA" : 1,
@@ -574,7 +614,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/src\/assets\/wordle-234.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 662767471.44406199
+    "lastBuiltDate" : 666121296.852741
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
