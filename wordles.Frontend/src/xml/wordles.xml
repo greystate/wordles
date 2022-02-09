@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wordles>
+	<wordle date="2022-02-09" number="235" score="5" word="humor">
+		<try>stain</try>
+		<try>power</try>
+		<try>color</try>
+		<try>juror</try>
+		<try>humor</try>
+	</wordle>
+
+	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
+		<try>tiger</try>
+		<try>gaver</try>
+		<try>guder</try>
+		<try>gyser</try>
+	</wørdle>
+</wordles>
