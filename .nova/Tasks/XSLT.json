@@ -1,0 +1,13 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "cd wordles.Frontend\nxsltproc -o src\/kit\/transforms\/_wordles.kit src\/xslt\/transform-wordles.xslt src\/xml\/wordles.xml"
+    }
+  },
+  "environment" : {
+    "TM_PROJECT_DIRECTORY" : "${WorkspaceFolder}"
+  },
+  "identifier" : "6663CB2B-4C11-4275-8190-A270FE4F551B",
+  "openLogOnRun" : "fail"
+}
