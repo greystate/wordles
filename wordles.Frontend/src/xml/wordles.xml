@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <wordles>
+
+	<!-- WORDLES -->
 	<wordle date="2022-02-09" number="235" score="5" word="humor">
 		<try>stain</try>
 		<try>power</try>
@@ -8,10 +10,27 @@
 		<try>humor</try>
 	</wordle>
 
+	<wordle date="2022-02-10" number="236" score="6" word="pause">
+		<try>wheat</try>
+		<try>dance</try>
+		<try>ladle</try>
+		<try>sarge</try>
+		<try>paise</try>
+		<try>pause</try>
+	</wordle>
+
+	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
 		<try>gaver</try>
 		<try>guder</try>
 		<try>gyser</try>
+	</wørdle>
+
+	<wørdle date="2022-02-10" number="33" score="4" word="vente">
+		<try>grave</try>
+		<try>volde</try>
+		<try>viske</try>
+		<try>vente</try>
 	</wørdle>
 </wordles>
