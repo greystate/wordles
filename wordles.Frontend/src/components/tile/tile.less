@@ -1,0 +1,28 @@
+.tile {
+	aspect-ratio: 1 / 1;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	line-height: 1;
+	width: 4rem;
+	text-transform: uppercase;
+	border-radius: 0.2em;
+
+	background: #333;
+	color: #999;
+
+	&.wrong {
+		background: #666;
+	}
+
+	&.ok {
+		background: #cc0;
+		color: #000;
+	}
+
+	&.correct {
+		background: #0a3;
+		color: #000;
+	}
+}
