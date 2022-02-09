@@ -1,2 +1,3 @@
 *.Web
 *.Frontend/build
+wordles.Frontend/src/kit/transforms/_wordles.kit
