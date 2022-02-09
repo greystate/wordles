@@ -8,10 +8,13 @@
 	line-height: 1;
 	width: 4rem;
 	text-transform: uppercase;
-	border-radius: 0.1em;
+	// border-radius: 0.1em;
+	border: 3px solid var(--bgcolor-wrong);
 
-	background: #111;
+	background: transparent;
 	color: var(--color-text);
+
+	&.wrong, &.ok, &.correct { border: none; }
 
 	&.wrong {
 		background: var(--bgcolor-wrong);
