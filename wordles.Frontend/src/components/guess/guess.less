@@ -1,6 +1,17 @@
 .guess {
-	display: flex;
+	display: inline-flex;
 	justify-content: flex-start;
 	align-items: center;
-	gap: 4px;
+	gap: var(--default-gap, 4px);
+
+	align-self: start;
+
+	&.solution {
+		outline: 2px solid var(--bgcolor-solution);
+		outline-offset: 1px;
+
+		.hide & {
+			display: none;
+		}
+	}
 }

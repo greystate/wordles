@@ -1,5 +1,12 @@
 .game-panel {
 	display: flex;
 	flex-direction: column;
-	gap: 4px;
+	gap: var(--default-gap, 4px);
+
+	&.hide {
+		.tile {
+			overflow: hidden;
+			text-indent: 100%;
+		}
+	}
 }
