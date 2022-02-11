@@ -644,6 +644,14 @@
       "oAP" : "\/build\/xml\/wordles.xml",
       "oF" : 0
     },
+    "\/src\/xslt\/str-split.xslt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xslt\/str-split.xslt",
+      "oF" : 0
+    },
     "\/src\/xslt\/transform-wordles.xslt" : {
       "cB" : 0,
       "ft" : 8192,
