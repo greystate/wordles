@@ -19,6 +19,15 @@
 		<try>pause</try>
 	</wordle>
 
+	<wordle date="2022-02-11" number="237" score="6" word="ulcer">
+		<try>power</try>
+		<try>timer</try>
+		<try>anker</try>
+		<try>lever</try>
+		<try>ruler</try>
+		<try>ulcer</try>
+	</wordle>
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -33,4 +42,14 @@
 		<try>viske</try>
 		<try>vente</try>
 	</wørdle>
+
+	<wørdle date="2022-02-11" number="34" score="0" word="ærter">
+		<try>binde</try>
+		<try>laser</try>
+		<try>typer</try>
+		<try>køter</try>
+		<try>meter</try>
+		<try>ruter</try>
+	</wørdle>
+
 </wordles>
