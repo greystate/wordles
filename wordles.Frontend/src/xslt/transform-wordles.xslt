@@ -12,17 +12,21 @@
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
 	<xsl:template match="wordles">
-		<xsl:apply-templates select="wordle">
-			<xsl:sort select="@date" order="descending" />
-		</xsl:apply-templates>
-		<hr />
-		<xsl:apply-templates select="wørdle">
-			<xsl:sort select="@date" order="descending" />
-		</xsl:apply-templates>
+		<div>
+			<xsl:apply-templates select="wordle">
+				<xsl:sort select="@date" order="descending" />
+			</xsl:apply-templates>
+		</div>
+
+		<div style="--bgcolor-ok: #f80">
+			<xsl:apply-templates select="wørdle">
+				<xsl:sort select="@date" order="descending" />
+			</xsl:apply-templates>
+		</div>
 	</xsl:template>
 
 	<xsl:template match="wordle | wørdle">
-		<div class="game-panel">
+		<div class="hide game-panel">
 			<xsl:apply-templates select="try" />
 			<xsl:if test="count(try) = 6 and @score = 0">
 				<xsl:call-template name="solution">
