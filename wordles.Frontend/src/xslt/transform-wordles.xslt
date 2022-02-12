@@ -12,9 +12,13 @@
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
 	<xsl:template match="wordles">
-		<xsl:apply-templates select="wordle" />
+		<xsl:apply-templates select="wordle">
+			<xsl:sort select="@date" order="descending" />
+		</xsl:apply-templates>
 		<hr />
-		<xsl:apply-templates select="wørdle" />
+		<xsl:apply-templates select="wørdle">
+			<xsl:sort select="@date" order="descending" />
+		</xsl:apply-templates>
 	</xsl:template>
 
 	<xsl:template match="wordle | wørdle">
