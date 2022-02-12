@@ -1,0 +1,14 @@
+{
+  "clips" : [
+    {
+      "content" : "<wordle date=\"${:2022}-${:02}-${:12}\" number=\"${:200}\" score=\"${:3}\" word=\"${:word}\">\n\t\n<\/wordle>\n",
+      "name" : "Wordle",
+      "trigger" : "wordle"
+    },
+    {
+      "content" : "<wørdle date=\"${:2022}-${:02}-${:12}\" number=\"${:200}\" score=\"${:3}\" word=\"${:word}\">\n\t\n<\/wørdle>\n",
+      "name" : "Wørdle",
+      "trigger" : "wordle"
+    }
+  ]
+}
