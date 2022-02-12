@@ -31,6 +31,9 @@
 					<xsl:with-param name="control-row" select="true()" />
 				</xsl:call-template>
 			</xsl:if>
+			<xsl:call-template name="fillers">
+				<xsl:with-param name="count" select="6 - count(try)" />
+			</xsl:call-template>
 		</div>
 	</xsl:template>
 
@@ -61,5 +64,27 @@
 			</xsl:for-each>
 		</div>
 	</xsl:template>
+
+	<xsl:template name="fillers">
+		<xsl:param name="count" select="5" />
+		<xsl:if test="$count >= 1">
+			<xsl:call-template name="blank-guess" />
+			<xsl:call-template name="fillers">
+				<xsl:with-param name="count" select="$count - 1" />
+			</xsl:call-template>
+		</xsl:if>
+	</xsl:template>
+
+
+	<xsl:template name="blank-guess">
+		<div class="guess">
+			<span class="tile"></span>
+			<span class="tile"></span>
+			<span class="tile"></span>
+			<span class="tile"></span>
+			<span class="tile"></span>
+		</div>
+	</xsl:template>
+
 
 </xsl:stylesheet>
