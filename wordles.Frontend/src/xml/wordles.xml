@@ -28,6 +28,14 @@
 		<try>ulcer</try>
 	</wordle>
 
+	<wordle date="2022-02-12" number="238" score="5" word="ultra">
+		<try>crime</try>
+		<try>track</try>
+		<try>party</try>
+		<try>altar</try>
+		<try>ultra</try>
+	</wordle>
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -50,6 +58,14 @@
 		<try>køter</try>
 		<try>meter</try>
 		<try>ruter</try>
+	</wørdle>
+
+	<wørdle date="2022-02-12" number="35" score="5" word="ømhed">
+		<try>alder</try>
+		<try>disen</try>
+		<try>udset</try>
+		<try>hoved</try>
+		<try>ømhed</try>
 	</wørdle>
 
 </wordles>
