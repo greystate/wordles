@@ -5,8 +5,20 @@
 	.centered(74em);
 
 	padding-block: 50px;
+
+	> div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+
+		gap: 50px;
+
+		+ div {
+			border-block-start: 2px solid;
+			margin-block-start: 30px;
+			padding-block-start: 30px;
+		}
+	}
 }
 
-.game-panel + .game-panel {
-	margin-block-start: 4rem;
-}
+
