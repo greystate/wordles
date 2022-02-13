@@ -36,6 +36,14 @@
 		<try>ultra</try>
 	</wordle>
 
+	<wordle date="2022-02-13" number="239" score="5" word="robin">
+		<try>panic</try>
+		<try>unfit</try>
+		<try>denim</try>
+		<try>rubin</try>
+		<try>robin</try>
+	</wordle>
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -67,5 +75,13 @@
 		<try>hoved</try>
 		<try>ømhed</try>
 	</wørdle>
+
+	<wørdle date="2022-02-13" number="36" score="4" word="vippe">
+		<try>dræne</try>
+		<try>styre</try>
+		<try>pilke</try>
+		<try>vippe</try>
+	</wørdle>
+
 
 </wordles>
