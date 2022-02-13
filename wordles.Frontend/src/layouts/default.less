@@ -4,16 +4,18 @@
 [data-layout] {
 	.centered(74em);
 
+	box-sizing: content-box;
+	padding-inline: 20px;
 	padding-block: 50px;
 
 	> div {
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: space-around;
+		justify-content: space-between;
 
 		gap: 50px;
 
-		+ div {
+		+ h2 {
 			border-block-start: 2px solid;
 			margin-block-start: 30px;
 			padding-block-start: 30px;

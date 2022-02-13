@@ -12,12 +12,14 @@
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
 	<xsl:template match="wordles">
+		<h2>From the official Wordle</h2>
 		<div>
 			<xsl:apply-templates select="wordle">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
 
+		<h2>From wørdle.dk</h2>
 		<div style="--bgcolor-ok: #f80">
 			<xsl:apply-templates select="wørdle">
 				<xsl:sort select="@date" order="descending" />
@@ -27,6 +29,9 @@
 
 	<xsl:template match="wordle | wørdle">
 		<div class="hide game-panel">
+			<header>
+				<h3><xsl:value-of select="concat('#', @number)" /></h3>
+			</header>
 			<xsl:apply-templates select="try" />
 			<xsl:if test="count(try) = 6 and @score = 0">
 				<xsl:call-template name="solution">
@@ -61,8 +66,6 @@
 							<xsl:attribute name="class">ok tile</xsl:attribute>
 						</xsl:when>
 					</xsl:choose>
-					<!-- Workaround for some encoding issues -->
-					<!-- <xsl:value-of select="translate(current(), '0', 'ø')" /> -->
 					<xsl:value-of select="current()" />
 				</span>
 			</xsl:for-each>
