@@ -44,6 +44,12 @@
 		<try>robin</try>
 	</wordle>
 
+	<wordle date="2022-02-14" number="240" score="3" word="cynic">
+		<try>toner</try>
+		<try>panic</try>
+		<try>cynic</try>
+	</wordle>
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -83,5 +89,13 @@
 		<try>vippe</try>
 	</wørdle>
 
+	<wørdle date="2022-02-14" number="37" score="0" word="ønske">
+		<try>teske</try>
+		<try>måske</try>
+		<try>huske</try>
+		<try>fiske</try>
+		<try>vaske</try>
+		<try>lyske</try>
+	</wørdle>
 
 </wordles>
