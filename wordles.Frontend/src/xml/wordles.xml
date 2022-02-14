@@ -50,6 +50,14 @@
 		<try>cynic</try>
 	</wordle>
 
+	<wordle date="2022-02-15" number="241" score="5" word="aroma">
+		<try>boner</try>
+		<try>orbit</try>
+		<try>wraps</try>
+		<try>promo</try>
+		<try>aroma</try>
+	</wordle>
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -96,6 +104,12 @@
 		<try>fiske</try>
 		<try>vaske</try>
 		<try>lyske</try>
+	</wørdle>
+
+	<wørdle date="2022-02-15" number="38" score="3" word="adræt">
+		<try>ryste</try>
+		<try>tramp</try>
+		<try>adræt</try>
 	</wørdle>
 
 </wordles>
