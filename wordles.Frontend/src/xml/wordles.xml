@@ -58,6 +58,24 @@
 		<try>aroma</try>
 	</wordle>
 
+	<wordle date="2022-02-16" number="242" score="6" word="caulk">
+		<try>stone</try>
+		<try>grail</try>
+		<try>bally</try>
+		<try>hauld</try>
+		<try>cauld</try>
+		<try>caulk</try>
+	</wordle>
+
+	<wordle date="2022-02-17" number="243" score="6" word="shake">
+		<try>tiger</try>
+		<try>scone</try>
+		<try>spade</try>
+		<try>shame</try>
+		<try>shave</try>
+		<try>shake</try>
+	</wordle>
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -110,6 +128,21 @@
 		<try>ryste</try>
 		<try>tramp</try>
 		<try>adræt</try>
+	</wørdle>
+
+	<wørdle date="2022-02-16" number="39" score="3" word="aktie">
+		<try>parti</try>
+		<try>antik</try>
+		<try>aktie</try>
+	</wørdle>
+
+	<wørdle date="2022-02-17" number="40" score="6" word="dræbe">
+		<try>tiger</try>
+		<try>rense</try>
+		<try>bruge</try>
+		<try>krybe</try>
+		<try>dråbe</try>
+		<try>dræbe</try>
 	</wørdle>
 
 </wordles>
