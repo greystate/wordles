@@ -76,6 +76,15 @@
 		<try>shake</try>
 	</wordle>
 
+	<wordle date="2022-02-18" number="244" score="5" word="dodge">
+		<try>drink</try>
+		<try>doubt</try>
+		<try>dolly</try>
+		<try>doped</try>
+		<try>dodge</try>
+	</wordle>
+
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -143,6 +152,14 @@
 		<try>krybe</try>
 		<try>dråbe</try>
 		<try>dræbe</try>
+	</wørdle>
+
+	<wørdle date="2022-02-18" number="41" score="5" word="ærmer">
+		<try>drink</try>
+		<try>prøve</try>
+		<try>træet</try>
+		<try>æraer</try>
+		<try>ærmer</try>
 	</wørdle>
 
 </wordles>
