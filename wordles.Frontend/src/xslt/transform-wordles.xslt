@@ -13,6 +13,22 @@
 
 	<xsl:variable name="debugging" select="false()" />
 
+	<xsl:template match="/">
+		<h1>My W[OØ]RDLE scores</h1>
+
+		<xsl:call-template name="statistics" />
+
+		<xsl:apply-templates select="wordles" />
+
+	</xsl:template>
+
+	<xsl:template name="statistics">
+		<div>
+
+		</div>
+	</xsl:template>
+
+
 	<xsl:template match="wordles">
 		<h2>From the official Wordle</h2>
 		<div>
