@@ -84,6 +84,26 @@
 		<try>dodge</try>
 	</wordle>
 
+	<wordle date="2022-02-19" number="245" score="5" word="swill">
+		<try>types</try>
+		<try>slain</try>
+		<try>smile</try>
+		<try>skill</try>
+		<try>swill</try>
+	</wordle>
+
+	<wordle date="2022-02-20" number="246" score="4" word="tacit">
+		<try>dying</try>
+		<try>hitch</try>
+		<try>topic</try>
+		<try>tacit</try>
+	</wordle>
+
+	<wordle date="2022-02-21" number="247" score="3" word="other">
+		<try>patio</try>
+		<try>tower</try>
+		<try>other</try>
+	</wordle>
 
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
@@ -162,4 +182,26 @@
 		<try>ærmer</try>
 	</wørdle>
 
+	<wørdle date="2022-02-19" number="42" score="4" word="akryl">
+		<try>typer</try>
+		<try>krybe</try>
+		<try>skryd</try>
+		<try>akryl</try>
+	</wørdle>
+
+	<wørdle date="2022-02-20" number="43" score="4" word="virak">
+		<try>halte</try>
+		<try>tramp</try>
+		<try>isbar</try>
+		<try>virak</try>
+	</wørdle>
+
+	<wørdle date="2022-02-21" number="44" score="4" word="idræt">
+		<try>patio</try>
+		<try>tiden</try>
+		<try>idiot</try>
+		<try>idræt</try>
+	</wørdle>
+
 </wordles>
+
