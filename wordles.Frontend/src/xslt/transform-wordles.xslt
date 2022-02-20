@@ -11,6 +11,8 @@
 
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
+	<xsl:variable name="debugging" select="false()" />
+
 	<xsl:template match="wordles">
 		<h2>From the official Wordle</h2>
 		<div>
@@ -51,18 +53,30 @@
 		<xsl:param name="control-row" select="false()" />
 		<xsl:param name="solution" select="../@word" />
 
+		<xsl:variable name="guess" select="." />
+
 		<div class="guess">
 			<xsl:if test="$control-row">
 				<xsl:attribute name="class">guess solution</xsl:attribute>
 			</xsl:if>
 			<xsl:for-each select="$letters">
 				<xsl:variable name="index" select="position()" />
+				<xsl:variable name="diff" select="string-length(translate($guess, ., '')) - string-length(translate($solution, ., ''))" />
+
 				<span class="wrong tile">
+					<xsl:if test="$debugging">
+						<xsl:attribute name="data-diff"><xsl:value-of select="$diff" /></xsl:attribute>
+					</xsl:if>
 					<xsl:choose>
+						<!-- The letter is in the correct position -->
 						<xsl:when test="substring($solution, $index, 1) = .">
 							<xsl:attribute name="class">correct tile</xsl:attribute>
 						</xsl:when>
-						<xsl:when test="contains($solution, .)">
+						<!--
+						The letter is in the solution but not in the correct position;
+						AND the guess has the same number of copies of this letter
+						-->
+						<xsl:when test="contains($solution, .) and $diff &gt;= 0">
 							<xsl:attribute name="class">ok tile</xsl:attribute>
 						</xsl:when>
 					</xsl:choose>
