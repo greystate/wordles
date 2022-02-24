@@ -105,6 +105,35 @@
 		<try>other</try>
 	</wordle>
 
+	<wordle date="2022-02-22" number="248" score="4" word="thorn">
+		<try>lunge</try>
+		<try>knows</try>
+		<try>acorn</try>
+		<try>thorn</try>
+	</wordle>
+
+	<wordle date="2022-02-23" number="249" score="3" word="trove">
+		<try>prune</try>
+		<try>bride</try>
+		<try>trove</try>
+	</wordle>
+
+	<wordle date="2022-02-24" number="250" score="4" word="bloke">
+		<try>phone</try>
+		<try>grove</try>
+		<try>stoke</try>
+		<try>bloke</try>
+	</wordle>
+
+	<wordle date="2022-02-25" number="251" score="6" word="vivid">
+		<try>cloth</try>
+		<try>panic</try>
+		<try>eerie</try>
+		<try>music</try>
+		<try>fluid</try>
+		<try>vivid</try>
+	</wordle>
+
 	<!-- WØRDLES -->
 	<wørdle date="2022-02-09" number="32" score="4" word="gyser">
 		<try>tiger</try>
@@ -201,6 +230,36 @@
 		<try>tiden</try>
 		<try>idiot</try>
 		<try>idræt</try>
+	</wørdle>
+
+	<wørdle date="2022-02-22" number="45" score="5" word="ampul">
+		<try>lunge</try>
+		<try>skulk</try>
+		<try>udbud</try>
+		<try>filur</try>
+		<try>ampul</try>
+	</wørdle>
+
+	<wørdle date="2022-02-23" number="46" score="5" word="drink">
+		<try>klovn</try>
+		<try>snask</try>
+		<try>eunuk</try>
+		<try>brink</try>
+		<try>drink</try>
+	</wørdle>
+
+	<wørdle date="2022-02-24" number="47" score="3" word="afslå">
+		<try>skovl</try>
+		<try>ødsle</try>
+		<try>afslå</try>
+	</wørdle>
+
+	<wørdle date="2022-02-25" number="48" score="5" word="fnise">
+		<try>klude</try>
+		<try>prøve</try>
+		<try>haste</try>
+		<try>score</try>
+		<try>fnise</try>
 	</wørdle>
 
 </wordles>
