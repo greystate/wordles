@@ -21,6 +21,14 @@
 			padding-block-start: 30px;
 		}
 	}
+
+	@supports (display: grid) {
+		> div {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+			justify-items: start;
+		}
+	}
 }
 
 
