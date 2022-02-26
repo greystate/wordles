@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE wordles [
-	<!ENTITY xincludeNS "http://www.w3.org/2001/XInclude">
-	<!ENTITY wordlesNS "http://xmlns.greystate.dk/2022/wordles">
-]>
 <!--
 	This is a wrapper file collecting wordles from various sources.
 -->
-<w:wordles xmlns:w="&wordlesNS;">
+<wordles xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<include href="wordle-official.xml" parse="xml" xmlns="&xincludeNS;" />
-	<include href="wordle-dk.xml" parse="xml" xmlns="&xincludeNS;" />
+	<xi:include href="wordle-official.xml" parse="xml" />
+	<xi:include href="wordle-dk.xml" parse="xml" />
 
-</w:wordles>
+</wordles>
