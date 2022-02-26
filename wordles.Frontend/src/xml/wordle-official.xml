@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordles xml:lang="en">
+	<!-- WORDLES -->
+	<wordle date="2022-02-09" number="235" score="5" word="humor">
+		<try>stain</try>
+		<try>power</try>
+		<try>color</try>
+		<try>juror</try>
+		<try>humor</try>
+	</wordle>
+
+	<wordle date="2022-02-10" number="236" score="6" word="pause">
+		<try>wheat</try>
+		<try>dance</try>
+		<try>ladle</try>
+		<try>sarge</try>
+		<try>paise</try>
+		<try>pause</try>
+	</wordle>
+
+	<wordle date="2022-02-11" number="237" score="6" word="ulcer">
+		<try>power</try>
+		<try>timer</try>
+		<try>anker</try>
+		<try>lever</try>
+		<try>ruler</try>
+		<try>ulcer</try>
+	</wordle>
+
+	<wordle date="2022-02-12" number="238" score="5" word="ultra">
+		<try>crime</try>
+		<try>track</try>
+		<try>party</try>
+		<try>altar</try>
+		<try>ultra</try>
+	</wordle>
+
+	<wordle date="2022-02-13" number="239" score="5" word="robin">
+		<try>panic</try>
+		<try>unfit</try>
+		<try>denim</try>
+		<try>rubin</try>
+		<try>robin</try>
+	</wordle>
+
+	<wordle date="2022-02-14" number="240" score="3" word="cynic">
+		<try>toner</try>
+		<try>panic</try>
+		<try>cynic</try>
+	</wordle>
+
+	<wordle date="2022-02-15" number="241" score="5" word="aroma">
+		<try>boner</try>
+		<try>orbit</try>
+		<try>wraps</try>
+		<try>promo</try>
+		<try>aroma</try>
+	</wordle>
+
+	<wordle date="2022-02-16" number="242" score="6" word="caulk">
+		<try>stone</try>
+		<try>grail</try>
+		<try>bally</try>
+		<try>hauld</try>
+		<try>cauld</try>
+		<try>caulk</try>
+	</wordle>
+
+	<wordle date="2022-02-17" number="243" score="6" word="shake">
+		<try>tiger</try>
+		<try>scone</try>
+		<try>spade</try>
+		<try>shame</try>
+		<try>shave</try>
+		<try>shake</try>
+	</wordle>
+
+	<wordle date="2022-02-18" number="244" score="5" word="dodge">
+		<try>drink</try>
+		<try>doubt</try>
+		<try>dolly</try>
+		<try>doped</try>
+		<try>dodge</try>
+	</wordle>
+
+	<wordle date="2022-02-19" number="245" score="5" word="swill">
+		<try>types</try>
+		<try>slain</try>
+		<try>smile</try>
+		<try>skill</try>
+		<try>swill</try>
+	</wordle>
+
+	<wordle date="2022-02-20" number="246" score="4" word="tacit">
+		<try>dying</try>
+		<try>hitch</try>
+		<try>topic</try>
+		<try>tacit</try>
+	</wordle>
+
+	<wordle date="2022-02-21" number="247" score="3" word="other">
+		<try>patio</try>
+		<try>tower</try>
+		<try>other</try>
+	</wordle>
+
+	<wordle date="2022-02-22" number="248" score="4" word="thorn">
+		<try>lunge</try>
+		<try>knows</try>
+		<try>acorn</try>
+		<try>thorn</try>
+	</wordle>
+
+	<wordle date="2022-02-23" number="249" score="3" word="trove">
+		<try>prune</try>
+		<try>bride</try>
+		<try>trove</try>
+	</wordle>
+
+	<wordle date="2022-02-24" number="250" score="4" word="bloke">
+		<try>phone</try>
+		<try>grove</try>
+		<try>stoke</try>
+		<try>bloke</try>
+	</wordle>
+
+	<wordle date="2022-02-25" number="251" score="6" word="vivid">
+		<try>cloth</try>
+		<try>panic</try>
+		<try>eerie</try>
+		<try>music</try>
+		<try>fluid</try>
+		<try>vivid</try>
+	</wordle>
+
+	<wordle date="2022-02-26" number="252" score="4" word="spill">
+		<try>venus</try>
+		<try>stark</try>
+		<try>soggy</try>
+		<try>spill</try>
+	</wordle>
+</wordles>
