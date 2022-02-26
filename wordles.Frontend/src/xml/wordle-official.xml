@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<wordles xml:lang="en">
+<wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles">
 	<!-- WORDLES -->
 	<wordle date="2022-02-09" number="235" score="5" word="humor">
 		<try>stain</try>

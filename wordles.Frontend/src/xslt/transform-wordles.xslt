@@ -3,6 +3,7 @@
 	version="1.0"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:str="http://exslt.org/strings"
+	xmlns:w="http://xmlns.greystate.dk/2022/wordles"
 	exclude-result-prefixes="str"
 >
 
@@ -18,7 +19,7 @@
 
 		<xsl:call-template name="statistics" />
 
-		<xsl:apply-templates select="wordles" />
+		<xsl:apply-templates select="w:wordles" />
 
 	</xsl:template>
 
@@ -29,29 +30,29 @@
 	</xsl:template>
 
 
-	<xsl:template match="/wordles">
+	<xsl:template match="/w:wordles">
 		<h2>From the official Wordle</h2>
-		<div>
-			<xsl:apply-templates select="wordles[lang('en')]/wordle">
+		<div lang="en">
+			<xsl:apply-templates select="w:wordles[lang('en')]/w:wordle">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
 
 		<h2>From wørdle.dk</h2>
-		<div style="--bgcolor-ok: #f80">
-			<xsl:apply-templates select="wordles[lang('da')]/wordle">
+		<div style="--bgcolor-ok: #f80" lang="da">
+			<xsl:apply-templates select="w:wordles[lang('da')]/w:wordle">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
 	</xsl:template>
 
-	<xsl:template match="wordle">
+	<xsl:template match="w:wordle">
 		<div class="hide game-panel">
 			<header>
 				<h3><xsl:value-of select="concat('#', @number)" /></h3>
 			</header>
-			<xsl:apply-templates select="try" />
-			<xsl:if test="count(try) = 6 and @score = 0">
+			<xsl:apply-templates select="w:try" />
+			<xsl:if test="count(w:try) = 6 and @score = 0">
 				<xsl:call-template name="solution">
 					<xsl:with-param name="solution" select="@word" />
 					<xsl:with-param name="letters" select="str:split(@word, '')" />
@@ -59,12 +60,12 @@
 				</xsl:call-template>
 			</xsl:if>
 			<xsl:call-template name="fillers">
-				<xsl:with-param name="count" select="6 - count(try)" />
+				<xsl:with-param name="count" select="6 - count(w:try)" />
 			</xsl:call-template>
 		</div>
 	</xsl:template>
 
-	<xsl:template match="try" name="solution">
+	<xsl:template match="w:try" name="solution">
 		<xsl:param name="letters" select="str:split(., '')" />
 		<xsl:param name="control-row" select="false()" />
 		<xsl:param name="solution" select="../@word" />
