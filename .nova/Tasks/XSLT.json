@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "cd wordles.Frontend\nxsltproc -o src\/kit\/transforms\/_wordles.kit src\/xslt\/transform-wordles.xslt src\/xml\/wordles.xml"
+      "script" : "cd wordles.Frontend\nxsltproc --xinclude -o src\/kit\/transforms\/_wordles.kit src\/xslt\/transform-wordles.xslt src\/xml\/wordles.xml"
     }
   },
   "environment" : {
