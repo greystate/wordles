@@ -29,23 +29,23 @@
 	</xsl:template>
 
 
-	<xsl:template match="wordles">
+	<xsl:template match="/wordles">
 		<h2>From the official Wordle</h2>
 		<div>
-			<xsl:apply-templates select="wordle">
+			<xsl:apply-templates select="wordles[lang('en')]/wordle">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
 
 		<h2>From wørdle.dk</h2>
 		<div style="--bgcolor-ok: #f80">
-			<xsl:apply-templates select="wørdle">
+			<xsl:apply-templates select="wordles[lang('da')]/wordle">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
 	</xsl:template>
 
-	<xsl:template match="wordle | wørdle">
+	<xsl:template match="wordle">
 		<div class="hide game-panel">
 			<header>
 				<h3><xsl:value-of select="concat('#', @number)" /></h3>
