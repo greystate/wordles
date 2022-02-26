@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wordles [
-	<!ENTITY wordlesNS "http://xmlns.greystate.dk/2022/wordles">
 	<!ENTITY xincludeNS "http://www.w3.org/2001/XInclude">
+	<!ENTITY wordlesNS "http://xmlns.greystate.dk/2022/wordles">
 ]>
 <w:wordles xmlns:w="&wordlesNS;">
 
-	<include href="wordle-official.xml" xpointer="xmlns(w=&wordlesNS;)xpointer(/w:wordles)" parse="xml" xmlns="&xincludeNS;" />
-	<include href="wordle-dk.xml" xpointer="xmlns(w=&wordlesNS;)xpointer(/w:wordles)" parse="xml" xmlns="&xincludeNS;" />
+	<include href="wordle-official.xml" parse="xml" xmlns="&xincludeNS;" />
+	<include href="wordle-dk.xml" parse="xml" xmlns="&xincludeNS;" />
 
 </w:wordles>
