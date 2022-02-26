@@ -3,6 +3,9 @@
 	<!ENTITY xincludeNS "http://www.w3.org/2001/XInclude">
 	<!ENTITY wordlesNS "http://xmlns.greystate.dk/2022/wordles">
 ]>
+<!--
+	This is a wrapper file collecting wordles from various sources.
+-->
 <w:wordles xmlns:w="&wordlesNS;">
 
 	<include href="wordle-official.xml" parse="xml" xmlns="&xincludeNS;" />
