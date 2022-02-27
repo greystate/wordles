@@ -135,4 +135,21 @@
 		<try>bjørn</try>
 		<try>fynbo</try>
 	</wordle>
+
+	<wordle date="2022-02-27" number="50" score="0" word="cider">
+		<try>danse</try>
+		<try>leder</try>
+		<try>måder</try>
+		<try>poder</try>
+		<try>bider</try>
+		<try>tider</try>
+	</wordle>
+
+	<wordle date="2022-02-28" number="51" score="4" word="anker">
+		<try>ensom</try>
+		<try>knæle</try>
+		<try>anket</try>
+		<try>anker</try>
+	</wordle>
+
 </wordles>

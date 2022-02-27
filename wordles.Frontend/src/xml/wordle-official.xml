@@ -139,4 +139,20 @@
 		<try>soggy</try>
 		<try>spill</try>
 	</wordle>
+
+	<wordle date="2022-02-27" number="253" score="4" word="chant">
+		<try>dance</try>
+		<try>crank</try>
+		<try>clang</try>
+		<try>chant</try>
+	</wordle>
+
+	<wordle date="2022-02-28" number="254" score="5" word="choke">
+		<try>loner</try>
+		<try>stove</try>
+		<try>awoke</try>
+		<try>bloke</try>
+		<try>choke</try>
+	</wordle>
+
 </wordles>
