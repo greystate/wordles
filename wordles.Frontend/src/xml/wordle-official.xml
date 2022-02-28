@@ -155,4 +155,12 @@
 		<try>choke</try>
 	</wordle>
 
+	<wordle date="2022-03-01" number="255" score="4" word="rupee">
+		<try>trans</try>
+		<try>rocky</try>
+		<try>ruled</try>
+		<try>rupee</try>
+	</wordle>
+
+
 </wordles>

@@ -152,4 +152,12 @@
 		<try>anker</try>
 	</wordle>
 
+	<wordle date="2022-03-01" number="52" score="5" word="dovne">
+		<try>trans</try>
+		<try>klink</try>
+		<try>vågne</try>
+		<try>hovne</try>
+		<try>dovne</try>
+	</wordle>
+
 </wordles>
