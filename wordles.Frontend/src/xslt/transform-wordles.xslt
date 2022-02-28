@@ -4,7 +4,7 @@
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:str="http://exslt.org/strings"
 	xmlns:w="http://xmlns.greystate.dk/2022/wordles"
-	exclude-result-prefixes="str"
+	exclude-result-prefixes="w str"
 >
 
 	<!-- Import the `str:split()` function -->
