@@ -1,0 +1,27 @@
+.scorebar {
+	display: flex;
+	gap: 1ch;
+
+	dd {
+		min-inline-size: 16ch;
+	}
+
+	meter {
+		appearance: none;
+		inline-size: 100%;
+
+		&::-webkit-meter-bar {
+			background: #ccc;
+		}
+
+		&::-webkit-meter-optimum-value {
+			background: var(--bgcolor-wrong);
+		}
+	}
+
+	&.hilite {
+		meter::-webkit-meter-optimum-value {
+			background: var(--bgcolor-correct);
+		}
+	}
+}
