@@ -15,32 +15,58 @@
 	<xsl:variable name="debugging" select="false()" />
 
 	<xsl:template match="/">
-		<h1>My W[OØ]RDLE scores</h1>
-
-		<xsl:call-template name="statistics" />
+		<h1>My WORDLE scores</h1>
 
 		<xsl:apply-templates select="w:wordles" />
 
 	</xsl:template>
 
-	<xsl:template name="statistics">
+	<xsl:template name="global-stats">
 		<div>
 
 		</div>
 	</xsl:template>
 
+	<xsl:template name="local-stats">
+		<xsl:param name="wordles" select="/.." />
+		<xsl:variable name="average" select="floor(sum($wordles/@score) div count($wordles))" />
+
+<!-- 		<dl class="stats">
+			<dt>Average score</dt>
+			<dd><xsl:value-of select="$average" /></dd>
+		</dl> -->
+		<details>
+			<summary>Stats</summary>
+			<p>Number of guesses</p>
+			<xsl:call-template name="score-bars">
+				<xsl:with-param name="wordles" select="$wordles" />
+				<xsl:with-param name="score" select="1" />
+			</xsl:call-template>
+		</details>
+
+	</xsl:template>
 
 	<xsl:template match="/w:wordles">
+		<xsl:variable name="official-wordles" select="w:wordles[lang('en')]/w:wordle" />
+		<xsl:variable name="danish-wordles" select="w:wordles[lang('da')]/w:wordle" />
+
 		<h2>From the official Wordle</h2>
+		<xsl:call-template name="local-stats">
+			<xsl:with-param name="wordles" select="$official-wordles" />
+		</xsl:call-template>
 		<div lang="en">
-			<xsl:apply-templates select="w:wordles[lang('en')]/w:wordle">
+			<xsl:apply-templates select="$official-wordles">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
 
 		<h2>From wørdle.dk</h2>
+		<xsl:call-template name="local-stats" mode="local">
+			<xsl:with-param name="wordles" select="$danish-wordles" />
+		</xsl:call-template>
 		<div style="--bgcolor-ok: #f80" lang="da">
-			<xsl:apply-templates select="w:wordles[lang('da')]/w:wordle">
+
+			<xsl:apply-templates select="$danish-wordles">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
@@ -124,5 +150,48 @@
 		</div>
 	</xsl:template>
 
+	<xsl:template name="score-bars">
+		<xsl:param name="wordles" select="/.." />
+		<xsl:param name="score" select="1" />
+
+		<xsl:call-template name="score-bar">
+			<xsl:with-param name="wordles" select="$wordles" />
+			<xsl:with-param name="score" select="$score" />
+		</xsl:call-template>
+
+		<xsl:if test="$score &lt; 6">
+			<xsl:call-template name="score-bars">
+				<xsl:with-param name="wordles" select="$wordles" />
+				<xsl:with-param name="score" select="$score + 1" />
+			</xsl:call-template>
+		</xsl:if>
+	</xsl:template>
+
+	<xsl:template name="score-bar">
+		<xsl:param name="wordles" select="/.." />
+		<xsl:param name="score" select="1" />
+
+		<xsl:if test="$wordles">
+			<xsl:variable name="count" select="count($wordles[@score = $score])" />
+			<xsl:variable name="max-count">
+				<xsl:for-each select="$wordles">
+					<xsl:sort select="count($wordles[@score = current()/@score])" order="descending" />
+					<xsl:if test="position() = 1">
+						<xsl:value-of select="count($wordles[@score = current()/@score])" />
+					</xsl:if>
+				</xsl:for-each>
+			</xsl:variable>
+
+			<xsl:variable name="hilite" select="count($wordles[@score = $score]) = $max-count" />
+
+			<dl class="scorebar" data-hi="{$hilite}">
+				<xsl:if test="$hilite">
+					<xsl:attribute name="class">scorebar hilite</xsl:attribute>
+				</xsl:if>
+				<dt><xsl:value-of select="$score" /></dt>
+				<dd><meter min="0" max="{$max-count}" value="{$count}"><xsl:value-of select="$count" /></meter></dd>
+			</dl>
+		</xsl:if>
+	</xsl:template>
 
 </xsl:stylesheet>
