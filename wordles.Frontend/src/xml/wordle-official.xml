@@ -162,5 +162,9 @@
 		<try>rupee</try>
 	</wordle>
 
+	<wordle date="2022-03-02" number="256" score="2" word="nasty">
+		<try>phony</try>
+		<try>nasty</try>
+	</wordle>
 
 </wordles>
