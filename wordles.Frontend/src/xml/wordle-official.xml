@@ -167,4 +167,15 @@
 		<try>nasty</try>
 	</wordle>
 
+	<wordle date="2022-03-03" number="257" score="2" word="mourn">
+		<try>mouse</try>
+		<try>mourn</try>
+	</wordle>
+
+	<wordle date="2022-03-04" number="258" score="3" word="ahead">
+		<try>stick</try>
+		<try>dough</try>
+		<try>ahead</try>
+	</wordle>
+
 </wordles>

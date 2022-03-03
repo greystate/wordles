@@ -167,4 +167,19 @@
 		<try>ærlig</try>
 	</wordle>
 
+	<wordle date="2022-03-03" number="54" score="5" word="dille">
+		<try>musen</try>
+		<try>gribe</try>
+		<try>pille</try>
+		<try>ville</try>
+		<try>dille</try>
+	</wordle>
+
+	<wordle date="2022-03-04" number="55" score="4" word="gisne">
+		<try>stilk</try>
+		<try>issen</try>
+		<try>visne</try>
+		<try>gisne</try>
+	</wordle>
+
 </wordles>
