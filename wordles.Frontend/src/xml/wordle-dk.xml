@@ -182,4 +182,28 @@
 		<try>gisne</try>
 	</wordle>
 
+	<wordle date="2022-03-05" number="56" score="5" word="fiber">
+		<try>strøm</try>
+		<try>rådne</try>
+		<try>hæler</try>
+		<try>kager</try>
+		<try>fiber</try>
+	</wordle>
+
+	<wordle date="2022-03-06" number="57" score="4" word="arvæv">
+		<try>først</try>
+		<try>rimen</try>
+		<try>kravl</try>
+		<try>arvæv</try>
+	</wordle>
+
+	<wordle date="2022-03-07" number="58" score="6" word="dirke">
+		<try>store</try>
+		<try>rampe</try>
+		<try>krybe</try>
+		<try>virke</try>
+		<try>lirke</try>
+		<try>dirke</try>
+	</wordle>
+
 </wordles>

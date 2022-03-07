@@ -178,4 +178,28 @@
 		<try>ahead</try>
 	</wordle>
 
+	<wordle date="2022-03-05" number="259" score="5" word="brine">
+		<try>power</try>
+		<try>tread</try>
+		<try>price</try>
+		<try>grime</try>
+		<try>brine</try>
+	</wordle>
+
+	<wordle date="2022-03-06" number="260" score="5" word="cloth">
+		<try>first</try>
+		<try>tuple</try>
+		<try>malty</try>
+		<try>lotto</try>
+		<try>cloth</try>
+	</wordle>
+
+	<wordle date="2022-03-07" number="261" score="5" word="hoard">
+		<try>great</try>
+		<try>ramps</try>
+		<try>award</try>
+		<try>board</try>
+		<try>hoard</try>
+	</wordle>
+
 </wordles>
