@@ -206,4 +206,40 @@
 		<try>dirke</try>
 	</wordle>
 
+	<wordle date="2022-03-08" number="59" score="5" word="gebis">
+		<try>afsæt</try>
+		<try>skøde</try>
+		<try>hobes</try>
+		<try>rebus</try>
+		<try>gebis</try>
+	</wordle>
+
+	<wordle date="2022-03-09" number="60" score="5" word="hejre">
+		<try>musik</try>
+		<try>vokal</try>
+		<try>røgen</try>
+		<try>hyrde</try>
+		<try>hejre</try>
+	</wordle>
+
+	<wordle date="2022-03-10" number="61" score="4" word="aroma">
+		<try>spore</try>
+		<try>trold</try>
+		<try>ironi</try>
+		<try>aroma</try>
+	</wordle>
+
+	<wordle date="2022-03-11" number="62" score="4" word="fakta">
+		<try>toner</try>
+		<try>stødt</try>
+		<try>batik</try>
+		<try>fakta</try>
+	</wordle>
+
+	<wordle date="2022-03-12" number="63" score="3" word="habit">
+		<try>lyset</try>
+		<try>rabat</try>
+		<try>habit</try>
+	</wordle>
+
 </wordles>

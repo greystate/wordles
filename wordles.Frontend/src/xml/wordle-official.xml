@@ -202,4 +202,44 @@
 		<try>hoard</try>
 	</wordle>
 
+	<wordle date="2022-03-08" number="262" score="4" word="sweet">
+		<try>space</try>
+		<try>steel</try>
+		<try>sheet</try>
+		<try>sweet</try>
+	</wordle>
+
+	<wordle date="2022-03-09" number="263" score="4" word="month">
+		<try>purse</try>
+		<try>gecko</try>
+		<try>loath</try>
+		<try>month</try>
+	</wordle>
+
+	<wordle date="2022-03-10" number="264" score="4" word="lapse">
+		<try>trail</try>
+		<try>laugh</try>
+		<try>laden</try>
+		<try>lapse</try>
+	</wordle>
+
+	<wordle date="2022-03-11" number="265" score="6" word="watch">
+		<try>train</try>
+		<try>adept</try>
+		<try>bloat</try>
+		<try>water</try>
+		<try>watts</try>
+		<try>watch</try>
+	</wordle>
+
+	<wordle date="2022-03-12" number="266" score="5" word="today">
+		<try>light</try>
+		<try>terse</try>
+		<try>tonal</try>
+		<try>topaz</try>
+		<try>today</try>
+	</wordle>
+
+
+
 </wordles>
