@@ -242,4 +242,24 @@
 		<try>habit</try>
 	</wordle>
 
+	<wordle date="2022-03-13" number="64" score="4" word="atlas">
+		<try>point</try>
+		<try>tyske</try>
+		<try>stald</try>
+		<try>atlas</try>
+	</wordle>
+
+	<wordle date="2022-03-14" number="65" score="2" word="drift">
+		<try>bedst</try>
+		<try>drift</try>
+	</wordle>
+
+	<wordle date="2022-03-15" number="66" score="5" word="hoven">
+		<try>kørte</try>
+		<try>huske</try>
+		<try>henna</try>
+		<try>hoben</try>
+		<try>hoven</try>
+	</wordle>
+
 </wordles>

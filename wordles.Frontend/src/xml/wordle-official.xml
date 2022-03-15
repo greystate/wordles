@@ -240,6 +240,27 @@
 		<try>today</try>
 	</wordle>
 
+	<wordle date="2022-03-13" number="267" score="5" word="focus">
+		<try>point</try>
+		<try>solar</try>
+		<try>jokes</try>
+		<try>bogus</try>
+		<try>focus</try>
+	</wordle>
 
+	<wordle date="2022-03-14" number="268" score="5" word="smelt">
+		<try>first</try>
+		<try>sheet</try>
+		<try>sweat</try>
+		<try>spent</try>
+		<try>smelt</try>
+	</wordle>
+
+	<wordle date="2022-03-15" number="269" score="4" word="tease">
+		<try>begin</try>
+		<try>reach</try>
+		<try>weary</try>
+		<try>tease</try>
+	</wordle>
 
 </wordles>
