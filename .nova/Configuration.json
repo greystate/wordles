@@ -1,5 +1,8 @@
 {
   "codekit.folder" : "wordles.Frontend",
+  "index.ignored_file_patterns" : [
+    "build"
+  ],
   "workspace.art_style" : 0,
   "workspace.color" : 3,
   "workspace.name" : "Wordles"
