@@ -262,4 +262,11 @@
 		<try>hoven</try>
 	</wordle>
 
+	<wordle date="2022-03-16" number="67" score="4" word="favør">
+		<try>udsat</try>
+		<try>angår</try>
+		<try>laver</try>
+		<try>favør</try>
+	</wordle>
+
 </wordles>

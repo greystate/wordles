@@ -263,4 +263,11 @@
 		<try>tease</try>
 	</wordle>
 
+	<wordle date="2022-03-16" number="270" score="4" word="cater">
+		<try>apart</try>
+		<try>track</try>
+		<try>crate</try>
+		<try>cater</try>
+	</wordle>
+
 </wordles>
