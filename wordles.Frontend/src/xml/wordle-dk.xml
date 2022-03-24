@@ -269,4 +269,68 @@
 		<try>favør</try>
 	</wordle>
 
+	<wordle date="2022-03-17" number="68" score="4" word="hjælp">
+		<try>kabel</try>
+		<try>login</try>
+		<try>flydt</try>
+		<try>hjælp</try>
+	</wordle>
+
+	<wordle date="2022-03-18" number="69" score="4" word="gense">
+		<try>lyser</try>
+		<try>bamse</try>
+		<try>fikse</try>
+		<try>pønse</try>
+		<try>gense</try>
+	</wordle>
+
+	<wordle date="2022-03-19" number="70" score="5" word="hæfte">
+		<try>prima</try>
+		<try>føler</try>
+		<try>aften</try>
+		<try>skæft</try>
+		<try>hæfte</try>
+	</wordle>
+
+	<wordle date="2022-03-20" number="71" score="0" word="emner">
+		<try>spark</try>
+		<try>ryger</try>
+		<try>toner</try>
+		<try>øjner</try>
+		<try>luner</try>
+		<try>miner</try>
+	</wordle>
+
+	<wordle date="2022-03-21" number="72" score="0" word="gylle">
+		<try>liste</try>
+		<try>alene</try>
+		<try>fumle</try>
+		<try>dvæle</try>
+		<try>bølle</try>
+		<try>rolle</try>
+	</wordle>
+
+	<wordle date="2022-03-22" number="73" score="4" word="afkom">
+		<try>grund</try>
+		<try>klase</try>
+		<try>fakta</try>
+		<try>afkom</try>
+	</wordle>
+
+	<wordle date="2022-03-23" number="74" score="5" word="fokus">
+		<try>aktie</try>
+		<try>stærk</try>
+		<try>klods</try>
+		<try>onyks</try>
+		<try>fokus</try>
+	</wordle>
+
+	<wordle date="2022-03-24" number="75" score="5" word="gyvel">
+		<try>skærm</try>
+		<try>flyde</try>
+		<try>typen</try>
+		<try>hybel</try>
+		<try>gyvel</try>
+	</wordle>
+
 </wordles>

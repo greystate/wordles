@@ -270,4 +270,66 @@
 		<try>cater</try>
 	</wordle>
 
+	<wordle date="2022-03-17" number="271" score="4" word="movie">
+		<try>cable</try>
+		<try>store</try>
+		<try>vogue</try>
+		<try>movie</try>
+	</wordle>
+
+	<wordle date="2022-03-18" number="272" score="4" word="saute">
+		<try>phone</try>
+		<try>trace</try>
+		<try>state</try>
+		<try>saute</try>
+	</wordle>
+
+	<wordle date="2022-03-19" number="273" score="5" word="allow">
+		<try>prime</try>
+		<try>facts</try>
+		<try>gland</try>
+		<try>aloha</try>
+		<try>allow</try>
+	</wordle>
+
+	<wordle date="2022-03-20" number="274" score="5" word="renew">
+		<try>itchy</try>
+		<try>unset</try>
+		<try>novel</try>
+		<try>ramen</try>
+		<try>renew</try>
+	</wordle>
+
+	<wordle date="2022-03-21" number="275" score="4" word="their">
+		<try>grace</try>
+		<try>wired</try>
+		<try>remix</try>
+		<try>their</try>
+	</wordle>
+
+	<wordle date="2022-03-22" number="276" score="6" word="slosh">
+		<try>ruble</try>
+		<try>slant</try>
+		<try>slick</try>
+		<try>slyly</try>
+		<try>slows</try>
+		<try>slosh</try>
+	</wordle>
+
+	<wordle date="2022-03-23" number="277" score="5" word="purge">
+		<try>chord</try>
+		<try>wiser</try>
+		<try>realm</try>
+		<try>greet</try>
+		<try>purge</try>
+	</wordle>
+
+	<wordle date="2022-03-24" number="278" score="5" word="chest">
+		<try>cubed</try>
+		<try>crepe</try>
+		<try>check</try>
+		<try>cheat</try>
+		<try>chest</try>
+	</wordle>
+
 </wordles>
