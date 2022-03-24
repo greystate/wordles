@@ -4,6 +4,6 @@
     "build"
   ],
   "workspace.art_style" : 0,
-  "workspace.color" : 3,
+  "workspace.color" : 13,
   "workspace.name" : "Wordles"
 }
