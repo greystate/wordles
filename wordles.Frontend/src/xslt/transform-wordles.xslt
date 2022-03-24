@@ -175,7 +175,7 @@
 			<xsl:variable name="count" select="count($wordles[@score = $score])" />
 			<xsl:variable name="max-count">
 				<xsl:for-each select="$wordles">
-					<xsl:sort select="count($wordles[@score = current()/@score])" order="descending" />
+					<xsl:sort select="count($wordles[@score = @score])" order="descending" />
 					<xsl:if test="position() = 1">
 						<xsl:value-of select="count($wordles[@score = current()/@score])" />
 					</xsl:if>
