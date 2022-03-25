@@ -333,4 +333,12 @@
 		<try>gyvel</try>
 	</wordle>
 
+	<wordle date="2022-03-25" number="76" score="5" word="hoste">
+		<try>synge</try>
+		<try>viske</try>
+		<try>ødsle</try>
+		<try>haspe</try>
+		<try>hoste</try>
+	</wordle>
+
 </wordles>

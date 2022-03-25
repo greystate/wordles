@@ -332,4 +332,10 @@
 		<try>chest</try>
 	</wordle>
 
+	<wordle date="2022-03-25" number="279" score="3" word="depot">
+		<try>chant</try>
+		<try>slept</try>
+		<try>depot</try>
+	</wordle>
+
 </wordles>
