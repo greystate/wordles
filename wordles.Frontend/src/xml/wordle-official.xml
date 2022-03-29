@@ -338,4 +338,47 @@
 		<try>depot</try>
 	</wordle>
 
+	<wordle date="2022-03-26" number="280" score="6" word="epoxy">
+		<try>sting</try>
+		<try>razor</try>
+		<try>hoped</try>
+		<try>elope</try>
+		<try>epoch</try>
+		<try>epoxy</try>
+	</wordle>
+
+	<wordle date="2022-03-27" number="281" score="5" word="nymph">
+		<try>crane</try>
+		<try>final</try>
+		<try>nurse</try>
+		<try>nooky</try>
+		<try>nymph</try>
+	</wordle>
+
+	<wordle date="2022-03-28" number="282" score="6" word="found">
+		<try>panic</try>
+		<try>nosey</try>
+		<try>hound</try>
+		<try>mound</try>
+		<try>wound</try>
+		<try>found</try>
+	</wordle>
+
+	<wordle date="2022-03-29" number="283" score="5" word="shall">
+		<try>flute</try>
+		<try>lying</try>
+		<try>color</try>
+		<try>small</try>
+		<try>shall</try>
+	</wordle>
+
+	<wordle date="2022-03-30" number="284" score="5" word="stove">
+		<try>swear</try>
+		<try>scene</try>
+		<try>style</try>
+		<try>stoke</try>
+		<try>stove</try>
+	</wordle>
+
+
 </wordles>

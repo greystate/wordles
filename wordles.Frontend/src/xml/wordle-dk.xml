@@ -341,4 +341,40 @@
 		<try>hoste</try>
 	</wordle>
 
+	<wordle date="2022-03-26" number="77" score="4" word="angre">
+		<try>epoke</try>
+		<try>lange</try>
+		<try>gnave</try>
+		<try>angre</try>
+	</wordle>
+
+	<wordle date="2022-03-27" number="78" score="3" word="drive">
+		<try>svane</try>
+		<try>virke</try>
+		<try>drive</try>
+	</wordle>
+
+	<wordle date="2022-03-28" number="79" score="5" word="fadøl">
+		<try>panik</try>
+		<try>laste</try>
+		<try>galla</try>
+		<try>havål</try>
+		<try>fadøl</try>
+	</wordle>
+
+	<wordle date="2022-03-29" number="80" score="5" word="albue">
+		<try>farve</try>
+		<try>spade</try>
+		<try>aktie</try>
+		<try>alene</try>
+		<try>albue</try>
+	</wordle>
+
+	<wordle date="2022-03-30" number="81" score="4" word="forår">
+		<try>bande</try>
+		<try>sport</try>
+		<try>forgå</try>
+		<try>forår</try>
+	</wordle>
+
 </wordles>
