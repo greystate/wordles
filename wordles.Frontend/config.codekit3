@@ -662,6 +662,14 @@
       "sI" : 0,
       "sU" : 0
     },
+    "\/src\/xml\/catalog.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/catalog.xml",
+      "oF" : 0
+    },
     "\/src\/xml\/wordle-dk.xml" : {
       "cB" : 0,
       "ft" : 8192,

@@ -3,6 +3,7 @@
   "index.ignored_file_patterns" : [
     "build"
   ],
+  "xml.catalogFolder": "wordles.Frontend/src/xml",
   "workspace.art_style" : 0,
   "workspace.color" : 13,
   "workspace.name" : "Wordles"

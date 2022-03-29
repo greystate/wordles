@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+	<uri name="http://xmlns.greystate.dk/2022/wordles" uri="http://xmlns.greystate.dk/2022/wordles/wordles.xsd" />
+</catalog>
