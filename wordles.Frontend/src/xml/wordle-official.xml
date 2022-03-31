@@ -380,5 +380,11 @@
 		<try>stove</try>
 	</wordle>
 
+	<wordle date="2022-03-31" number="285" score="4" word="lowly">
+		<try>trace</try>
+		<try>login</try>
+		<try>lobby</try>
+		<try>lowly</try>
+	</wordle>
 
 </wordles>

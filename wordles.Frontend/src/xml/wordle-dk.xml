@@ -377,4 +377,13 @@
 		<try>forår</try>
 	</wordle>
 
+	<wordle date="2022-03-31" number="82" score="6" word="græde">
+		<try>danse</try>
+		<try>flyde</try>
+		<try>runde</try>
+		<try>vride</try>
+		<try>træde</try>
+		<try>græde</try>
+	</wordle>
+
 </wordles>
