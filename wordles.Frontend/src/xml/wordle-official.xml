@@ -387,4 +387,18 @@
 		<try>lowly</try>
 	</wordle>
 
+	<wordle date="2022-04-01" number="286" score="5" word="snout">
+		<try>peach</try>
+		<try>trout</try>
+		<try>about</try>
+		<try>stout</try>
+		<try>snout</try>
+	</wordle>
+
+	<wordle date="2022-04-02" number="287" score="3" word="trope">
+		<try>phone</try>
+		<try>slope</try>
+		<try>trope</try>
+	</wordle>
+
 </wordles>

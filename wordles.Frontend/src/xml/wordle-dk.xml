@@ -386,4 +386,19 @@
 		<try>græde</try>
 	</wordle>
 
+	<wordle date="2022-04-01" number="83" score="5" word="hygge">
+		<try>ordne</try>
+		<try>kimse</try>
+		<try>fægte</try>
+		<try>hagle</try>
+		<try>hygge</try>
+	</wordle>
+
+	<wordle date="2022-04-02" number="84" score="4" word="ironi">
+		<try>lampe</try>
+		<try>sport</try>
+		<try>groft</try>
+		<try>ironi</try>
+	</wordle>
+
 </wordles>
