@@ -1,10 +1,11 @@
 {
   "codekit.folder" : "wordles.Frontend",
+  "com.CodeKitApp.Nova.codekitFolder" : "\/Users\/chriz\/Development\/src\/wordles\/wordles.Frontend",
   "index.ignored_file_patterns" : [
     "build"
   ],
-  "xml.catalogFolder": "wordles.Frontend/src/xml",
   "workspace.art_style" : 0,
   "workspace.color" : 13,
-  "workspace.name" : "Wordles"
+  "workspace.name" : "Wordles",
+  "xml.catalogFolder" : "wordles.Frontend\/src\/xml"
 }
