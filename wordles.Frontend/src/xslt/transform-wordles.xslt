@@ -7,7 +7,10 @@
 	exclude-result-prefixes="w str"
 >
 
-	<!-- Import the `str:split()` function -->
+	<!--
+	Import an XSLT implementation of the the `str:split()` function,
+	as the one in xsltproc seems to bail on Danish the characters
+	-->
 	<xsl:import href="str-split.xslt" />
 
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
