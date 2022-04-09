@@ -11,8 +11,8 @@ don't want to accidentally be told the answer to any of these.
 
 ## Contents
 
-There are two data files - one for the official [Wordle][WORDLE] ([wordle-official.xml](wordles.Frontend/xml/wordle-official.xml)) and one for the
-Danish rip-off [Wørdle][WØRDLE] ([wordle-dk.xml](wordles.Frontend/xml/wordle-dk.xml)).
+There are two data files - one for the official [Wordle][WORDLE] ([wordle-official.xml](wordles.Frontend/src/xml/wordle-official.xml)) and one for the
+Danish rip-off [Wørdle][WØRDLE] ([wordle-dk.xml](wordles.Frontend/src/xml/wordle-dk.xml)).
 
 
 
