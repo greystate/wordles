@@ -401,4 +401,50 @@
 		<try>ironi</try>
 	</wordle>
 
+	<wordle date="2022-04-04" number="85" score="5" word="hvæse">
+		<try>pinde</try>
+		<try>raske</try>
+		<try>søgte</try>
+		<try>blæse</try>
+		<try>hvæse</try>
+	</wordle>
+
+	<wordle date="2022-04-05" number="86" score="5" word="gnist">
+		<try>plant</try>
+		<try>vendt</try>
+		<try>snylt</try>
+		<try>knust</try>
+		<try>gnist</try>
+	</wordle>
+
+	<wordle date="2022-04-06" number="87" score="0" word="flåde">
+		<try>komma</try>
+		<try>grelt</try>
+		<try>luven</try>
+		<try>elske</try>
+		<try>flyde</try>
+		<try>fløde</try>
+	</wordle>
+
+	<wordle date="2022-04-07" number="88" score="3" word="bilag">
+		<try>skilt</try>
+		<try>lider</try>
+		<try>bilag</try>
+	</wordle>
+
+	<wordle date="2022-04-08" number="89" score="4" word="vegne">
+		<try>kabel</try>
+		<try>sperm</try>
+		<try>hente</try>
+		<try>vegne</try>
+	</wordle>
+
+	<wordle date="2022-04-09" number="90" score="5" word="ævler">
+		<try>træls</try>
+		<try>lærer</try>
+		<try>kæler</try>
+		<try>æbler</try>
+		<try>ævler</try>
+	</wordle>
+
 </wordles>

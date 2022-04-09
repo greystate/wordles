@@ -401,4 +401,49 @@
 		<try>trope</try>
 	</wordle>
 
+	<wordle date="2022-04-03" number="288" score="5" word="fewer">
+		<try>hoard</try>
+		<try>risen</try>
+		<try>cruel</try>
+		<try>fever</try>
+		<try>fewer</try>
+	</wordle>
+
+	<wordle date="2022-04-04" number="289" score="4" word="shawl">
+		<try>rocks</try>
+		<try>stale</try>
+		<try>slain</try>
+		<try>shawl</try>
+	</wordle>
+
+	<wordle date="2022-04-05" number="290" score="4" word="natal">
+		<try>bound</try>
+		<try>night</try>
+		<try>nests</try>
+		<try>natal</try>
+	</wordle>
+
+	<wordle date="2022-04-06" number="291" score="3" word="comma">
+		<try>chasm</try>
+		<try>campy</try>
+		<try>comma</try>
+	</wordle>
+
+	<wordle date="2022-04-07" number="292" score="3" word="foray">
+		<try>youth</try>
+		<try>royal</try>
+		<try>foray</try>
+	</wordle>
+
+	<wordle date="2022-04-08" number="293" score="3" word="scare">
+		<try>cable</try>
+		<try>trace</try>
+		<try>scare</try>
+	</wordle>
+
+	<wordle date="2022-04-09" number="294" score="2" word="stair">
+		<try>stain</try>
+		<try>stair</try>
+	</wordle>
+
 </wordles>
