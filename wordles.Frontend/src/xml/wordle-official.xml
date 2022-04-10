@@ -446,4 +446,10 @@
 		<try>stair</try>
 	</wordle>
 
+	<wordle date="2022-04-10" number="295" score="3" word="black">
+		<try>place</try>
+		<try>slack</try>
+		<try>black</try>
+	</wordle>
+
 </wordles>

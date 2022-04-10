@@ -447,4 +447,12 @@
 		<try>ævler</try>
 	</wordle>
 
+	<wordle date="2022-04-10" number="91" score="5" word="hylde">
+		<try>sendt</try>
+		<try>lagde</try>
+		<try>ilede</try>
+		<try>holde</try>
+		<try>hylde</try>
+	</wordle>
+
 </wordles>
