@@ -9,9 +9,11 @@
 
 	<!--
 	Import an XSLT implementation of the the `str:split()` function,
-	as the one in xsltproc seems to bail on Danish the characters
+	as the one in libxslt seems to bail on Danish the characters.
 	-->
 	<xsl:import href="str-split.xslt" />
+
+	<xsl:key name="wordles-by-score" match="w:wordle" use="@score" />
 
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
@@ -173,14 +175,18 @@
 	<xsl:template name="score-bar">
 		<xsl:param name="wordles" select="/.." />
 		<xsl:param name="score" select="1" />
+		<xsl:variable name="lang" select="$wordles[1]/ancestor::w:wordles[1]/@xml:lang" />
 
 		<xsl:if test="$wordles">
-			<xsl:variable name="count" select="count($wordles[@score = $score])" />
+			<!-- Get the number of wordles solved in `$score` attempts -->
+			<xsl:variable name="count" select="count(key('wordles-by-score', $score)[lang($lang)])" />
+			<!-- Now find the highest number of attempts -->
 			<xsl:variable name="max-count">
 				<xsl:for-each select="$wordles">
-					<xsl:sort select="count($wordles[@score = @score])" order="descending" />
+					<xsl:sort select="count(key('wordles-by-score', ./@score)[lang($lang)])" data-type="number" order="descending" />
 					<xsl:if test="position() = 1">
-						<xsl:value-of select="count($wordles[@score = current()/@score])" />
+						<xsl:variable name="max-score" select="@score" />
+						<xsl:value-of select="count($wordles[@score = $max-score])" />
 					</xsl:if>
 				</xsl:for-each>
 			</xsl:variable>
