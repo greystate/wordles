@@ -186,10 +186,17 @@
 			</xsl:variable>
 
 			<xsl:variable name="hilite" select="count($wordles[@score = $score]) = $max-count" />
+			<xsl:variable name="has-hi-value" select="$count &gt;= $max-count" />
 
 			<dl class="scorebar" data-hi="{$hilite}">
+				<xsl:if test="$has-hi-value">
+					<xsl:attribute name="class">scorebar hi-value</xsl:attribute>
+				</xsl:if>
 				<xsl:if test="$hilite">
-					<xsl:attribute name="class">scorebar hilite</xsl:attribute>
+					<xsl:attribute name="class">
+						<xsl:text>scorebar hilite</xsl:text>
+						<xsl:if test="$has-hi-value"> hi-value</xsl:if>
+					</xsl:attribute>
 				</xsl:if>
 				<dt><xsl:value-of select="$score" /></dt>
 				<dd><meter min="0" max="{$max-count}" value="{$count}"><xsl:value-of select="$count" /></meter></dd>

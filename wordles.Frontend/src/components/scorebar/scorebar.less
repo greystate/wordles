@@ -1,6 +1,8 @@
 .scorebar {
 	display: flex;
 	gap: 1ch;
+	position: relative;
+	inline-size: max-content;
 
 	dd {
 		min-inline-size: 16ch;
@@ -17,11 +19,25 @@
 		&::-webkit-meter-optimum-value {
 			background: var(--bgcolor-wrong);
 		}
+
+		&::after {
+			content: attr(value);
+			display: inline-block;
+			position: absolute;
+			top: 0;
+			right: 0;
+			padding: 2px 4px;
+			font-size: smaller;
+		}
 	}
 
 	&.hilite {
 		meter::-webkit-meter-optimum-value {
 			background: var(--bgcolor-correct);
 		}
+	}
+
+	&.hi-value {
+		meter::after { color: white; }
 	}
 }
