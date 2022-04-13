@@ -452,4 +452,23 @@
 		<try>black</try>
 	</wordle>
 
+	<wordle date="2022-04-11" number="296" score="4" word="squad">
+		<try>hedge</try>
+		<try>drain</try>
+		<try>adult</try>
+		<try>squad</try>
+	</wordle>
+
+	<wordle date="2022-04-12" number="297" score="3" word="royal">
+		<try>youth</try>
+		<try>worry</try>
+		<try>royal</try>
+	</wordle>
+
+	<wordle date="2022-04-13" number="298" score="3" word="chunk">
+		<try>plush</try>
+		<try>thumb</try>
+		<try>chunk</try>
+	</wordle>
+
 </wordles>

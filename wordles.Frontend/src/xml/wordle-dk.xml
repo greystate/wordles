@@ -455,4 +455,22 @@
 		<try>hylde</try>
 	</wordle>
 
+	<wordle date="2022-04-11" number="92" score="4" word="gnave">
+		<try>skøre</try>
+		<try>tavle</try>
+		<try>agave</try>
+		<try>gnave</try>
+	</wordle>
+
+	<wordle date="2022-04-12" number="93" score="2" word="faste">
+		<try>liste</try>
+		<try>faste</try>
+	</wordle>
+
+	<wordle date="2022-04-13" number="94" score="3" word="vinge">
+		<try>udtag</try>
+		<try>grine</try>
+		<try>vinge</try>
+	</wordle>
+
 </wordles>
