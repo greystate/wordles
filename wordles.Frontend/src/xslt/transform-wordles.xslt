@@ -66,7 +66,7 @@
 		</div>
 
 		<h2>From wørdle.dk</h2>
-		<xsl:call-template name="local-stats" mode="local">
+		<xsl:call-template name="local-stats">
 			<xsl:with-param name="wordles" select="$danish-wordles" />
 		</xsl:call-template>
 		<div style="--bgcolor-ok: #f80" lang="da">
@@ -120,15 +120,39 @@
 						<xsl:when test="substring($solution, $index, 1) = .">
 							<xsl:attribute name="class">correct tile</xsl:attribute>
 						</xsl:when>
-						<!--
-						The letter is in the solution but not in the correct position;
-						AND the guess has the same number of copies of this letter
-						-->
-						<xsl:when test="contains($solution, .) and $diff &gt;= 0">
-							<xsl:attribute name="class">ok tile</xsl:attribute>
+
+						<!-- The letter is in the solution though... -->
+						<xsl:when test="contains($solution, .)">
+
+							<xsl:choose>
+								<!-- Same number of copies of the letter -->
+								<xsl:when test="$diff = 0">
+									<xsl:attribute name="class">ok tile</xsl:attribute>
+								</xsl:when>
+
+								<!-- Guess has one more copy of this letter than the solution -->
+								<xsl:when test="$diff = -1">
+									<xsl:variable name="pos1" select="string-length(substring-before($guess, .)) + 1" />
+									<xsl:variable name="pos2" select="string-length(substring-before(substring($guess, $pos1 + 1), .)) + 1 + $pos1" />
+
+									<!-- This is the first, though -->
+									<xsl:if test="$index = $pos1">
+										<!-- If the other one isn't 'correct', this one should be marked 'ok' -->
+										<xsl:if test="not(substring($solution, $pos2, 1) = .)">
+											<xsl:attribute name="class">ok tile</xsl:attribute>
+										</xsl:if>
+									</xsl:if>
+								</xsl:when>
+
+								<!-- Solution has more copies of this letter than the guess -->
+								<!-- <xsl:when test="$diff &gt; 0">
+									<xsl:attribute name="class">ok tile probably</xsl:attribute>
+								</xsl:when> -->
+							</xsl:choose>
 						</xsl:when>
+
 					</xsl:choose>
-					<xsl:value-of select="current()" />
+					<xsl:value-of select="." />
 				</span>
 			</xsl:for-each>
 		</div>
