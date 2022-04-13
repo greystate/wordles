@@ -702,12 +702,36 @@
       "oAP" : "\/build\/xslt\/str-split.xslt",
       "oF" : 0
     },
+    "\/src\/xslt\/transform-wordles-test.xspec" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xslt\/transform-wordles-test.xspec",
+      "oF" : 0
+    },
     "\/src\/xslt\/transform-wordles.xslt" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/build\/xslt\/transform-wordles.xslt",
+      "oF" : 0
+    },
+    "\/src\/xslt\/xspec\/transform-wordles-test-result.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xslt\/xspec\/transform-wordles-test-result.xml",
+      "oF" : 0
+    },
+    "\/src\/xslt\/xspec\/transform-wordles-test.xsl" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xslt\/xspec\/transform-wordles-test.xsl",
       "oF" : 0
     },
     "\/test" : {
