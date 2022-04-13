@@ -1,0 +1,12 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "if [[ $1 =~ \\.xspec ]]; then\n\txspec.sh $1\nelse\n\techo \"You must run the XSpec file...\"\n\texit 1\nfi"
+    }
+  },
+  "arguments" : [
+    "${File}"
+  ],
+  "openLogOnRun" : "fail"
+}
