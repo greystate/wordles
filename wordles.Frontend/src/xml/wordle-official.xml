@@ -471,4 +471,10 @@
 		<try>chunk</try>
 	</wordle>
 
+	<wordle date="2022-04-14" number="299" score="3" word="mince">
+		<try>scope</try>
+		<try>crave</try>
+		<try>mince</try>
+	</wordle>
+
 </wordles>

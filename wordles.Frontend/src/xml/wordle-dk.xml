@@ -473,4 +473,11 @@
 		<try>vinge</try>
 	</wordle>
 
+	<wordle date="2022-04-14" number="95" score="4" word="bijob">
+		<try>skræl</try>
+		<try>bunde</try>
+		<try>bagpå</try>
+		<try>bijob</try>
+	</wordle>
+
 </wordles>
