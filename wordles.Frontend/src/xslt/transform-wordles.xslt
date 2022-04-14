@@ -7,12 +7,6 @@
 	exclude-result-prefixes="w str"
 >
 
-	<!--
-	Import an XSLT implementation of the the `str:split()` function,
-	as the one in libxslt seems to bail on Danish the characters.
-	-->
-	<xsl:import href="str-split.xslt" />
-
 	<xsl:key name="wordles-by-score" match="w:wordle" use="@score" />
 
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
@@ -86,7 +80,7 @@
 			<xsl:if test="count(w:try) = 6 and @score = 0">
 				<xsl:call-template name="solution">
 					<xsl:with-param name="solution" select="@word" />
-					<xsl:with-param name="letters" select="str:split(@word, '')" />
+					<xsl:with-param name="letters" select="str:tokenize(@word, '')" />
 					<xsl:with-param name="control-row" select="true()" />
 				</xsl:call-template>
 			</xsl:if>
@@ -97,7 +91,7 @@
 	</xsl:template>
 
 	<xsl:template match="w:try" name="solution">
-		<xsl:param name="letters" select="str:split(., '')" />
+		<xsl:param name="letters" select="str:tokenize(., '')" />
 		<xsl:param name="control-row" select="false()" />
 		<xsl:param name="solution" select="../@word" />
 
