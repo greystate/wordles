@@ -119,8 +119,10 @@
 						<xsl:when test="contains($solution, .)">
 
 							<xsl:choose>
-								<!-- Same number of copies of the letter -->
-								<xsl:when test="$diff = 0">
+								<!--
+								Same number of copies of the letter;
+								OR the solution has more copies of this letter than the guess -->
+								<xsl:when test="$diff &gt;= 0">
 									<xsl:attribute name="class">ok tile</xsl:attribute>
 								</xsl:when>
 
@@ -138,10 +140,10 @@
 									</xsl:if>
 								</xsl:when>
 
-								<!-- Solution has more copies of this letter than the guess -->
-								<!-- <xsl:when test="$diff &gt; 0">
-									<xsl:attribute name="class">ok tile probably</xsl:attribute>
-								</xsl:when> -->
+								<!-- We didn't anticipate this scenario! -->
+								<xsl:otherwise>
+									<xsl:attribute name="class">tile unknown</xsl:attribute>
+								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
 
