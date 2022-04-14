@@ -8,11 +8,7 @@
 	<x:scenario label="processing a try matching the solution">
 		<x:context>
 			<x:param name="letters">
-				<token>g</token>
-				<token>r</token>
-				<token>e</token>
-				<token>e</token>
-				<token>t</token>
+				<token>g</token><token>r</token><token>e</token><token>e</token><token>t</token>
 			</x:param>
 			<x:param name="solution">greet</x:param>
 			<w:try>greet</w:try>
@@ -28,14 +24,29 @@
 		</x:expect>
 	</x:scenario>
 
+	<x:scenario label="processing a try with no matching letters">
+		<x:context>
+			<x:param name="letters">
+				<token>s</token><token>o</token><token>r</token><token>r</token><token>y</token>
+			</x:param>
+			<x:param name="solution">tweet</x:param>
+			<w:try>sorry</w:try>
+		</x:context>
+		<x:expect label="it should generate all 'wrong' classes">
+			<div class="guess">
+				<span class="wrong tile">s</span>
+				<span class="wrong tile">o</span>
+				<span class="wrong tile">r</span>
+				<span class="wrong tile">r</span>
+				<span class="wrong tile">y</span>
+			</div>
+		</x:expect>
+	</x:scenario>
+
 	<x:scenario label="processing a try of 'greet' when the solution is 'purge'">
 		<x:context>
 			<x:param name="letters">
-				<token>g</token>
-				<token>r</token>
-				<token>e</token>
-				<token>e</token>
-				<token>t</token>
+				<token>g</token><token>r</token><token>e</token><token>e</token><token>t</token>
 			</x:param>
 			<x:param name="solution">purge</x:param>
 			<w:try>greet</w:try>
@@ -52,14 +63,30 @@
 		</x:expect>
 	</x:scenario>
 
+	<x:scenario label="processing a try of 'color' when the solution is 'shall'">
+		<x:context>
+			<x:param name="letters">
+				<token>c</token><token>o</token><token>l</token><token>o</token><token>r</token>
+			</x:param>
+			<x:param name="solution">shall</x:param>
+			<w:try>color</w:try>
+		</x:context>
+
+		<x:expect label="it should generate an 'ok' class for the 'l'">
+			<div class="guess">
+				<span class="wrong tile">c</span>
+				<span class="wrong tile">o</span>
+				<span class="ok tile">l</span>
+				<span class="wrong tile">o</span>
+				<span class="wrong tile">r</span>
+			</div>
+		</x:expect>
+	</x:scenario>
+
 	<x:scenario label="processing a try of 'lever' when the solution is 'ulcer'">
 		<x:context>
 			<x:param name="letters">
-				<token>l</token>
-				<token>e</token>
-				<token>v</token>
-				<token>e</token>
-				<token>r</token>
+				<token>l</token><token>e</token><token>v</token><token>e</token><token>r</token>
 			</x:param>
 			<x:param name="solution">ulcer</x:param>
 			<w:try>lever</w:try>
@@ -79,11 +106,7 @@
 	<x:scenario label="processing a try of 'ruler' when the solution is 'ulcer'">
 		<x:context>
 			<x:param name="letters">
-				<token>r</token>
-				<token>u</token>
-				<token>l</token>
-				<token>e</token>
-				<token>r</token>
+				<token>r</token><token>u</token><token>l</token><token>e</token><token>r</token>
 			</x:param>
 			<x:param name="solution">ulcer</x:param>
 			<w:try>ruler</w:try>
