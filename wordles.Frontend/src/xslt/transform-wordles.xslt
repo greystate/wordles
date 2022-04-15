@@ -13,6 +13,10 @@
 
 	<xsl:variable name="debugging" select="false()" />
 
+	<xsl:attribute-set name="identification">
+		<xsl:attribute name="id"><xsl:value-of select="concat(ancestor::w:wordles/@xml:lang, @number)" /></xsl:attribute>
+	</xsl:attribute-set>
+
 	<xsl:template match="/">
 		<h1>My WORDLE scores</h1>
 
@@ -72,7 +76,7 @@
 	</xsl:template>
 
 	<xsl:template match="w:wordle">
-		<div class="hide game-panel">
+		<div class="hide game-panel" xsl:use-attribute-sets="identification">
 			<header>
 				<h3><xsl:value-of select="concat('#', @number)" /></h3>
 			</header>
