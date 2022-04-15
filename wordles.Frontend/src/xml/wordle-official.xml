@@ -486,4 +486,12 @@
 		<try>shame</try>
 	</wordle>
 
+	<wordle date="2022-04-16" number="301" score="5" word="cheek">
+		<try>candy</try>
+		<try>chore</try>
+		<try>chess</try>
+		<try>check</try>
+		<try>cheek</try>
+	</wordle>
+
 </wordles>

@@ -489,4 +489,13 @@
 		<try>ølbas</try>
 	</wordle>
 
+	<wordle date="2022-04-16" number="97" score="0" word="uddød">
+		<try>retur</try>
+		<try>udgiv</try>
+		<try>udsat</try>
+		<try>udlån</try>
+		<try>udkom</try>
+		<try>uddyb</try>
+	</wordle>
+
 </wordles>
