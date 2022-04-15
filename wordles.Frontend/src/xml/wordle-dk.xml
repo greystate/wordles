@@ -480,4 +480,13 @@
 		<try>bijob</try>
 	</wordle>
 
+	<wordle date="2022-04-15" number="96" score="6" word="ølbas">
+		<try>klamt</try>
+		<try>alter</try>
+		<try>klima</try>
+		<try>sluge</try>
+		<try>bløde</try>
+		<try>ølbas</try>
+	</wordle>
+
 </wordles>

@@ -477,4 +477,13 @@
 		<try>mince</try>
 	</wordle>
 
+	<wordle date="2022-04-15" number="300" score="6" word="shame">
+		<try>bound</try>
+		<try>stark</try>
+		<try>spawn</try>
+		<try>shall</try>
+		<try>shave</try>
+		<try>shame</try>
+	</wordle>
+
 </wordles>
