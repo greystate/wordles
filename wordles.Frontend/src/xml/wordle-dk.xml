@@ -498,4 +498,29 @@
 		<try>uddyb</try>
 	</wordle>
 
+	<wordle date="2022-04-17" number="98" score="5" word="hyben">
+		<try>lyver</try>
+		<try>jyden</try>
+		<try>typen</try>
+		<try>bygen</try>
+		<try>hyben</try>
+	</wordle>
+
+	<wordle date="2022-04-18" number="99" score="5" word="gevær">
+		<try>påske</try>
+		<try>bredt</try>
+		<try>fuger</try>
+		<try>gevir</try>
+		<try>gevær</try>
+	</wordle>
+
+	<wordle date="2022-04-19" number="100" score="6" word="bosat">
+		<try>strøm</try>
+		<try>terts</try>
+		<try>altså</try>
+		<try>basta</try>
+		<try>bisat</try>
+		<try>bosat</try>
+	</wordle>
+
 </wordles>

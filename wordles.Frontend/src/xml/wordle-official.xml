@@ -494,4 +494,27 @@
 		<try>cheek</try>
 	</wordle>
 
+	<wordle date="2022-04-17" number="302" score="5" word="ample">
+		<try>lying</try>
+		<try>relax</try>
+		<try>slate</try>
+		<try>maple</try>
+		<try>ample</try>
+	</wordle>
+
+	<wordle date="2022-04-18" number="303" score="3" word="flair">
+		<try>rogue</try>
+		<try>stair</try>
+		<try>flair</try>
+	</wordle>
+
+	<wordle date="2022-04-19" number="304" score="0" word="foyer">
+		<try>power</try>
+		<try>lover</try>
+		<try>sober</try>
+		<try>toner</try>
+		<try>joker</try>
+		<try>coder</try>
+	</wordle>
+
 </wordles>
