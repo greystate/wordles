@@ -523,4 +523,36 @@
 		<try>bosat</try>
 	</wordle>
 
+	<wordle date="2022-04-20" number="101" score="4" word="beton">
+		<try>idræt</try>
+		<try>tynge</try>
+		<try>aften</try>
+		<try>beton</try>
+	</wordle>
+
+	<wordle date="2022-04-21" number="102" score="5" word="video">
+		<try>metal</try>
+		<try>frise</try>
+		<try>pinen</try>
+		<try>bivej</try>
+		<try>video</try>
+	</wordle>
+
+	<wordle date="2022-04-22" number="103" score="4" word="vupti">
+		<try>forum</try>
+		<try>udsat</try>
+		<try>tuder</try>
+		<try>vupti</try>
+	</wordle>
+
+	<wordle date="2022-04-23" number="104" score="6" word="svede">
+		<try>lampe</try>
+		<try>fænge</try>
+		<try>skare</try>
+		<try>sidde</try>
+		<try>støde</try>
+		<try>svede</try>
+	</wordle>
+
+
 </wordles>

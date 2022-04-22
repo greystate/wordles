@@ -517,4 +517,33 @@
 		<try>coder</try>
 	</wordle>
 
+	<wordle date="2022-04-20" number="305" score="4" word="cargo">
+		<try>boing</try>
+		<try>grope</try>
+		<try>prong</try>
+		<try>cargo</try>
+	</wordle>
+
+	<wordle date="2022-04-21" number="306" score="6" word="oxide">
+		<try>metal</try>
+		<try>sieve</try>
+		<try>grime</try>
+		<try>whine</try>
+		<try>juice</try>
+		<try>oxide</try>
+	</wordle>
+
+	<wordle date="2022-04-22" number="307" score="5" word="plant">
+		<try>mould</try>
+		<try>lacey</try>
+		<try>altar</try>
+		<try>slant</try>
+		<try>plant</try>
+	</wordle>
+
+	<wordle date="2022-04-23" number="308" score="2" word="olive">
+		<try>overt</try>
+		<try>olive</try>
+	</wordle>
+
 </wordles>
