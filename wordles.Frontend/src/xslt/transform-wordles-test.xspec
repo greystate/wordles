@@ -122,4 +122,25 @@
 			</div>
 		</x:expect>
 	</x:scenario>
+
+	<x:scenario label="processing a try of 'eerie' when the solution is 'inert'">
+		<x:context>
+			<x:param name="letters">
+				<token>e</token><token>e</token><token>r</token><token>i</token><token>e</token>
+			</x:param>
+			<x:param name="solution">inert</x:param>
+			<w:try>eerie</w:try>
+		</x:context>
+
+		<x:expect label="it should generate an 'ok' class for the first occurrence of 'e' and 'wrong' for the second and third">
+			<div class="guess">
+				<span class="ok tile">e</span>
+				<span class="wrong tile">e</span>
+				<span class="ok tile">r</span>
+				<span class="ok tile">i</span>
+				<span class="wrong tile">e</span>
+			</div>
+		</x:expect>
+	</x:scenario>
+
 </x:description>
