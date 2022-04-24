@@ -554,5 +554,13 @@
 		<try>svede</try>
 	</wordle>
 
+	<wordle date="2022-04-24" number="105" score="5" word="harpe">
+		<try>usagt</try>
+		<try>afkom</try>
+		<try>daler</try>
+		<try>havre</try>
+		<try>harpe</try>
+	</wordle>
+
 
 </wordles>

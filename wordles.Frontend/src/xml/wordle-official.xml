@@ -546,4 +546,11 @@
 		<try>olive</try>
 	</wordle>
 
+	<wordle date="2022-04-24" number="309" score="4" word="inert">
+		<try>media</try>
+		<try>fries</try>
+		<try>eerie</try>
+		<try>inert</try>
+	</wordle>
+
 </wordles>
