@@ -144,6 +144,22 @@
 									</xsl:if>
 								</xsl:when>
 
+								<!-- Guess has two or more copies of this same letter -->
+								<xsl:when test="$diff &lt; -1">
+									<xsl:variable name="pos1" select="string-length(substring-before($guess, .)) + 1" />
+									<xsl:variable name="pos2" select="string-length(substring-before(substring($guess, $pos1 + 1), .)) + 1 + $pos1" />
+									<xsl:variable name="pos3" select="string-length(substring-before(substring($guess, $pos2 + 1), .)) + 1 + $pos2" />
+
+									<!-- This is the first, though -->
+									<xsl:if test="$index = $pos1">
+										<!-- If the others aren't 'correct', this one should be marked 'ok' -->
+										<xsl:if test="not(substring($solution, $pos2, 1) = .) and not(substring($solution, $pos3, 1) = .)">
+											<xsl:attribute name="class">ok tile</xsl:attribute>
+										</xsl:if>
+									</xsl:if>
+
+								</xsl:when>
+
 								<!-- We didn't anticipate this scenario! -->
 								<xsl:otherwise>
 									<xsl:attribute name="class">tile unknown</xsl:attribute>
