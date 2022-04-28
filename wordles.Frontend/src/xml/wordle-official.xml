@@ -553,4 +553,34 @@
 		<try>inert</try>
 	</wordle>
 
+	<wordle date="2022-04-25" number="310" score="3" word="askew">
+		<try>lacey</try>
+		<try>ashen</try>
+		<try>askew</try>
+	</wordle>
+
+	<wordle date="2022-04-26" number="311" score="4" word="heist">
+		<try>world</try>
+		<try>empty</try>
+		<try>tease</try>
+		<try>heist</try>
+	</wordle>
+
+	<wordle date="2022-04-27" number="312" score="5" word="shown">
+		<try>fancy</try>
+		<try>infer</try>
+		<try>pound</try>
+		<try>swoon</try>
+		<try>shown</try>
+	</wordle>
+
+	<wordle date="2022-04-28" number="313" score="0" word="zesty">
+		<try>young</try>
+		<try>lacey</try>
+		<try>teary</try>
+		<try>deity</try>
+		<try>petty</try>
+		<try>hefty</try>
+	</wordle>
+
 </wordles>

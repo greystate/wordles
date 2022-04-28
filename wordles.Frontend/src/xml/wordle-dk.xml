@@ -562,5 +562,34 @@
 		<try>harpe</try>
 	</wordle>
 
+	<wordle date="2022-04-25" number="106" score="4" word="gehør">
+		<try>skævt</try>
+		<try>bader</try>
+		<try>hejre</try>
+		<try>gehør</try>
+	</wordle>
+
+	<wordle date="2022-04-26" number="107" score="6" word="flæbe">
+		<try>jagte</try>
+		<try>halse</try>
+		<try>luffe</try>
+		<try>fløde</try>
+		<try>flyve</try>
+		<try>flæbe</try>
+	</wordle>
+
+	<wordle date="2022-04-27" number="108" score="4" word="befri">
+		<try>flest</try>
+		<try>efter</try>
+		<try>røfle</try>
+		<try>befri</try>
+	</wordle>
+
+	<wordle date="2022-04-28" number="109" score="4" word="vandt">
+		<try>træls</try>
+		<try>efter</try>
+		<try>bundt</try>
+		<try>vandt</try>
+	</wordle>
 
 </wordles>
