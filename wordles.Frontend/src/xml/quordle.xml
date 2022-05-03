@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles">
+
+	<quordle date="2022-05-01" number="97" scores="6,4,5,7" words="clack,crime,genre,harem">
+		<try>skate</try>
+		<try>fired</try>
+		<try>gnome</try>
+		<try>crime</try>
+		<try>genre</try>
+		<try>clack</try>
+		<try>harem</try>
+	</quordle>
+
+	<quordle date="2022-05-02" number="98" scores="8,6,7,4" words="vigil,serum,vapid,crane">
+		<try>frost</try>
+		<try>sorry</try>
+		<try>leave</try>
+		<try>crane</try>
+		<try>pubic</try>
+		<try>serum</try>
+		<try>vapid</try>
+		<try>vigil</try>
+	</quordle>
+
+	<quordle date="2022-05-03" number="99" scores="0,9,6,0" words="epoxy,torus,those,canny">
+		<try>spawn</try>
+		<try>infer</try>
+		<try>hacks</try>
+		<try>duvet</try>
+		<try>these</try>
+		<try>those</try>
+		<try>epoch</try>
+		<try>tours</try>
+		<try>torus</try>
+	</quordle>
+
+</wordles>
