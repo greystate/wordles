@@ -1,8 +1,13 @@
 {
   "clips" : [
     {
-      "content" : "<wordle date=\"2022-05-${:12}\" number=\"${:200}\" score=\"${:3}\" word=\"${:word}\">\n\t\n<\/wordle>\n",
+      "content" : "<wordle date=\"2022-05-${:12}\" number=\"${:200}\" score=\"${:3}\" word=\"${:word}\">\n\t${:word}\n<\/wordle>\n",
       "name" : "Wordle",
+      "trigger" : "wordle"
+    },
+    {
+      "content" : "<quordle date=\"2022-05-${:12}\" number=\"${:100}\" scores=\"${:6},${:7},${:8},${:9}\" words=\"${:word},${:word},${:word},${:word}\">\n\t${:word}\n<\/quordle>\n",
+      "name" : "Quordle",
       "trigger" : "wordle"
     }
   ]
