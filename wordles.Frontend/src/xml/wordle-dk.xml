@@ -592,4 +592,44 @@
 		<try>vandt</try>
 	</wordle>
 
+	<wordle date="2022-04-29" number="110" score="4" word="snask">
+		<try>spand</try>
+		<try>snart</try>
+		<try>snave</try>
+		<try>snask</try>
+	</wordle>
+
+	<wordle date="2022-04-30" number="111" score="5" word="sepia">
+		<try>kaffe</try>
+		<try>agere</try>
+		<try>betal</try>
+		<try>hejsa</try>
+		<try>sepia</try>
+	</wordle>
+
+	<wordle date="2022-05-01" number="112" score="5" word="viril">
+		<try>afstå</try>
+		<try>baren</try>
+		<try>hurra</try>
+		<try>værdi</try>
+		<try>viril</try>
+	</wordle>
+
+	<wordle date="2022-05-02" number="113" score="6" word="ølvom">
+		<try>tilse</try>
+		<try>bland</try>
+		<try>flugt</try>
+		<try>klynk</try>
+		<try>slump</try>
+		<try>ølvom</try>
+	</wordle>
+
+	<wordle date="2022-05-03" number="114" score="5" word="skema">
+		<try>logre</try>
+		<try>medgå</try>
+		<try>emnet</try>
+		<try>ulmes</try>
+		<try>skema</try>
+	</wordle>
+
 </wordles>

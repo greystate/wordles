@@ -583,4 +583,42 @@
 		<try>hefty</try>
 	</wordle>
 
+	<wordle date="2022-04-29" number="314" score="6" word="trash">
+		<try>weary</try>
+		<try>frank</try>
+		<try>trail</try>
+		<try>tramp</try>
+		<try>tract</try>
+		<try>trash</try>
+	</wordle>
+
+	<wordle date="2022-04-30" number="315" score="6" word="larva">
+		<try>house</try>
+		<try>eased</try>
+		<try>panic</try>
+		<try>fairy</try>
+		<try>lazar</try>
+		<try>larva</try>
+	</wordle>
+
+	<wordle date="2022-05-01" number="316" score="4" word="forgo">
+		<try>crave</try>
+		<try>rhino</try>
+		<try>turbo</try>
+		<try>forgo</try>
+	</wordle>
+
+	<wordle date="2022-05-02" number="317" score="4" word="story">
+		<try>leave</try>
+		<try>dumpy</try>
+		<try>horny</try>
+		<try>story</try>
+	</wordle>
+
+	<wordle date="2022-05-03" number="318" score="3" word="hairy">
+		<try>spawn</try>
+		<try>heart</try>
+		<try>hairy</try>
+	</wordle>
+
 </wordles>
