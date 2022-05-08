@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles">
 
-	<quordle date="2022-05-01" number="97" scores="6,4,5,7" words="clack,crime,genre,harem">
+	<quordle date="2022-05-01" number="97" scores="6 4 5 7" words="clack crime genre harem">
 		<try>skate</try>
 		<try>fired</try>
 		<try>gnome</try>
@@ -11,7 +11,7 @@
 		<try>harem</try>
 	</quordle>
 
-	<quordle date="2022-05-02" number="98" scores="8,6,7,4" words="vigil,serum,vapid,crane">
+	<quordle date="2022-05-02" number="98" scores="8 6 7 4" words="vigil serum vapid crane">
 		<try>frost</try>
 		<try>sorry</try>
 		<try>leave</try>
@@ -22,7 +22,7 @@
 		<try>vigil</try>
 	</quordle>
 
-	<quordle date="2022-05-03" number="99" scores="0,9,6,0" words="epoxy,torus,those,canny">
+	<quordle date="2022-05-03" number="99" scores="0 9 6 0" words="epoxy torus those canny">
 		<try>spawn</try>
 		<try>infer</try>
 		<try>hacks</try>
@@ -32,6 +32,62 @@
 		<try>epoch</try>
 		<try>tours</try>
 		<try>torus</try>
+	</quordle>
+
+	<quordle date="2022-05-04" number="100" scores="6 7 8 5" words="voila silly awake phone">
+		<try>trade</try>
+		<try>boast</try>
+		<try>clump</try>
+		<try>fling</try>
+		<try>phone</try>
+		<try>voila</try>
+		<try>silly</try>
+		<try>awake</try>
+	</quordle>
+
+	<quordle date="2022-05-05" number="101" scores="5 6 4 7" words="sonic shack cabin broom">
+		<try>prone</try>
+		<try>blush</try>
+		<try>tacit</try>
+		<try>cabin</try>
+		<try>sonic</try>
+		<try>shack</try>
+		<try>broom</try>
+	</quordle>
+
+	<quordle date="2022-05-06" number="102" scores="0 9 8 7" words="fluff rearm weedy brook">
+		<try>badge</try>
+		<try>topic</try>
+		<try>lunar</try>
+		<try>shove</try>
+		<try>zesty</try>
+		<try>broom</try>
+		<try>brook</try>
+		<try>weedy</try>
+		<try>rearm</try>
+	</quordle>
+
+	<quordle date="2022-05-07" number="103" scores="6 8 7 9" words="wordy order scoff spool">
+		<try>midst</try>
+		<try>sound</try>
+		<try>daisy</try>
+		<try>clerk</try>
+		<try>lordy</try>
+		<try>wordy</try>
+		<try>scoff</try>
+		<try>order</try>
+		<try>spool</try>
+	</quordle>
+
+	<quordle date="2022-05-08" number="104" scores="6 8 7 4" words="brake aorta opera hasty">
+		<try>candy</try>
+		<try>rivet</try>
+		<try>tasty</try>
+		<try>hasty</try>
+		<try>beare</try>
+		<try>brake</try>
+		<try>opera</try>
+		<try>aorta</try>
 	</quordle>
 
 </wordles>
