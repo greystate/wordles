@@ -1,7 +1,7 @@
 {
   "clips" : [
     {
-      "content" : "<wordle date=\"2022-05-${:12}\" number=\"${:200}\" score=\"${:3}\" word=\"${:word}\">\n\t${:word}\n<\/wordle>\n",
+      "content" : "<wordle date=\"2022-05-${1:12}\" number=\"${2:200}\" score=\"${3:3}\" word=\"${4:word}\">\n\t${4:word}\n<\/wordle>\n",
       "name" : "Wordle",
       "trigger" : "wordle"
     },
