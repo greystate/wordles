@@ -621,4 +621,41 @@
 		<try>hairy</try>
 	</wordle>
 
+	<wordle date="2022-05-04" number="319" score="3" word="train">
+		<try>boast</try>
+		<try>trade</try>
+		<try>train</try>
+	</wordle>
+
+	<wordle date="2022-05-05" number="320" score="0" word="homer">
+		<try>bread</try>
+		<try>repos</try>
+		<try>lower</try>
+		<try>joker</try>
+		<try>toner</try>
+		<try>sober</try>
+	</wordle>
+
+	<wordle date="2022-05-06" number="321" score="5" word="badge">
+		<try>scram</try>
+		<try>alert</try>
+		<try>payee</try>
+		<try>dance</try>
+		<try>badge</try>
+	</wordle>
+
+	<wordle date="2022-05-07" number="322" score="3" word="midst">
+		<try>sound</try>
+		<try>daisy</try>
+		<try>midst</try>
+	</wordle>
+
+	<wordle date="2022-05-08" number="323" score="4" word="canny">
+		<try>place</try>
+		<try>calmy</try>
+		<try>candy</try>
+		<try>canny</try>
+	</wordle>
+
+
 </wordles>

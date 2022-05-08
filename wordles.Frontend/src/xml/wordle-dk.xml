@@ -632,4 +632,40 @@
 		<try>skema</try>
 	</wordle>
 
+	<wordle date="2022-05-04" number="115" score="4" word="silke">
+		<try>træne</try>
+		<try>spule</try>
+		<try>slibe</try>
+		<try>silke</try>
+	</wordle>
+
+	<wordle date="2022-05-05" number="116" score="3" word="rådne">
+		<try>bundt</try>
+		<try>døren</try>
+		<try>rådne</try>
+	</wordle>
+
+	<wordle date="2022-05-06" number="117" score="4" word="naivt">
+		<try>badge</try>
+		<try>fakta</try>
+		<try>satin</try>
+		<try>naivt</try>
+	</wordle>
+
+	<wordle date="2022-05-07" number="118" score="4" word="morse">
+		<try>rynke</try>
+		<try>store</try>
+		<try>porse</try>
+		<try>morse</try>
+	</wordle>
+
+	<wordle date="2022-05-08" number="119" score="6" word="vifte">
+		<try>lader</try>
+		<try>tykne</try>
+		<try>hente</try>
+		<try>sutte</try>
+		<try>føjte</try>
+		<try>vifte</try>
+	</wordle>
+
 </wordles>
