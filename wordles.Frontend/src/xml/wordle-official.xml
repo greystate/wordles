@@ -657,5 +657,10 @@
 		<try>canny</try>
 	</wordle>
 
+	<wordle date="2022-05-09" number="324" score="3" word="shine">
+		<try>glare</try>
+		<try>stone</try>
+		<try>shine</try>
+	</wordle>
 
 </wordles>

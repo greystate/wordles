@@ -90,4 +90,15 @@
 		<try>aorta</try>
 	</quordle>
 
+	<quordle date="2022-05-09" number="105" scores="8 6 5 7" words="ralph ingot covet amity">
+		<try>prime</try>
+		<try>short</try>
+		<try>jerky</try>
+		<try>clang</try>
+		<try>covet</try>
+		<try>ingot</try>
+		<try>amity</try>
+		<try>ralph</try>
+	</quordle>
+
 </wordles>

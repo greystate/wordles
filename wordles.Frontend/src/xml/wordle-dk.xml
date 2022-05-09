@@ -668,4 +668,12 @@
 		<try>vifte</try>
 	</wordle>
 
+	<wordle date="2022-05-09" number="120" score="5" word="skurk">
+		<try>foran</try>
+		<try>bedst</try>
+		<try>spurv</try>
+		<try>slurk</try>
+		<try>skurk</try>
+	</wordle>
+
 </wordles>
