@@ -7,7 +7,7 @@
       "uuidString" : "5CD93953-8419-48F3-B317-31E1D510E58B"
     }
   ],
-  "creatorBuild" : "34359",
+  "creatorBuild" : "34365",
   "files" : {
     "\/build" : {
       "ft" : 65536,
@@ -133,6 +133,32 @@
       "mS" : 0,
       "oA" : 1,
       "oAP" : "\/build\/assets\/placeholder.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "rwU" : 0,
+      "sI" : 0,
+      "sU" : 0
+    },
+    "\/src\/components\/quadscore\/_quadscore.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/components\/quadscore\/_quadscore.html",
+      "oF" : 0
+    },
+    "\/src\/components\/quadscore\/quadscore.less" : {
+      "aP" : 1,
+      "bl" : 1,
+      "co" : 0,
+      "eJ" : 0,
+      "ft" : 1,
+      "iI" : 0,
+      "ma" : 0,
+      "mS" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/assets\/quadscore.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
