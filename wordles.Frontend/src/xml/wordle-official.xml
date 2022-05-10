@@ -663,4 +663,11 @@
 		<try>shine</try>
 	</wordle>
 
+	<wordle date="2022-05-10" number="325" score="4" word="gecko">
+		<try>blind</try>
+		<try>stack</try>
+		<try>cocky</try>
+		<try>gecko</try>
+	</wordle>
+
 </wordles>

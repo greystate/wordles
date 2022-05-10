@@ -101,4 +101,16 @@
 		<try>ralph</try>
 	</quordle>
 
+	<quordle date="2022-05-10" number="106" scores="5 8 7 0" words="urine hedge north lasso">
+		<try>blind</try>
+		<try>power</try>
+		<try>rhine</try>
+		<try>brine</try>
+		<try>urine</try>
+		<try>honey</try>
+		<try>north</try>
+		<try>hedge</try>
+		<try>cloak</try>
+	</quordle>
+
 </wordles>
