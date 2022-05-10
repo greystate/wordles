@@ -1,0 +1,44 @@
+.quadscore {
+	text-transform: uppercase;
+
+	.wrong {
+		color: var(--bgcolor-wtf);
+	}
+
+	.correct {
+		color: var(--bgcolor-solution);
+	}
+
+	.scores {
+		display: grid;
+		grid-template-columns: auto 1.5em 1.5em auto;
+		justify-content: start;
+		gap: 4px;
+		grid-template-areas:
+			"word1 score1 score2 word2"
+			"word3 score3 score4 word4";
+
+		dt:nth-of-type(1) { grid-area: word1; }
+		dt:nth-of-type(2) { grid-area: word2; }
+		dt:nth-of-type(3) { grid-area: word3; }
+		dt:nth-of-type(4) { grid-area: word4; }
+
+		dd:nth-of-type(1) { grid-area: score1; }
+		dd:nth-of-type(2) { grid-area: score2; }
+		dd:nth-of-type(3) { grid-area: score3; }
+		dd:nth-of-type(4) { grid-area: score4; }
+
+		dd {
+			aspect-ratio: 1 / 1;
+			background: var(--bgcolor-correct);
+			color: white;
+			display: flex;
+			place-content: center;
+		}
+
+		dt.wrong + dd {
+			background: var(--bgcolor-wtf);
+		}
+
+	}
+}
