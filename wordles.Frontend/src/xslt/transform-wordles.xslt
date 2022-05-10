@@ -52,6 +52,7 @@
 	<xsl:template match="/w:wordles">
 		<xsl:variable name="official-wordles" select="w:wordles[lang('en')]/w:wordle" />
 		<xsl:variable name="danish-wordles" select="w:wordles[lang('da')]/w:wordle" />
+		<xsl:variable name="quordles" select="w:wordles[w:quordle]/w:quordle" />
 
 		<h2>From the official Wordle</h2>
 		<xsl:call-template name="local-stats">
@@ -68,11 +69,18 @@
 			<xsl:with-param name="wordles" select="$danish-wordles" />
 		</xsl:call-template>
 		<div style="--bgcolor-ok: #f80" lang="da">
-
 			<xsl:apply-templates select="$danish-wordles">
 				<xsl:sort select="@date" order="descending" />
 			</xsl:apply-templates>
 		</div>
+
+		<h2>Quordle</h2>
+		<div style="--bgcolor-ok: #fc6" lang="en">
+			<xsl:apply-templates select="$quordles" mode="scores">
+				<xsl:sort select="@date" order="descending" />
+			</xsl:apply-templates>
+		</div>
+
 	</xsl:template>
 
 	<xsl:template match="w:wordle">
@@ -91,6 +99,29 @@
 			<xsl:call-template name="fillers">
 				<xsl:with-param name="count" select="6 - count(w:try)" />
 			</xsl:call-template>
+		</div>
+	</xsl:template>
+
+	<xsl:template match="w:quordle">
+		<xsl:value-of select="@words" />
+	</xsl:template>
+
+	<xsl:template match="w:quordle" mode="scores">
+		<xsl:param name="scores" select="str:tokenize(@scores, ' ')" />
+		<xsl:param name="words" select="str:tokenize(@words, ' ')" />
+		<div class="quadscore">
+			<dl class="scores">
+				<xsl:for-each select="$words">
+					<xsl:variable name="pos" select="position()" />
+					<xsl:variable name="score" select="$scores[$pos]" />
+					<dt class="correct">
+						<xsl:if test="$score = 0"><xsl:attribute name="class">wrong</xsl:attribute></xsl:if>
+						<xsl:value-of select="." />
+					</dt>
+					<dd><xsl:value-of select="$score" /></dd>
+				</xsl:for-each>
+
+			</dl>
 		</div>
 	</xsl:template>
 
