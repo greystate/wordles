@@ -676,4 +676,11 @@
 		<try>farce</try>
 	</wordle>
 
+	<wordle date="2022-05-12" number="327" score="4" word="slung">
+		<try>spore</try>
+		<try>slink</try>
+		<try>slant</try>
+		<try>slung</try>
+	</wordle>
+
 </wordles>

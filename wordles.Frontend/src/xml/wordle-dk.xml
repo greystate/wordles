@@ -692,4 +692,9 @@
 		<try>skære</try>
 	</wordle>
 
+	<wordle date="2022-05-12" number="123" score="2" word="opium">
+		<try>spild</try>
+		<try>opium</try>
+	</wordle>
+
 </wordles>

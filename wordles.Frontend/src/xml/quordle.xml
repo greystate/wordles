@@ -124,4 +124,13 @@
 		<try>droit</try>
 	</quordle>
 
+	<quordle date="2022-05-12" number="108" scores="6 5 3 4" words="waste crave haunt young">
+		<try>slant</try>
+		<try>cough</try>
+		<try>haunt</try>
+		<try>young</try>
+		<try>crave</try>
+		<try>waste</try>
+	</quordle>
+
 </wordles>
