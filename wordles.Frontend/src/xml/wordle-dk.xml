@@ -683,4 +683,13 @@
 		<try>rødme</try>
 	</wordle>
 
+	<wordle date="2022-05-11" number="122" score="0" word="skeje">
+		<try>kaffe</try>
+		<try>huske</try>
+		<try>skole</try>
+		<try>skyde</try>
+		<try>skive</try>
+		<try>skære</try>
+	</wordle>
+
 </wordles>

@@ -670,4 +670,10 @@
 		<try>gecko</try>
 	</wordle>
 
+	<wordle date="2022-05-11" number="326" score="3" word="farce">
+		<try>scope</try>
+		<try>trace</try>
+		<try>farce</try>
+	</wordle>
+
 </wordles>
