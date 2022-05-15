@@ -697,4 +697,27 @@
 		<try>opium</try>
 	</wordle>
 
+	<wordle date="2022-05-13" number="124" score="4" word="rytme">
+		<try>konge</try>
+		<try>drive</try>
+		<try>rumle</try>
+		<try>rytme</try>
+	</wordle>
+
+	<wordle date="2022-05-14" number="125" score="5" word="notat">
+		<try>fjern</try>
+		<try>dansk</try>
+		<try>tvang</try>
+		<try>antyd</try>
+		<try>notat</try>
+	</wordle>
+
+	<wordle date="2022-05-15" number="126" score="5" word="larve">
+		<try>grine</try>
+		<try>ryste</try>
+		<try>klare</try>
+		<try>larme</try>
+		<try>larve</try>
+	</wordle>
+
 </wordles>

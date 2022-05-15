@@ -683,4 +683,25 @@
 		<try>slung</try>
 	</wordle>
 
+	<wordle date="2022-05-13" number="328" score="4" word="tipsy">
+		<try>cover</try>
+		<try>fishy</try>
+		<try>silly</try>
+		<try>tipsy</try>
+	</wordle>
+
+	<wordle date="2022-05-14" number="329" score="3" word="metal">
+		<try>truce</try>
+		<try>yeast</try>
+		<try>metal</try>
+	</wordle>
+
+	<wordle date="2022-05-15" number="330" score="5" word="yield">
+		<try>music</try>
+		<try>paint</try>
+		<try>hired</try>
+		<try>field</try>
+		<try>yield</try>
+	</wordle>
+
 </wordles>

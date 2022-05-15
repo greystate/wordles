@@ -133,4 +133,38 @@
 		<try>waste</try>
 	</quordle>
 
+	<quordle date="2022-05-13" number="109" scores="6 0 0 5" words="motel growl welch tumor">
+		<try>tipsy</try>
+		<try>cover</try>
+		<try>bokeh</try>
+		<try>tutor</try>
+		<try>tumor</try>
+		<try>motel</try>
+		<try>leech</try>
+		<try>belch</try>
+		<try>drool</try>
+	</quordle>
+
+	<quordle date="2022-05-14" number="110" scores="8 6 5 9" words="third slimy sunny avian">
+		<try>phone</try>
+		<try>shack</try>
+		<try>stunt</try>
+		<try>silly</try>
+		<try>sunny</try>
+		<try>slimy</try>
+		<try>thigh</try>
+		<try>third</try>
+		<try>avian</try>
+	</quordle>
+
+	<quordle date="2022-05-15" number="111" scores="4 7 5 6" words="delta rotor quote tapir">
+		<try>paint</try>
+		<try>yield</try>
+		<try>mouth</try>
+		<try>delta</try>
+		<try>quote</try>
+		<try>tapir</try>
+		<try>rotor</try>
+	</quordle>
+
 </wordles>
