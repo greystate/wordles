@@ -8,9 +8,12 @@
 export default function() {
 	document.body.addEventListener('click', (event) => {
 		const target = event.target
+		const quadPanel = target.closest('.quad-panel')
 		const gamePanel = target.closest('.game-panel')
 
-		if (gamePanel != null) {
+		if (quadPanel != null) {
+			quadPanel.classList.toggle('hide')
+		} else if (gamePanel != null) {
 			gamePanel.classList.toggle('hide')
 		}
 	})

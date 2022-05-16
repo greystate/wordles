@@ -628,6 +628,14 @@
       "sI" : 0,
       "sU" : 0
     },
+    "\/src\/panels\/game-panel\/_game-panel-noheader.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/panels\/game-panel\/_game-panel-noheader.html",
+      "oF" : 0
+    },
     "\/src\/panels\/game-panel\/_game-panel.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -661,6 +669,32 @@
       "oA" : 0,
       "oAP" : "\/build\/panels\/index.html",
       "oF" : 0
+    },
+    "\/src\/panels\/quad-panel\/_quad-panel.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/panels\/quad-panel\/_quad-panel.html",
+      "oF" : 0
+    },
+    "\/src\/panels\/quad-panel\/quad-panel.less" : {
+      "aP" : 1,
+      "bl" : 1,
+      "co" : 0,
+      "eJ" : 0,
+      "ft" : 1,
+      "iI" : 0,
+      "ma" : 0,
+      "mS" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/assets\/quad-panel.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "rwU" : 0,
+      "sI" : 0,
+      "sU" : 0
     },
     "\/src\/panels\/sample-panel\/_sample-panel.kit" : {
       "cB" : 0,
