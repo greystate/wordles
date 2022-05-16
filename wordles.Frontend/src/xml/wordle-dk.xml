@@ -720,4 +720,13 @@
 		<try>larve</try>
 	</wordle>
 
+	<wordle date="2022-05-16" number="127" score="6" word="mægle">
+		<try>typer</try>
+		<try>sagde</try>
+		<try>løgne</try>
+		<try>fugle</try>
+		<try>kogle</try>
+		<try>mægle</try>
+	</wordle>
+
 </wordles>

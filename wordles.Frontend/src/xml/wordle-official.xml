@@ -704,4 +704,12 @@
 		<try>yield</try>
 	</wordle>
 
+	<wordle date="2022-05-16" number="331" score="5" word="delve">
+		<try>joker</try>
+		<try>clean</try>
+		<try>helps</try>
+		<try>jelly</try>
+		<try>delve</try>
+	</wordle>
+
 </wordles>

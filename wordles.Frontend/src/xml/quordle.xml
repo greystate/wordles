@@ -167,4 +167,16 @@
 		<try>rotor</try>
 	</quordle>
 
+	<quordle date="2022-05-16" number="112" scores="7 3 0 5" words="china faint boney gaffe">
+		<try>intel</try>
+		<try>feast</try>
+		<try>faint</try>
+		<try>aging</try>
+		<try>gaffe</try>
+		<try>chump</try>
+		<try>china</try>
+		<try>queen</try>
+		<try>boner</try>
+	</quordle>
+
 </wordles>
