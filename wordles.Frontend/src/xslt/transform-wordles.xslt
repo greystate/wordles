@@ -14,7 +14,7 @@
 	<xsl:variable name="debugging" select="false()" />
 
 	<xsl:attribute-set name="identification">
-		<xsl:attribute name="id"><xsl:value-of select="concat(ancestor::w:wordles/@xml:lang, @number)" /></xsl:attribute>
+		<xsl:attribute name="id"><xsl:value-of select="concat(substring(local-name(), 1, 1), '-', ancestor::w:wordles/@xml:lang, '-', @number)" /></xsl:attribute>
 	</xsl:attribute-set>
 
 	<xsl:template match="/">
@@ -75,10 +75,15 @@
 		</div>
 
 		<h2>Quordle</h2>
-		<div style="--bgcolor-ok: #fc6" lang="en">
-			<xsl:apply-templates select="$quordles" mode="scores">
+		<div style="--bgcolor-ok: #fc6; --col-size: 14rem;" lang="en">
+			<xsl:for-each select="$quordles">
 				<xsl:sort select="@date" order="descending" />
-			</xsl:apply-templates>
+				<div class="quad-panel hide" xsl:use-attribute-sets="identification">
+					<header><h3>#<xsl:value-of select="@number" /></h3></header>
+					<xsl:apply-templates select="." mode="scores" />
+					<xsl:apply-templates select="." mode="panels" />
+				</div>
+			</xsl:for-each>
 		</div>
 
 	</xsl:template>
@@ -102,10 +107,6 @@
 		</div>
 	</xsl:template>
 
-	<xsl:template match="w:quordle">
-		<xsl:value-of select="@words" />
-	</xsl:template>
-
 	<xsl:template match="w:quordle" mode="scores">
 		<xsl:param name="scores" select="str:tokenize(@scores, ' ')" />
 		<xsl:param name="words" select="str:tokenize(@words, ' ')" />
@@ -120,7 +121,6 @@
 					</dt>
 					<dd><xsl:value-of select="$score" /></dd>
 				</xsl:for-each>
-
 			</dl>
 		</div>
 	</xsl:template>
@@ -279,6 +279,52 @@
 				<dd><meter min="0" max="{$max-count}" value="{$count}"><xsl:value-of select="$count" /></meter></dd>
 			</dl>
 		</xsl:if>
+	</xsl:template>
+
+	<xsl:template match="w:quordle" mode="panels">
+		<xsl:variable name="score1" select="substring(@scores, 1, 1)" />
+		<xsl:variable name="score2" select="substring(@scores, 3, 1)" />
+		<xsl:variable name="score3" select="substring(@scores, 5, 1)" />
+		<xsl:variable name="score4" select="substring(@scores, 7, 1)" />
+
+		<xsl:call-template name="quordle-panel">
+			<xsl:with-param name="quadrant" select="1" />
+		</xsl:call-template>
+
+		<xsl:call-template name="quordle-panel">
+			<xsl:with-param name="quadrant" select="2" />
+		</xsl:call-template>
+
+		<xsl:call-template name="quordle-panel">
+			<xsl:with-param name="quadrant" select="3" />
+		</xsl:call-template>
+
+		<xsl:call-template name="quordle-panel">
+			<xsl:with-param name="quadrant" select="4" />
+		</xsl:call-template>
+	</xsl:template>
+
+	<xsl:template name="quordle-panel">
+		<xsl:param name="quordle" select="." />
+		<xsl:param name="quadrant" select="1" />
+		<xsl:param name="score" select="substring($quordle/@scores, $quadrant * 2 - 1, 1)" />
+		<xsl:param name="solution" select="substring($quordle/@words, 1 + 6 * ($quadrant - 1), 5)" />
+
+		<div class="game-panel">
+			<xsl:apply-templates select="$quordle/w:try[position() &lt;= $score]">
+				<xsl:with-param name="solution" select="$solution" />
+			</xsl:apply-templates>
+			<xsl:if test="$score = 0">
+				<xsl:apply-templates select="$quordle/w:try">
+					<xsl:with-param name="solution" select="$solution" />
+				</xsl:apply-templates>
+			</xsl:if>
+			<xsl:if test="$score &gt; 0">
+				<xsl:call-template name="fillers">
+					<xsl:with-param name="count" select="9 - $score" />
+				</xsl:call-template>
+			</xsl:if>
+		</div>
 	</xsl:template>
 
 </xsl:stylesheet>

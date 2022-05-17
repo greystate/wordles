@@ -181,4 +181,38 @@
 		</x:expect>
 	</x:scenario>
 
+	<x:scenario label="calling the quordle-panel template with no params">
+		<x:call template="quordle-panel">
+			<x:param name="quadrant" select="1" />
+			<x:param name="quordle">
+				<w:quordle date="2022-05-03" number="99" scores="0 9 6 0" words="epoxy torus those canny">
+					<w:try>spawn</w:try>
+					<w:try>infer</w:try>
+					<w:try>hacks</w:try>
+					<w:try>duvet</w:try>
+					<w:try>these</w:try>
+					<w:try>those</w:try>
+					<w:try>epoch</w:try>
+					<w:try>tours</w:try>
+					<w:try>torus</w:try>
+				</w:quordle>
+			</x:param>
+		</x:call>
+
+		<x:expect label="it should generate a game panel with 9 guesses">
+			<div class="hide game-panel">
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+				<div class="guess">...</div>
+			</div>
+		</x:expect>
+
+	</x:scenario>
+
 </x:description>
