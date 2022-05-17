@@ -217,7 +217,7 @@
 
 
 	<xsl:template name="blank-guess">
-		<div class="guess">
+		<div class="filler guess">
 			<span class="tile"></span>
 			<span class="tile"></span>
 			<span class="tile"></span>
