@@ -712,4 +712,11 @@
 		<try>delve</try>
 	</wordle>
 
+	<wordle date="2022-05-17" number="332" score="4" word="being">
+		<try>black</try>
+		<try>bitsy</try>
+		<try>brine</try>
+		<try>being</try>
+	</wordle>
+
 </wordles>

@@ -179,4 +179,16 @@
 		<try>boner</try>
 	</quordle>
 
+	<quordle date="2022-05-17" number="113" scores="5 8 6 9" words="fully purer fishy knock">
+		<try>whole</try>
+		<try>black</try>
+		<try>friar</try>
+		<try>stump</try>
+		<try>fully</try>
+		<try>fishy</try>
+		<try>duper</try>
+		<try>purer</try>
+		<try>knock</try>
+	</quordle>
+
 </wordles>
