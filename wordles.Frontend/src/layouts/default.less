@@ -23,9 +23,12 @@
 	}
 
 	@supports (display: grid) {
+
 		> div {
+			--col-width: var(--col-size, 10rem);
+
 			display: grid;
-			grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+			grid-template-columns: repeat(auto-fill, minmax(var(--col-width), 1fr));
 			justify-items: start;
 		}
 	}
