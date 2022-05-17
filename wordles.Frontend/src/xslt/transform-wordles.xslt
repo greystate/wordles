@@ -75,7 +75,7 @@
 		</div>
 
 		<h2>Quordle</h2>
-		<div style="--bgcolor-ok: #fc6; --col-size: 14rem;" lang="en">
+		<div style="--col-size: 14rem;" lang="en">
 			<xsl:for-each select="$quordles">
 				<xsl:sort select="@date" order="descending" />
 				<div class="quad-panel hide" xsl:use-attribute-sets="identification">
