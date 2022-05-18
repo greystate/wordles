@@ -32,6 +32,7 @@
 
 	<xsl:template name="local-stats">
 		<xsl:param name="wordles" select="/.." />
+		<xsl:param name="end-score" select="6" />
 		<xsl:variable name="average" select="floor(sum($wordles/@score) div count($wordles))" />
 
 <!-- 		<dl class="stats">
@@ -44,6 +45,7 @@
 			<xsl:call-template name="score-bars">
 				<xsl:with-param name="wordles" select="$wordles" />
 				<xsl:with-param name="score" select="1" />
+				<xsl:with-param name="end-score" select="$end-score" />
 			</xsl:call-template>
 		</details>
 
@@ -215,7 +217,6 @@
 		</xsl:if>
 	</xsl:template>
 
-
 	<xsl:template name="blank-guess">
 		<div class="filler guess">
 			<span class="tile"></span>
@@ -229,16 +230,18 @@
 	<xsl:template name="score-bars">
 		<xsl:param name="wordles" select="/.." />
 		<xsl:param name="score" select="1" />
+		<xsl:param name="end-score" select="6" />
 
 		<xsl:call-template name="score-bar">
 			<xsl:with-param name="wordles" select="$wordles" />
 			<xsl:with-param name="score" select="$score" />
 		</xsl:call-template>
 
-		<xsl:if test="$score &lt; 6">
+		<xsl:if test="$score &lt; $end-score">
 			<xsl:call-template name="score-bars">
 				<xsl:with-param name="wordles" select="$wordles" />
 				<xsl:with-param name="score" select="$score + 1" />
+				<xsl:with-param name="end-score" select="$end-score" />
 			</xsl:call-template>
 		</xsl:if>
 	</xsl:template>
@@ -263,7 +266,7 @@
 			</xsl:variable>
 
 			<xsl:variable name="hilite" select="count($wordles[@score = $score]) = $max-count" />
-			<xsl:variable name="has-hi-value" select="$count &gt;= $max-count" />
+			<xsl:variable name="has-hi-value" select="$count &gt;= ($max-count * 0.8)" />
 
 			<dl class="scorebar" data-hi="{$hilite}">
 				<xsl:if test="$has-hi-value">
