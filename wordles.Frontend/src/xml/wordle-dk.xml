@@ -743,4 +743,11 @@
 		<try>mobbe</try>
 	</wordle>
 
+	<wordle date="2022-05-19" number="130" score="4" word="likør">
+		<try>brudt</try>
+		<try>ramle</try>
+		<try>lyrik</try>
+		<try>likør</try>
+	</wordle>
+
 </wordles>

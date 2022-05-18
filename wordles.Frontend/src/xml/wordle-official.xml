@@ -725,4 +725,12 @@
 		<try>scour</try>
 	</wordle>
 
+	<wordle date="2022-05-19" number="334" score="5" word="glass">
+		<try>boxed</try>
+		<try>artsy</try>
+		<try>slash</try>
+		<try>class</try>
+		<try>glass</try>
+	</wordle>
+
 </wordles>

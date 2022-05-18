@@ -203,4 +203,15 @@
 		<try>voila</try>
 	</quordle>
 
+	<quordle date="2022-05-19" number="115" scores="8 6 4 7" words="koala build scamp nosey">
+		<try>pearl</try>
+		<try>stonk</try>
+		<try>chime</try>
+		<try>scamp</try>
+		<try>buggy</try>
+		<try>build</try>
+		<try>nosey</try>
+		<try>koala</try>
+	</quordle>
+
 </wordles>
