@@ -191,4 +191,16 @@
 		<try>knock</try>
 	</quordle>
 
+	<quordle date="2022-05-18" number="114" scores="5 6 7 9" words="prong graph witch voila">
+		<try>scour</try>
+		<try>brace</try>
+		<try>train</try>
+		<try>drony</try>
+		<try>prong</try>
+		<try>graph</try>
+		<try>witch</try>
+		<try>folia</try>
+		<try>voila</try>
+	</quordle>
+
 </wordles>

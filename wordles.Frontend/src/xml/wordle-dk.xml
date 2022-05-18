@@ -735,4 +735,12 @@
 		<try>logik</try>
 	</wordle>
 
+	<wordle date="2022-05-18" number="129" score="5" word="mobbe">
+		<try>torsk</try>
+		<try>folde</try>
+		<try>gomme</try>
+		<try>moppe</try>
+		<try>mobbe</try>
+	</wordle>
+
 </wordles>

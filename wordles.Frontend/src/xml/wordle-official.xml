@@ -719,4 +719,10 @@
 		<try>being</try>
 	</wordle>
 
+	<wordle date="2022-05-18" number="333" score="3" word="scour">
+		<try>brace</try>
+		<try>rocky</try>
+		<try>scour</try>
+	</wordle>
+
 </wordles>
