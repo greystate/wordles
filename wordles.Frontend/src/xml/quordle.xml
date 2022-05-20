@@ -214,4 +214,17 @@
 		<try>koala</try>
 	</quordle>
 
+	<quordle date="2022-05-20" number="116" scores="6 8 9 5" words="quail drier given place">
+		<try>frame</try>
+		<try>swung</try>
+		<try>polio</try>
+		<try>plate</try>
+		<try>place</try>
+		<try>quail</try>
+		<try>dried</try>
+		<try>drier</try>
+		<try>given</try>
+	</quordle>
+
+
 </wordles>

@@ -733,4 +733,11 @@
 		<try>glass</try>
 	</wordle>
 
+	<wordle date="2022-05-20" number="335" score="4" word="gamer">
+		<try>sound</try>
+		<try>frame</try>
+		<try>harem</try>
+		<try>gamer</try>
+	</wordle>
+
 </wordles>

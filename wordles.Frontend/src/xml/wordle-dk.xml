@@ -750,4 +750,12 @@
 		<try>likør</try>
 	</wordle>
 
+	<wordle date="2022-05-20" number="131" score="5" word="kæden">
+		<try>blade</try>
+		<try>depot</try>
+		<try>møder</try>
+		<try>guden</try>
+		<try>kæden</try>
+	</wordle>
+
 </wordles>
