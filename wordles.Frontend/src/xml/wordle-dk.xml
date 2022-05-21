@@ -758,4 +758,11 @@
 		<try>kæden</try>
 	</wordle>
 
+	<wordle date="2022-05-21" number="132" score="4" word="jamre">
+		<try>skarp</try>
+		<try>attrå</try>
+		<try>hamre</try>
+		<try>jamre</try>
+	</wordle>
+
 </wordles>

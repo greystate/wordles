@@ -226,5 +226,15 @@
 		<try>given</try>
 	</quordle>
 
+	<quordle date="2022-05-21" number="117" scores="7 6 4 8" words="agony frock scare grill">
+		<try>trunk</try>
+		<try>frisk</try>
+		<try>cedar</try>
+		<try>scare</try>
+		<try>hobby</try>
+		<try>frock</try>
+		<try>agony</try>
+		<try>grill</try>
+	</quordle>
 
 </wordles>

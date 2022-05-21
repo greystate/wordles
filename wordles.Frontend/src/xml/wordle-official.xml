@@ -740,4 +740,10 @@
 		<try>gamer</try>
 	</wordle>
 
+	<wordle date="2022-05-21" number="336" score="3" word="scrap">
+		<try>spark</try>
+		<try>sharp</try>
+		<try>scrap</try>
+	</wordle>
+
 </wordles>
