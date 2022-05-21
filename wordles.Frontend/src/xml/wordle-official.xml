@@ -746,4 +746,11 @@
 		<try>scrap</try>
 	</wordle>
 
+	<wordle date="2022-05-22" number="337" score="4" word="money">
+		<try>chord</try>
+		<try>omega</try>
+		<try>melon</try>
+		<try>money</try>
+	</wordle>
+
 </wordles>

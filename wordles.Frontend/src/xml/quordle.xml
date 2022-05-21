@@ -237,4 +237,14 @@
 		<try>grill</try>
 	</quordle>
 
+	<quordle date="2022-05-22" number="118" scores="5 2 6 7" words="phase first photo style">
+		<try>flirt</try>
+		<try>first</try>
+		<try>chump</try>
+		<try>least</try>
+		<try>phase</try>
+		<try>photo</try>
+		<try>style</try>
+	</quordle>
+
 </wordles>
