@@ -247,4 +247,16 @@
 		<try>style</try>
 	</quordle>
 
+	<quordle date="2022-05-23" number="119" scores="4 0 8 9" words="nurse genre eager newer">
+		<try>house</try>
+		<try>light</try>
+		<try>purse</try>
+		<try>nurse</try>
+		<try>grace</try>
+		<try>raged</try>
+		<try>wager</try>
+		<try>eager</try>
+		<try>newer</try>
+	</quordle>
+
 </wordles>

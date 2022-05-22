@@ -773,4 +773,12 @@
 		<try>motel</try>
 	</wordle>
 
+	<wordle date="2022-05-23" number="134" score="5" word="krans">
+		<try>fiske</try>
+		<try>torsk</try>
+		<try>skrål</try>
+		<try>krads</try>
+		<try>krans</try>
+	</wordle>
+
 </wordles>
