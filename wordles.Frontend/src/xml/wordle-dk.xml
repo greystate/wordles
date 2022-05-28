@@ -782,13 +782,13 @@
 		<try>krans</try>
 	</wordle>
 
-	<wordle date="2022-05-24" number="136" score="6" word="?????" note="Forgot to add this on the day and can't remember...">
-		<try>00000</try>
-		<try>?0000</try>
-		<try>??000</try>
-		<try>???00</try>
-		<try>????0</try>
-		<try>?????</try>
+	<!-- Note: This was reconstructed from knowing the answer (forgot to log it on the day) -->
+	<wordle date="2022-05-24" number="136" score="5" word="intim">
+		<try>start</try>
+		<try>tempo</try>
+		<try>minut</try>
+		<try>latin</try>
+		<try>intim</try>
 	</wordle>
 
 	<wordle date="2022-05-25" number="137" score="6" word="mjave">
