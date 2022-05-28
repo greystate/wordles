@@ -758,4 +758,39 @@
 		<try>hinge</try>
 	</wordle>
 
+	<wordle date="2022-05-24" number="339" score="5" word="album">
+		<try>slant</try>
+		<try>plead</try>
+		<try>along</try>
+		<try>alarm</try>
+		<try>album</try>
+	</wordle>
+
+	<wordle date="2022-05-25" number="340" score="5" word="vouch">
+		<try>space</try>
+		<try>trick</try>
+		<try>juicy</try>
+		<try>couch</try>
+		<try>vouch</try>
+	</wordle>
+
+	<wordle date="2022-05-26" number="341" score="2" word="asset">
+		<try>later</try>
+		<try>asset</try>
+	</wordle>
+
+	<wordle date="2022-05-27" number="342" score="4" word="tiara">
+		<try>great</try>
+		<try>stark</try>
+		<try>tharm</try>
+		<try>tiara</try>
+	</wordle>
+
+	<wordle date="2022-05-28" number="343" score="4" word="crept">
+		<try>fight</try>
+		<try>splat</try>
+		<try>crypt</try>
+		<try>crept</try>
+	</wordle>
+
 </wordles>

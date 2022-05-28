@@ -782,4 +782,46 @@
 		<try>krans</try>
 	</wordle>
 
+	<wordle date="2022-05-24" number="136" score="6" word="?????" note="Forgot to add this on the day and can't remember...">
+		<try>00000</try>
+		<try>?0000</try>
+		<try>??000</try>
+		<try>???00</try>
+		<try>????0</try>
+		<try>?????</try>
+	</wordle>
+
+	<wordle date="2022-05-25" number="137" score="6" word="mjave">
+		<try>trick</try>
+		<try>spole</try>
+		<try>bunde</try>
+		<try>hygge</try>
+		<try>møffe</try>
+		<try>mjave</try>
+	</wordle>
+
+	<wordle date="2022-05-26" number="138" score="6" word="lilje">
+		<try>lyder</try>
+		<try>lokke</try>
+		<try>laste</try>
+		<try>ligne</try>
+		<try>lille</try>
+		<try>lilje</try>
+	</wordle>
+
+	<wordle date="2022-05-27" number="139" score="4" word="klang">
+		<try>barsk</try>
+		<try>aktør</try>
+		<try>klage</try>
+		<try>klang</try>
+	</wordle>
+
+	<wordle date="2022-05-28" number="140" score="5" word="islag">
+		<try>spark</try>
+		<try>laste</try>
+		<try>alias</try>
+		<try>islam</try>
+		<try>islag</try>
+	</wordle>
+
 </wordles>

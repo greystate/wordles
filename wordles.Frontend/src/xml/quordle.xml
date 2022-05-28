@@ -259,4 +259,61 @@
 		<try>newer</try>
 	</quordle>
 
+	<quordle date="2022-05-24" number="120" scores="8 7 4 5" words="oddly valor stead fruit">
+		<try>plead</try>
+		<try>rinse</try>
+		<try>thumb</try>
+		<try>stead</try>
+		<try>fruit</try>
+		<try>larva</try>
+		<try>valor</try>
+		<try>oddly</try>
+	</quordle>
+
+	<quordle date="2022-05-25" number="121" scores="0 5 7 2" words="allay crust quite click">
+		<try>trick</try>
+		<try>click</try>
+		<try>crate</try>
+		<try>spite</try>
+		<try>crust</try>
+		<try>unite</try>
+		<try>quite</try>
+		<try>along</try>
+		<try>alone</try>
+	</quordle>
+
+	<quordle date="2022-05-26" number="122" scores="4 7 3 6" words="gaunt exert grape third">
+		<try>space</try>
+		<try>bungy</try>
+		<try>grape</try>
+		<try>gaunt</try>
+		<try>rivet</try>
+		<try>third</try>
+		<try>exert</try>
+	</quordle>
+
+	<quordle date="2022-05-27" number="123" scores="7 6 3 9" words="cover morph twirl refer">
+		<try>sword</try>
+		<try>plant</try>
+		<try>twirl</try>
+		<try>roper</try>
+		<try>mover</try>
+		<try>morph</try>
+		<try>cover</try>
+		<try>ruler</try>
+		<try>refer</try>
+	</quordle>
+
+	<quordle date="2022-05-28" number="124" scores="5 7 9 0" words="cower turbo duchy parka">
+		<try>splat</try>
+		<try>cough</try>
+		<try>cover</try>
+		<try>crude</try>
+		<try>cower</try>
+		<try>tumor</try>
+		<try>turbo</try>
+		<try>parry</try>
+		<try>duchy</try>
+	</quordle>
+
 </wordles>
