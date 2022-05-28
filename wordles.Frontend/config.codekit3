@@ -15,6 +15,12 @@
       "oAP" : "\/build\/build",
       "oF" : 0
     },
+    "\/lib" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/build\/lib",
+      "oF" : 0
+    },
     "\/src\/assets\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -2430,7 +2436,7 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
-    "skippedFoldersString" : "\/websiteicons,\/storage\/framework\/sessions,node_modules,_logs,logs,log,.idea,_cache,cache,\/test",
+    "skippedFoldersString" : "\/storage\/framework\/sessions,\/lib,logs,_logs,log,node_modules,\/websiteicons,cache,\/test,_cache,.idea",
     "sourceFolderName" : "src",
     "susyVersion" : 3,
     "tsAllowSyntheticDefaultImports" : 0,

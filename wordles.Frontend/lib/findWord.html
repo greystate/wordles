@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Find Wørdle word</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script src="words.js"></script>
+
+	<script>
+		var alpha = "abcdefghijklmnopqrstuvwxyzæøå"
+		function decryptWordFromCode(code) {
+		  return code.split("")
+			.map(function(item, index) {
+			  return alpha[(alpha.length + (alpha.indexOf(item) - 2)) % alpha.length];
+			})
+			.join("")
+		}
+		var wordNumber = 136
+		var code = words[wordNumber - 1]
+
+		var word = decryptWordFromCode(
+		  codeMap.replacements.reduce(function(e, t, n) {
+			return e.replace(t, codeMap.values[n]);
+		  }, code)
+		)
+
+		console.log(`Wørdle word #${wordNumber} is '${word}'`)
+	</script>
+</head>
+<body>
+
+
+
+
+</body>
+</html>
