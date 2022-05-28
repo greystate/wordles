@@ -81,7 +81,7 @@
 			<xsl:for-each select="$quordles">
 				<xsl:sort select="@date" order="descending" />
 				<div class="quad-panel hide" xsl:use-attribute-sets="identification">
-					<header><h3>#<xsl:value-of select="@number" /></h3></header>
+					<header><h3 title="{@date}"><xsl:value-of select="concat('#', @number)" /></h3></header>
 					<xsl:apply-templates select="." mode="scores" />
 					<xsl:apply-templates select="." mode="panels" />
 				</div>
@@ -93,7 +93,7 @@
 	<xsl:template match="w:wordle">
 		<div class="hide game-panel" xsl:use-attribute-sets="identification">
 			<header>
-				<h3><xsl:value-of select="concat('#', @number)" /></h3>
+				<h3 title="{@date}"><xsl:value-of select="concat('#', @number)" /></h3>
 			</header>
 			<xsl:apply-templates select="w:try" />
 			<xsl:if test="count(w:try) = 6 and @score = 0">
