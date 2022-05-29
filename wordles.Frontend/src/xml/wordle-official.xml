@@ -793,4 +793,12 @@
 		<try>crept</try>
 	</wordle>
 
+	<wordle date="2022-05-29" number="344" score="5" word="bajou">
+		<try>strip</try>
+		<try>clang</try>
+		<try>famed</try>
+		<try>wazoo</try>
+		<try>bajou</try>
+	</wordle>
+
 </wordles>

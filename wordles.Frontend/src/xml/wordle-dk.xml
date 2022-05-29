@@ -824,4 +824,13 @@
 		<try>islag</try>
 	</wordle>
 
+	<wordle date="2022-05-29" number="141" score="6" word="hæder">
+		<try>karse</try>
+		<try>rekyl</try>
+		<try>føjer</try>
+		<try>poder</try>
+		<try>tuder</try>
+		<try>hæder</try>
+	</wordle>
+
 </wordles>

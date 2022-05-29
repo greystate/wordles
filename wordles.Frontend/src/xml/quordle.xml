@@ -316,4 +316,16 @@
 		<try>duchy</try>
 	</quordle>
 
+	<quordle date="2022-05-29" number="125" scores="6 7 4 9" words="lorry gnash swoop exist">
+		<try>prong</try>
+		<try>stale</try>
+		<try>spoof</try>
+		<try>swoop</try>
+		<try>lordy</try>
+		<try>lorry</try>
+		<try>gnash</try>
+		<try>quest</try>
+		<try>exist</try>
+	</quordle>
+
 </wordles>
