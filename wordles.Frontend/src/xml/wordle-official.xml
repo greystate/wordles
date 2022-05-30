@@ -801,4 +801,11 @@
 		<try>bajou</try>
 	</wordle>
 
+	<wordle date="2022-05-30" number="345" score="4" word="atoll">
+		<try>slide</try>
+		<try>tonal</try>
+		<try>octal</try>
+		<try>atoll</try>
+	</wordle>
+
 </wordles>
