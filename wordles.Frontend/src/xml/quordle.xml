@@ -339,4 +339,16 @@
 		<try>grade</try>
 	</quordle>
 
+	<quordle date="2022-05-31" number="127" scores="5 9 0 4" words="pluck grave midge juicy">
+		<try>chair</try>
+		<try>touch</try>
+		<try>weary</try>
+		<try>juicy</try>
+		<try>pluck</try>
+		<try>erase</try>
+		<try>brave</try>
+		<try>crave</try>
+		<try>grave</try>
+	</quordle>
+
 </wordles>

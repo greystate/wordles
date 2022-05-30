@@ -841,4 +841,10 @@
 		<try>kinky</try>
 	</wordle>
 
+	<wordle date="2022-05-31" number="143" score="3" word="infam">
+		<try>sagen</try>
+		<try>anfør</try>
+		<try>infam</try>
+	</wordle>
+
 </wordles>
