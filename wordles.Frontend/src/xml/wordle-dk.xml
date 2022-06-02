@@ -847,4 +847,19 @@
 		<try>infam</try>
 	</wordle>
 
+	<wordle date="2022-06-01" number="144" score="5" word="hævne">
+		<try>bestå</try>
+		<try>grave</try>
+		<try>vilje</try>
+		<try>hævde</try>
+		<try>hævne</try>
+	</wordle>
+
+	<wordle date="2022-06-02" number="145" score="4" word="gløgg">
+		<try>grine</try>
+		<try>gamma</try>
+		<try>gløds</try>
+		<try>gløgg</try>
+	</wordle>
+
 </wordles>

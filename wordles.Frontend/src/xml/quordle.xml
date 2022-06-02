@@ -351,4 +351,27 @@
 		<try>grave</try>
 	</quordle>
 
+	<quordle date="2022-06-01" number="128" scores="9 0 5 8" words="paste aglow rider where">
+		<try>trial</try>
+		<try>after</try>
+		<try>reset</try>
+		<try>river</try>
+		<try>rider</try>
+		<try>haste</try>
+		<try>waste</try>
+		<try>where</try>
+		<try>paste</try>
+	</quordle>
+
+	<quordle date="2022-06-02" number="129" scores="6 8 7 5" words="farce worth barge there">
+		<try>opera</try>
+		<try>fungi</try>
+		<try>volts</try>
+		<try>frame</try>
+		<try>there</try>
+		<try>farce</try>
+		<try>barge</try>
+		<try>worth</try>
+	</quordle>
+
 </wordles>

@@ -815,4 +815,19 @@
 		<try>manor</try>
 	</wordle>
 
+	<wordle date="2022-06-01" number="347" score="5" word="creak">
+		<try>point</try>
+		<try>grace</try>
+		<try>arced</try>
+		<try>cream</try>
+		<try>creak</try>
+	</wordle>
+
+	<wordle date="2022-06-02" number="348" score="4" word="showy">
+		<try>opera</try>
+		<try>tonic</try>
+		<try>bloom</try>
+		<try>showy</try>
+	</wordle>
+
 </wordles>
