@@ -862,4 +862,13 @@
 		<try>gløgg</try>
 	</wordle>
 
+	<wordle date="2022-06-03" number="146" score="0" word="føder">
+		<try>trope</try>
+		<try>varen</try>
+		<try>syder</try>
+		<try>guder</try>
+		<try>læder</try>
+		<try>møder</try>
+	</wordle>
+
 </wordles>

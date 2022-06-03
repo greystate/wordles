@@ -830,4 +830,12 @@
 		<try>showy</try>
 	</wordle>
 
+	<wordle date="2022-06-03" number="349" score="5" word="phase">
+		<try>rifle</try>
+		<try>waste</try>
+		<try>shake</try>
+		<try>chase</try>
+		<try>phase</try>
+	</wordle>
+
 </wordles>

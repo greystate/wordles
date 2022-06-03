@@ -374,4 +374,16 @@
 		<try>worth</try>
 	</quordle>
 
+	<quordle date="2022-06-03" number="130" scores="4 0 9 0" words="splat savvy moron dross">
+		<try>shake</try>
+		<try>salon</try>
+		<try>splay</try>
+		<try>splat</try>
+		<try>saggy</try>
+		<try>saucy</try>
+		<try>onion</try>
+		<try>sassy</try>
+		<try>moron</try>
+	</quordle>
+
 </wordles>
