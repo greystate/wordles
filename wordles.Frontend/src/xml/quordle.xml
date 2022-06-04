@@ -386,4 +386,15 @@
 		<try>moron</try>
 	</quordle>
 
+	<quordle date="2022-06-04" number="131" scores="3 5 8 7" words="scope bloke roach bongo">
+		<try>trove</try>
+		<try>scone</try>
+		<try>scope</try>
+		<try>glady</try>
+		<try>bloke</try>
+		<try>boing</try>
+		<try>bongo</try>
+		<try>roach</try>
+	</quordle>
+
 </wordles>

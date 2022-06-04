@@ -838,4 +838,11 @@
 		<try>phase</try>
 	</wordle>
 
+	<wordle date="2022-06-04" number="350" score="4" word="froth">
+		<try>print</try>
+		<try>trove</try>
+		<try>broth</try>
+		<try>froth</try>
+	</wordle>
+
 </wordles>

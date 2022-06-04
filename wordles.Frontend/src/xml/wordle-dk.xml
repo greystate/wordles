@@ -871,4 +871,10 @@
 		<try>møder</try>
 	</wordle>
 
+	<wordle date="2022-06-04" number="147" score="3" word="epoke">
+		<try>print</try>
+		<try>spelt</try>
+		<try>epoke</try>
+	</wordle>
+
 </wordles>
