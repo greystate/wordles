@@ -877,4 +877,11 @@
 		<try>epoke</try>
 	</wordle>
 
+	<wordle date="2022-06-05" number="148" score="4" word="abbed">
+		<try>spare</try>
+		<try>betal</try>
+		<try>gaven</try>
+		<try>abbed</try>
+	</wordle>
+
 </wordles>

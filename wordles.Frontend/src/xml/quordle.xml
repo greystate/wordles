@@ -397,4 +397,15 @@
 		<try>roach</try>
 	</quordle>
 
+	<quordle date="2022-06-05" number="132" scores="6 5 7 4" words="gavel mogul deign wreck">
+		<try>blink</try>
+		<try>purty</try>
+		<try>cased</try>
+		<try>wreck</try>
+		<try>mogul</try>
+		<try>gavel</try>
+		<try>deign</try>
+	</quordle>
+
+
 </wordles>

@@ -845,4 +845,11 @@
 		<try>froth</try>
 	</wordle>
 
+	<wordle date="2022-06-05" number="351" score="4" word="depth">
+		<try>chord</try>
+		<try>handy</try>
+		<try>dough</try>
+		<try>depth</try>
+	</wordle>
+
 </wordles>
