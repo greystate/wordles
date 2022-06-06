@@ -884,4 +884,13 @@
 		<try>abbed</try>
 	</wordle>
 
+	<wordle date="2022-06-06" number="149" score="5" word="usagt">
+		<try>union</try>
+		<try>uhørt</try>
+		<try>udset</try>
+		<try>ulæst</try>
+		<try>usagt</try>
+	</wordle>
+
+
 </wordles>
