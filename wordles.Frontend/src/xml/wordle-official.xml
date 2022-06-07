@@ -859,4 +859,11 @@
 		<try>gloom</try>
 	</wordle>
 
+	<wordle date="2022-06-07" number="353" score="4" word="flood">
+		<try>heart</try>
+		<try>spicy</try>
+		<try>mould</try>
+		<try>flood</try>
+	</wordle>
+
 </wordles>

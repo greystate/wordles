@@ -417,4 +417,16 @@
 		<try>lower</try>
 	</quordle>
 
+	<quordle date="2022-06-07" number="134" scores="5 6 9 4" words="clock bossy liege block">
+		<try>topic</try>
+		<try>flash</try>
+		<try>clone</try>
+		<try>block</try>
+		<try>clock</try>
+		<try>bossy</try>
+		<try>guile</try>
+		<try>ligge</try>
+		<try>liege</try>
+	</quordle>
+
 </wordles>

@@ -892,5 +892,14 @@
 		<try>usagt</try>
 	</wordle>
 
+	<wordle date="2022-06-07" number="150" score="6" word="koral">
+		<try>flyde</try>
+		<try>split</try>
+		<try>lumsk</try>
+		<try>rekyl</try>
+		<try>kravl</try>
+		<try>koral</try>
+	</wordle>
+
 
 </wordles>
