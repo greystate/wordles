@@ -866,4 +866,12 @@
 		<try>flood</try>
 	</wordle>
 
+	<wordle date="2022-06-08" number="354" score="5" word="trait">
+		<try>brand</try>
+		<try>trace</try>
+		<try>trail</try>
+		<try>train</try>
+		<try>trait</try>
+	</wordle>
+
 </wordles>

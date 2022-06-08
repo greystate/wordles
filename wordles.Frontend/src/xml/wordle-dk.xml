@@ -901,5 +901,13 @@
 		<try>koral</try>
 	</wordle>
 
+	<wordle date="2022-06-08" number="151" score="5" word="sløjd">
+		<try>moler</try>
+		<try>habil</try>
+		<try>flygt</try>
+		<try>pluks</try>
+		<try>sløjd</try>
+	</wordle>
+
 
 </wordles>

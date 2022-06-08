@@ -429,4 +429,15 @@
 		<try>liege</try>
 	</quordle>
 
+	<quordle date="2022-06-08" number="135" scores="8 2 7 6" words="tryst mound spree serum">
+		<try>brand</try>
+		<try>mound</try>
+		<try>rumor</try>
+		<try>crepe</try>
+		<try>spite</try>
+		<try>serum</try>
+		<try>spree</try>
+		<try>tryst</try>
+	</quordle>
+
 </wordles>
