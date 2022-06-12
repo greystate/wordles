@@ -909,5 +909,38 @@
 		<try>sløjd</try>
 	</wordle>
 
+	<wordle date="2022-06-09" number="152" score="5" word="nytår">
+		<try>flade</try>
+		<try>prust</try>
+		<try>forti</try>
+		<try>rotor</try>
+		<try>nytår</try>
+	</wordle>
+
+	<wordle date="2022-06-10" number="153" score="3" word="pause">
+		<try>mærke</try>
+		<try>pusle</try>
+		<try>pause</try>
+	</wordle>
+
+	<wordle date="2022-06-11" number="154" score="4" word="modgå">
+		<try>ramle</try>
+		<try>opium</try>
+		<try>motiv</try>
+		<try>modgå</try>
+	</wordle>
+
+	<wordle date="2022-06-12" number="155" score="4" word="organ">
+		<try>trone</try>
+		<try>ornat</try>
+		<try>orkan</try>
+		<try>organ</try>
+	</wordle>
+
+	<wordle date="2022-06-13" number="156" score="3" word="kiste">
+		<try>skåle</try>
+		<try>kaste</try>
+		<try>kiste</try>
+	</wordle>
 
 </wordles>

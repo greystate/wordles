@@ -874,4 +874,37 @@
 		<try>trait</try>
 	</wordle>
 
+	<wordle date="2022-06-09" number="355" score="3" word="girth">
+		<try>zebra</try>
+		<try>tiger</try>
+		<try>girth</try>
+	</wordle>
+
+	<wordle date="2022-06-10" number="356" score="4" word="piety">
+		<try>whale</try>
+		<try>treks</try>
+		<try>inept</try>
+		<try>piety</try>
+	</wordle>
+
+	<wordle date="2022-06-11" number="357" score="4" word="goose">
+		<try>frame</try>
+		<try>spice</try>
+		<try>stoke</try>
+		<try>goose</try>
+	</wordle>
+
+	<wordle date="2022-06-12" number="358" score="3" word="float">
+		<try>organ</try>
+		<try>bloat</try>
+		<try>float</try>
+	</wordle>
+
+	<wordle date="2022-06-13" number="369" score="4" word="donor">
+		<try>paint</try>
+		<try>nerve</try>
+		<try>drown</try>
+		<try>donor</try>
+	</wordle>
+
 </wordles>

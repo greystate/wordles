@@ -440,4 +440,63 @@
 		<try>tryst</try>
 	</quordle>
 
+	<quordle date="2022-06-09" number="136" scores="6 0 0 0" words="shank rajah pixie cobra">
+		<try>tiger</try>
+		<try>dumpy</try>
+		<try>reals</try>
+		<try>shawl</try>
+		<try>shack</try>
+		<try>shank</try>
+		<try>caron</try>
+		<try>biped</try>
+		<try>viper</try>
+	</quordle>
+
+	<quordle date="2022-06-10" number="137" scores="4 9 6 0" words="anode audio chasm began">
+		<try>inept</try>
+		<try>whale</try>
+		<try>froze</try>
+		<try>anode</try>
+		<try>chack</try>
+		<try>chasm</try>
+		<try>avoid</try>
+		<try>addio</try>
+		<try>audio</try>
+	</quordle>
+
+	<quordle date="2022-06-11" number="138" scores="6 7 4 8" words="leant array draft azure">
+		<try>stare</try>
+		<try>adore</try>
+		<try>feast</try>
+		<try>draft</try>
+		<try>leapt</try>
+		<try>leant</try>
+		<try>array</try>
+		<try>azure</try>
+	</quordle>
+
+	<quordle date="2022-06-12" number="139" scores="7 0 3 8" words="shirk guava opine fable">
+		<try>drain</try>
+		<try>topic</try>
+		<try>opine</try>
+		<try>rains</try>
+		<try>skirr</try>
+		<try>smirk</try>
+		<try>shirk</try>
+		<try>fable</try>
+		<try>gauzy</try>
+	</quordle>
+
+	<quordle date="2022-06-13" number="140" scores="9 5 4 8" words="mania salty phase swoon">
+		<try>paint</try>
+		<try>speak</try>
+		<try>pease</try>
+		<try>phase</try>
+		<try>salty</try>
+		<try>snogs</try>
+		<try>sword</try>
+		<try>swoon</try>
+		<try>mania</try>
+	</quordle>
+
 </wordles>
