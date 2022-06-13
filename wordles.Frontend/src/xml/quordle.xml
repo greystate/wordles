@@ -499,4 +499,14 @@
 		<try>mania</try>
 	</quordle>
 
+	<quordle date="2022-06-14" number="141" scores="7 4 6 5" words="cello shade caper piano">
+		<try>spank</try>
+		<try>sharp</try>
+		<try>trade</try>
+		<try>shade</try>
+		<try>piano</try>
+		<try>caper</try>
+		<try>cello</try>
+	</quordle>
+
 </wordles>

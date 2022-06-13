@@ -943,4 +943,11 @@
 		<try>kiste</try>
 	</wordle>
 
+	<wordle date="2022-06-14" number="157" score="4" word="nådig">
+		<try>koble</try>
+		<try>trang</try>
+		<try>uenig</try>
+		<try>nådig</try>
+	</wordle>
+
 </wordles>
