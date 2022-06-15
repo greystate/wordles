@@ -919,4 +919,10 @@
 		<try>primo</try>
 	</wordle>
 
+	<wordle date="2022-06-16" number="372" score="3" word="apron">
+		<try>clamp</try>
+		<try>paint</try>
+		<try>apron</try>
+	</wordle>
+
 </wordles>

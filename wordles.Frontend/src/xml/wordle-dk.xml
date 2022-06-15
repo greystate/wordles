@@ -957,4 +957,10 @@
 		<try>oblat</try>
 	</wordle>
 
+	<wordle date="2022-06-16" number="159" score="3" word="musik">
+		<try>maler</try>
+		<try>modus</try>
+		<try>musik</try>
+	</wordle>
+
 </wordles>

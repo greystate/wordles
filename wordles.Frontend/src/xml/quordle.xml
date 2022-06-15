@@ -520,4 +520,15 @@
 		<try>snowy</try>
 	</quordle>
 
+	<quordle date="2022-06-16" number="143" scores="4 5 8 6" words="loser allot fixer spark">
+		<try>paint</try>
+		<try>scrat</try>
+		<try>coped</try>
+		<try>loser</try>
+		<try>allot</try>
+		<try>spark</try>
+		<try>fiber</try>
+		<try>fixer</try>
+	</quordle>
+
 </wordles>
