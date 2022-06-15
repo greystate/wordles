@@ -913,4 +913,10 @@
 		<try>atone</try>
 	</wordle>
 
+	<wordle date="2022-06-15" number="371" score="3" word="primo">
+		<try>coder</try>
+		<try>rhino</try>
+		<try>primo</try>
+	</wordle>
+
 </wordles>
