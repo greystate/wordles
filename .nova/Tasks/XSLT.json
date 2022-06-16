@@ -2,12 +2,11 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "cd wordles.Frontend\nxsltproc --xinclude -o src\/kit\/transforms\/_wordles.kit src\/xslt\/transform-wordles.xslt src\/xml\/wordles.xml"
+      "script" : "cd wordles.Frontend\nxsltproc --xinclude -o src\/kit\/transforms\/_latest-wordles.kit src\/xslt\/transform-wordles.xslt src\/xml\/wordles.xml\n\nxsltproc --xinclude -o src\/kit\/transforms\/_wordles.kit --stringparam showall yes src\/xslt\/transform-wordles.xslt src\/xml\/wordles.xml"
     }
   },
   "environment" : {
     "TM_PROJECT_DIRECTORY" : "${WorkspaceFolder}"
   },
-  "identifier" : "6663CB2B-4C11-4275-8190-A270FE4F551B",
   "openLogOnRun" : "fail"
 }

@@ -398,6 +398,14 @@
       "oAP" : "\/build\/index.html",
       "oF" : 0
     },
+    "\/src\/kit\/latest\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/latest\/index.html",
+      "oF" : 0
+    },
     "\/src\/kit\/shared\/_constants.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -428,6 +436,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/build\/shared\/_script_content.html",
+      "oF" : 0
+    },
+    "\/src\/kit\/transforms\/_latest-wordles.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/build\/transforms\/_latest-wordles.html",
       "oF" : 0
     },
     "\/src\/kit\/transforms\/_wordles.kit" : {

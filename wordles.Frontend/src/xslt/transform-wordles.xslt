@@ -12,7 +12,11 @@
 
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
-	<xsl:variable name="debugging" select="false()" />
+	<xsl:param name="showall" select="false()" />
+	<xsl:param name="debugging" select="false()" />
+
+	<xsl:variable name="max-wordles" select="6" />
+	<xsl:variable name="max-quordles" select="4" />
 
 	<xsl:variable name="today" select="substring(date:date(), 1, 10)" />
 
@@ -22,7 +26,6 @@
 
 	<xsl:template match="/">
 		<h1>My WORDLE scores</h1>
-
 		<xsl:apply-templates select="w:wordles" />
 
 	</xsl:template>
@@ -64,9 +67,12 @@
 			<xsl:with-param name="wordles" select="$official-wordles" />
 		</xsl:call-template>
 		<div lang="en">
-			<xsl:apply-templates select="$official-wordles">
+			<xsl:for-each select="$official-wordles">
 				<xsl:sort select="@date" order="descending" />
-			</xsl:apply-templates>
+				<xsl:if test="position() &lt;= $max-wordles or $showall = 'yes'">
+					<xsl:apply-templates select="." />
+				</xsl:if>
+			</xsl:for-each>
 		</div>
 
 		<h2>From wørdle.dk</h2>
@@ -74,15 +80,19 @@
 			<xsl:with-param name="wordles" select="$danish-wordles" />
 		</xsl:call-template>
 		<div style="--bgcolor-ok: #f80" lang="da">
-			<xsl:apply-templates select="$danish-wordles">
+			<xsl:for-each select="$danish-wordles">
 				<xsl:sort select="@date" order="descending" />
-			</xsl:apply-templates>
+				<xsl:if test="position() &lt;= $max-wordles or $showall = 'yes'">
+					<xsl:apply-templates select="." />
+				</xsl:if>
+			</xsl:for-each>
 		</div>
 
 		<h2>Quordle</h2>
 		<div style="--col-size: 14rem;" lang="en">
 			<xsl:for-each select="$quordles">
 				<xsl:sort select="@date" order="descending" />
+				<xsl:if test="position() &lt;= $max-quordles or $showall = 'yes'">
 					<div class="quad-panel hide" xsl:use-attribute-sets="identification">
 						<xsl:if test="@date = $today">
 							<xsl:attribute name="class">quad-panel hide today</xsl:attribute>
@@ -91,6 +101,7 @@
 						<xsl:apply-templates select="." mode="scores" />
 						<xsl:apply-templates select="." mode="panels" />
 					</div>
+				</xsl:if>
 			</xsl:for-each>
 		</div>
 
