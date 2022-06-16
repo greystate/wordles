@@ -1,4 +1,4 @@
 *.Web
 *.Frontend/build
-wordles.Frontend/src/kit/transforms/_wordles.kit
+wordles.Frontend/src/kit/transforms/*.kit
 xspec/

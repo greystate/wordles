@@ -3,8 +3,9 @@
 	version="1.0"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:str="http://exslt.org/strings"
+	xmlns:date="http://exslt.org/dates-and-times"
 	xmlns:w="http://xmlns.greystate.dk/2022/wordles"
-	exclude-result-prefixes="w str"
+	exclude-result-prefixes="w str date"
 >
 
 	<xsl:key name="wordles-by-score" match="w:wordle" use="@score" />
@@ -12,6 +13,8 @@
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
 	<xsl:variable name="debugging" select="false()" />
+
+	<xsl:variable name="today" select="substring(date:date(), 1, 10)" />
 
 	<xsl:attribute-set name="identification">
 		<xsl:attribute name="id"><xsl:value-of select="concat(substring(local-name(), 1, 1), '-', ancestor::w:wordles/@xml:lang, '-', @number)" /></xsl:attribute>
@@ -80,11 +83,14 @@
 		<div style="--col-size: 14rem;" lang="en">
 			<xsl:for-each select="$quordles">
 				<xsl:sort select="@date" order="descending" />
-				<div class="quad-panel hide" xsl:use-attribute-sets="identification">
-					<header><h3 title="{@date}"><xsl:value-of select="concat('#', @number)" /></h3></header>
-					<xsl:apply-templates select="." mode="scores" />
-					<xsl:apply-templates select="." mode="panels" />
-				</div>
+					<div class="quad-panel hide" xsl:use-attribute-sets="identification">
+						<xsl:if test="@date = $today">
+							<xsl:attribute name="class">quad-panel hide today</xsl:attribute>
+						</xsl:if>
+						<header><h3 title="{@date}"><xsl:value-of select="concat('#', @number)" /></h3></header>
+						<xsl:apply-templates select="." mode="scores" />
+						<xsl:apply-templates select="." mode="panels" />
+					</div>
 			</xsl:for-each>
 		</div>
 
@@ -92,6 +98,9 @@
 
 	<xsl:template match="w:wordle">
 		<div class="hide game-panel" xsl:use-attribute-sets="identification">
+			<xsl:if test="@date = $today">
+				<xsl:attribute name="class">hide game-panel today</xsl:attribute>
+			</xsl:if>
 			<header>
 				<h3 title="{@date}"><xsl:value-of select="concat('#', @number)" /></h3>
 			</header>
