@@ -963,4 +963,11 @@
 		<try>musik</try>
 	</wordle>
 
+	<wordle date="2022-06-17" number="160" score="4" word="opdag">
+		<try>hotel</try>
+		<try>oralt</try>
+		<try>oplad</try>
+		<try>opdag</try>
+	</wordle>
+
 </wordles>

@@ -531,4 +531,16 @@
 		<try>fixer</try>
 	</quordle>
 
+	<quordle date="2022-06-17" number="144" scores="5 0 8 4" words="vinyl dowdy stein panel">
+		<try>grand</try>
+		<try>hotel</try>
+		<try>navel</try>
+		<try>panel</try>
+		<try>vinyl</try>
+		<try>yodle</try>
+		<try>inset</try>
+		<try>stein</try>
+		<try>moody</try>
+	</quordle>
+
 </wordles>

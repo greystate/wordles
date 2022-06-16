@@ -925,4 +925,12 @@
 		<try>apron</try>
 	</wordle>
 
+	<wordle date="2022-06-17" number="373" score="5" word="blown">
+		<try>grand</try>
+		<try>ponce</try>
+		<try>known</try>
+		<try>frown</try>
+		<try>blown</try>
+	</wordle>
+
 </wordles>
