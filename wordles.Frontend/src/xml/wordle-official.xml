@@ -933,4 +933,13 @@
 		<try>blown</try>
 	</wordle>
 
+	<wordle date="2022-06-18" number="374" score="6" word="cacao">
+		<try>entry</try>
+		<try>vapid</try>
+		<try>walls</try>
+		<try>haugh</try>
+		<try>baboo</try>
+		<try>cacao</try>
+	</wordle>
+
 </wordles>

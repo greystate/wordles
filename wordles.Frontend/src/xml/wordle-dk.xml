@@ -970,4 +970,11 @@
 		<try>opdag</try>
 	</wordle>
 
+	<wordle date="2022-06-18" number="161" score="4" word="lødig">
+		<try>blank</try>
+		<try>liste</try>
+		<try>lydig</try>
+		<try>lødig</try>
+	</wordle>
+
 </wordles>

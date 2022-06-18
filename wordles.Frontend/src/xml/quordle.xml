@@ -543,4 +543,16 @@
 		<try>moody</try>
 	</quordle>
 
+	<quordle date="2022-06-18" number="145" scores="4 9 8 0" words="panic metal agate model">
+		<try>glace</try>
+		<try>legal</try>
+		<try>penal</try>
+		<try>panic</try>
+		<try>feral</try>
+		<try>decal</try>
+		<try>stage</try>
+		<try>agate</try>
+		<try>metal</try>
+	</quordle>
+
 </wordles>
