@@ -942,4 +942,13 @@
 		<try>cacao</try>
 	</wordle>
 
+	<wordle date="2022-06-19" number="375" score="6" word="loser">
+		<try>cabin</try>
+		<try>sword</try>
+		<try>horse</try>
+		<try>roses</try>
+		<try>poser</try>
+		<try>loser</try>
+	</wordle>
+
 </wordles>
