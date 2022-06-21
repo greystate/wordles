@@ -564,4 +564,38 @@
 		<try>sheik</try>
 	</quordle>
 
+	<quordle date="2022-06-20" number="147" scores="5 0 7 3" words="train linen burst sweep">
+		<try>stern</try>
+		<try>power</try>
+		<try>sweep</try>
+		<try>fails</try>
+		<try>train</try>
+		<try>rusty</try>
+		<try>burst</try>
+		<try>liven</try>
+		<try>liken</try>
+	</quordle>
+
+	<quordle date="2022-06-21" number="148" scores="5 4 7 8" words="treat scale magma blurt">
+		<try>tenor</try>
+		<try>dumpy</try>
+		<try>wails</try>
+		<try>scale</try>
+		<try>treat</try>
+		<try>gamma</try>
+		<try>magma</try>
+		<try>blurt</try>
+	</quordle>
+
+	<quordle date="2022-06-22" number="149" scores="8 5 6 7" words="conch chase crowd thrum">
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>chord</try>
+		<try>chase</try>
+		<try>crowd</try>
+		<try>thrum</try>
+		<try>conch</try>
+	</quordle>
+
 </wordles>

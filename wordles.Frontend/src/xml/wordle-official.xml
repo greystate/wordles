@@ -951,4 +951,26 @@
 		<try>loser</try>
 	</wordle>
 
+	<wordle date="2022-06-20" number="376" score="4" word="input">
+		<try>mouse</try>
+		<try>funky</try>
+		<try>unhip</try>
+		<try>input</try>
+	</wordle>
+
+	<wordle date="2022-06-21" number="377" score="4" word="gloat">
+		<try>music</try>
+		<try>tenor</try>
+		<try>lofty</try>
+		<try>gloat</try>
+	</wordle>
+
+	<wordle date="2022-06-22" number="378" score="5" word="awful">
+		<try>opera</try>
+		<try>apply</try>
+		<try>altar</try>
+		<try>anvil</try>
+		<try>awful</try>
+	</wordle>
+
 </wordles>

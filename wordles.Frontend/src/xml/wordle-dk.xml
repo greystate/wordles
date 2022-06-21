@@ -985,4 +985,25 @@
 		<try>uskik</try>
 	</wordle>
 
+	<wordle date="2022-06-20" number="163" score="5" word="kulør">
+		<try>input</try>
+		<try>udkig</try>
+		<try>kumme</try>
+		<try>kubus</try>
+		<try>kulør</try>
+	</wordle>
+
+	<wordle date="2022-06-21" number="164" score="3" word="panik">
+		<try>musik</try>
+		<try>optik</try>
+		<try>panik</try>
+	</wordle>
+
+	<wordle date="2022-06-22" number="165" score="4" word="snegl">
+		<try>ækelt</try>
+		<try>flere</try>
+		<try>spejl</try>
+		<try>snegl</try>
+	</wordle>
+
 </wordles>
