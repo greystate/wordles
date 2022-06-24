@@ -1006,4 +1006,17 @@
 		<try>snegl</try>
 	</wordle>
 
+	<wordle date="2022-06-23" number="166" score="4" word="storm">
+		<try>plast</try>
+		<try>stræk</try>
+		<try>styre</try>
+		<try>storm</try>
+	</wordle>
+
+	<wordle date="2022-06-24" number="167" score="3" word="tenor">
+		<try>laste</try>
+		<try>trend</try>
+		<try>tenor</try>
+	</wordle>
+
 </wordles>

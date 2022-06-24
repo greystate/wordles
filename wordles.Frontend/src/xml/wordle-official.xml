@@ -973,4 +973,18 @@
 		<try>awful</try>
 	</wordle>
 
+	<wordle date="2022-06-23" number="369" score="5" word="brink">
+		<try>empty</try>
+		<try>could</try>
+		<try>swear</try>
+		<try>bring</try>
+		<try>brink</try>
+	</wordle>
+
+	<wordle date="2022-06-24" number="370" score="3" word="smite">
+		<try>cargo</try>
+		<try>tuple</try>
+		<try>smite</try>
+	</wordle>
+
 </wordles>
