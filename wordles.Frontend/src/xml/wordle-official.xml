@@ -987,4 +987,12 @@
 		<try>smite</try>
 	</wordle>
 
+	<wordle date="2022-06-25" number="371" score="5" word="beady">
+		<try>model</try>
+		<try>spend</try>
+		<try>trade</try>
+		<try>heady</try>
+		<try>beady</try>
+	</wordle>
+
 </wordles>

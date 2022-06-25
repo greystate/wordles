@@ -1019,4 +1019,10 @@
 		<try>tenor</try>
 	</wordle>
 
+	<wordle date="2022-06-25" number="168" score="3" word="narko">
+		<try>model</try>
+		<try>tarot</try>
+		<try>narko</try>
+	</wordle>
+
 </wordles>

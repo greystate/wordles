@@ -621,4 +621,15 @@
 		<try>twist</try>
 	</quordle>
 
+	<quordle date="2022-06-25" number="152" scores="8 3 6 5" words="model druid terse unfit">
+		<try>noisy</try>
+		<try>dread</try>
+		<try>druid</try>
+		<try>rivet</try>
+		<try>unfit</try>
+		<try>terse</try>
+		<try>bowed</try>
+		<try>model</try>
+	</quordle>
+
 </wordles>
