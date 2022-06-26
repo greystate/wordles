@@ -632,4 +632,16 @@
 		<try>model</try>
 	</quordle>
 
+	<quordle date="2022-06-26" number="153" scores="7 6 8 9" words="audio lucid slime magma">
+		<try>organ</try>
+		<try>split</try>
+		<try>slick</try>
+		<try>flute</try>
+		<try>slide</try>
+		<try>lucid</try>
+		<try>audio</try>
+		<try>slime</try>
+		<try>magma</try>
+	</quordle>
+
 </wordles>
