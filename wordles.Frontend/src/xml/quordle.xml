@@ -644,4 +644,16 @@
 		<try>magma</try>
 	</quordle>
 
+	<quordle date="2022-06-27" number="154" scores="8 6 5 0" words="chief swirl shush outdo">
+		<try>blank</try>
+		<try>tough</try>
+		<try>dress</try>
+		<try>smush</try>
+		<try>shush</try>
+		<try>swirl</try>
+		<try>chive</try>
+		<try>chief</try>
+		<try>pouty</try>
+	</quordle>
+
 </wordles>

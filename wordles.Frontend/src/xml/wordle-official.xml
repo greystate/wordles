@@ -1001,4 +1001,10 @@
 		<try>rusty</try>
 	</wordle>
 
+	<wordle date="2022-06-27" number="373" score="3" word="retro">
+		<try>pouty</try>
+		<try>trove</try>
+		<try>retro</try>
+	</wordle>
+
 </wordles>
