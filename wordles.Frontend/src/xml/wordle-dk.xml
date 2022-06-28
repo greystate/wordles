@@ -1039,4 +1039,10 @@
 		<try>kvalt</try>
 	</wordle>
 
+	<wordle date="2022-06-28" number="171" score="3" word="ivrig">
+		<try>klart</try>
+		<try>riven</try>
+		<try>ivrig</try>
+	</wordle>
+
 </wordles>

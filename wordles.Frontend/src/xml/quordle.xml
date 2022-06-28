@@ -656,4 +656,16 @@
 		<try>pouty</try>
 	</quordle>
 
+	<quordle date="2022-06-28" number="155" scores="6 3 8 9" words="swash audit tamer teach">
+		<try>blunt</try>
+		<try>hurst</try>
+		<try>audit</try>
+		<try>stash</try>
+		<try>smash</try>
+		<try>swash</try>
+		<try>mater</try>
+		<try>tamer</try>
+		<try>teach</try>
+	</quordle>
+
 </wordles>
