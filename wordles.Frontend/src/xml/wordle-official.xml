@@ -1014,4 +1014,12 @@
 		<try>droll</try>
 	</wordle>
 
+	<wordle date="2022-06-29" number="375" score="5" word="gawky">
+		<try>overt</try>
+		<try>scalp</try>
+		<try>fauna</try>
+		<try>bawdy</try>
+		<try>gawky</try>
+	</wordle>
+
 </wordles>

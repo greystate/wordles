@@ -1045,4 +1045,12 @@
 		<try>ivrig</try>
 	</wordle>
 
+	<wordle date="2022-06-29" number="172" score="4" word="madro">
+		<try>brysk</try>
+		<try>retur</try>
+		<try>flora</try>
+		<try>madro</try>
+	</wordle>
+
+
 </wordles>

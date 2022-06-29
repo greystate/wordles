@@ -668,4 +668,16 @@
 		<try>teach</try>
 	</quordle>
 
+	<quordle date="2022-06-29" number="156" scores="7 8 6 9" words="click tonic suite toxin">
+		<try>flora</try>
+		<try>white</try>
+		<try>spite</try>
+		<try>smite</try>
+		<try>skite</try>
+		<try>suite</try>
+		<try>click</try>
+		<try>tonic</try>
+		<try>toxin</try>
+	</quordle>
+
 </wordles>
