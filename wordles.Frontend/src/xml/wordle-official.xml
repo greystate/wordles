@@ -1022,4 +1022,26 @@
 		<try>gawky</try>
 	</wordle>
 
+	<wordle date="2022-06-30" number="376" score="4" word="hutch">
+		<try>trunk</try>
+		<try>mutha</try>
+		<try>dutch</try>
+		<try>hutch</try>
+	</wordle>
+
+	<wordle date="2022-07-01" number="377" score="4" word="pinto">
+		<try>ticks</try>
+		<try>width</try>
+		<try>minty</try>
+		<try>pinto</try>
+	</wordle>
+
+	<wordle date="2022-07-02" number="378" score="5" word="egret">
+		<try>harsh</try>
+		<try>force</try>
+		<try>tired</try>
+		<try>beret</try>
+		<try>egret</try>
+	</wordle>
+
 </wordles>

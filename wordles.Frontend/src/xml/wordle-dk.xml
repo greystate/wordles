@@ -1052,5 +1052,28 @@
 		<try>madro</try>
 	</wordle>
 
+	<wordle date="2022-06-30" number="173" score="5" word="rolig">
+		<try>stank</try>
+		<try>higer</try>
+		<try>grill</try>
+		<try>lyrik</try>
+		<try>rolig</try>
+	</wordle>
+
+	<wordle date="2022-07-01" number="174" score="4" word="pupil">
+		<try>gryde</try>
+		<try>polsk</try>
+		<try>plant</try>
+		<try>pupil</try>
+	</wordle>
+
+	<wordle date="2022-07-02" number="175" score="6" word="præst">
+		<try>kloge</try>
+		<try>bryst</try>
+		<try>frist</try>
+		<try>trøst</try>
+		<try>trust</try>
+		<try>præst</try>
+	</wordle>
 
 </wordles>

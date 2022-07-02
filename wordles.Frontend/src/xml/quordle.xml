@@ -680,4 +680,28 @@
 		<try>toxin</try>
 	</quordle>
 
+	<quordle date="2022-06-30" number="157" scores="7 2 4 6" words="utile dying endow sully">
+		<try>drank</try>
+		<try>dying</try>
+		<try>owned</try>
+		<try>endow</try>
+		<try>shyly</try>
+		<try>sully</try>
+		<try>utile</try>
+	</quordle>
+
+	<!-- Missed #158 -->
+
+	<quordle date="2022-07-02" number="159" scores="7 6 0 4" words="apnea titan ninny gaunt">
+		<try>drone</try>
+		<try>facet</try>
+		<try>paint</try>
+		<try>gaunt</try>
+		<try>stain</try>
+		<try>titan</try>
+		<try>apnea</try>
+		<try>linny</try>
+		<try>minny</try>
+	</quordle>
+
 </wordles>
