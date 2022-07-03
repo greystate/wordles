@@ -704,4 +704,16 @@
 		<try>minny</try>
 	</quordle>
 
+	<quordle date="2022-07-03" number="160" scores="5 9 3 7" words="midge wrack sonar furry">
+		<try>minor</try>
+		<try>lunar</try>
+		<try>sonar</try>
+		<try>might</try>
+		<try>midge</try>
+		<try>barky</try>
+		<try>furry</try>
+		<try>crack</try>
+		<try>wrack</try>
+	</quordle>
+
 </wordles>

@@ -1044,4 +1044,10 @@
 		<try>egret</try>
 	</wordle>
 
+	<wordle date="2022-07-03" number="379" score="3" word="lilac">
+		<try>plate</try>
+		<try>largo</try>
+		<try>lilac</try>
+	</wordle>
+
 </wordles>
