@@ -716,4 +716,16 @@
 		<try>wrack</try>
 	</quordle>
 
+	<quordle date="2022-07-04" number="161" scores="5 8 0 0" words="remit mangy sumac tithe">
+		<try>peril</try>
+		<try>waste</try>
+		<try>refit</try>
+		<try>mange</try>
+		<try>remit</try>
+		<try>mango</try>
+		<try>manga</try>
+		<try>mangy</try>
+		<try>samba</try>
+	</quordle>
+
 </wordles>

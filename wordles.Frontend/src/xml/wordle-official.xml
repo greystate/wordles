@@ -1050,4 +1050,12 @@
 		<try>lilac</try>
 	</wordle>
 
+	<wordle date="2022-07-04" number="380" score="5" word="sever">
+		<try>young</try>
+		<try>heart</try>
+		<try>peril</try>
+		<try>defer</try>
+		<try>sever</try>
+	</wordle>
+
 </wordles>
