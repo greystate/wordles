@@ -1058,4 +1058,28 @@
 		<try>sever</try>
 	</wordle>
 
+	<wordle date="2022-07-05" number="381" score="0" word="field">
+		<try>point</try>
+		<try>scail</try>
+		<try>liver</try>
+		<try>bilge</try>
+		<try>wield</try>
+		<try>yield</try>
+	</wordle>
+
+	<wordle date="2022-07-06" number="382" score="6" word="fluff">
+		<try>cover</try>
+		<try>flash</try>
+		<try>fluid</try>
+		<try>flunk</try>
+		<try>flump</try>
+		<try>fluff</try>
+	</wordle>
+
+	<wordle date="2022-07-07" number="383" score="3" word="agape">
+		<try>pedal</try>
+		<try>adept</try>
+		<try>agape</try>
+	</wordle>
+
 </wordles>

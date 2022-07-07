@@ -1092,4 +1092,26 @@
 		<try>kiosk</try>
 	</wordle>
 
+	<wordle date="2022-07-05" number="178" score="5" word="nøgle">
+		<try>bedre</try>
+		<try>kloge</try>
+		<try>galpe</try>
+		<try>løgne</try>
+		<try>nøgle</try>
+	</wordle>
+
+	<wordle date="2022-07-06" number="179" score="5" word="pirat">
+		<try>lever</try>
+		<try>rundt</try>
+		<try>gjort</try>
+		<try>frist</try>
+		<try>pirat</try>
+	</wordle>
+
+	<wordle date="2022-07-07" number="180" score="3" word="levne">
+		<try>bevis</try>
+		<try>lever</try>
+		<try>levne</try>
+	</wordle>
+
 </wordles>

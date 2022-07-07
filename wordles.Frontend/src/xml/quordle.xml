@@ -728,4 +728,37 @@
 		<try>samba</try>
 	</quordle>
 
+	<quordle date="2022-07-05" number="162" scores="7 6 3 9" words="labor taper heard navel">
+		<try>yield</try>
+		<try>opera</try>
+		<try>heard</try>
+		<try>parer</try>
+		<try>caper</try>
+		<try>taper</try>
+		<try>labor</try>
+		<try>easel</try>
+		<try>navel</try>
+	</quordle>
+
+	<quordle date="2022-07-06" number="163" scores="5 6 8 7" words="chord saner ninja pinky">
+		<try>cover</try>
+		<try>slack</try>
+		<try>fight</try>
+		<try>dumpy</try>
+		<try>chord</try>
+		<try>saner</try>
+		<try>pinky</try>
+		<try>ninja</try>
+	</quordle>
+
+	<quordle date="2022-07-07" number="164" scores="6 4 5 7" words="spade tulip lipid mucus">
+		<try>rinse</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>tulip</try>
+		<try>lipid</try>
+		<try>spade</try>
+		<try>mucus</try>
+	</quordle>
+
 </wordles>
