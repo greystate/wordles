@@ -1082,4 +1082,12 @@
 		<try>agape</try>
 	</wordle>
 
+	<wordle date="2022-07-08" number="384" score="5" word="voice">
+		<try>scare</try>
+		<try>wince</try>
+		<try>juice</try>
+		<try>deice</try>
+		<try>voice</try>
+	</wordle>
+
 </wordles>

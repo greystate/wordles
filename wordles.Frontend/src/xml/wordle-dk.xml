@@ -1114,4 +1114,13 @@
 		<try>levne</try>
 	</wordle>
 
+	<wordle date="2022-07-08" number="181" score="6" word="skvæt">
+		<try>gebis</try>
+		<try>skaft</try>
+		<try>skørt</try>
+		<try>skudt</try>
+		<try>skævt</try>
+		<try>skvæt</try>
+	</wordle>
+
 </wordles>

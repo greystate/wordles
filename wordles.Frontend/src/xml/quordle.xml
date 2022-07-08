@@ -761,4 +761,16 @@
 		<try>mucus</try>
 	</quordle>
 
+	<quordle date="2022-07-08" number="165" scores="6 7 5 9" words="sling maybe child banjo">
+		<try>spice</try>
+		<try>dryer</try>
+		<try>human</try>
+		<try>swing</try>
+		<try>child</try>
+		<try>sling</try>
+		<try>maybe</try>
+		<try>baton</try>
+		<try>banjo</try>
+	</quordle>
+
 </wordles>
