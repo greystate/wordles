@@ -773,4 +773,38 @@
 		<try>banjo</try>
 	</quordle>
 
+	<quordle date="2022-07-09" number="166" scores="5 8 7 3" words="truss magma llama strap">
+		<try>frame</try>
+		<try>stamp</try>
+		<try>strap</try>
+		<try>trust</try>
+		<try>truss</try>
+		<try>bling</try>
+		<try>llama</try>
+		<try>magma</try>
+	</quordle>
+
+	<quordle date="2022-07-10" number="167" scores="5 6 8 7" words="ample prude canon duchy">
+		<try>stark</try>
+		<try>glare</try>
+		<try>rainy</try>
+		<try>dumpy</try>
+		<try>ample</try>
+		<try>prude</try>
+		<try>duchy</try>
+		<try>canon</try>
+	</quordle>
+
+	<quordle date="2022-07-11" number="168" scores="5 9 6 7" words="other quirk relay savvy">
+		<try>stand</try>
+		<try>fight</try>
+		<try>reply</try>
+		<try>ether</try>
+		<try>other</try>
+		<try>relay</try>
+		<try>savvy</try>
+		<try>brick</try>
+		<try>quirk</try>
+	</quordle>
+
 </wordles>

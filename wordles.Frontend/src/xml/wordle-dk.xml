@@ -1123,4 +1123,21 @@
 		<try>skvæt</try>
 	</wordle>
 
+	<!-- Missed #182 -->
+
+	<wordle date="2022-07-10" number="183" score="4" word="orgel">
+		<try>blank</try>
+		<try>liste</try>
+		<try>gyvel</try>
+		<try>orgel</try>
+	</wordle>
+
+	<wordle date="2022-07-11" number="184" score="5" word="kegle">
+		<try>tavle</try>
+		<try>spule</try>
+		<try>nogle</try>
+		<try>mægle</try>
+		<try>kegle</try>
+	</wordle>
+
 </wordles>

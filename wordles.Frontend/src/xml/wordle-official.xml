@@ -1090,4 +1090,26 @@
 		<try>voice</try>
 	</wordle>
 
+	<wordle date="2022-07-09" number="385" score="4" word="stead">
+		<try>fined</try>
+		<try>heard</try>
+		<try>tread</try>
+		<try>stead</try>
+	</wordle>
+
+	<wordle date="2022-07-10" number="386" score="5" word="berth">
+		<try>unset</try>
+		<try>tempo</try>
+		<try>deter</try>
+		<try>teary</try>
+		<try>berth</try>
+	</wordle>
+
+	<wordle date="2022-07-11" number="387" score="4" word="madam">
+		<try>tried</try>
+		<try>dumpy</try>
+		<try>maids</try>
+		<try>madam</try>
+	</wordle>
+
 </wordles>
