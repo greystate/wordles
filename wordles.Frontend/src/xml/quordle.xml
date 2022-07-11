@@ -691,6 +691,7 @@
 	</quordle>
 
 	<!-- Missed #158 -->
+	<quordle date="2022-07-01" number="158" scores="0 0 0 0" words="? ? ? ?" />
 
 	<quordle date="2022-07-02" number="159" scores="7 6 0 4" words="apnea titan ninny gaunt">
 		<try>drone</try>
