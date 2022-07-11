@@ -341,6 +341,11 @@
 				<xsl:apply-templates select="$quordle/w:try">
 					<xsl:with-param name="solution" select="$solution" />
 				</xsl:apply-templates>
+				<xsl:if test="count($quordle/w:try) = 0">
+					<xsl:call-template name="fillers">
+						<xsl:with-param name="count" select="9" />
+					</xsl:call-template>
+				</xsl:if>
 			</xsl:if>
 			<xsl:if test="$score &gt; 0">
 				<xsl:call-template name="fillers">
