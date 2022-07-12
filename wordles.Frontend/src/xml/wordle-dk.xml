@@ -1123,8 +1123,13 @@
 		<try>skvæt</try>
 	</wordle>
 
-	<!-- Missed #182 -->
-	<wordle date="2022-07-09" number="182" score="0" word="?" />
+	<!-- Note: This was reconstructed from knowing the answer (forgot to log it on the day) -->
+	<wordle date="2022-07-09" number="182" score="4" word="skive">
+		<try>styre</try>
+		<try>skole</try>
+		<try>skibe</try>
+		<try>skive</try>
+	</wordle>
 
 	<wordle date="2022-07-10" number="183" score="4" word="orgel">
 		<try>blank</try>
