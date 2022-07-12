@@ -808,4 +808,16 @@
 		<try>quirk</try>
 	</quordle>
 
+	<quordle date="2022-07-12" number="169" scores="7 9 3 6" words="fatal reedy point rehab">
+		<try>trips</try>
+		<try>octal</try>
+		<try>point</try>
+		<try>metal</try>
+		<try>relax</try>
+		<try>rehab</try>
+		<try>fatal</try>
+		<try>reddy</try>
+		<try>reedy</try>
+	</quordle>
+
 </wordles>

@@ -1112,4 +1112,9 @@
 		<try>madam</try>
 	</wordle>
 
+	<wordle date="2022-07-12" number="388" score="2" word="night">
+		<try>phone</try>
+		<try>night</try>
+	</wordle>
+
 </wordles>

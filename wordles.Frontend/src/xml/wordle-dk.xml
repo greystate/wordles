@@ -1146,4 +1146,13 @@
 		<try>kegle</try>
 	</wordle>
 
+	<wordle date="2022-07-12" number="185" score="6" word="smede">
+		<try>giraf</try>
+		<try>optur</try>
+		<try>glæde</try>
+		<try>mynde</try>
+		<try>øvede</try>
+		<try>smede</try>
+	</wordle>
+
 </wordles>
