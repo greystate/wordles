@@ -820,4 +820,16 @@
 		<try>reedy</try>
 	</quordle>
 
+	<quordle date="2022-07-13" number="170" scores="0 0 8 5" words="nymph speck feral ovoid">
+		<try>blind</try>
+		<try>wired</try>
+		<try>solid</try>
+		<try>avoid</try>
+		<try>ovoid</try>
+		<try>early</try>
+		<try>leary</try>
+		<try>feral</try>
+		<try>steps</try>
+	</quordle>
+
 </wordles>

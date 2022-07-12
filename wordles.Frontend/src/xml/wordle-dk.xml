@@ -1155,4 +1155,12 @@
 		<try>smede</try>
 	</wordle>
 
+	<wordle date="2022-07-13" number="186" score="5" word="løgne">
+		<try>bonde</try>
+		<try>skåne</try>
+		<try>tryne</try>
+		<try>plæne</try>
+		<try>løgne</try>
+	</wordle>
+
 </wordles>
