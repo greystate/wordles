@@ -1163,4 +1163,20 @@
 		<try>løgne</try>
 	</wordle>
 
+	<wordle date="2022-07-14" number="187" score="6" word="påske">
+		<try>ryste</try>
+		<try>baske</try>
+		<try>huske</try>
+		<try>fiske</try>
+		<try>måske</try>
+		<try>påske</try>
+	</wordle>
+
+	<wordle date="2022-07-15" number="188" score="4" word="lukke">
+		<try>bonus</try>
+		<try>dulme</try>
+		<try>fugle</try>
+		<try>lukke</try>
+	</wordle>
+
 </wordles>

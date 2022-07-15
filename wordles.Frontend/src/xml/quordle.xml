@@ -832,4 +832,27 @@
 		<try>steps</try>
 	</quordle>
 
+	<quordle date="2022-07-14" number="171" scores="3 4 6 7" words="lunch horse style coyly">
+		<try>sound</try>
+		<try>slice</try>
+		<try>lunch</try>
+		<try>horse</try>
+		<try>stale</try>
+		<try>style</try>
+		<try>coyly</try>
+	</quordle>
+
+	<quordle date="2022-07-15" number="172" scores="0 5 8 6" words="nylon shelf viral budge">
+		<try>fugue</try>
+		<try>state</try>
+		<try>break</try>
+		<try>bulge</try>
+		<try>shelf</try>
+		<try>budge</try>
+		<try>rival</try>
+		<try>viral</try>
+		<try>colon</try>
+	</quordle>
+
+
 </wordles>

@@ -1124,5 +1124,17 @@
 		<try>bland</try>
 	</wordle>
 
+	<wordle date="2022-07-14" number="390" score="2" word="liver">
+		<try>water</try>
+		<try>liver</try>
+	</wordle>
+
+	<wordle date="2022-07-15" number="391" score="5" word="wedge">
+		<try>drone</try>
+		<try>blade</try>
+		<try>fudge</try>
+		<try>midge</try>
+		<try>wedge</try>
+	</wordle>
 
 </wordles>
