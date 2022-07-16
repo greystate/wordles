@@ -1137,4 +1137,11 @@
 		<try>wedge</try>
 	</wordle>
 
+	<wordle date="2022-07-16" number="392" score="4" word="roomy">
+		<try>welsh</try>
+		<try>craft</try>
+		<try>porky</try>
+		<try>roomy</try>
+	</wordle>
+
 </wordles>

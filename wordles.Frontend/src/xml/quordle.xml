@@ -854,5 +854,16 @@
 		<try>colon</try>
 	</quordle>
 
+	<quordle date="2022-07-16" number="173" scores="0 7 6 4" words="sully ingot diner trice">
+		<try>clown</try>
+		<try>novel</try>
+		<try>trips</try>
+		<try>trice</try>
+		<try>inner</try>
+		<try>diner</try>
+		<try>ingot</try>
+		<try>slush</try>
+		<try>sulky</try>
+	</quordle>
 
 </wordles>

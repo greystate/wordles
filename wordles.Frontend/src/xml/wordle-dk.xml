@@ -1179,4 +1179,10 @@
 		<try>lukke</try>
 	</wordle>
 
+	<wordle date="2022-07-16" number="189" score="3" word="nærig">
+		<try>sprog</try>
+		<try>fyrig</try>
+		<try>nærig</try>
+	</wordle>
+
 </wordles>
