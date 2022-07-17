@@ -1185,4 +1185,11 @@
 		<try>nærig</try>
 	</wordle>
 
+	<wordle date="2022-07-17" number="190" score="4" word="utugt">
+		<try>metal</try>
+		<try>træge</try>
+		<try>frugt</try>
+		<try>utugt</try>
+	</wordle>
+
 </wordles>

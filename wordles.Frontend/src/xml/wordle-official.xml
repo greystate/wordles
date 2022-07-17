@@ -1144,4 +1144,11 @@
 		<try>roomy</try>
 	</wordle>
 
+	<wordle date="2022-07-17" number="393" score="4" word="wacky">
+		<try>metal</try>
+		<try>anvil</try>
+		<try>crash</try>
+		<try>wacky</try>
+	</wordle>
+
 </wordles>
