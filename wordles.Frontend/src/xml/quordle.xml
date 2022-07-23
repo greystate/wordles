@@ -878,4 +878,73 @@
 		<try>going</try>
 	</quordle>
 
+	<quordle date="2022-07-18" number="175" scores="6 5 9 0" words="teeth hotel sigma video">
+		<try>prone</try>
+		<try>heron</try>
+		<try>hoped</try>
+		<try>sweat</try>
+		<try>hotel</try>
+		<try>teeth</try>
+		<try>sassy</try>
+		<try>smack</try>
+		<try>sigma</try>
+	</quordle>
+
+	<quordle date="2022-07-19" number="176" scores="8 6 4 5" words="motor guava begin fudge">
+		<try>blank</try>
+		<try>trace</try>
+		<try>bendy</try>
+		<try>begin</try>
+		<try>fudge</try>
+		<try>guava</try>
+		<try>rotor</try>
+		<try>motor</try>
+	</quordle>
+
+	<quordle date="2022-07-20" number="177" scores="8 5 4 7" words="bugle ashen trait amiss">
+		<try>price</try>
+		<try>dumpy</try>
+		<try>talon</try>
+		<try>trait</try>
+		<try>ashen</try>
+		<try>agism</try>
+		<try>amiss</try>
+		<try>bugle</try>
+	</quordle>
+
+	<quordle date="2022-07-21" number="178" scores="4 5 9 6" words="music bunny godly banal">
+		<try>black</try>
+		<try>white</try>
+		<try>dumpy</try>
+		<try>music</try>
+		<try>bunny</try>
+		<try>banal</try>
+		<try>lordy</try>
+		<try>dolly</try>
+		<try>godly</try>
+	</quordle>
+
+	<quordle date="2022-07-22" number="179" scores="8 5 3 7" words="crook threw suave begin">
+		<try>scrap</try>
+		<try>cruel</try>
+		<try>suave</try>
+		<try>thyme</try>
+		<try>threw</try>
+		<try>boing</try>
+		<try>begin</try>
+		<try>crook</try>
+	</quordle>
+
+	<quordle date="2022-07-23" number="180" scores="6 7 5 9" words="ozone ninja quite award">
+		<try>bulge</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>quite</try>
+		<try>ozone</try>
+		<try>ninja</try>
+		<try>wharf</try>
+		<try>award</try>
+	</quordle>
+
 </wordles>

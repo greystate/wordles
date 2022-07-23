@@ -1151,4 +1151,49 @@
 		<try>wacky</try>
 	</wordle>
 
+	<wordle date="2022-07-18" number="394" score="5" word="flock">
+		<try>sigma</try>
+		<try>hotel</try>
+		<try>clown</try>
+		<try>block</try>
+		<try>flock</try>
+	</wordle>
+
+	<wordle date="2022-07-19" number="395" score="4" word="angry">
+		<try>power</try>
+		<try>rival</try>
+		<try>artsy</try>
+		<try>angry</try>
+	</wordle>
+
+	<wordle date="2022-07-20" number="396" score="0" word="trite">
+		<try>chair</try>
+		<try>rinse</try>
+		<try>drive</try>
+		<try>pride</try>
+		<try>tribe</try>
+		<try>trike</try>
+	</wordle>
+
+	<wordle date="2022-07-21" number="397" score="5" word="aphid">
+		<try>music</try>
+		<try>train</try>
+		<try>audio</try>
+		<try>algid</try>
+		<try>aphid</try>
+	</wordle>
+
+	<wordle date="2022-07-22" number="398" score="3" word="tryst">
+		<try>suave</try>
+		<try>misty</try>
+		<try>tryst</try>
+	</wordle>
+
+	<wordle date="2022-07-23" number="399" score="4" word="midge">
+		<try>range</try>
+		<try>bulge</try>
+		<try>wedge</try>
+		<try>midge</try>
+	</wordle>
+
 </wordles>

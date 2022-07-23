@@ -1192,4 +1192,49 @@
 		<try>utugt</try>
 	</wordle>
 
+	<wordle date="2022-07-18" number="191" score="5" word="karve">
+		<try>strøm</try>
+		<try>færge</try>
+		<try>virke</try>
+		<try>kurve</try>
+		<try>karve</try>
+	</wordle>
+
+	<wordle date="2022-07-19" number="192" score="4" word="legat">
+		<try>tonal</try>
+		<try>mulat</try>
+		<try>lækat</try>
+		<try>legat</try>
+	</wordle>
+
+	<wordle date="2022-07-20" number="193" score="5" word="mimik">
+		<try>spade</try>
+		<try>lyrik</try>
+		<try>butik</try>
+		<try>komik</try>
+		<try>mimik</try>
+	</wordle>
+
+	<wordle date="2022-07-21" number="194" score="6" word="jævne">
+		<try>musik</try>
+		<try>blade</try>
+		<try>hente</try>
+		<try>næppe</try>
+		<try>værne</try>
+		<try>jævne</try>
+	</wordle>
+
+	<wordle date="2022-07-22" number="195" score="4" word="sifon">
+		<try>skarp</try>
+		<try>slidt</try>
+		<try>sinus</try>
+		<try>sifon</try>
+	</wordle>
+
+	<wordle date="2022-07-23" number="196" score="3" word="prygl">
+		<try>spand</try>
+		<try>pløre</try>
+		<try>prygl</try>
+	</wordle>
+
 </wordles>
