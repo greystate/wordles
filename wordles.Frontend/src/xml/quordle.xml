@@ -947,4 +947,39 @@
 		<try>award</try>
 	</quordle>
 
+	<quordle date="2022-07-24" number="181" scores="6 8 0 7" words="ditty chute sieve adapt">
+		<try>power</try>
+		<try>dumpy</try>
+		<try>dizzy</try>
+		<try>octal</try>
+		<try>ditsy</try>
+		<try>ditty</try>
+		<try>adapt</try>
+		<try>chute</try>
+		<try>singe</try>
+	</quordle>
+
+	<quordle date="2022-07-25" number="182" scores="8 7 6 3" words="value debit lousy grate">
+		<try>stare</try>
+		<try>crate</try>
+		<try>grate</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>lousy</try>
+		<try>debit</try>
+		<try>value</try>
+	</quordle>
+
+	<quordle date="2022-07-26" number="183" scores="5 0 7 8" words="plank salsa frank forge">
+		<try>power</try>
+		<try>chord</try>
+		<try>pinky</try>
+		<try>prank</try>
+		<try>plank</try>
+		<try>trank</try>
+		<try>frank</try>
+		<try>forge</try>
+		<try>album</try>
+	</quordle>
+
 </wordles>

@@ -1237,4 +1237,26 @@
 		<try>prygl</try>
 	</wordle>
 
+	<wordle date="2022-07-24" number="197" score="5" word="orlov">
+		<try>serie</try>
+		<try>rundt</try>
+		<try>bladr</try>
+		<try>prygl</try>
+		<try>orlov</try>
+	</wordle>
+
+	<wordle date="2022-07-25" number="198" score="3" word="kendt">
+		<try>trane</try>
+		<try>netop</try>
+		<try>kendt</try>
+	</wordle>
+
+	<wordle date="2022-07-26" number="199" score="5" word="lokal">
+		<try>frist</try>
+		<try>pande</try>
+		<try>album</try>
+		<try>loyal</try>
+		<try>lokal</try>
+	</wordle>
+
 </wordles>
