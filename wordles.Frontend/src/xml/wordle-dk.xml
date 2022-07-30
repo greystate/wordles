@@ -1259,4 +1259,32 @@
 		<try>lokal</try>
 	</wordle>
 
+	<wordle date="2022-07-27" number="200" score="5" word="omdøb">
+		<try>grape</try>
+		<try>sundt</try>
+		<try>lydig</try>
+		<try>afdød</try>
+		<try>omdøb</try>
+	</wordle>
+
+	<wordle date="2022-07-28" number="201" score="2" word="pokal">
+		<try>poter</try>
+		<try>pokal</try>
+	</wordle>
+
+	<wordle date="2022-07-29" number="202" score="6" word="ussel">
+		<try>bolig</try>
+		<try>levne</try>
+		<try>spejl</try>
+		<try>aksel</try>
+		<try>ådsel</try>
+		<try>ussel</try>
+	</wordle>
+
+	<wordle date="2022-07-30" number="203" score="3" word="utopi">
+		<try>torsk</try>
+		<try>hotel</try>
+		<try>utopi</try>
+	</wordle>
+
 </wordles>

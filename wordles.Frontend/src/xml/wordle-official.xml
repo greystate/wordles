@@ -1215,4 +1215,35 @@
 		<try>cinch</try>
 	</wordle>
 
+	<wordle date="2022-07-27" number="403" score="5" word="motto">
+		<try>point</try>
+		<try>forth</try>
+		<try>jolty</try>
+		<try>coats</try>
+		<try>motto</try>
+	</wordle>
+
+	<wordle date="2022-07-28" number="404" score="5" word="stomp">
+		<try>paled</try>
+		<try>sport</try>
+		<try>stops</try>
+		<try>stoop</try>
+		<try>stomp</try>
+	</wordle>
+
+	<wordle date="2022-07-29" number="405" score="4" word="upset">
+		<try>bunch</try>
+		<try>fruit</try>
+		<try>spout</try>
+		<try>upset</try>
+	</wordle>
+
+	<wordle date="2022-07-30" number="406" score="5" word="bluff">
+		<try>rapid</try>
+		<try>wonky</try>
+		<try>smell</try>
+		<try>flute</try>
+		<try>bluff</try>
+	</wordle>
+
 </wordles>

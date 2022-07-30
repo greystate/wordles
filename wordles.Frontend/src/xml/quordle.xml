@@ -982,4 +982,50 @@
 		<try>album</try>
 	</quordle>
 
+	<quordle date="2022-07-27" number="184" scores="6 7 9 5" words="elude elfin wreck canal">
+		<try>minty</try>
+		<try>rules</try>
+		<try>lemur</try>
+		<try>clued</try>
+		<try>canal</try>
+		<try>elude</try>
+		<try>elfin</try>
+		<try>ochre</try>
+		<try>wreck</try>
+	</quordle>
+
+	<quordle date="2022-07-28" number="185" scores="7 4 9 6" words="fuzzy plier awake reset">
+		<try>spoil</try>
+		<try>under</try>
+		<try>piler</try>
+		<try>plier</try>
+		<try>facts</try>
+		<try>reset</try>
+		<try>fuzzy</try>
+		<try>ameba</try>
+		<try>awake</try>
+	</quordle>
+
+	<quordle date="2022-07-29" number="186" scores="9 4 5 6" words="slush yield revue repel">
+		<try>rinse</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>yield</try>
+		<try>revue</try>
+		<try>repel</try>
+		<try>blush</try>
+		<try>flush</try>
+		<try>slush</try>
+	</quordle>
+
+	<quordle date="2022-07-30" number="187" scores="7 6 3 5" words="opium chock horde cynic">
+		<try>flute</try>
+		<try>yards</try>
+		<try>horde</try>
+		<try>mingy</try>
+		<try>cynic</try>
+		<try>chock</try>
+		<try>opium</try>
+	</quordle>
+
 </wordles>
