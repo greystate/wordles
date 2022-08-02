@@ -1287,4 +1287,26 @@
 		<try>utopi</try>
 	</wordle>
 
+	<wordle date="2022-07-31" number="204" score="3" word="usand">
+		<try>trofæ</try>
+		<try>sadel</try>
+		<try>usand</try>
+	</wordle>
+
+	<wordle date="2022-08-01" number="205" score="5" word="kukur">
+		<try>skyde</try>
+		<try>klogt</try>
+		<try>karma</try>
+		<try>kulør</try>
+		<try>kukur</try>
+	</wordle>
+
+	<wordle date="2022-08-02" number="206" score="5" word="loyal">
+		<try>vande</try>
+		<try>ampul</try>
+		<try>stabl</try>
+		<try>koral</try>
+		<try>loyal</try>
+	</wordle>
+
 </wordles>

@@ -1246,4 +1246,24 @@
 		<try>bluff</try>
 	</wordle>
 
+	<wordle date="2022-07-31" number="407" score="3" word="cramp">
+		<try>slope</try>
+		<try>punty</try>
+		<try>cramp</try>
+	</wordle>
+
+	<wordle date="2022-08-01" number="408" score="4" word="quart">
+		<try>spare</try>
+		<try>alarm</try>
+		<try>diary</try>
+		<try>quart</try>
+	</wordle>
+
+	<wordle date="2022-08-02" number="409" score="4" word="coyly">
+		<try>wonky</try>
+		<try>foray</try>
+		<try>dolly</try>
+		<try>coyly</try>
+	</wordle>
+
 </wordles>
