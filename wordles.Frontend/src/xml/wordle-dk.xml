@@ -1309,4 +1309,9 @@
 		<try>loyal</try>
 	</wordle>
 
+	<wordle date="2022-08-03" number="207" score="2" word="pasta">
+		<try>spark</try>
+		<try>pasta</try>
+	</wordle>
+
 </wordles>

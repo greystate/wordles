@@ -1266,4 +1266,11 @@
 		<try>coyly</try>
 	</wordle>
 
+	<wordle date="2022-08-03" number="410" score="4" word="youth">
+		<try>music</try>
+		<try>grunt</try>
+		<try>pouty</try>
+		<try>youth</try>
+	</wordle>
+
 </wordles>

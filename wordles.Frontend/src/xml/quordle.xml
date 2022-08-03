@@ -1062,4 +1062,16 @@
 		<try>kayak</try>
 	</quordle>
 
+	<quordle date="2022-08-03" number="191" scores="6 7 9 8" words="crest prize month least">
+		<try>drink</try>
+		<try>steam</try>
+		<try>ploys</try>
+		<try>trest</try>
+		<try>price</try>
+		<try>crest</try>
+		<try>prize</try>
+		<try>least</try>
+		<try>month</try>
+	</quordle>
+
 </wordles>
