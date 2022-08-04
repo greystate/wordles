@@ -1314,4 +1314,19 @@
 		<try>pasta</try>
 	</wordle>
 
+	<wordle date="2022-08-04" number="208" score="6" word="snøft">
+		<try>bilag</try>
+		<try>træde</try>
+		<try>stump</try>
+		<try>skyts</try>
+		<try>sjovt</try>
+		<try>snøft</try>
+	</wordle>
+
+	<wordle date="2022-08-05" number="209" score="3" word="rålam">
+		<try>strøm</try>
+		<try>alarm</try>
+		<try>rålam</try>
+	</wordle>
+
 </wordles>

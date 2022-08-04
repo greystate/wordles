@@ -1273,4 +1273,21 @@
 		<try>youth</try>
 	</wordle>
 
+	<wordle date="2022-08-04" number="411" score="5" word="rhyme">
+		<try>spice</try>
+		<try>fluke</try>
+		<try>trove</try>
+		<try>barre</try>
+		<try>rhyme</try>
+	</wordle>
+
+	<wordle date="2022-08-05" number="412" score="6" word="buggy">
+		<try>phone</try>
+		<try>hurts</try>
+		<try>cubic</try>
+		<try>bulky</try>
+		<try>buddy</try>
+		<try>buggy</try>
+	</wordle>
+
 </wordles>

@@ -1074,4 +1074,27 @@
 		<try>month</try>
 	</quordle>
 
+	<quordle date="2022-08-04" number="192" scores="8 6 7 3" words="fluke vinyl quell taken">
+		<try>topic</try>
+		<try>tuned</try>
+		<try>taken</try>
+		<try>shyly</try>
+		<try>mingy</try>
+		<try>vinyl</try>
+		<try>quell</try>
+		<try>fluke</try>
+	</quordle>
+
+	<quordle date="2022-08-05" number="193" scores="7 8 9 5" words="aroma fifth drive yeast">
+		<try>spark</try>
+		<try>decal</try>
+		<try>hunts</try>
+		<try>feast</try>
+		<try>yeast</try>
+		<try>mango</try>
+		<try>aroma</try>
+		<try>fifth</try>
+		<try>drive</try>
+	</quordle>
+
 </wordles>
