@@ -1316,4 +1316,50 @@
 		<try>patty</try>
 	</wordle>
 
+	<wordle date="2022-08-10" number="417" score="6" word="cling">
+		<try>metal</try>
+		<try>skill</try>
+		<try>pling</try>
+		<try>fling</try>
+		<try>bling</try>
+		<try>cling</try>
+	</wordle>
+
+	<wordle date="2022-08-11" number="418" score="3" word="glean">
+		<try>slant</try>
+		<try>align</try>
+		<try>glean</try>
+	</wordle>
+
+	<wordle date="2022-08-12" number="419" score="5" word="label">
+		<try>spoon</try>
+		<try>grail</try>
+		<try>decal</try>
+		<try>camel</try>
+		<try>label</try>
+	</wordle>
+
+	<wordle date="2022-08-13" number="420" score="5" word="hunky">
+		<try>power</try>
+		<try>music</try>
+		<try>bunty</try>
+		<try>funny</try>
+		<try>hunky</try>
+	</wordle>
+
+	<wordle date="2022-08-14" number="421" score="5" word="khaki">
+		<try>equal</try>
+		<try>acids</try>
+		<try>plain</try>
+		<try>irate</try>
+		<try>khaki</try>
+	</wordle>
+
+	<wordle date="2022-08-15" number="422" score="4" word="poker">
+		<try>spear</try>
+		<try>hyper</try>
+		<try>power</try>
+		<try>poker</try>
+	</wordle>
+
 </wordles>

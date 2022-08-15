@@ -1358,5 +1358,47 @@
 		<try>lefle</try>
 	</wordle>
 
+	<wordle date="2022-08-10" number="214" score="4" word="skruk">
+		<try>ryste</try>
+		<try>sprog</try>
+		<try>skrud</try>
+		<try>skruk</try>
+	</wordle>
+
+	<wordle date="2022-08-11" number="215" score="5" word="påtal">
+		<try>mobil</try>
+		<try>tonal</try>
+		<try>aftal</try>
+		<try>udtal</try>
+		<try>påtal</try>
+	</wordle>
+
+	<wordle date="2022-08-12" number="216" score="5" word="oktav">
+		<try>brand</try>
+		<try>altan</try>
+		<try>udtag</try>
+		<try>istap</try>
+		<try>oktav</try>
+	</wordle>
+
+	<wordle date="2022-08-13" number="217" score="4" word="major">
+		<try>strøm</try>
+		<try>rampe</try>
+		<try>madro</try>
+		<try>major</try>
+	</wordle>
+
+	<wordle date="2022-08-14" number="218" score="4" word="uskøn">
+		<try>klude</try>
+		<try>udkom</try>
+		<try>uskik</try>
+		<try>uskøn</try>
+	</wordle>
+
+	<wordle date="2022-08-15" number="219" score="3" word="kanon">
+		<try>træls</try>
+		<try>anken</try>
+		<try>kanon</try>
+	</wordle>
 
 </wordles>

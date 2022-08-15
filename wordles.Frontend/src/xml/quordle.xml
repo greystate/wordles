@@ -1141,4 +1141,70 @@
 		<try>dryly</try>
 	</quordle>
 
+	<quordle date="2022-08-10" number="198" scores="9 7 6 5" words="lowly ghost blaze bayou">
+		<try>bland</try>
+		<try>blame</try>
+		<try>opera</try>
+		<try>suite</try>
+		<try>bayou</try>
+		<try>blaze</try>
+		<try>ghost</try>
+		<try>jolly</try>
+		<try>lowly</try>
+	</quordle>
+
+	<quordle date="2022-08-11" number="199" scores="8 5 7 4" words="beret catty puffy spunk">
+		<try>align</try>
+		<try>comps</try>
+		<try>truth</try>
+		<try>spunk</try>
+		<try>catty</try>
+		<try>puddy</try>
+		<try>puffy</try>
+		<try>beret</try>
+	</quordle>
+
+	<quordle date="2022-08-12" number="200" scores="3 7 5 6" words="carol sorry scone azure">
+		<try>navel</try>
+		<try>truck</try>
+		<try>carol</try>
+		<try>ships</try>
+		<try>scone</try>
+		<try>azure</try>
+		<try>sorry</try>
+	</quordle>
+
+	<quordle date="2022-08-13" number="201" scores="8 7 5 9" words="fruit feral latte equal">
+		<try>rinse</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>lathe</try>
+		<try>latte</try>
+		<try>areal</try>
+		<try>feral</try>
+		<try>fruit</try>
+		<try>equal</try>
+	</quordle>
+
+	<quordle date="2022-08-14" number="202" scores="4 5 6 7" words="audio dealt chart inbox">
+		<try>plain</try>
+		<try>trove</try>
+		<try>bushy</try>
+		<try>audio</try>
+		<try>dealt</try>
+		<try>chart</try>
+		<try>inbox</try>
+	</quordle>
+
+	<quordle date="2022-08-15" number="203" scores="7 3 5 8" words="groan scare fecal clank">
+		<try>first</try>
+		<try>opera</try>
+		<try>scare</try>
+		<try>faced</try>
+		<try>fecal</try>
+		<try>roman</try>
+		<try>groan</try>
+		<try>clank</try>
+	</quordle>
+
 </wordles>
