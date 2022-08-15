@@ -7,7 +7,7 @@
       "uuidString" : "5CD93953-8419-48F3-B317-31E1D510E58B"
     }
   ],
-  "creatorBuild" : "34365",
+  "creatorBuild" : "34408",
   "files" : {
     "\/build" : {
       "ft" : 65536,
@@ -1747,7 +1747,8 @@
         "optionString" : "'event', 'fdescribe'"
       },
       "no-restricted-imports" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : ""
       },
       "no-restricted-properties" : {
         "active" : 0,
@@ -2375,6 +2376,7 @@
       "createDeclarationFile" : 0,
       "jsxMode" : 0,
       "minifierStyle" : 0,
+      "moduleDetectionType" : 0,
       "moduleResolutionType" : 0,
       "moduleType" : 2,
       "removeComments" : 0,
