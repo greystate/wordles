@@ -1207,4 +1207,26 @@
 		<try>clank</try>
 	</quordle>
 
+	<quordle date="2022-08-16" number="204" scores="7 5 4 6" words="seize began peach angst">
+		<try>frisk</try>
+		<try>pylon</try>
+		<try>death</try>
+		<try>peach</try>
+		<try>began</try>
+		<try>angst</try>
+		<try>seize</try>
+	</quordle>
+
+	<quordle date="2022-08-17" number="205" scores="6 9 5 3" words="spiny waltz organ alone">
+		<try>opera</try>
+		<try>slide</try>
+		<try>alone</try>
+		<try>orang</try>
+		<try>organ</try>
+		<try>spiny</try>
+		<try>laval</try>
+		<try>watch</try>
+		<try>waltz</try>
+	</quordle>
+
 </wordles>

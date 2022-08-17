@@ -1362,4 +1362,19 @@
 		<try>poker</try>
 	</wordle>
 
+	<wordle date="2022-08-16" number="423" score="5" word="gruel">
+		<try>angst</try>
+		<try>grove</try>
+		<try>grief</try>
+		<try>greek</try>
+		<try>gruel</try>
+	</wordle>
+
+	<wordle date="2022-08-17" number="424" score="3" word="twice">
+		<try>sting</try>
+		<try>trill</try>
+		<try>twice</try>
+	</wordle>
+
+
 </wordles>

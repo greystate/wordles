@@ -1401,4 +1401,18 @@
 		<try>kanon</try>
 	</wordle>
 
+	<wordle date="2022-08-16" number="220" score="6" word="legal">
+		<try>flyve</try>
+		<try>læser</try>
+		<try>lemur</try>
+		<try>ledig</try>
+		<try>legat</try>
+		<try>legal</try>
+	</wordle>
+
+	<wordle date="2022-08-17" number="221" score="2" word="stænk">
+		<try>træde</try>
+		<try>stænk</try>
+	</wordle>
+
 </wordles>
