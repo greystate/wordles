@@ -1376,5 +1376,38 @@
 		<try>twice</try>
 	</wordle>
 
+	<wordle date="2022-08-18" number="425" score="4" word="twang">
+		<try>shine</try>
+		<try>plant</try>
+		<try>thank</try>
+		<try>twang</try>
+	</wordle>
+
+	<wordle date="2022-08-19" number="426" score="4" word="shrug">
+		<try>spork</try>
+		<try>stray</try>
+		<try>screw</try>
+		<try>shrug</try>
+	</wordle>
+
+	<wordle date="2022-08-20" number="427" score="4" word="treat">
+		<try>wispy</try>
+		<try>loner</try>
+		<try>react</try>
+		<try>treat</try>
+	</wordle>
+
+	<wordle date="2022-08-21" number="428" score="4" word="waste">
+		<try>fresh</try>
+		<try>slave</try>
+		<try>paste</try>
+		<try>waste</try>
+	</wordle>
+
+	<wordle date="2022-08-22" number="429" score="3" word="merit">
+		<try>great</try>
+		<try>beret</try>
+		<try>merit</try>
+	</wordle>
 
 </wordles>

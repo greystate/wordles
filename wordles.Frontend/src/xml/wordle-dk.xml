@@ -1415,4 +1415,38 @@
 		<try>stænk</try>
 	</wordle>
 
+	<wordle date="2022-08-18" number="222" score="5" word="pålæg">
+		<try>skade</try>
+		<try>grøft</try>
+		<try>bingo</try>
+		<try>udlæg</try>
+		<try>pålæg</try>
+	</wordle>
+
+	<wordle date="2022-08-19" number="223" score="2" word="ombud">
+		<try>bunke</try>
+		<try>ombud</try>
+	</wordle>
+
+	<wordle date="2022-08-20" number="224" score="4" word="nobel">
+		<try>trick</try>
+		<try>pande</try>
+		<try>engel</try>
+		<try>nobel</try>
+	</wordle>
+
+	<wordle date="2022-08-21" number="225" score="3" word="orden">
+		<try>skade</try>
+		<try>druen</try>
+		<try>orden</try>
+	</wordle>
+
+	<wordle date="2022-08-22" number="226" score="5" word="kamel">
+		<try>finde</try>
+		<try>spelt</try>
+		<try>ugler</try>
+		<try>møbel</try>
+		<try>kamel</try>
+	</wordle>
+
 </wordles>

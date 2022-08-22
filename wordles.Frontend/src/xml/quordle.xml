@@ -1229,4 +1229,59 @@
 		<try>waltz</try>
 	</quordle>
 
+	<quordle date="2022-08-18" number="206" scores="5 9 8 7" words="louse manor rajah theta">
+		<try>heart</try>
+		<try>rehab</try>
+		<try>dopes</try>
+		<try>cully</try>
+		<try>louse</try>
+		<try>thema</try>
+		<try>theta</try>
+		<try>rajah</try>
+		<try>manor</try>
+	</quordle>
+
+	<quordle date="2022-08-19" number="207" scores="7 9 4 6" words="ascot feign chalk eager">
+		<try>shrug</try>
+		<try>phone</try>
+		<try>milky</try>
+		<try>chalk</try>
+		<try>wager</try>
+		<try>eager</try>
+		<try>ascot</try>
+		<try>deign</try>
+		<try>feign</try>
+	</quordle>
+
+	<quordle date="2022-08-20" number="208" scores="4 7 5 6" words="canny nomad cabin snort">
+		<try>react</try>
+		<try>canon</try>
+		<try>skill</try>
+		<try>canny</try>
+		<try>cabin</try>
+		<try>snort</try>
+		<try>nomad</try>
+	</quordle>
+
+	<quordle date="2022-08-21" number="209" scores="5 6 3 4" words="tough dying plume dough">
+		<try>waste</try>
+		<try>dumpy</try>
+		<try>plume</try>
+		<try>dough</try>
+		<try>tough</try>
+		<try>dying</try>
+	</quordle>
+
+	<quordle date="2022-08-22" number="210" scores="4 6 9 8" words="pedal alley embed trump">
+		<try>spate</try>
+		<try>freak</try>
+		<try>penal</try>
+		<try>pedal</try>
+		<try>gripy</try>
+		<try>alley</try>
+		<try>mouth</try>
+		<try>trump</try>
+		<try>embed</try>
+	</quordle>
+
 </wordles>
