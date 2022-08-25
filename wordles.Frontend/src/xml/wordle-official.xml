@@ -1410,4 +1410,25 @@
 		<try>merit</try>
 	</wordle>
 
+	<wordle date="2022-08-23" number="430" score="5" word="woven">
+		<try>crate</try>
+		<try>linen</try>
+		<try>soken</try>
+		<try>women</try>
+		<try>woven</try>
+	</wordle>
+
+	<wordle date="2022-08-24" number="431" score="5" word="needy">
+		<try>stove</try>
+		<try>alley</try>
+		<try>ready</try>
+		<try>bendy</try>
+		<try>needy</try>
+	</wordle>
+
+	<wordle date="2022-08-25" number="432" score="2" word="clown">
+		<try>creak</try>
+		<try>clown</try>
+	</wordle>
+
 </wordles>

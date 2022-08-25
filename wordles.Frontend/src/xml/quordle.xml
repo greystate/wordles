@@ -1284,4 +1284,38 @@
 		<try>embed</try>
 	</quordle>
 
+	<quordle date="2022-08-23" number="211" scores="5 3 6 8" words="crony clean regal hasty">
+		<try>blaze</try>
+		<try>stern</try>
+		<try>clean</try>
+		<try>corny</try>
+		<try>crony</try>
+		<try>regal</try>
+		<try>tasty</try>
+		<try>hasty</try>
+	</quordle>
+
+	<quordle date="2022-08-24" number="212" scores="4 6 5 8" words="purse guide daisy flair">
+		<try>bendy</try>
+		<try>stove</try>
+		<try>crump</try>
+		<try>purse</try>
+		<try>daisy</try>
+		<try>guide</try>
+		<try>friar</try>
+		<try>flair</try>
+	</quordle>
+
+	<quordle date="2022-08-25" number="213" scores="5 3 9 6" words="stalk track gauze chafe">
+		<try>prawn</try>
+		<try>crave</try>
+		<try>track</try>
+		<try>chase</try>
+		<try>stalk</try>
+		<try>chafe</try>
+		<try>maybe</try>
+		<try>gauge</try>
+		<try>gauze</try>
+	</quordle>
+
 </wordles>
