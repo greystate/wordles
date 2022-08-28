@@ -1318,4 +1318,39 @@
 		<try>gauze</try>
 	</quordle>
 
+	<quordle date="2022-08-26" number="214" scores="3 9 6 5" words="spank ferry koala crown">
+		<try>irony</try>
+		<try>swamp</try>
+		<try>spank</try>
+		<try>clash</try>
+		<try>crown</try>
+		<try>koala</try>
+		<try>beery</try>
+		<try>retry</try>
+		<try>ferry</try>
+	</quordle>
+
+	<quordle date="2022-08-27" number="215" scores="5 8 7 4" words="usurp gorge haven canal">
+		<try>blurt</try>
+		<try>swear</try>
+		<try>pling</try>
+		<try>canal</try>
+		<try>usurp</try>
+		<try>maven</try>
+		<try>haven</try>
+		<try>gorge</try>
+	</quordle>
+
+	<quordle date="2022-08-28" number="216" scores="3 9 6 8" words="clink belie saute local">
+		<try>price</try>
+		<try>cling</try>
+		<try>clink</try>
+		<try>tilde</try>
+		<try>state</try>
+		<try>saute</try>
+		<try>folie</try>
+		<try>local</try>
+		<try>belie</try>
+	</quordle>
+
 </wordles>

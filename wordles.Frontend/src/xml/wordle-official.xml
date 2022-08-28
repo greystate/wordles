@@ -1431,4 +1431,28 @@
 		<try>clown</try>
 	</wordle>
 
+	<wordle date="2022-08-26" number="433" score="6" word="irony">
+		<try>least</try>
+		<try>young</try>
+		<try>phony</try>
+		<try>drony</try>
+		<try>crony</try>
+		<try>irony</try>
+	</wordle>
+
+	<wordle date="2022-08-27" number="434" score="4" word="ruder">
+		<try>crate</try>
+		<try>resin</try>
+		<try>robed</try>
+		<try>ruder</try>
+	</wordle>
+
+	<wordle date="2022-08-28" number="435" score="5" word="gauze">
+		<try>spark</try>
+		<try>carol</try>
+		<try>faded</try>
+		<try>gauge</try>
+		<try>gauze</try>
+	</wordle>
+
 </wordles>

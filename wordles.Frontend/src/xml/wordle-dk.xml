@@ -1471,4 +1471,29 @@
 		<try>kakao</try>
 	</wordle>
 
+	<wordle date="2022-08-26" number="230" score="4" word="laban">
+		<try>banke</try>
+		<try>danbo</try>
+		<try>gabon</try>
+		<try>laban</try>
+	</wordle>
+
+	<wordle date="2022-08-27" number="231" score="0" word="uægte">
+		<try>længe</try>
+		<try>gærde</try>
+		<try>fægte</try>
+		<try>hægte</try>
+		<try>vægte</try>
+		<try>mægte</try>
+	</wordle>
+
+	<wordle date="2022-08-28" number="232" score="5" word="ordre">
+		<try>smart</try>
+		<try>lækre</try>
+		<try>uføre</try>
+		<try>porre</try>
+		<try>ordre</try>
+	</wordle>
+
+
 </wordles>
