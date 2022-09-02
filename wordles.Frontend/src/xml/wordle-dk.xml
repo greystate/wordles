@@ -1495,5 +1495,38 @@
 		<try>ordre</try>
 	</wordle>
 
+	<wordle date="2022-08-29" number="233" score="4" word="kanal">
+		<try>harem</try>
+		<try>sandt</try>
+		<try>kanon</try>
+		<try>kanal</try>
+	</wordle>
+
+	<wordle date="2022-08-30" number="234" score="4" word="udfri">
+		<try>bredt</try>
+		<try>udryd</try>
+		<try>udørk</try>
+		<try>udfri</try>
+	</wordle>
+
+	<wordle date="2022-08-31" number="235" score="4" word="uvant">
+		<try>frisk</try>
+		<try>tønde</try>
+		<try>nytår</try>
+		<try>uvant</try>
+	</wordle>
+
+	<wordle date="2022-09-01" number="236" score="4" word="karse">
+		<try>huske</try>
+		<try>skære</try>
+		<try>krise</try>
+		<try>karse</try>
+	</wordle>
+
+	<wordle date="2022-09-02" number="237" score="3" word="rekyl">
+		<try>gebis</try>
+		<try>meter</try>
+		<try>rekyl</try>
+	</wordle>
 
 </wordles>

@@ -1455,4 +1455,43 @@
 		<try>gauze</try>
 	</wordle>
 
+	<wordle date="2022-08-29" number="436" score="4" word="chief">
+		<try>trail</try>
+		<try>fined</try>
+		<try>grief</try>
+		<try>chief</try>
+	</wordle>
+
+	<wordle date="2022-08-30" number="437" score="4" word="onset">
+		<try>horse</try>
+		<try>soled</try>
+		<try>oases</try>
+		<try>onset</try>
+	</wordle>
+
+	<wordle date="2022-08-31" number="438" score="4" word="prize">
+		<try>break</try>
+		<try>dries</try>
+		<try>prime</try>
+		<try>prize</try>
+	</wordle>
+
+	<wordle date="2022-09-01" number="439" score="6" word="fungi">
+		<try>prime</try>
+		<try>witch</try>
+		<try>loins</try>
+		<try>anvil</try>
+		<try>fundi</try>
+		<try>fungi</try>
+	</wordle>
+
+	<wordle date="2022-09-02" number="440" score="6" word="charm">
+		<try>great</try>
+		<try>rapid</try>
+		<try>ovary</try>
+		<try>stark</try>
+		<try>wharf</try>
+		<try>charm</try>
+	</wordle>
+
 </wordles>
