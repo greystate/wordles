@@ -1410,4 +1410,28 @@
 		<try>flaky</try>
 	</quordle>
 
+	<quordle date="2022-09-03" number="222" scores="8 7 0 0" words="zesty stick given goody">
+		<try>tribe</try>
+		<try>frets</try>
+		<try>sting</try>
+		<try>pesto</try>
+		<try>minge</try>
+		<try>still</try>
+		<try>stick</try>
+		<try>zesty</try>
+		<try>agony</try>
+	</quordle>
+
+	<quordle date="2022-09-04" number="223" scores="9 4 6 5" words="goody shaky bitty dimly">
+		<try>brine</try>
+		<try>dumpy</try>
+		<try>stack</try>
+		<try>shaky</try>
+		<try>dimly</try>
+		<try>bitty</try>
+		<try>oddly</try>
+		<try>foody</try>
+		<try>goody</try>
+	</quordle>
+
 </wordles>

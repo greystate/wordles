@@ -1529,4 +1529,19 @@
 		<try>rekyl</try>
 	</wordle>
 
+	<wordle date="2022-09-03" number="238" score="5" word="kæber">
+		<try>brand</try>
+		<try>røbet</try>
+		<try>sober</try>
+		<try>læber</try>
+		<try>kæber</try>
+	</wordle>
+
+	<wordle date="2022-09-04" number="239" score="4" word="uvejr">
+		<try>trope</try>
+		<try>hæder</try>
+		<try>bevar</try>
+		<try>uvejr</try>
+	</wordle>
+
 </wordles>

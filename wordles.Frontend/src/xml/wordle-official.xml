@@ -1494,4 +1494,20 @@
 		<try>charm</try>
 	</wordle>
 
+	<wordle date="2022-09-03" number="441" score="6" word="gully">
+		<try>fried</try>
+		<try>stark</try>
+		<try>young</try>
+		<try>gummy</try>
+		<try>guppy</try>
+		<try>gully</try>
+	</wordle>
+
+	<wordle date="2022-09-04" number="442" score="4" word="inter">
+		<try>pride</try>
+		<try>rivet</try>
+		<try>tries</try>
+		<try>inter</try>
+	</wordle>
+
 </wordles>
