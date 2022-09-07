@@ -1544,4 +1544,27 @@
 		<try>uvejr</try>
 	</wordle>
 
+	<wordle date="2022-09-05" number="240" score="5" word="kapel">
+		<try>timer</try>
+		<try>salen</try>
+		<try>kabel</try>
+		<try>kanel</try>
+		<try>kapel</try>
+	</wordle>
+
+	<wordle date="2022-09-06" number="241" score="5" word="pifte">
+		<try>flyve</try>
+		<try>uføre</try>
+		<try>kaffe</try>
+		<try>hofte</try>
+		<try>pifte</try>
+	</wordle>
+
+	<wordle date="2022-09-07" number="242" score="4" word="uvorn">
+		<try>spade</try>
+		<try>fulgt</try>
+		<try>uhørt</try>
+		<try>uvorn</try>
+	</wordle>
+
 </wordles>

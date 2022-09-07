@@ -1510,4 +1510,29 @@
 		<try>inter</try>
 	</wordle>
 
+	<wordle date="2022-09-05" number="443" score="5" word="whoop">
+		<try>wheat</try>
+		<try>which</try>
+		<try>whops</try>
+		<try>whomp</try>
+		<try>whoop</try>
+	</wordle>
+
+	<wordle date="2022-09-06" number="444" score="0" word="taunt">
+		<try>slept</try>
+		<try>graft</try>
+		<try>waist</try>
+		<try>gamut</try>
+		<try>haunt</try>
+		<try>jaunt</try>
+	</wordle>
+
+	<wordle date="2022-09-07" number="445" score="5" word="leery">
+		<try>slurp</try>
+		<try>whirl</try>
+		<try>lorry</try>
+		<try>leary</try>
+		<try>leery</try>
+	</wordle>
+
 </wordles>
