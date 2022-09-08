@@ -1468,4 +1468,16 @@
 		<try>stoop</try>
 	</quordle>
 
+	<quordle date="2022-09-08" number="227" scores="8 6 4 9" words="devil mural sneak leggy">
+		<try>flash</try>
+		<try>point</try>
+		<try>wreck</try>
+		<try>sneak</try>
+		<try>muddy</try>
+		<try>mural</try>
+		<try>jelly</try>
+		<try>devil</try>
+		<try>leggy</try>
+	</quordle>
+
 </wordles>

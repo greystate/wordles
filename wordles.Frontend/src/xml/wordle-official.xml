@@ -1535,4 +1535,11 @@
 		<try>leery</try>
 	</wordle>
 
+	<wordle date="2022-09-08" number="446" score="4" word="class">
+		<try>train</try>
+		<try>place</try>
+		<try>clash</try>
+		<try>class</try>
+	</wordle>
+
 </wordles>

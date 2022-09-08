@@ -1567,4 +1567,11 @@
 		<try>uvorn</try>
 	</wordle>
 
+	<wordle date="2022-09-08" number="243" score="4" word="kalde">
+		<try>dybet</try>
+		<try>sadle</try>
+		<try>galde</try>
+		<try>kalde</try>
+	</wordle>
+
 </wordles>
