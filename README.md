@@ -18,7 +18,9 @@ you have 9 tries total to solve 4 separate wordles.
 
 For rendering, all of these are included (via _XInclude_) in the main
 [wordles.xml](wordles.Frontend/src/xml/wordles.xml) file that should be transformed
-by the [transform-wordles.xslt](wordles.Frontend/src/xslt/transform-wordles.xslt) XSLT file.
+by the [transform-wordles.xslt](wordles.Frontend/src/xslt/transform-wordles.xslt) XSLT file which,
+by default, renders the latest 5 Wordle, Wørdle & Quordle solves. To render *everything*,
+set the `$showall` parameter to `true()` when invoking the transformation.
 
 
 
