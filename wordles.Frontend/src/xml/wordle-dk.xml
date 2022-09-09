@@ -1574,4 +1574,11 @@
 		<try>kalde</try>
 	</wordle>
 
+	<wordle date="2022-09-09" number="244" score="4" word="niver">
+		<try>bonde</try>
+		<try>ental</try>
+		<try>nøgen</try>
+		<try>niver</try>
+	</wordle>
+
 </wordles>

@@ -1542,4 +1542,11 @@
 		<try>class</try>
 	</wordle>
 
+	<wordle date="2022-09-09" number="447" score="4" word="theme">
+		<try>alter</try>
+		<try>spite</try>
+		<try>tonne</try>
+		<try>theme</try>
+	</wordle>
+
 </wordles>

@@ -1480,4 +1480,14 @@
 		<try>leggy</try>
 	</quordle>
 
+	<quordle date="2022-09-09" number="228" scores="7 4 6 5" words="clump pound aisle winch">
+		<try>fiery</try>
+		<try>poach</try>
+		<try>stung</try>
+		<try>pound</try>
+		<try>winch</try>
+		<try>aisle</try>
+		<try>clump</try>
+	</quordle>
+
 </wordles>
