@@ -1581,4 +1581,62 @@
 		<try>niver</try>
 	</wordle>
 
+	<wordle date="2022-09-10" number="245" score="5" word="uvist">
+		<try>kanin</try>
+		<try>stime</try>
+		<try>frist</try>
+		<try>blist</try>
+		<try>uvist</try>
+	</wordle>
+
+	<wordle date="2022-09-11" number="246" score="0" word="køter">
+		<try>biler</try>
+		<try>poker</try>
+		<try>skyer</try>
+		<try>kager</try>
+		<try>kæder</try>
+		<try>kører</try>
+	</wordle>
+
+	<wordle date="2022-09-12" number="247" score="5" word="panel">
+		<try>indse</try>
+		<try>nyrer</try>
+		<try>månen</try>
+		<try>kanel</try>
+		<try>panel</try>
+	</wordle>
+
+	<wordle date="2022-09-13" number="248" score="4" word="pigge">
+		<try>sport</try>
+		<try>plade</try>
+		<try>punge</try>
+		<try>pigge</try>
+	</wordle>
+
+	<wordle date="2022-09-14" number="249" score="3" word="makro">
+		<try>store</try>
+		<try>kobra</try>
+		<try>makro</try>
+	</wordle>
+
+	<wordle date="2022-09-15" number="250" score="4" word="afvig">
+		<try>bamse</try>
+		<try>ovalt</try>
+		<try>aktiv</try>
+		<try>afvig</try>
+	</wordle>
+
+	<wordle date="2022-09-16" number="251" score="4" word="batik">
+		<try>bland</try>
+		<try>banan</try>
+		<try>barme</try>
+		<try>batik</try>
+	</wordle>
+
+	<wordle date="2022-09-17" number="252" score="3" word="debil">
+		<try>ruste</try>
+		<try>lyden</try>
+		<try>debil</try>
+	</wordle>
+
 </wordles>

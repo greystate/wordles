@@ -1549,4 +1549,63 @@
 		<try>theme</try>
 	</wordle>
 
+	<wordle date="2022-09-10" number="448" score="4" word="lofty">
+		<try>power</try>
+		<try>tonic</try>
+		<try>softy</try>
+		<try>lofty</try>
+	</wordle>
+
+	<wordle date="2022-09-11" number="449" score="5" word="tibia">
+		<try>humid</try>
+		<try>tonic</try>
+		<try>train</try>
+		<try>taxis</try>
+		<try>tibia</try>
+	</wordle>
+
+	<wordle date="2022-09-12" number="450" score="5" word="booze">
+		<try>cubed</try>
+		<try>began</try>
+		<try>bribe</try>
+		<try>bloke</try>
+		<try>booze</try>
+	</wordle>
+
+	<wordle date="2022-09-13" number="451" score="3" word="alpha">
+		<try>clash</try>
+		<try>aloha</try>
+		<try>alpha</try>
+	</wordle>
+
+	<wordle date="2022-09-14" number="452" score="4" word="thyme">
+		<try>plane</try>
+		<try>score</try>
+		<try>chime</try>
+		<try>thyme</try>
+	</wordle>
+
+	<wordle date="2022-09-15" number="453" score="5" word="doubt">
+		<try>power</try>
+		<try>longs</try>
+		<try>modal</try>
+		<try>dotty</try>
+		<try>doubt</try>
+	</wordle>
+
+	<wordle date="2022-09-16" number="454" score="5" word="parer">
+		<try>flash</try>
+		<try>audio</try>
+		<try>party</try>
+		<try>parka</try>
+		<try>parer</try>
+	</wordle>
+
+	<wordle date="2022-09-17" number="455" score="4" word="chute">
+		<try>friar</try>
+		<try>queen</try>
+		<try>acute</try>
+		<try>chute</try>
+	</wordle>
+
 </wordles>
