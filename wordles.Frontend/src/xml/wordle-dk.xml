@@ -1639,4 +1639,10 @@
 		<try>debil</try>
 	</wordle>
 
+	<wordle date="2022-09-18" number="253" score="3" word="beglo">
+		<try>træde</try>
+		<try>behov</try>
+		<try>beglo</try>
+	</wordle>
+
 </wordles>

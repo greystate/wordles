@@ -1581,4 +1581,15 @@
 		<try>verse</try>
 	</quordle>
 
+	<quordle date="2022-09-18" number="237" scores="4 6 8 7" words="shaky psalm belle stage">
+		<try>trick</try>
+		<try>flame</try>
+		<try>shunt</try>
+		<try>shaky</try>
+		<try>state</try>
+		<try>psalm</try>
+		<try>stage</try>
+		<try>belle</try>
+	</quordle>
+
 </wordles>

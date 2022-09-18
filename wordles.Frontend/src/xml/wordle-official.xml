@@ -1608,4 +1608,11 @@
 		<try>chute</try>
 	</wordle>
 
+	<wordle date="2022-09-18" number="456" score="4" word="stick">
+		<try>spine</try>
+		<try>shirt</try>
+		<try>still</try>
+		<try>stick</try>
+	</wordle>
+
 </wordles>
