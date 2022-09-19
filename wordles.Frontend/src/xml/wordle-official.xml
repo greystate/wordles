@@ -1615,4 +1615,11 @@
 		<try>stick</try>
 	</wordle>
 
+	<wordle date="2022-09-19" number="457" score="4" word="trice">
+		<try>pause</try>
+		<try>tribe</try>
+		<try>trite</try>
+		<try>trice</try>
+	</wordle>
+
 </wordles>

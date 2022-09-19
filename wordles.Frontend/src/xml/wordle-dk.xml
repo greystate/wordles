@@ -1645,4 +1645,12 @@
 		<try>beglo</try>
 	</wordle>
 
+	<wordle date="2022-09-19" number="254" score="5" word="mafia">
+		<try>opera</try>
+		<try>skema</try>
+		<try>manga</try>
+		<try>malta</try>
+		<try>mafia</try>
+	</wordle>
+
 </wordles>

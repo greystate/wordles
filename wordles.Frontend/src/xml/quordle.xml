@@ -1592,4 +1592,13 @@
 		<try>belle</try>
 	</quordle>
 
+	<quordle date="2022-09-19" number="238" scores="2 6 4 3" words="artsy undid leant amend">
+		<try>trope</try>
+		<try>artsy</try>
+		<try>amend</try>
+		<try>leant</try>
+		<try>unbid</try>
+		<try>undid</try>
+	</quordle>
+
 </wordles>
