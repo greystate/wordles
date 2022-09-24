@@ -1622,4 +1622,42 @@
 		<try>trice</try>
 	</wordle>
 
+	<wordle date="2022-09-20" number="458" score="3" word="alike">
+		<try>clove</try>
+		<try>slide</try>
+		<try>alike</try>
+	</wordle>
+
+	<wordle date="2022-09-21" number="459" score="4" word="recap">
+		<try>young</try>
+		<try>panic</try>
+		<try>cramp</try>
+		<try>recap</try>
+	</wordle>
+
+	<wordle date="2022-09-22" number="460" score="5" word="saint">
+		<try>image</try>
+		<try>paint</try>
+		<try>faint</try>
+		<try>taint</try>
+		<try>saint</try>
+	</wordle>
+
+	<wordle date="2022-09-23" number="461" score="4" word="glory">
+		<try>panic</try>
+		<try>reset</try>
+		<try>mourn</try>
+		<try>worry</try>
+		<try>glory</try>
+	</wordle>
+
+	<wordle date="2022-09-24" number="462" score="6" word="grate">
+		<try>knead</try>
+		<try>beaks</try>
+		<try>flame</try>
+		<try>trace</try>
+		<try>irate</try>
+		<try>grate</try>
+	</wordle>
+
 </wordles>

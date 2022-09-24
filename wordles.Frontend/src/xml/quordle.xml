@@ -1601,4 +1601,58 @@
 		<try>undid</try>
 	</quordle>
 
+	<quordle date="2022-09-20" number="239" scores="8 7 0 9" words="lofty feign chest berth">
+		<try>alike</try>
+		<try>posed</try>
+		<try>young</try>
+		<try>lowly</try>
+		<try>lobby</try>
+		<try>neigh</try>
+		<try>feign</try>
+		<try>lofty</try>
+		<try>berth</try>
+	</quordle>
+
+	<quordle date="2022-09-21" number="240" scores="7 6 4 5" words="unity gloom trope lemur">
+		<try>place</try>
+		<try>opium</try>
+		<try>trend</try>
+		<try>trope</try>
+		<try>lemur</try>
+		<try>gloom</try>
+		<try>unity</try>
+	</quordle>
+
+	<quordle date="2022-09-22" number="241" scores="5 6 7 4" words="adept plead comet decal">
+		<try>paint</try>
+		<try>realm</try>
+		<try>ducks</try>
+		<try>decal</try>
+		<try>adept</try>
+		<try>plead</try>
+		<try>comet</try>
+	</quordle>
+
+	<quordle date="2022-09-23" number="242" scores="5 6 4 7" words="shall dwell crust willy">
+		<try>plank</try>
+		<try>tries</try>
+		<try>mould</try>
+		<try>crust</try>
+		<try>shall</try>
+		<try>dwell</try>
+		<try>willy</try>
+	</quordle>
+
+	<quordle date="2022-09-24" number="243" scores="3 7 9 8" words="harem gaily trite knead">
+		<try>thyme</try>
+		<try>opera</try>
+		<try>harem</try>
+		<try>truce</try>
+		<try>tribe</try>
+		<try>daily</try>
+		<try>gaily</try>
+		<try>knead</try>
+		<try>trite</try>
+	</quordle>
+
 </wordles>

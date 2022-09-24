@@ -1653,4 +1653,42 @@
 		<try>mafia</try>
 	</wordle>
 
+	<wordle date="2022-09-20" number="255" score="6" word="binær">
+		<try>huske</try>
+		<try>flora</try>
+		<try>kridt</try>
+		<try>revir</try>
+		<try>vigør</try>
+		<try>binær</try>
+	</wordle>
+
+	<wordle date="2022-09-21" number="256" score="6" word="djærv">
+		<try>flink</try>
+		<try>bamse</try>
+		<try>trygt</try>
+		<try>optur</try>
+		<try>hædre</try>
+		<try>djærv</try>
+	</wordle>
+
+	<wordle date="2022-09-22" number="257" score="4" word="famøs">
+		<try>hofte</try>
+		<try>fyrig</try>
+		<try>flaks</try>
+		<try>famøs</try>
+	</wordle>
+
+	<wordle date="2022-09-23" number="258" score="3" word="glimt">
+		<try>larme</try>
+		<try>klump</try>
+		<try>glimt</try>
+	</wordle>
+
+	<wordle date="2022-09-24" number="259" score="4" word="salær">
+		<try>fylde</try>
+		<try>polak</try>
+		<try>salto</try>
+		<try>salær</try>
+	</wordle>
+
 </wordles>
