@@ -1691,4 +1691,56 @@
 		<try>salær</try>
 	</wordle>
 
+	<wordle date="2022-09-25" number="260" score="4" word="behov">
+		<try>omsat</try>
+		<try>foder</try>
+		<try>skole</try>
+		<try>gekko</try>
+		<try>behov</try>
+	</wordle>
+
+	<wordle date="2022-09-26" number="261" score="6" word="marsk">
+		<try>haner</try>
+		<try>raskt</try>
+		<try>karsk</try>
+		<try>harsk</try>
+		<try>barsk</try>
+		<try>marsk</try>
+	</wordle>
+
+	<wordle date="2022-09-27" number="262" score="4" word="debut">
+		<try>fiske</try>
+		<try>læder</try>
+		<try>pedal</try>
+		<try>debut</try>
+	</wordle>
+
+	<wordle date="2022-09-28" number="263" score="4" word="fehår">
+		<try>flæsk</try>
+		<try>føret</try>
+		<try>fruer</try>
+		<try>fehår</try>
+	</wordle>
+
+	<wordle date="2022-09-29" number="264" score="4" word="gummi">
+		<try>lande</try>
+		<try>stump</try>
+		<try>dummy</try>
+		<try>gummi</try>
+	</wordle>
+
+	<wordle date="2022-09-30" number="265" score="4" word="senil">
+		<try>rovet</try>
+		<try>hegns</try>
+		<try>sende</try>
+		<try>senil</try>
+	</wordle>
+
+	<wordle date="2022-10-01" number="266" score="4" word="spade">
+		<try>cigar</try>
+		<try>akten</try>
+		<try>svale</try>
+		<try>spade</try>
+	</wordle>
+
 </wordles>

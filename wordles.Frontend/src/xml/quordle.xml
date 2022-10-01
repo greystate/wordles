@@ -1655,4 +1655,83 @@
 		<try>trite</try>
 	</quordle>
 
+	<quordle date="2022-09-25" number="244" scores="5 8 7 3" words="donut gnash recur shyly">
+		<try>basil</try>
+		<try>pored</try>
+		<try>shyly</try>
+		<try>erupt</try>
+		<try>donut</try>
+		<try>femur</try>
+		<try>recur</try>
+		<try>gnash</try>
+	</quordle>
+
+	<quordle date="2022-09-26" number="245" scores="8 9 7 6" words="endow tweet cover audit">
+		<try>stray</try>
+		<try>point</try>
+		<try>defer</try>
+		<try>lover</try>
+		<try>chunk</try>
+		<try>audit</try>
+		<try>cover</try>
+		<try>endow</try>
+		<try>tweet</try>
+	</quordle>
+
+	<quordle date="2022-09-27" number="246" scores="8 7 4 9" words="large leech muddy shirk">
+		<try>wrath</try>
+		<try>heart</try>
+		<try>dumpy</try>
+		<try>muddy</try>
+		<try>shove</try>
+		<try>shirt</try>
+		<try>leech</try>
+		<try>large</try>
+		<try>shirk</try>
+	</quordle>
+
+	<quordle date="2022-09-28" number="247" scores="8 7 6 4" words="uncle begun grown safer">
+		<try>pared</try>
+		<try>stunk</try>
+		<try>fungi</try>
+		<try>safer</try>
+		<try>ghoul</try>
+		<try>grown</try>
+		<try>begun</try>
+		<try>uncle</try>
+	</quordle>
+
+	<quordle date="2022-09-29" number="248" scores="5 6 7 8" words="flint flail hazel rumba">
+		<try>power</try>
+		<try>rings</try>
+		<try>bayou</try>
+		<try>faded</try>
+		<try>flint</try>
+		<try>flail</try>
+		<try>hazel</try>
+		<try>rumba</try>
+	</quordle>
+
+	<quordle date="2022-09-30" number="249" scores="7 6 5 8" words="pubic ennui undue excel">
+		<try>trace</try>
+		<try>dumpy</try>
+		<try>fling</try>
+		<try>shows</try>
+		<try>undue</try>
+		<try>ennui</try>
+		<try>pubic</try>
+		<try>excel</try>
+	</quordle>
+
+	<quordle date="2022-10-01" number="259" scores="8 6 5 4" words="basis waive vapor irony">
+		<try>young</try>
+		<try>parse</try>
+		<try>hints</try>
+		<try>irony</try>
+		<try>vapor</try>
+		<try>waive</try>
+		<try>labis</try>
+		<try>basis</try>
+	</quordle>
+
 </wordles>

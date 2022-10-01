@@ -1660,4 +1660,53 @@
 		<try>grate</try>
 	</wordle>
 
+	<wordle date="2022-09-25" number="463" score="5" word="admit">
+		<try>steak</try>
+		<try>talon</try>
+		<try>ultra</try>
+		<try>wrath</try>
+		<try>admit</try>
+	</wordle>
+
+	<wordle date="2022-09-26" number="464" score="5" word="brisk">
+		<try>stray</try>
+		<try>dress</try>
+		<try>crisp</try>
+		<try>frisk</try>
+		<try>brisk</try>
+	</wordle>
+
+	<wordle date="2022-09-27" number="465" score="3" word="soggy">
+		<try>great</try>
+		<try>longs</try>
+		<try>soggy</try>
+	</wordle>
+
+	<wordle date="2022-09-28" number="466" score="2" word="usurp">
+		<try>ultra</try>
+		<try>usurp</try>
+	</wordle>
+
+	<wordle date="2022-09-29" number="467" score="4" word="scald">
+		<try>waste</try>
+		<try>spank</try>
+		<try>shard</try>
+		<try>scald</try>
+	</wordle>
+
+	<wordle date="2022-09-30" number="468" score="5" word="scorn">
+		<try>bonus</try>
+		<try>snowy</try>
+		<try>stonk</try>
+		<try>spoon</try>
+		<try>scorn</try>
+	</wordle>
+
+	<wordle date="2022-10-01" number="469" score="4" word="leave">
+		<try>vapor</try>
+		<try>avian</try>
+		<try>stave</try>
+		<try>leave</try>
+	</wordle>
+
 </wordles>
