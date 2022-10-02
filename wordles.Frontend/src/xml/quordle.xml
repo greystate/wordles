@@ -1734,4 +1734,16 @@
 		<try>basis</try>
 	</quordle>
 
+	<quordle date="2022-10-02" number="260" scores="9 8 7 6" words="hedge begin stung spiny">
+		<try>opera</try>
+		<try>slick</try>
+		<try>thumb</try>
+		<try>stunt</try>
+		<try>windy</try>
+		<try>spiny</try>
+		<try>stung</try>
+		<try>begin</try>
+		<try>hedge</try>
+	</quordle>
+
 </wordles>

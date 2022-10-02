@@ -1709,4 +1709,12 @@
 		<try>leave</try>
 	</wordle>
 
+	<wordle date="2022-10-02" number="470" score="5" word="twine">
+		<try>clang</try>
+		<try>shiny</try>
+		<try>print</try>
+		<try>twink</try>
+		<try>twine</try>
+	</wordle>
+
 </wordles>
