@@ -1751,4 +1751,28 @@
 		<try>bilyd</try>
 	</wordle>
 
+	<wordle date="2022-10-03" number="268" score="5" word="drøvl">
+		<try>haste</try>
+		<try>grisk</try>
+		<try>dræbt</try>
+		<try>drøjt</try>
+		<try>drøvl</try>
+	</wordle>
+
+	<wordle date="2022-10-04" number="269" score="5" word="dukke">
+		<try>opera</try>
+		<try>gebis</try>
+		<try>skude</try>
+		<try>kunde</try>
+		<try>dukke</try>
+	</wordle>
+
+	<wordle date="2022-10-05" number="270" score="5" word="fjeld">
+		<try>kling</try>
+		<try>laver</try>
+		<try>meldt</try>
+		<try>jodle</try>
+		<try>fjeld</try>
+	</wordle>
+
 </wordles>

@@ -1717,4 +1717,23 @@
 		<try>twine</try>
 	</wordle>
 
+	<wordle date="2022-10-03" number="471" score="3" word="sting">
+		<try>hinge</try>
+		<try>cling</try>
+		<try>sting</try>
+	</wordle>
+
+	<wordle date="2022-10-04" number="472" score="4" word="bough">
+		<try>braid</try>
+		<try>bumpy</try>
+		<try>blunt</try>
+		<try>bough</try>
+	</wordle>
+
+	<wordle date="2022-10-05" number="473" score="3" word="marsh">
+		<try>gleam</try>
+		<try>march</try>
+		<try>marsh</try>
+	</wordle>
+
 </wordles>
