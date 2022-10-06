@@ -1775,4 +1775,12 @@
 		<try>fjeld</try>
 	</wordle>
 
+	<wordle date="2022-10-06" number="271" score="5" word="gåben">
+		<try>hirse</try>
+		<try>pedal</try>
+		<try>nøgen</try>
+		<try>egnen</try>
+		<try>gåben</try>
+	</wordle>
+
 </wordles>

@@ -1780,4 +1780,16 @@
 		<try>exact</try>
 	</quordle>
 
+	<quordle date="2022-10-06" number="264" scores="3 6 5 9" words="large stunk slant ninny">
+		<try>broth</try>
+		<try>glint</try>
+		<try>large</try>
+		<try>spiny</try>
+		<try>slant</try>
+		<try>stunk</try>
+		<try>minny</try>
+		<try>finny</try>
+		<try>ninny</try>
+	</quordle>
+
 </wordles>

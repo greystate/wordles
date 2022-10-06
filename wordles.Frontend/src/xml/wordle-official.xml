@@ -1736,4 +1736,11 @@
 		<try>marsh</try>
 	</wordle>
 
+	<wordle date="2022-10-06" number="474" score="4" word="sloth">
+		<try>power</try>
+		<try>chock</try>
+		<try>froth</try>
+		<try>sloth</try>
+	</wordle>
+
 </wordles>
