@@ -1792,4 +1792,16 @@
 		<try>ninny</try>
 	</quordle>
 
+	<quordle date="2022-10-07" number="265" scores="5 7 8 0" words="slunk golem paper dizzy">
+		<try>cobra</try>
+		<try>thins</try>
+		<try>plush</try>
+		<try>slung</try>
+		<try>slunk</try>
+		<try>pared</try>
+		<try>golem</try>
+		<try>paper</try>
+		<try>divvy</try>
+	</quordle>
+
 </wordles>

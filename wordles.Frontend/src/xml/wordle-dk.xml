@@ -1783,4 +1783,12 @@
 		<try>gåben</try>
 	</wordle>
 
+	<wordle date="2022-10-07" number="272" score="5" word="sirup">
+		<try>opera</try>
+		<try>stram</try>
+		<try>sprød</try>
+		<try>skræp</try>
+		<try>sirup</try>
+	</wordle>
+
 </wordles>

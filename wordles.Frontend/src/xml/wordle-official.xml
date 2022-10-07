@@ -1743,4 +1743,13 @@
 		<try>sloth</try>
 	</wordle>
 
+	<wordle date="2022-10-07" number="475" score="6" word="dandy">
+		<try>tonic</try>
+		<try>manly</try>
+		<try>handy</try>
+		<try>randy</try>
+		<try>sandy</try>
+		<try>dandy</try>
+	</wordle>
+
 </wordles>
