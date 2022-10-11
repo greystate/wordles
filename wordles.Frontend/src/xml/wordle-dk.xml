@@ -1791,4 +1791,36 @@
 		<try>sirup</try>
 	</wordle>
 
+	<wordle date="2022-10-08" number="273" score="6" word="teske">
+		<try>agent</try>
+		<try>træde</try>
+		<try>tisse</try>
+		<try>tyske</try>
+		<try>tuske</try>
+		<try>teske</try>
+	</wordle>
+
+	<wordle date="2022-10-09" number="274" score="4" word="binde">
+		<try>kruse</try>
+		<try>flåde</try>
+		<try>bande</try>
+		<try>binde</try>
+	</wordle>
+
+	<wordle date="2022-10-10" number="275" score="6" word="dybde">
+		<try>opera</try>
+		<try>lænse</try>
+		<try>højde</try>
+		<try>kvide</try>
+		<try>duede</try>
+		<try>dybde</try>
+	</wordle>
+
+	<wordle date="2022-10-11" number="276" score="4" word="forum">
+		<try>drage</try>
+		<try>rundt</try>
+		<try>filur</try>
+		<try>forum</try>
+	</wordle>
+
 </wordles>

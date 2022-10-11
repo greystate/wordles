@@ -1752,4 +1752,34 @@
 		<try>dandy</try>
 	</wordle>
 
+	<wordle date="2022-10-08" number="476" score="4" word="vigor">
+		<try>watch</try>
+		<try>tinge</try>
+		<try>rigor</try>
+		<try>vigor</try>
+	</wordle>
+
+	<wordle date="2022-10-09" number="477" score="4" word="howdy">
+		<try>stain</try>
+		<try>roped</try>
+		<try>dough</try>
+		<try>howdy</try>
+	</wordle>
+
+	<wordle date="2022-10-10" number="478" score="6" word="enjoy">
+		<try>grand</try>
+		<try>spoon</try>
+		<try>nylon</try>
+		<try>annoy</try>
+		<try>envoy</try>
+		<try>enjoy</try>
+	</wordle>
+
+	<wordle date="2022-10-11" number="479" score="4" word="valid">
+		<try>house</try>
+		<try>light</try>
+		<try>drill</try>
+		<try>valid</try>
+	</wordle>
+
 </wordles>

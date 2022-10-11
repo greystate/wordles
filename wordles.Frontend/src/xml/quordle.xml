@@ -1804,4 +1804,48 @@
 		<try>divvy</try>
 	</quordle>
 
+	<quordle date="2022-10-08" number="266" scores="6 3 9 8" words="agent snaky frill bleat">
+		<try>weary</try>
+		<try>stunk</try>
+		<try>snaky</try>
+		<try>ditch</try>
+		<try>tango</try>
+		<try>agent</try>
+		<try>pleat</try>
+		<try>bleat</try>
+		<try>frill</try>
+	</quordle>
+
+	<quordle date="2022-10-09" number="267" scores="5 6 7 8" words="bevel begat brain earth">
+		<try>blues</try>
+		<try>prime</try>
+		<try>badge</try>
+		<try>began</try>
+		<try>bevel</try>
+		<try>begat</try>
+		<try>brain</try>
+		<try>earth</try>
+	</quordle>
+
+	<quordle date="2022-10-10" number="268" scores="6 4 8 5" words="phase grand whiff donut">
+		<try>bendy</try>
+		<try>truss</try>
+		<try>claim</try>
+		<try>grand</try>
+		<try>donut</try>
+		<try>phase</try>
+		<try>whizz</try>
+		<try>whiff</try>
+	</quordle>
+
+	<quordle date="2022-10-11" number="269" scores="5 6 4 7" words="pagan faith tibia roach">
+		<try>brain</try>
+		<try>taper</try>
+		<try>sulky</try>
+		<try>tibia</try>
+		<try>pagan</try>
+		<try>faith</try>
+		<try>roach</try>
+	</quordle>
+
 </wordles>
