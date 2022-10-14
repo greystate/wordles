@@ -1782,4 +1782,26 @@
 		<try>valid</try>
 	</wordle>
 
+	<wordle date="2022-10-12" number="480" score="5" word="ionic">
+		<try>slain</try>
+		<try>tonic</try>
+		<try>monic</try>
+		<try>conic</try>
+		<try>ionic</try>
+	</wordle>
+
+	<wordle date="2022-10-13" number="481" score="5" word="equal">
+		<try>slang</try>
+		<try>abled</try>
+		<try>clear</try>
+		<try>fetal</try>
+		<try>equal</try>
+	</wordle>
+
+	<wordle date="2022-10-14" number="482" score="3" word="floor">
+		<try>force</try>
+		<try>front</try>
+		<try>floor</try>
+	</wordle>
+
 </wordles>

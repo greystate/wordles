@@ -1848,4 +1848,37 @@
 		<try>roach</try>
 	</quordle>
 
+	<quordle date="2022-10-12" number="270" scores="8 6 7 4" words="civic slain cling snuck">
+		<try>wheat</try>
+		<try>spurn</try>
+		<try>skunk</try>
+		<try>snuck</try>
+		<try>moldy</try>
+		<try>slain</try>
+		<try>cling</try>
+		<try>civic</try>
+	</quordle>
+
+	<quordle date="2022-10-13" number="271" scores="8 6 4 7" words="woven olive plank outgo">
+		<try>quart</try>
+		<try>expel</try>
+		<try>boing</try>
+		<try>plank</try>
+		<try>gusto</try>
+		<try>olive</try>
+		<try>outgo</try>
+		<try>woven</try>
+	</quordle>
+
+	<quordle date="2022-10-14" number="272" scores="4 7 5 8" words="owing array singe debit">
+		<try>force</try>
+		<try>awake</try>
+		<try>sting</try>
+		<try>owing</try>
+		<try>singe</try>
+		<try>muddy</try>
+		<try>array</try>
+		<try>debit</try>
+	</quordle>
+
 </wordles>

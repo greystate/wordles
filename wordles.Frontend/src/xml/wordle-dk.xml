@@ -1823,4 +1823,25 @@
 		<try>forum</try>
 	</wordle>
 
+	<wordle date="2022-10-12" number="277" score="5" word="habil">
+		<try>hvede</try>
+		<try>hopsa</try>
+		<try>harmt</try>
+		<try>halvø</try>
+		<try>habil</try>
+	</wordle>
+
+	<wordle date="2022-10-13" number="278" score="5" word="skift">
+		<try>toner</try>
+		<try>klægt</try>
+		<try>skabt</try>
+		<try>skudt</try>
+		<try>skift</try>
+	</wordle>
+
+	<wordle date="2022-10-14" number="279" score="2" word="trofæ">
+		<try>kraft</try>
+		<try>trofæ</try>
+	</wordle>
+
 </wordles>
