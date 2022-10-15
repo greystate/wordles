@@ -1804,4 +1804,10 @@
 		<try>floor</try>
 	</wordle>
 
+	<wordle date="2022-10-15" number="483" score="3" word="catch">
+		<try>bloat</try>
+		<try>acted</try>
+		<try>catch</try>
+	</wordle>
+
 </wordles>

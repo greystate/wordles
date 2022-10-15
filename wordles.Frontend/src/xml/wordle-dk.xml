@@ -1844,4 +1844,11 @@
 		<try>trofæ</try>
 	</wordle>
 
+	<wordle date="2022-10-15" number="280" score="4" word="urban">
+		<try>slang</try>
+		<try>anker</try>
+		<try>baron</try>
+		<try>urban</try>
+	</wordle>
+
 </wordles>

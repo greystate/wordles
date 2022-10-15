@@ -1881,4 +1881,15 @@
 		<try>debit</try>
 	</quordle>
 
+	<quordle date="2022-10-15" number="273" scores="6 7 5 8" words="pause pound gloat exalt">
+		<try>snake</try>
+		<try>bloat</try>
+		<try>float</try>
+		<try>grump</try>
+		<try>gloat</try>
+		<try>pause</try>
+		<try>pound</try>
+		<try>exalt</try>
+	</quordle>
+
 </wordles>
