@@ -1851,4 +1851,26 @@
 		<try>urban</try>
 	</wordle>
 
+	<wordle date="2022-10-16" number="281" score="3" word="fragt">
+		<try>plads</try>
+		<try>bragt</try>
+		<try>fragt</try>
+	</wordle>
+
+	<wordle date="2022-10-17" number="282" score="4" word="gryde">
+		<try>opera</try>
+		<try>rekyl</try>
+		<try>fyret</try>
+		<try>gryde</try>
+	</wordle>
+
+	<wordle date="2022-10-18" number="283" score="5" word="hinke">
+		<try>spore</try>
+		<try>mange</try>
+		<try>bunke</try>
+		<try>vinke</try>
+		<try>hinke</try>
+	</wordle>
+
+
 </wordles>

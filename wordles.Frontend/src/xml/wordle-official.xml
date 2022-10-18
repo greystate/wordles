@@ -1810,4 +1810,25 @@
 		<try>catch</try>
 	</wordle>
 
+	<wordle date="2022-10-16" number="484" score="3" word="spade">
+		<try>water</try>
+		<try>leady</try>
+		<try>spade</try>
+	</wordle>
+
+	<wordle date="2022-10-17" number="485" score="6" word="stein">
+		<try>probe</try>
+		<try>flesh</try>
+		<try>steam</try>
+		<try>stewy</try>
+		<try>steed</try>
+		<try>stein</try>
+	</wordle>
+
+	<wordle date="2022-10-18" number="486" score="3" word="exist">
+		<try>paint</try>
+		<try>evict</try>
+		<try>exist</try>
+	</wordle>
+
 </wordles>
