@@ -1872,5 +1872,17 @@
 		<try>hinke</try>
 	</wordle>
 
+	<wordle date="2022-10-19" number="284" score="3" word="snyde">
+		<try>nøgle</try>
+		<try>kande</try>
+		<try>snyde</try>
+	</wordle>
+
+	<wordle date="2022-10-20" number="285" score="4" word="tøjle">
+		<try>spand</try>
+		<try>lover</try>
+		<try>helle</try>
+		<try>tøjle</try>
+	</wordle>
 
 </wordles>

@@ -1925,4 +1925,26 @@
 		<try>wedge</try>
 	</quordle>
 
+	<quordle date="2022-10-19" number="277" scores="6 8 4 5" words="night every colon manor">
+		<try>house</try>
+		<try>cider</try>
+		<try>ratel</try>
+		<try>colon</try>
+		<try>manor</try>
+		<try>night</try>
+		<try>ferry</try>
+		<try>every</try>
+	</quordle>
+
+	<quordle date="2022-10-20" number="278" scores="7 8 4 6" words="crick shied venom venue">
+		<try>point</try>
+		<try>infer</try>
+		<try>ovary</try>
+		<try>venom</try>
+		<try>crush</try>
+		<try>venue</try>
+		<try>crick</try>
+		<try>shied</try>
+	</quordle>
+
 </wordles>

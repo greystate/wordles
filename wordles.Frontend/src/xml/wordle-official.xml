@@ -1831,4 +1831,17 @@
 		<try>exist</try>
 	</wordle>
 
+	<wordle date="2022-10-19" number="487" score="5" word="quirk">
+		<try>rules</try>
+		<try>purty</try>
+		<try>humor</try>
+		<try>guard</try>
+		<try>quirk</try>
+	</wordle>
+
+	<wordle date="2022-10-20" number="488" score="2" word="denim">
+		<try>venom</try>
+		<try>denim</try>
+	</wordle>
+
 </wordles>
