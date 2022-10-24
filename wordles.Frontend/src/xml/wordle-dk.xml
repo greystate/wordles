@@ -1885,4 +1885,35 @@
 		<try>tøjle</try>
 	</wordle>
 
+	<wordle date="2022-10-21" number="286" score="6" word="vrage">
+		<try>under</try>
+		<try>repos</try>
+		<try>træge</try>
+		<try>brage</try>
+		<try>krage</try>
+		<try>vrage</try>
+	</wordle>
+
+	<wordle date="2022-10-22" number="287" score="5" word="ugift">
+		<try>opera</try>
+		<try>gebis</try>
+		<try>kling</try>
+		<try>svigt</try>
+		<try>ugift</try>
+	</wordle>
+
+	<wordle date="2022-10-23" number="288" score="4" word="nerve">
+		<try>kling</try>
+		<try>snore</try>
+		<try>rense</try>
+		<try>nerve</try>
+	</wordle>
+
+	<wordle date="2022-10-24" number="289" score="4" word="udkig">
+		<try>gebis</try>
+		<try>yndig</try>
+		<try>døsig</try>
+		<try>udkig</try>
+	</wordle>
+
 </wordles>

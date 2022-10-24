@@ -1844,4 +1844,35 @@
 		<try>denim</try>
 	</wordle>
 
+	<wordle date="2022-10-21" number="489" score="6" word="grove">
+		<try>plyer</try>
+		<try>cream</try>
+		<try>erupt</try>
+		<try>bribe</try>
+		<try>drone</try>
+		<try>grove</try>
+	</wordle>
+
+	<wordle date="2022-10-22" number="490" score="4" word="spiel">
+		<try>loads</try>
+		<try>slink</try>
+		<try>spill</try>
+		<try>spiel</try>
+	</wordle>
+
+	<wordle date="2022-10-23" number="491" score="5" word="mummy">
+		<try>steal</try>
+		<try>groin</try>
+		<try>dumpy</try>
+		<try>yummy</try>
+		<try>mummy</try>
+	</wordle>
+
+	<wordle date="2022-10-24" number="492" score="4" word="fault">
+		<try>stomp</try>
+		<try>train</try>
+		<try>fetal</try>
+		<try>fault</try>
+	</wordle>
+
 </wordles>

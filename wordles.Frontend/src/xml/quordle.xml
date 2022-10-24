@@ -1947,4 +1947,49 @@
 		<try>shied</try>
 	</quordle>
 
+	<quordle date="2022-10-21" number="279" scores="7 3 6 5" words="debit sport quota using">
+		<try>tiger</try>
+		<try>spawn</try>
+		<try>sport</try>
+		<try>muddy</try>
+		<try>using</try>
+		<try>quota</try>
+		<try>debit</try>
+	</quordle>
+
+	<quordle date="2022-10-22" number="280" scores="7 4 5 8" words="octal saint hefty bison">
+		<try>stark</try>
+		<try>house</try>
+		<try>fired</try>
+		<try>saint</try>
+		<try>hefty</try>
+		<try>tonal</try>
+		<try>octal</try>
+		<try>bison</try>
+	</quordle>
+
+	<quordle date="2022-10-23" number="281" scores="8 4 0 7" words="knoll steel gloom felon">
+		<try>slope</try>
+		<try>shelf</try>
+		<try>steal</try>
+		<try>steel</try>
+		<try>droll</try>
+		<try>foley</try>
+		<try>felon</try>
+		<try>knoll</try>
+		<try>bloom</try>
+	</quordle>
+
+	<quordle date="2022-10-24" number="282" scores="7 5 6 9" words="slimy tunic tumor straw">
+		<try>plain</try>
+		<try>slick</try>
+		<try>trend</try>
+		<try>tonic</try>
+		<try>tunic</try>
+		<try>tumor</try>
+		<try>slimy</try>
+		<try>start</try>
+		<try>straw</try>
+	</quordle>
+
 </wordles>
