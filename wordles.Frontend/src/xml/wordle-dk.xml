@@ -1916,4 +1916,18 @@
 		<try>udkig</try>
 	</wordle>
 
+	<wordle date="2022-10-25" number="290" score="5" word="ænder">
+		<try>touch</try>
+		<try>bevis</try>
+		<try>løver</try>
+		<try>hæder</try>
+		<try>ænder</try>
+	</wordle>
+
+	<wordle date="2022-10-26" number="291" score="3" word="angiv">
+		<try>plade</try>
+		<try>ansat</try>
+		<try>angiv</try>
+	</wordle>
+
 </wordles>

@@ -1875,4 +1875,19 @@
 		<try>fault</try>
 	</wordle>
 
+	<wordle date="2022-10-25" number="493" score="5" word="foggy">
+		<try>touch</try>
+		<try>worry</try>
+		<try>lofty</try>
+		<try>foamy</try>
+		<try>foggy</try>
+	</wordle>
+
+	<wordle date="2022-10-26" number="494" score="4" word="flout">
+		<try>mourn</try>
+		<try>about</try>
+		<try>scout</try>
+		<try>flout</try>
+	</wordle>
+
 </wordles>

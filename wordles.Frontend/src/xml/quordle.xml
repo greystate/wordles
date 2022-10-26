@@ -1992,4 +1992,26 @@
 		<try>straw</try>
 	</quordle>
 
+	<quordle date="2022-10-25" number="283" scores="5 8 0 7" words="spore deity manga snoop">
+		<try>touch</try>
+		<try>blame</try>
+		<try>cloak</try>
+		<try>trope</try>
+		<try>spore</try>
+		<try>swoop</try>
+		<try>snoop</try>
+		<try>deity</try>
+		<try>manna</try>
+	</quordle>
+
+	<quordle date="2022-10-26" number="284" scores="5 6 7 4" words="radio burst touch creak">
+		<try>tread</try>
+		<try>freak</try>
+		<try>break</try>
+		<try>creak</try>
+		<try>radio</try>
+		<try>burst</try>
+		<try>touch</try>
+	</quordle>
+
 </wordles>
