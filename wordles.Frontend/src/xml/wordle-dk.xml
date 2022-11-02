@@ -1930,4 +1930,57 @@
 		<try>angiv</try>
 	</wordle>
 
+	<wordle date="2022-10-27" number="292" score="6" word="cyste">
+		<try>hvide</try>
+		<try>bærme</try>
+		<try>savle</try>
+		<try>måske</try>
+		<try>tysse</try>
+		<try>cyste</try>
+	</wordle>
+
+	<wordle date="2022-10-28" number="293" score="3" word="dogme">
+		<try>drink</try>
+		<try>dumpe</try>
+		<try>dogme</try>
+	</wordle>
+
+	<wordle date="2022-10-29" number="294" score="4" word="dusin">
+		<try>mider</try>
+		<try>spind</try>
+		<try>vinds</try>
+		<try>dusin</try>
+	</wordle>
+
+	<wordle date="2022-10-30" number="295" score="4" word="abort">
+		<try>valse</try>
+		<try>antag</try>
+		<try>attrå</try>
+		<try>abort</try>
+	</wordle>
+
+	<wordle date="2022-10-31" number="296" score="5" word="bedøm">
+		<try>baren</try>
+		<try>blæse</try>
+		<try>bebud</try>
+		<try>bejds</try>
+		<try>bedøm</try>
+	</wordle>
+
+	<wordle date="2022-11-01" number="297" score="6" word="civil">
+		<try>plank</try>
+		<try>læser</try>
+		<try>fyldt</try>
+		<try>umild</try>
+		<try>habil</try>
+		<try>civil</try>
+	</wordle>
+
+	<wordle date="2022-11-02" number="298" score="4" word="egern">
+		<try>glade</try>
+		<try>egnet</try>
+		<try>egens</try>
+		<try>egern</try>
+	</wordle>
+
 </wordles>

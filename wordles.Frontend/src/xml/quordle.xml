@@ -2014,4 +2014,84 @@
 		<try>touch</try>
 	</quordle>
 
+	<quordle date="2022-10-27" number="285" scores="4 8 6 0" words="stain paler drier bobby">
+		<try>shark</try>
+		<try>great</try>
+		<try>white</try>
+		<try>stain</try>
+		<try>fried</try>
+		<try>drier</try>
+		<try>loopy</try>
+		<try>paler</try>
+		<try>boomy</try>
+	</quordle>
+
+	<quordle date="2022-10-28" number="286" scores="6 7 5 8" words="ideal chess shady shawl">
+		<try>great</try>
+		<try>white</try>
+		<try>shark</try>
+		<try>shawl</try>
+		<try>shady</try>
+		<try>ideal</try>
+		<try>chess</try>
+	</quordle>
+
+	<quordle date="2022-10-29" number="287" scores="8 0 9 6" words="cruel trunk suite allot">
+		<try>great</try>
+		<try>early</try>
+		<try>tempo</try>
+		<try>boast</try>
+		<try>aloft</try>
+		<try>allot</try>
+		<try>truth</try>
+		<try>cruel</try>
+		<try>suite</try>
+	</quordle>
+
+	<quordle date="2022-10-30" number="288" scores="5 4 6 8" words="soapy brrom missy ovine">
+		<try>break</try>
+		<try>dumpy</try>
+		<try>witch</try>
+		<try>broom</try>
+		<try>soapy</try>
+		<try>missy</try>
+		<try>olive</try>
+		<try>ovine</try>
+	</quordle>
+
+	<quordle date="2022-10-31" number="289" scores="5 7 4 8" words="idler berth orbit fetch">
+		<try>cards</try>
+		<try>opine</try>
+		<try>rider</try>
+		<try>orbit</try>
+		<try>idler</try>
+		<try>beret</try>
+		<try>berth</try>
+		<try>fetch</try>
+	</quordle>
+
+	<quordle date="2022-11-01" number="290" scores="5 9 7 4" words="chair mauve abbot stilt">
+		<try>quest</try>
+		<try>grail</try>
+		<try>power</try>
+		<try>stilt</try>
+		<try>chair</try>
+		<try>tarot</try>
+		<try>abbot</try>
+		<try>jaunt</try>
+		<try>mauve</try>
+	</quordle>
+
+	<quordle date="2022-11-02" number="291" scores="9 8 5 4" words="crick penne manly glade">
+		<try>prays</try>
+		<try>liege</try>
+		<try>funky</try>
+		<try>glade</try>
+		<try>manly</try>
+		<try>trick</try>
+		<try>brick</try>
+		<try>penne</try>
+		<try>crick</try>
+	</quordle>
+
 </wordles>

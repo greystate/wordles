@@ -1890,4 +1890,53 @@
 		<try>flout</try>
 	</wordle>
 
+	<wordle date="2022-10-27" number="495" score="4" word="carry">
+		<try>white</try>
+		<try>glace</try>
+		<try>carol</try>
+		<try>carry</try>
+	</wordle>
+
+	<wordle date="2022-10-28" number="496" score="4" word="sneak">
+		<try>ideal</try>
+		<try>great</try>
+		<try>speak</try>
+		<try>sneak</try>
+	</wordle>
+
+	<wordle date="2022-10-29" number="497" score="4" word="libel">
+		<try>spawn</try>
+		<try>cloud</try>
+		<try>trill</try>
+		<try>libel</try>
+	</wordle>
+
+	<wordle date="2022-10-30" number="498" score="5" word="waltz">
+		<try>scour</try>
+		<try>break</try>
+		<try>manic</try>
+		<try>gally</try>
+		<try>waltz</try>
+	</wordle>
+
+	<wordle date="2022-10-31" number="499" score="3" word="aptly">
+		<try>sport</try>
+		<try>apted</try>
+		<try>aptly</try>
+	</wordle>
+
+	<wordle date="2022-11-01" number="500" score="4" word="piney">
+		<try>quest</try>
+		<try>place</try>
+		<try>pried</try>
+		<try>piney</try>
+	</wordle>
+
+	<wordle date="2022-11-02" number="501" score="4" word="inept">
+		<try>grace</try>
+		<try>depth</try>
+		<try>steps</try>
+		<try>inept</try>
+	</wordle>
+
 </wordles>
