@@ -1939,4 +1939,20 @@
 		<try>inept</try>
 	</wordle>
 
+	<wordle date="2022-11-03" number="502" score="5" word="aloud">
+		<try>satin</try>
+		<try>leave</try>
+		<try>allow</try>
+		<try>aloha</try>
+		<try>aloud</try>
+	</wordle>
+
+	<wordle date="2022-11-04" number="503" score="5" word="photo">
+		<try>blunt</try>
+		<try>train</try>
+		<try>steed</try>
+		<try>motto</try>
+		<try>photo</try>
+	</wordle>
+
 </wordles>

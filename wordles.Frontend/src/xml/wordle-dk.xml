@@ -1983,4 +1983,20 @@
 		<try>egern</try>
 	</wordle>
 
+	<wordle date="2022-11-03" number="299" score="4" word="falsk">
+		<try>bland</try>
+		<try>larve</try>
+		<try>salsa</try>
+		<try>falsk</try>
+	</wordle>
+
+	<wordle date="2022-11-04" number="300" score="6" word="genre">
+		<try>skole</try>
+		<try>rumpe</try>
+		<try>havre</try>
+		<try>indre</try>
+		<try>negre</try>
+		<try>genre</try>
+	</wordle>
+
 </wordles>

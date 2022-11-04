@@ -2094,4 +2094,25 @@
 		<try>crick</try>
 	</quordle>
 
+	<quordle date="2022-11-03" number="292" scores="3 7 6 5" words="utter light fritz aorta">
+		<try>false</try>
+		<try>truth</try>
+		<try>utter</try>
+		<try>darts</try>
+		<try>aorta</try>
+		<try>fritz</try>
+		<try>light</try>
+	</quordle>
+
+	<quordle date="2022-11-04" number="293" scores="7 4 8 5" words="check acorn nerdy round">
+		<try>blunt</try>
+		<try>shark</try>
+		<try>frock</try>
+		<try>acorn</try>
+		<try>round</try>
+		<try>chick</try>
+		<try>check</try>
+		<try>nerdy</try>
+	</quordle>
+
 </wordles>
