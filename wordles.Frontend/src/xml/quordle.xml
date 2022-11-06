@@ -2115,4 +2115,26 @@
 		<try>nerdy</try>
 	</quordle>
 
+	<quordle date="2022-11-05" number="294" scores="5 4 7 6" words="shirt awoke vaunt ultra">
+		<try>opera</try>
+		<try>alone</try>
+		<try>above</try>
+		<try>awoke</try>
+		<try>ahirt</try>
+		<try>ultra</try>
+		<try>vaunt</try>
+	</quordle>
+
+	<quordle date="2022-11-06" number="295" scores="4 8 9 6" words="joint refit testy stein">
+		<try>trial</try>
+		<try>works</try>
+		<try>point</try>
+		<try>joint</try>
+		<try>satin</try>
+		<try>stein</try>
+		<try>remit</try>
+		<try>refit</try>
+		<try>testy</try>
+	</quordle>
+
 </wordles>

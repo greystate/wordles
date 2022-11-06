@@ -1955,4 +1955,15 @@
 		<try>photo</try>
 	</wordle>
 
+	<wordle date="2022-11-05" number="505" score="2" word="dream">
+		<try>blunt</try>
+		<try>dream</try>
+	</wordle>
+
+	<wordle date="2022-11-06" number="506" score="3" word="stale">
+		<try>lucid</try>
+		<try>slate</try>
+		<try>stale</try>
+	</wordle>
+
 </wordles>

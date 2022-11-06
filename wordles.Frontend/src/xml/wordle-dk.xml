@@ -1999,4 +1999,18 @@
 		<try>genre</try>
 	</wordle>
 
+	<wordle date="2022-11-05" number="301" score="3" word="hjelm">
+		<try>drømt</try>
+		<try>mægle</try>
+		<try>hjelm</try>
+	</wordle>
+
+	<wordle date="2022-11-06" number="302" score="5" word="afløb">
+		<try>plask</try>
+		<try>alter</try>
+		<try>adlyd</try>
+		<try>aflæg</try>
+		<try>afløb</try>
+	</wordle>
+
 </wordles>
