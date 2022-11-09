@@ -1966,4 +1966,22 @@
 		<try>stale</try>
 	</wordle>
 
+	<wordle date="2022-11-07" number="507" score="3" word="begin">
+		<try>along</try>
+		<try>green</try>
+		<try>begin</try>
+	</wordle>
+
+	<wordle date="2022-11-08" number="508" score="4" word="spell">
+		<try>drain</try>
+		<try>chomp</try>
+		<try>pesky</try>
+		<try>spell</try>
+	</wordle>
+
+	<wordle date="2022-11-09" number="509" score="2" word="rainy">
+		<try>train</try>
+		<try>rainy</try>
+	</wordle>
+
 </wordles>

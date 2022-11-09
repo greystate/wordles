@@ -2013,4 +2013,26 @@
 		<try>afløb</try>
 	</wordle>
 
+	<wordle date="2022-11-07" number="303" score="5" word="behag">
+		<try>huske</try>
+		<try>nyhed</try>
+		<try>fehår</try>
+		<try>behov</try>
+		<try>behag</try>
+	</wordle>
+
+	<wordle date="2022-11-08" number="304" score="4" word="cigar">
+		<try>prygl</try>
+		<try>regne</try>
+		<try>vigør</try>
+		<try>cigar</try>
+	</wordle>
+
+	<wordle date="2022-11-09" number="305" score="4" word="eksem">
+		<try>brønd</try>
+		<try>salte</try>
+		<try>piges</try>
+		<try>eksem</try>
+	</wordle>
+
 </wordles>

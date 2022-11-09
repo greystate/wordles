@@ -2137,4 +2137,37 @@
 		<try>testy</try>
 	</quordle>
 
+	<quordle date="2022-11-07" number="296" scores="9 3 7 8" words="dough sport grace circa">
+		<try>trips</try>
+		<try>strap</try>
+		<try>sport</try>
+		<try>bulgy</try>
+		<try>grade</try>
+		<try>carve</try>
+		<try>grace</try>
+		<try>circa</try>
+		<try>dough</try>
+	</quordle>
+
+	<quordle date="2022-11-08" number="297" scores="5 7 4 8" words="leaky drain mucky whisk">
+		<try>chunk</try>
+		<try>great</try>
+		<try>bossy</try>
+		<try>mucky</try>
+		<try>leaky</try>
+		<try>drawn</try>
+		<try>drain</try>
+		<try>whisk</try>
+	</quordle>
+
+	<quordle date="2022-11-09" number="298" scores="6 4 5 7" words="steed clash scout inlet">
+		<try>blame</try>
+		<try>grind</try>
+		<try>pouch</try>
+		<try>clash</try>
+		<try>scout</try>
+		<try>steed</try>
+		<try>inlet</try>
+	</quordle>
+
 </wordles>
