@@ -1984,4 +1984,40 @@
 		<try>rainy</try>
 	</wordle>
 
+	<wordle date="2022-11-10" number="510" score="4" word="unite">
+		<try>swipe</try>
+		<try>tribe</try>
+		<try>quite</try>
+		<try>unite</try>
+	</wordle>
+
+	<wordle date="2022-11-11" number="511" score="4" word="medal">
+		<try>baker</try>
+		<try>evade</try>
+		<try>plead</try>
+		<try>medal</try>
+	</wordle>
+
+	<wordle date="2022-11-12" number="512" score="4" word="valet">
+		<try>quiet</try>
+		<try>onset</try>
+		<try>tacet</try>
+		<try>valet</try>
+	</wordle>
+
+	<wordle date="2022-11-13" number="513" score="6" word="inane">
+		<try>dream</try>
+		<try>peace</try>
+		<try>stale</try>
+		<try>agaze</try>
+		<try>quake</try>
+		<try>inane</try>
+	</wordle>
+
+	<wordle date="2022-11-14" number="514" score="3" word="maple">
+		<try>mourn</try>
+		<try>meaty</try>
+		<try>maple</try>
+	</wordle>
+
 </wordles>

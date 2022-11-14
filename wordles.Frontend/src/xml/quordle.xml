@@ -2170,4 +2170,63 @@
 		<try>inlet</try>
 	</quordle>
 
+	<quordle date="2022-11-10" number="299" scores="6 5 8 4" words="carat adobe hello spout">
+		<try>unite</try>
+		<try>stuff</try>
+		<try>poker</try>
+		<try>spout</try>
+		<try>adobe</try>
+		<try>carat</try>
+		<try>jello</try>
+		<try>hello</try>
+	</quordle>
+
+	<quordle date="2022-11-11" number="300" scores="9 4 6 8" words="mason reign unify leash">
+		<try>brain</try>
+		<try>inert</try>
+		<try>siren</try>
+		<try>reign</try>
+		<try>unity</try>
+		<try>unify</try>
+		<try>lease</try>
+		<try>leash</try>
+		<try>mason</try>
+	</quordle>
+
+	<quordle date="2022-11-12" number="301" scores="3 7 9 4" words="enemy axiom naval onset">
+		<try>money</try>
+		<try>tread</try>
+		<try>enemy</try>
+		<try>onset</try>
+		<try>frame</try>
+		<try>amigo</try>
+		<try>axiom</try>
+		<try>pavan</try>
+		<try>naval</try>
+	</quordle>
+
+	<quordle date="2022-11-13" number="302" scores="7 4 2 9" words="sting circa drama belly">
+		<try>dream</try>
+		<try>drama</try>
+		<try>rinse</try>
+		<try>circa</try>
+		<try>unset</try>
+		<try>stink</try>
+		<try>sting</try>
+		<try>jello</try>
+		<try>belly</try>
+	</quordle>
+
+	<quordle date="2022-11-14" number="303" scores="2 9 5 7" words="frail mania wrung rainy">
+		<try>start</try>
+		<try>frail</try>
+		<try>grand</try>
+		<try>wrong</try>
+		<try>wrung</try>
+		<try>carny</try>
+		<try>rainy</try>
+		<try>mavin</try>
+		<try>mania</try>
+	</quordle>
+
 </wordles>

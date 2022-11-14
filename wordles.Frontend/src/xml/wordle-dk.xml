@@ -2035,4 +2035,39 @@
 		<try>eksem</try>
 	</wordle>
 
+	<wordle date="2022-11-10" number="306" score="4" word="farve">
+		<try>plask</try>
+		<try>andre</try>
+		<try>ramte</try>
+		<try>farve</try>
+	</wordle>
+
+	<wordle date="2022-11-11" number="307" score="4" word="havål">
+		<try>bager</try>
+		<try>dansk</try>
+		<try>hallo</try>
+		<try>havål</try>
+	</wordle>
+
+	<wordle date="2022-11-12" number="308" score="4" word="kahyt">
+		<try>klode</try>
+		<try>karma</try>
+		<try>kaput</try>
+		<try>kahyt</try>
+	</wordle>
+
+	<wordle date="2022-11-13" number="309" score="4" word="alene">
+		<try>skørt</try>
+		<try>mange</try>
+		<try>uvane</try>
+		<try>alene</try>
+	</wordle>
+
+	<wordle date="2022-11-14" number="310" score="4" word="besyv">
+		<try>præst</try>
+		<try>seraf</try>
+		<try>menes</try>
+		<try>besyv</try>
+	</wordle>
+
 </wordles>
