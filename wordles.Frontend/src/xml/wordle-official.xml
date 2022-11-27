@@ -1955,57 +1955,57 @@
 		<try>photo</try>
 	</wordle>
 
-	<wordle date="2022-11-05" number="505" score="2" word="dream">
+	<wordle date="2022-11-05" number="504" score="2" word="dream">
 		<try>blunt</try>
 		<try>dream</try>
 	</wordle>
 
-	<wordle date="2022-11-06" number="506" score="3" word="stale">
+	<wordle date="2022-11-06" number="505" score="3" word="stale">
 		<try>lucid</try>
 		<try>slate</try>
 		<try>stale</try>
 	</wordle>
 
-	<wordle date="2022-11-07" number="507" score="3" word="begin">
+	<wordle date="2022-11-07" number="506" score="3" word="begin">
 		<try>along</try>
 		<try>green</try>
 		<try>begin</try>
 	</wordle>
 
-	<wordle date="2022-11-08" number="508" score="4" word="spell">
+	<wordle date="2022-11-08" number="507" score="4" word="spell">
 		<try>drain</try>
 		<try>chomp</try>
 		<try>pesky</try>
 		<try>spell</try>
 	</wordle>
 
-	<wordle date="2022-11-09" number="509" score="2" word="rainy">
+	<wordle date="2022-11-09" number="508" score="2" word="rainy">
 		<try>train</try>
 		<try>rainy</try>
 	</wordle>
 
-	<wordle date="2022-11-10" number="510" score="4" word="unite">
+	<wordle date="2022-11-10" number="509" score="4" word="unite">
 		<try>swipe</try>
 		<try>tribe</try>
 		<try>quite</try>
 		<try>unite</try>
 	</wordle>
 
-	<wordle date="2022-11-11" number="511" score="4" word="medal">
+	<wordle date="2022-11-11" number="510" score="4" word="medal">
 		<try>baker</try>
 		<try>evade</try>
 		<try>plead</try>
 		<try>medal</try>
 	</wordle>
 
-	<wordle date="2022-11-12" number="512" score="4" word="valet">
+	<wordle date="2022-11-12" number="511" score="4" word="valet">
 		<try>quiet</try>
 		<try>onset</try>
 		<try>tacet</try>
 		<try>valet</try>
 	</wordle>
 
-	<wordle date="2022-11-13" number="513" score="6" word="inane">
+	<wordle date="2022-11-13" number="512" score="6" word="inane">
 		<try>dream</try>
 		<try>peace</try>
 		<try>stale</try>
@@ -2014,10 +2014,96 @@
 		<try>inane</try>
 	</wordle>
 
-	<wordle date="2022-11-14" number="514" score="3" word="maple">
+	<wordle date="2022-11-14" number="513" score="3" word="maple">
 		<try>mourn</try>
 		<try>meaty</try>
 		<try>maple</try>
+	</wordle>
+
+	<wordle date="2022-11-15" number="514" score="3" word="snarl">
+		<try>trial</try>
+		<try>pearl</try>
+		<try>snarl</try>
+	</wordle>
+
+	<wordle date="2022-11-16" number="515" score="6" word="baker">
+		<try>great</try>
+		<try>dares</try>
+		<try>layer</try>
+		<try>caper</try>
+		<try>wafer</try>
+		<try>baker</try>
+	</wordle>
+
+	<wordle date="2022-11-17" number="516" score="3" word="there">
+		<try>roped</try>
+		<try>great</try>
+		<try>there</try>
+	</wordle>
+
+	<wordle date="2022-11-18" number="517" score="4" word="glyph">
+		<try>train</try>
+		<try>scope</try>
+		<try>lumpy</try>
+		<try>glyph</try>
+	</wordle>
+
+	<wordle date="2022-11-19" number="518" score="4" word="avert">
+		<try>flare</try>
+		<try>hears</try>
+		<try>opera</try>
+		<try>avert</try>
+	</wordle>
+
+	<wordle date="2022-11-20" number="519" score="5" word="brave">
+		<try>point</try>
+		<try>share</try>
+		<try>crave</try>
+		<try>grave</try>
+		<try>brave</try>
+	</wordle>
+
+	<wordle date="2022-11-21" number="520" score="4" word="axiom">
+		<try>rails</try>
+		<try>abide</try>
+		<try>aging</try>
+		<try>axiom</try>
+	</wordle>
+
+	<wordle date="2022-11-22" number="521" score="3" word="prime">
+		<try>world</try>
+		<try>train</try>
+		<try>prime</try>
+	</wordle>
+
+	<wordle date="2022-11-23" number="522" score="4" word="drive">
+		<try>stare</try>
+		<try>purge</try>
+		<try>bribe</try>
+		<try>drive</try>
+	</wordle>
+
+	<wordle date="2022-11-24" number="523" score="2" word="feast">
+		<try>brace</try>
+		<try>feast</try>
+	</wordle>
+
+	<wordle date="2022-11-25" number="524" score="3" word="itchy">
+		<try>black</try>
+		<try>chive</try>
+		<try>itchy</try>
+	</wordle>
+
+	<wordle date="2022-11-26" number="525" score="3" word="clean">
+		<try>bland</try>
+		<try>alone</try>
+		<try>clean</try>
+	</wordle>
+
+	<wordle date="2022-11-27" number="526" score="3" word="happy">
+		<try>plane</try>
+		<try>vapid</try>
+		<try>happy</try>
 	</wordle>
 
 </wordles>

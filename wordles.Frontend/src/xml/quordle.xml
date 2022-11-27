@@ -2229,4 +2229,153 @@
 		<try>mania</try>
 	</quordle>
 
+	<quordle date="2022-11-15" number="304" scores="5 3 7 9" words="whack print freed equip">
+		<try>porch</try>
+		<try>check</try>
+		<try>print</try>
+		<try>dream</try>
+		<try>whack</try>
+		<try>filed</try>
+		<try>freed</try>
+		<try>sepia</try>
+		<try>equip</try>
+	</quordle>
+
+	<quordle date="2022-11-16" number="305" scores="6 2 8 3" words="chuck wharf proxy wreck">
+		<try>wheat</try>
+		<try>wharf</try>
+		<try>wreck</try>
+		<try>chock</try>
+		<try>chick</try>
+		<try>chuck</try>
+		<try>broom</try>
+		<try>proxy</try>
+	</quordle>
+
+	<quordle date="2022-11-17" number="306" scores="6 8 4 5" words="shush mirth skull burst">
+		<try>tread</try>
+		<try>sport</try>
+		<try>swing</try>
+		<try>skull</try>
+		<try>burst</try>
+		<try>shush</try>
+		<try>girth</try>
+		<try>mirth</try>
+	</quordle>
+
+	<quordle date="2022-11-18" number="307" scores="3 7 4 6" words="stoke apart stead rough">
+		<try>ducks</try>
+		<try>sulky</try>
+		<try>stoke</try>
+		<try>stead</try>
+		<try>tapir</try>
+		<try>rough</try>
+		<try>apart</try>
+	</quordle>
+
+	<!-- This said `scores="6 4 0 3"` which didn't match the words -->
+	<quordle date="2022-11-19" number="308" scores="7 5 0 3" words="caddy shoal budge strip">
+		<try>stray</try>
+		<try>unhip</try>
+		<try>strip</try>
+		<try>sheal</try>
+		<try>shoal</try>
+		<try>wacky</try>
+		<try>caddy</try>
+		<try>fudge</try>
+		<try>judge</try>
+	</quordle>
+
+	<quordle date="2022-11-20" number="309" scores="5 9 7 8" words="baler amaze spicy seque">
+		<try>water</try>
+		<try>laser</try>
+		<try>paler</try>
+		<try>beamy</try>
+		<try>baler</try>
+		<try>spiny</try>
+		<try>spicy</try>
+		<try>seque</try>
+		<try>amaze</try>
+	</quordle>
+
+	<quordle date="2022-11-21" number="310" scores="9 6 4 8" words="whoop cello fiend bulky">
+		<try>young</try>
+		<try>tiger</try>
+		<try>dance</try>
+		<try>fiend</try>
+		<try>sully</try>
+		<try>cello</try>
+		<try>pulpy</try>
+		<try>bulky</try>
+		<try>whoop</try>
+	</quordle>
+
+	<quordle date="2022-11-22" number="311" scores="8 7 9 6" words="tight islet agony baste">
+		<try>world</try>
+		<try>carve</try>
+		<try>taste</try>
+		<try>slept</try>
+		<try>haste</try>
+		<try>baste</try>
+		<try>islet</try>
+		<try>tight</try>
+		<try>agony</try>
+	</quordle>
+
+	<quordle date="2022-11-23" number="312" scores="7 4 5 2" words="booth deuce roast prove">
+		<try>drive</try>
+		<try>prove</try>
+		<try>dance</try>
+		<try>deuce</try>
+		<try>roast</try>
+		<try>booty</try>
+		<try>booth</try>
+	</quordle>
+
+	<quordle date="2022-11-24" number="313" scores="3 7 6 8" words="clerk water rarer duchy">
+		<try>forks</try>
+		<try>brick</try>
+		<try>clerk</try>
+		<try>repay</try>
+		<try>rared</try>
+		<try>rarer</try>
+		<try>water</try>
+		<try>duchy</try>
+	</quordle>
+
+	<quordle date="2022-11-25" number="314" scores="8 6 0 9" words="troop hotly umbra turbo">
+		<try>chive</try>
+		<try>togas</try>
+		<try>youth</try>
+		<try>troll</try>
+		<try>jolty</try>
+		<try>hotly</try>
+		<try>tumor</try>
+		<try>troop</try>
+		<try>turbo</try>
+	</quordle>
+
+	<quordle date="2022-11-26" number="315" scores="0 8 6 7" words="qouth dance ascot circa">
+		<try>triad</try>
+		<try>stade</try>
+		<try>plumb</try>
+		<try>woven</try>
+		<try>coast</try>
+		<try>ascot</try>
+		<try>circa</try>
+		<try>dance</try>
+		<try>youth</try>
+	</quordle>
+
+	<quordle date="2022-11-27" number="316" scores="5 7 4 8" words="beget egret blare close">
+		<try>stark</try>
+		<try>glare</try>
+		<try>flare</try>
+		<try>blare</try>
+		<try>beget</try>
+		<try>greet</try>
+		<try>egret</try>
+		<try>close</try>
+	</quordle>
+
 </wordles>

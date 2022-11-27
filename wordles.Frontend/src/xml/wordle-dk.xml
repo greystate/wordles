@@ -2070,4 +2070,97 @@
 		<try>besyv</try>
 	</wordle>
 
+	<wordle date="2022-11-15" number="311" score="4" word="cykel">
+		<try>pragt</try>
+		<try>fysik</try>
+		<try>hykle</try>
+		<try>cykel</try>
+	</wordle>
+
+	<wordle date="2022-11-16" number="312" score="4" word="elbil">
+		<try>ræven</try>
+		<try>altså</try>
+		<try>blege</try>
+		<try>elbil</try>
+	</wordle>
+
+	<wordle date="2022-11-17" number="313" score="3" word="fasan">
+		<try>frisk</try>
+		<try>føles</try>
+		<try>fasan</try>
+	</wordle>
+
+	<wordle date="2022-11-18" number="314" score="3" word="hjort">
+		<try>spare</try>
+		<try>gjort</try>
+		<try>hjort</try>
+	</wordle>
+
+	<wordle date="2022-11-19" number="315" score="5" word="kajak">
+		<try>opera</try>
+		<try>klamt</try>
+		<try>kanin</try>
+		<try>kabys</try>
+		<try>kajak</try>
+	</wordle>
+
+	<wordle date="2022-11-20" number="316" score="4" word="algod">
+		<try>trane</try>
+		<try>modal</try>
+		<try>saldo</try>
+		<try>algod</try>
+	</wordle>
+
+	<wordle date="2022-11-21" number="317" score="5" word="biord">
+		<try>alter</try>
+		<try>skræp</try>
+		<try>uvorn</try>
+		<try>fjord</try>
+		<try>biord</try>
+	</wordle>
+
+	<wordle date="2022-11-22" number="318" score="4" word="datid">
+		<try>gebis</try>
+		<try>fakir</try>
+		<try>latin</try>
+		<try>datid</try>
+	</wordle>
+
+	<wordle date="2022-11-23" number="319" score="5" word="enlig">
+		<try>opera</try>
+		<try>huske</try>
+		<try>geden</try>
+		<try>enigt</try>
+		<try>enlig</try>
+	</wordle>
+
+	<wordle date="2022-11-24" number="320" score="4" word="fejde">
+		<try>brøde</try>
+		<try>flade</try>
+		<try>fonde</try>
+		<try>fejde</try>
+	</wordle>
+
+	<wordle date="2022-11-25" number="321" score="5" word="humør">
+		<try>blank</try>
+		<try>spire</try>
+		<try>grædt</try>
+		<try>udrør</try>
+		<try>humør</try>
+	</wordle>
+
+	<wordle date="2022-11-26" number="322" score="4" word="kokos">
+		<try>halse</try>
+		<try>skært</try>
+		<try>kosak</try>
+		<try>kokos</try>
+	</wordle>
+
+	<wordle date="2022-11-27" number="323" score="4" word="alvor">
+		<try>glæde</try>
+		<try>slank</try>
+		<try>alpin</try>
+		<try>alvor</try>
+	</wordle>
+
 </wordles>
