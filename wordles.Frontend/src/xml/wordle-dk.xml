@@ -2163,4 +2163,15 @@
 		<try>alvor</try>
 	</wordle>
 
+	<wordle date="2022-11-28" number="324" score="2" word="bjørn">
+		<try>træne</try>
+		<try>bjørn</try>
+	</wordle>
+
+	<wordle date="2022-11-29" number="325" score="3" word="debet">
+		<try>rynke</try>
+		<try>badet</try>
+		<try>debet</try>
+	</wordle>
+
 </wordles>

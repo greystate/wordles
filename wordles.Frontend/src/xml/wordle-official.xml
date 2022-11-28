@@ -2106,4 +2106,19 @@
 		<try>happy</try>
 	</wordle>
 
+	<wordle date="2022-11-28" number="527" score="4" word="tepid">
+		<try>eagle</try>
+		<try>stern</try>
+		<try>tempo</try>
+		<try>tepid</try>
+	</wordle>
+
+	<wordle date="2022-11-29" number="528" score="5" word="undue">
+		<try>grant</try>
+		<try>nicks</try>
+		<try>enjoy</try>
+		<try>unfed</try>
+		<try>undue</try>
+	</wordle>
+
 </wordles>

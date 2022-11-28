@@ -2378,4 +2378,26 @@
 		<try>close</try>
 	</quordle>
 
+	<quordle date="2022-11-28" number="317" scores="5 9 0 0" words="pupil daddy evoke their">
+		<try>joint</try>
+		<try>slump</try>
+		<try>bears</try>
+		<try>lupin</try>
+		<try>pupil</try>
+		<try>caddy</try>
+		<try>waddy</try>
+		<try>faddy</try>
+		<try>daddy</try>
+	</quordle>
+
+	<quordle date="2022-11-29" number="318" scores="6 4 7 3" words="holly marsh exile comma">
+		<try>craft</try>
+		<try>signa</try>
+		<try>comma</try>
+		<try>marsh</try>
+		<try>hovel</try>
+		<try>holly</try>
+		<try>exile</try>
+	</quordle>
+
 </wordles>
