@@ -2174,4 +2174,10 @@
 		<try>debet</try>
 	</wordle>
 
+	<wordle date="2022-11-30" number="326" score="3" word="episk">
+		<try>udtag</try>
+		<try>spire</try>
+		<try>episk</try>
+	</wordle>
+
 </wordles>

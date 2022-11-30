@@ -2400,4 +2400,16 @@
 		<try>exile</try>
 	</quordle>
 
+	<quordle date="2022-11-30" number="319" scores="4 7 8 9" words="coven afoot enemy might">
+		<try>drive</try>
+		<try>evict</try>
+		<try>caves</try>
+		<try>coven</try>
+		<try>gloat</try>
+		<try>about</try>
+		<try>afoot</try>
+		<try>enemy</try>
+		<try>might</try>
+	</quordle>
+
 </wordles>

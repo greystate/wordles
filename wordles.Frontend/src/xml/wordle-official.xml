@@ -2121,4 +2121,10 @@
 		<try>undue</try>
 	</wordle>
 
+	<wordle date="2022-11-30" number="529" score="3" word="study">
+		<try>erase</try>
+		<try>sound</try>
+		<try>study</try>
+	</wordle>
+
 </wordles>
