@@ -2127,4 +2127,39 @@
 		<try>study</try>
 	</wordle>
 
+	<wordle date="2022-12-01" number="530" score="5" word="eject">
+		<try>daisy</try>
+		<try>probe</try>
+		<try>tunes</try>
+		<try>teeth</try>
+		<try>eject</try>
+	</wordle>
+
+	<wordle date="2022-12-02" number="531" score="2" word="chafe">
+		<try>flare</try>
+		<try>chafe</try>
+	</wordle>
+
+	<wordle date="2022-12-03" number="532" score="3" word="torso">
+		<try>steak</try>
+		<try>crust</try>
+		<try>torso</try>
+	</wordle>
+
+	<wordle date="2022-12-04" number="533" score="5" word="adore">
+		<try>lunch</try>
+		<try>tiger</try>
+		<try>dread</try>
+		<try>reads</try>
+		<try>adore</try>
+	</wordle>
+
+	<wordle date="2022-12-05" number="534" score="5" word="woken">
+		<try>stone</try>
+		<try>freon</try>
+		<try>coven</try>
+		<try>women</try>
+		<try>woken</try>
+	</wordle>
+
 </wordles>

@@ -2180,4 +2180,38 @@
 		<try>episk</try>
 	</wordle>
 
+	<wordle date="2022-12-01" number="327" score="4" word="filur">
+		<try>banke</try>
+		<try>svirp</try>
+		<try>rigid</try>
+		<try>filur</try>
+	</wordle>
+
+	<wordle date="2022-12-02" number="328" score="4" word="hølæs">
+		<try>bamse</try>
+		<try>stiml</try>
+		<try>klods</try>
+		<try>hølæs</try>
+	</wordle>
+
+	<wordle date="2022-12-03" number="329" score="3" word="kolik">
+		<try>stram</try>
+		<try>bælge</try>
+		<try>kolik</try>
+	</wordle>
+
+	<wordle date="2022-12-04" number="330" score="3" word="amøbe">
+		<try>flage</try>
+		<try>tanke</try>
+		<try>amøbe</try>
+	</wordle>
+
+	<wordle date="2022-12-05" number="331" score="5" word="blind">
+		<try>huske</try>
+		<try>travl</try>
+		<try>lydig</try>
+		<try>dildo</try>
+		<try>blind</try>
+	</wordle>
+
 </wordles>

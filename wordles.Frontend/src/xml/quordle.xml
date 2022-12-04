@@ -2412,4 +2412,63 @@
 		<try>might</try>
 	</quordle>
 
+	<quordle date="2022-12-01" number="320" scores="9 5 6 7" words="minty bused dried agile">
+		<try>brand</try>
+		<try>pluck</try>
+		<try>stilt</try>
+		<try>fried</try>
+		<try>bused</try>
+		<try>dried</try>
+		<try>agile</try>
+		<try>tinty</try>
+		<try>minty</try>
+	</quordle>
+
+	<quordle date="2022-12-02" number="321" scores="9 6 8 0" words="aloft price slyly hitch">
+		<try>stung</try>
+		<try>quilt</try>
+		<try>power</try>
+		<try>prime</try>
+		<try>ditch</try>
+		<try>price</try>
+		<try>sally</try>
+		<try>slyly</try>
+		<try>aloft</try>
+	</quordle>
+
+	<quordle date="2022-12-03" number="322" scores="7 9 8 6" words="snowy imbue octet group">
+		<try>black</try>
+		<try>green</try>
+		<try>typed</try>
+		<try>young</try>
+		<try>noisy</try>
+		<try>group</try>
+		<try>snowy</try>
+		<try>octet</try>
+		<try>imbue</try>
+	</quordle>
+
+	<quordle date="2022-12-04" number="323" scores="8 5 6 4" words="nasal crept prong hurry">
+		<try>parse</try>
+		<try>unity</try>
+		<try>furry</try>
+		<try>hurry</try>
+		<try>crept</try>
+		<try>prong</try>
+		<try>sands</try>
+		<try>nasal</try>
+	</quordle>
+
+	<quordle date="2022-12-05" number="324" scores="5 0 7 8" words="mercy poppy testy dryly">
+		<try>white</try>
+		<try>black</try>
+		<try>green</try>
+		<try>bench</try>
+		<try>mercy</try>
+		<try>jetty</try>
+		<try>testy</try>
+		<try>dryly</try>
+		<try>puffy</try>
+	</quordle>
+
 </wordles>
