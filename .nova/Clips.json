@@ -1,12 +1,12 @@
 {
   "clips" : [
     {
-      "content" : "<wordle date=\"2022-11-${1:12}\" number=\"${2:400}\" score=\"${3:3}\" word=\"${4:word}\">\n\t${4:word}\n<\/wordle>\n",
+      "content" : "<wordle date=\"2022-12-${1:12}\" number=\"${2:400}\" score=\"${3:3}\" word=\"${4:word}\">\n\t${4:word}\n<\/wordle>\n",
       "name" : "Wordle",
       "trigger" : "wordle"
     },
     {
-      "content" : "<quordle date=\"2022-11-${:12}\" number=\"${:300}\" scores=\"${:6} ${:7} ${:8} ${:9}\" words=\"\">\n\t${:word}\n<\/quordle>\n",
+      "content" : "<quordle date=\"2022-12-${:12}\" number=\"${:300}\" scores=\"${:6} ${:7} ${:8} ${:9}\" words=\"\">\n\t${:word}\n<\/quordle>\n",
       "name" : "Quordle",
       "trigger" : "wordle"
     }
