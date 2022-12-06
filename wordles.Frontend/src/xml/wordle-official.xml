@@ -2162,4 +2162,12 @@
 		<try>woken</try>
 	</wordle>
 
+	<wordle date="2022-12-06" number="535" score="4" word="amber">
+		<try>tunic</try>
+		<try>spear</try>
+		<try>gamer</try>
+		<try>amber</try>
+	</wordle>
+
+
 </wordles>

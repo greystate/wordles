@@ -2214,4 +2214,11 @@
 		<try>blind</try>
 	</wordle>
 
+	<wordle date="2022-12-06" number="332" score="4" word="depot">
+		<try>baske</try>
+		<try>genbo</try>
+		<try>teori</try>
+		<try>depot</try>
+	</wordle>
+
 </wordles>
