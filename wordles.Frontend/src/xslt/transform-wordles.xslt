@@ -41,13 +41,23 @@
 		<xsl:param name="end-score" select="6" />
 		<xsl:variable name="average" select="floor(sum($wordles/@score) div count($wordles))" />
 
-<!-- 		<dl class="stats">
-			<dt>Average score</dt>
-			<dd><xsl:value-of select="$average" /></dd>
-		</dl> -->
 		<details>
 			<summary>Stats</summary>
-			<p>Number of guesses</p>
+			<table border="1">
+				<tr>
+					<th>Win%</th>
+					<th>Current streak</th>
+					<th>Longest streak</th>
+				</tr>
+				<tr>
+					<td>
+						<xsl:value-of select="round(count($wordles[not(@score = 0)]) div (count($wordles)) * 100)" />
+					</td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<h3>Number of guesses</h3>
 			<xsl:call-template name="score-bars">
 				<xsl:with-param name="wordles" select="$wordles" />
 				<xsl:with-param name="score" select="1" />
