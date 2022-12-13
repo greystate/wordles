@@ -2483,4 +2483,83 @@
 		<try>fixer</try>
 	</quordle>
 
+	<quordle date="2022-12-07" number="326" scores="3 4 5 7" words="steak caste petal cower">
+		<try>bendy</try>
+		<try>speck</try>
+		<try>steak</try>
+		<try>caste</try>
+		<try>petal</try>
+		<try>cover</try>
+		<try>cower</try>
+	</quordle>
+
+	<quordle date="2022-12-08" number="327" scores="6 8 3 9" words="prove bliss award offer">
+		<try>stare</try>
+		<try>board</try>
+		<try>award</try>
+		<try>prone</try>
+		<try>probe</try>
+		<try>prove</try>
+		<try>blush</try>
+		<try>bliss</try>
+		<try>offer</try>
+	</quordle>
+
+	<quordle date="2022-12-09" number="328" scores="6 5 7 4" words="golem spire joker optic">
+		<try>knife</try>
+		<try>ought</try>
+		<try>braid</try>
+		<try>optic</try>
+		<try>spire</try>
+		<try>golem</try>
+		<try>joker</try>
+	</quordle>
+
+	<quordle date="2022-12-10" number="329" scores="4 5 9 7" words="chock briar drove fiber">
+		<try>black</try>
+		<try>white</try>
+		<try>shock</try>
+		<try>chock</try>
+		<try>briar</try>
+		<try>grove</try>
+		<try>fiber</try>
+		<try>prove</try>
+		<try>drove</try>
+	</quordle>
+
+	<quordle date="2022-12-11" number="330" scores="7 5 4 9" words="sassy token prism revue">
+		<try>brown</try>
+		<try>white</try>
+		<try>plums</try>
+		<try>prism</try>
+		<try>token</try>
+		<try>daisy</try>
+		<try>sassy</try>
+		<try>gurge</try>
+		<try>revue</try>
+	</quordle>
+
+	<quordle date="2022-12-12" number="331" scores="9 5 0 6" words="titan yeast canon leaky">
+		<try>gripe</try>
+		<try>bears</try>
+		<try>dealt</try>
+		<try>faith</try>
+		<try>yeast</try>
+		<try>leaky</try>
+		<try>attic</try>
+		<try>cajon</try>
+		<try>titan</try>
+	</quordle>
+
+	<quordle date="2022-12-13" number="332" scores="8 7 5 6" words="audit skull tying goner">
+		<try>blank</try>
+		<try>white</try>
+		<try>paper</try>
+		<try>stint</try>
+		<try>tying</try>
+		<try>goner</try>
+		<try>skull</try>
+		<try>audit</try>
+	</quordle>
+
 </wordles>

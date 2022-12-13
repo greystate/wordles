@@ -2221,4 +2221,57 @@
 		<try>depot</try>
 	</wordle>
 
+	<wordle date="2022-12-07" number="333" score="3" word="etage">
+		<try>ufine</try>
+		<try>stole</try>
+		<try>etage</try>
+	</wordle>
+
+	<wordle date="2022-12-08" number="334" score="3" word="fråde">
+		<try>grave</try>
+		<try>træde</try>
+		<try>fråde</try>
+	</wordle>
+
+	<wordle date="2022-12-09" number="335" score="4" word="høvle">
+		<try>sylte</try>
+		<try>prale</try>
+		<try>kvæle</try>
+		<try>høvle</try>
+	</wordle>
+
+	<wordle date="2022-12-10" number="336" score="5" word="kujon">
+		<try>pande</try>
+		<try>nærig</try>
+		<try>knold</try>
+		<try>kokon</try>
+		<try>kujon</try>
+	</wordle>
+
+	<wordle date="2022-12-11" number="337" score="6" word="abede">
+		<try>drink</try>
+		<try>adlet</try>
+		<try>asede</try>
+		<try>agede</try>
+		<try>avede</try>
+		<try>abede</try>
+	</wordle>
+
+	<wordle date="2022-12-12" number="338" score="6" word="acces">
+		<try>udsat</try>
+		<try>sanke</try>
+		<try>asier</try>
+		<try>avles</try>
+		<try>ammes</try>
+		<try>acces</try>
+	</wordle>
+
+	<wordle date="2022-12-13" number="339" score="5" word="adder">
+		<try>skare</try>
+		<try>parat</try>
+		<try>arien</try>
+		<try>alder</try>
+		<try>adder</try>
+	</wordle>
+
 </wordles>

@@ -2169,5 +2169,52 @@
 		<try>amber</try>
 	</wordle>
 
+	<wordle date="2022-12-07" number="536" score="4" word="joust">
+		<try>scram</try>
+		<try>hilts</try>
+		<try>unset</try>
+		<try>joust</try>
+	</wordle>
+
+	<wordle date="2022-12-08" number="537" score="3" word="infer">
+		<try>prank</try>
+		<try>snare</try>
+		<try>infer</try>
+	</wordle>
+
+	<wordle date="2022-12-09" number="538" score="3" word="braid">
+		<try>spent</try>
+		<try>grail</try>
+		<try>braid</try>
+	</wordle>
+
+	<wordle date="2022-12-10" number="539" score="5" word="knock">
+		<try>weary</try>
+		<try>block</try>
+		<try>shock</try>
+		<try>frock</try>
+		<try>knock</try>
+	</wordle>
+
+	<wordle date="2022-12-11" number="540" score="3" word="naive">
+		<try>realm</try>
+		<try>haven</try>
+		<try>naive</try>
+	</wordle>
+
+	<wordle date="2022-12-12" number="541" score="4" word="apply">
+		<try>stark</try>
+		<try>audio</try>
+		<try>apple</try>
+		<try>apply</try>
+	</wordle>
+
+	<wordle date="2022-12-13" number="542" score="5" word="spoke">
+		<try>eagle</try>
+		<try>white</try>
+		<try>prone</try>
+		<try>scope</try>
+		<try>spoke</try>
+	</wordle>
 
 </wordles>
