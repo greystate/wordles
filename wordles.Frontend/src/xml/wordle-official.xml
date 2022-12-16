@@ -2217,4 +2217,24 @@
 		<try>spoke</try>
 	</wordle>
 
+	<wordle date="2022-12-14" number="543" score="4" word="usual">
+		<try>cream</try>
+		<try>orcas</try>
+		<try>basal</try>
+		<try>usual</try>
+	</wordle>
+
+	<wordle date="2022-12-15" number="544" score="3" word="rival">
+		<try>steak</try>
+		<try>royal</try>
+		<try>rival</try>
+	</wordle>
+
+	<wordle date="2022-12-16" number="545" score="3" word="probe">
+		<try>spare</try>
+		<try>prove</try>
+		<try>probe</try>
+	</wordle>
+
+
 </wordles>

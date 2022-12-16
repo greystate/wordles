@@ -2562,4 +2562,38 @@
 		<try>audit</try>
 	</quordle>
 
+	<quordle date="2022-12-14" number="333" scores="0 5 4 6" words="jiffy theta scamp actor">
+		<try>steak</try>
+		<try>trace</try>
+		<try>thema</try>
+		<try>scamp</try>
+		<try>theta</try>
+		<try>actor</try>
+		<try>bundy</try>
+		<try>gilly</try>
+		<try>fizzy</try>
+	</quordle>
+
+	<quordle date="2022-12-15" number="334" scores="4 8 7 3" words="agile deter admit valid">
+		<try>plead</try>
+		<try>deals</try>
+		<try>valid</try>
+		<try>agile</try>
+		<try>audio</try>
+		<try>admin</try>
+		<try>admit</try>
+		<try>deter</try>
+	</quordle>
+
+	<quordle date="2022-12-16" number="335" scores="7 8 3 6" words="queen beget lease quake">
+		<try>timer</try>
+		<try>black</try>
+		<try>lease</try>
+		<try>awake</try>
+		<try>beret</try>
+		<try>quake</try>
+		<try>queen</try>
+		<try>beget</try>
+	</quordle>
+
 </wordles>

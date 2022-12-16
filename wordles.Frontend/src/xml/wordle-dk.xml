@@ -2274,4 +2274,24 @@
 		<try>adder</try>
 	</wordle>
 
+	<wordle date="2022-12-14" number="340" score="4" word="adlen">
+		<try>bland</try>
+		<try>lande</try>
+		<try>andel</try>
+		<try>adlen</try>
+	</wordle>
+
+	<wordle date="2022-12-15" number="341" score="3" word="adlet">
+		<try>knast</try>
+		<try>tomat</try>
+		<try>adlet</try>
+	</wordle>
+
+	<wordle date="2022-12-16" number="342" score="4" word="pøbel">
+		<try>blond</try>
+		<try>løber</try>
+		<try>møbel</try>
+		<try>pøbel</try>
+	</wordle>
+
 </wordles>
