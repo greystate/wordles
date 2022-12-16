@@ -41,28 +41,44 @@
 		<xsl:param name="end-score" select="6" />
 		<xsl:variable name="average" select="floor(sum($wordles/@score) div count($wordles))" />
 
+		<xsl:variable name="current" select="$wordles[last()]" />
+		<xsl:variable name="latest-lost" select="$current/preceding-sibling::w:wordle[@score = 0][1]" />
+
 		<details>
 			<summary>Stats</summary>
-			<table border="1">
-				<tr>
-					<th>Win%</th>
-					<th>Current streak</th>
-					<th>Longest streak</th>
-				</tr>
-				<tr>
-					<td>
-						<xsl:value-of select="round(count($wordles[not(@score = 0)]) div (count($wordles)) * 100)" />
-					</td>
-					<td></td>
-					<td></td>
-				</tr>
-			</table>
-			<h3>Number of guesses</h3>
-			<xsl:call-template name="score-bars">
-				<xsl:with-param name="wordles" select="$wordles" />
-				<xsl:with-param name="score" select="1" />
-				<xsl:with-param name="end-score" select="$end-score" />
-			</xsl:call-template>
+			<div class="stats-content">
+				<div>
+					<h3>Number of guesses</h3>
+					<xsl:call-template name="score-bars">
+						<xsl:with-param name="wordles" select="$wordles" />
+						<xsl:with-param name="score" select="1" />
+						<xsl:with-param name="end-score" select="$end-score" />
+					</xsl:call-template>
+				</div>
+
+				<div>
+					<h3>Wins &amp; streaks</h3>
+					<table border="1">
+						<tr>
+							<th scope="row">Wins</th>
+							<td>
+								<xsl:value-of select="round(count($wordles[not(@score = 0)]) div (count($wordles)) * 100)" />
+								<xsl:text>%</xsl:text>
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">Current streak</th>
+							<td>
+								<xsl:value-of select="$current/@number - $latest-lost/@number" />
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">Longest streak</th>
+							<td></td>
+						</tr>
+					</table>
+				</div>
+			</div>
 		</details>
 
 	</xsl:template>
