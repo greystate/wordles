@@ -22,6 +22,19 @@
 		}
 	}
 
+	.stats-content {
+		display: flex;
+		gap: 2rem;
+
+		table {
+			border-collapse: collapse;
+
+			th, td { padding: 2px 1em; }
+			th { font-weight: normal; text-align: start; }
+			td { font-weight: bold; font-size: 1.5em; }
+		}
+	}
+
 	@supports (display: grid) {
 
 		> div {
@@ -32,6 +45,8 @@
 			justify-items: start;
 		}
 	}
+
+
 }
 
 
