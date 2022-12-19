@@ -2236,5 +2236,25 @@
 		<try>probe</try>
 	</wordle>
 
+	<wordle date="2022-12-17" number="546" score="4" word="chord">
+		<try>draft</try>
+		<try>rider</try>
+		<try>sword</try>
+		<try>chord</try>
+	</wordle>
+
+	<wordle date="2022-12-18" number="547" score="4" word="taper">
+		<try>brine</try>
+		<try>repay</try>
+		<try>caper</try>
+		<try>taper</try>
+	</wordle>
+
+	<wordle date="2022-12-19" number="548" score="4" word="slate">
+		<try>train</try>
+		<try>stamp</try>
+		<try>swath</try>
+		<try>slate</try>
+	</wordle>
 
 </wordles>

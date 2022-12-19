@@ -2294,4 +2294,25 @@
 		<try>pøbel</try>
 	</wordle>
 
+	<wordle date="2022-12-17" number="343" score="4" word="skunk">
+		<try>spare</try>
+		<try>stødt</try>
+		<try>skælm</try>
+		<try>skunk</try>
+	</wordle>
+
+	<wordle date="2022-12-18" number="344" score="5" word="sober">
+		<try>heste</try>
+		<try>samer</try>
+		<try>syder</try>
+		<try>siger</try>
+		<try>sober</try>
+	</wordle>
+
+	<wordle date="2022-12-19" number="345" score="3" word="tempo">
+		<try>udsat</try>
+		<try>torne</try>
+		<try>tempo</try>
+	</wordle>
+
 </wordles>

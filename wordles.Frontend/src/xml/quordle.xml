@@ -2596,4 +2596,39 @@
 		<try>beget</try>
 	</quordle>
 
+	<quordle date="2022-12-17" number="336" scores="8 6 5 7" words="sheik viola legal itchy">
+		<try>bails</try>
+		<try>grail</try>
+		<try>punty</try>
+		<try>domes</try>
+		<try>legal</try>
+		<try>viola</try>
+		<try>itchy</try>
+		<try>sheik</try>
+	</quordle>
+
+	<quordle date="2022-12-18" number="337" scores="5 0 2 6" words="sunny dross spark choke">
+		<try>plank</try>
+		<try>spark</try>
+		<try>video</try>
+		<try>munch</try>
+		<try>sunny</try>
+		<try>choke</try>
+		<try>roods</try>
+		<try>odors</try>
+		<try>drows</try>
+	</quordle>
+
+	<quordle date="2022-12-19" number="338" scores="8 9 5 2" words="geese seize begat miner">
+		<try>timer</try>
+		<try>miner</try>
+		<try>sepia</try>
+		<try>petal</try>
+		<try>begat</try>
+		<try>wedge</try>
+		<try>gesse</try>
+		<try>geese</try>
+		<try>seize</try>
+	</quordle>
+
 </wordles>
