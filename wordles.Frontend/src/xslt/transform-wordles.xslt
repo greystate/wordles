@@ -4,6 +4,8 @@
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:str="http://exslt.org/strings"
 	xmlns:date="http://exslt.org/dates-and-times"
+	xmlns:math="http://exslt.org/math"
+	xmlns:make="http://exslt.org/common"
 	xmlns:w="http://xmlns.greystate.dk/2022/wordles"
 	exclude-result-prefixes="w str date"
 >
@@ -27,13 +29,37 @@
 	<xsl:template match="/">
 		<h1>My WORDLE scores</h1>
 		<xsl:apply-templates select="w:wordles" />
-
 	</xsl:template>
 
 	<xsl:template name="global-stats">
 		<div>
 
 		</div>
+	</xsl:template>
+
+	<xsl:template name="longest-streak">
+		<xsl:param name="wordles" select="/.." />
+		<xsl:variable name="start" select="$wordles[1]/@number" />
+		<xsl:variable name="current" select="$wordles[last()]" />
+		<xsl:variable name="streaks-RTF">
+			<xsl:for-each select="$wordles[@score = 0] | $current">
+				<xsl:variable name="previous" select="preceding-sibling::w:wordle[@score = 0][1]" />
+				<xsl:variable name="streak" select="@number - ($previous/@number + 1)" />
+				<xsl:choose>
+					<xsl:when test="string($streak) = 'NaN'">
+						<streak length="{@number - $start}" number="{@number}" />
+					</xsl:when>
+					<xsl:when test="@number = $current/@number and not(@score = 0)">
+						<streak length="{@number - $previous/@number}" number="{@number}" />
+					</xsl:when>
+					<xsl:otherwise>
+						<streak length="{$streak}" number="{@number}" />
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:variable name="streaks" select="make:node-set($streaks-RTF)" />
+		<xsl:value-of select="math:max($streaks/streak/@length)" />
 	</xsl:template>
 
 	<xsl:template name="local-stats">
@@ -74,7 +100,11 @@
 						</tr>
 						<tr>
 							<th scope="row">Longest streak</th>
-							<td></td>
+							<td>
+								<xsl:call-template name="longest-streak">
+									<xsl:with-param name="wordles" select="$wordles" />
+								</xsl:call-template>
+							</td>
 						</tr>
 					</table>
 				</div>
