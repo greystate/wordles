@@ -37,7 +37,7 @@
 		</div>
 	</xsl:template>
 
-	<xsl:template name="longest-streak">
+	<xsl:template name="longest-streak-wordle">
 		<xsl:param name="wordles" select="/.." />
 		<xsl:variable name="start" select="$wordles[1]/@number" />
 		<xsl:variable name="current" select="$wordles[last()]" />
@@ -50,6 +50,31 @@
 						<streak length="{@number - $start}" number="{@number}" />
 					</xsl:when>
 					<xsl:when test="@number = $current/@number and not(@score = 0)">
+						<streak length="{@number - $previous/@number}" number="{@number}" />
+					</xsl:when>
+					<xsl:otherwise>
+						<streak length="{$streak}" number="{@number}" />
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:variable name="streaks" select="make:node-set($streaks-RTF)" />
+		<xsl:value-of select="math:max($streaks/streak/@length)" />
+	</xsl:template>
+
+	<xsl:template name="longest-streak-quordle">
+		<xsl:param name="wordles" select="/.." />
+		<xsl:variable name="start" select="$wordles[1]/@number" />
+		<xsl:variable name="current" select="$wordles[last()]" />
+		<xsl:variable name="streaks-RTF">
+			<xsl:for-each select="$wordles[contains(@scores, 0)] | $current">
+				<xsl:variable name="previous" select="preceding-sibling::w:quordle[contains(@scores, 0)][1]" />
+				<xsl:variable name="streak" select="@number - ($previous/@number + 1)" />
+				<xsl:choose>
+					<xsl:when test="string($streak) = 'NaN'">
+						<streak length="{@number - $start}" number="{@number}" />
+					</xsl:when>
+					<xsl:when test="@number = $current/@number and not(contains(@scores, 0))">
 						<streak length="{@number - $previous/@number}" number="{@number}" />
 					</xsl:when>
 					<xsl:otherwise>
@@ -101,7 +126,7 @@
 						<tr>
 							<th scope="row">Longest streak</th>
 							<td>
-								<xsl:call-template name="longest-streak">
+								<xsl:call-template name="longest-streak-wordle">
 									<xsl:with-param name="wordles" select="$wordles" />
 								</xsl:call-template>
 							</td>
@@ -145,6 +170,39 @@
 		</div>
 
 		<h2>Quordle</h2>
+		<details>
+			<summary>Stats</summary>
+			<div class="stats-content">
+				<div>
+					<h3>Wins &amp; streaks</h3>
+					<table border="1">
+						<tr>
+							<th scope="row">Wins</th>
+							<td>
+								<!-- <xsl:value-of select="round(count($wordles[not(@score = 0)]) div (count($wordles)) * 100)" /> -->
+								<!-- <xsl:text>%</xsl:text> -->
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">Current streak</th>
+							<td>
+								<!-- <xsl:value-of select="$current/@number - $latest-lost/@number" /> -->
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">Longest streak</th>
+							<td>
+								<xsl:call-template name="longest-streak-quordle">
+									<xsl:with-param name="wordles" select="$quordles" />
+								</xsl:call-template>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</details>
+
+
 		<div style="--col-size: 14rem;" lang="en">
 			<xsl:for-each select="$quordles">
 				<xsl:sort select="@date" order="descending" />
