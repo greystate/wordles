@@ -179,8 +179,8 @@
 						<tr>
 							<th scope="row">Wins</th>
 							<td>
-								<!-- <xsl:value-of select="round(count($wordles[not(@score = 0)]) div (count($wordles)) * 100)" /> -->
-								<!-- <xsl:text>%</xsl:text> -->
+								<xsl:value-of select="round(count($quordles[not(contains(@scores, 0))]) div (count($quordles)) * 100)" />
+								<xsl:text>%</xsl:text>
 							</td>
 						</tr>
 						<tr>
