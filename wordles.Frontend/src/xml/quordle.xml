@@ -2631,4 +2631,38 @@
 		<try>seize</try>
 	</quordle>
 
+	<quordle date="2022-12-20" number="339" scores="4 6 7 5" words="album ghoul loopy stump">
+		<try>purge</try>
+		<try>clash</try>
+		<try>tombs</try>
+		<try>album</try>
+		<try>stump</try>
+		<try>ghoul</try>
+		<try>loopy</try>
+	</quordle>
+
+	<quordle date="2022-12-21" number="340" scores="7 9 5 8" words="piper wight cheek vigor">
+		<try>fives</try>
+		<try>bicep</try>
+		<try>drawl</try>
+		<try>coney</try>
+		<try>cheek</try>
+		<try>riper</try>
+		<try>piper</try>
+		<try>vigor</try>
+		<try>wight</try>
+	</quordle>
+
+	<quordle date="2022-12-22" number="341" scores="8 9 3 0" words="inert hunch ought under">
+		<try>sight</try>
+		<try>flour</try>
+		<try>ought</try>
+		<try>dream</try>
+		<try>bunch</try>
+		<try>punch</try>
+		<try>munch</try>
+		<try>inert</try>
+		<try>hunch</try>
+	</quordle>
+
 </wordles>

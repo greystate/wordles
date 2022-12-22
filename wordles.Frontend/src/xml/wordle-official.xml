@@ -2257,4 +2257,26 @@
 		<try>slate</try>
 	</wordle>
 
+	<wordle date="2022-12-20" number="549" score="4" word="third">
+		<try>album</try>
+		<try>speck</try>
+		<try>dirty</try>
+		<try>third</try>
+	</wordle>
+
+	<wordle date="2022-12-21" number="550" score="4" word="lunar">
+		<try>flare</try>
+		<try>carol</try>
+		<try>altar</try>
+		<try>lunar</try>
+	</wordle>
+
+	<wordle date="2022-12-22" number="551" score="5" word="excel">
+		<try>dream</try>
+		<try>inert</try>
+		<try>belch</try>
+		<try>close</try>
+		<try>excel</try>
+	</wordle>
+
 </wordles>

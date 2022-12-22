@@ -2315,4 +2315,26 @@
 		<try>tempo</try>
 	</wordle>
 
+	<wordle date="2022-12-20" number="346" score="5" word="uland">
+		<try>flæsk</try>
+		<try>alene</try>
+		<try>plant</try>
+		<try>bland</try>
+		<try>uland</try>
+	</wordle>
+
+	<wordle date="2022-12-21" number="347" score="4" word="viral">
+		<try>flæsk</try>
+		<try>lader</try>
+		<try>alarm</try>
+		<try>viral</try>
+	</wordle>
+
+	<wordle date="2022-12-22" number="348" score="4" word="rebus">
+		<try>bøvse</try>
+		<try>løbes</try>
+		<try>gebis</try>
+		<try>rebus</try>
+	</wordle>
+
 </wordles>
