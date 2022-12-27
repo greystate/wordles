@@ -2337,4 +2337,38 @@
 		<try>rebus</try>
 	</wordle>
 
+	<wordle date="2022-12-23" number="349" score="4" word="påbud">
+		<try>stand</try>
+		<try>fjord</try>
+		<try>ømhed</try>
+		<try>påbud</try>
+	</wordle>
+
+	<wordle date="2022-12-24" number="350" score="4" word="skyld">
+		<try>engel</try>
+		<try>slids</try>
+		<try>saldo</try>
+		<try>skyld</try>
+	</wordle>
+
+	<wordle date="2022-12-25" number="351" score="4" word="snaps">
+		<try>savne</try>
+		<try>snart</try>
+		<try>snask</try>
+		<try>snaps</try>
+	</wordle>
+
+	<wordle date="2022-12-26" number="352" score="3" word="titan">
+		<try>stram</try>
+		<try>total</try>
+		<try>titan</try>
+	</wordle>
+
+	<wordle date="2022-12-27" number="353" score="4" word="umami">
+		<try>bjørn</try>
+		<try>skema</try>
+		<try>klamt</try>
+		<try>umami</try>
+	</wordle>
+
 </wordles>

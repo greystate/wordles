@@ -2665,4 +2665,63 @@
 		<try>hunch</try>
 	</quordle>
 
+	<quordle date="2022-12-23" number="342" scores="6 9 8 4" words="pupal undue fugue graph">
+		<try>argon</try>
+		<try>spade</try>
+		<try>rinse</try>
+		<try>graph</try>
+		<try>kappa</try>
+		<try>pupal</try>
+		<try>bugle</try>
+		<try>fugue</try>
+		<try>undue</try>
+	</quordle>
+
+	<quordle date="2022-12-24" number="343" scores="5 9 6 8" words="hyena hover amend taboo">
+		<try>spark</try>
+		<try>train</try>
+		<try>lushy</try>
+		<try>drawn</try>
+		<try>hyena</try>
+		<try>amend</try>
+		<try>tacos</try>
+		<try>taboo</try>
+		<try>hover</try>
+	</quordle>
+
+	<quordle date="2022-12-25" number="344" scores="6 3 5 8" words="ahead grind hoard wooer">
+		<try>blank</try>
+		<try>swipe</try>
+		<try>grind</try>
+		<try>chard</try>
+		<try>hoard</try>
+		<try>ahead</try>
+		<try>tower</try>
+		<try>wooer</try>
+	</quordle>
+
+	<quordle date="2022-12-26" number="345" scores="6 7 0 5" words="flail smell gaunt shone">
+		<try>spore</try>
+		<try>dummy</try>
+		<try>scone</try>
+		<try>stone</try>
+		<try>shone</try>
+		<try>flail</try>
+		<try>smell</try>
+		<try>taunt</try>
+		<try>jaunt</try>
+	</quordle>
+
+	<quordle date="2022-12-27" number="346" scores="5 7 8 9" words="torus viper alve vaunt">
+		<try>plain</try>
+		<try>dumpy</try>
+		<try>store</try>
+		<try>tours</try>
+		<try>torus</try>
+		<try>saunt</try>
+		<try>viper</try>
+		<try>valve</try>
+		<try>vaunt</try>
+	</quordle>
+
 </wordles>

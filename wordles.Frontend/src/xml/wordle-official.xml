@@ -2279,4 +2279,41 @@
 		<try>excel</try>
 	</wordle>
 
+	<wordle date="2022-12-23" number="552" score="3" word="aorta">
+		<try>realm</try>
+		<try>argon</try>
+		<try>aorta</try>
+	</wordle>
+
+	<wordle date="2022-12-24" number="553" score="4" word="poise">
+		<try>great</try>
+		<try>fined</try>
+		<try>weigh</try>
+		<try>poise</try>
+	</wordle>
+
+	<wordle date="2022-12-25" number="554" score="4" word="extra">
+		<try>thing</try>
+		<try>spurt</try>
+		<try>entry</try>
+		<try>extra</try>
+	</wordle>
+
+	<wordle date="2022-12-26" number="555" score="6" word="judge">
+		<try>slant</try>
+		<try>cider</try>
+		<try>hedge</try>
+		<try>fudge</try>
+		<try>budge</try>
+		<try>judge</try>
+	</wordle>
+
+	<wordle date="2022-12-27" number="556" score="5" word="condo">
+		<try>spare</try>
+		<try>touch</try>
+		<try>coyly</try>
+		<try>comic</try>
+		<try>condo</try>
+	</wordle>
+
 </wordles>
