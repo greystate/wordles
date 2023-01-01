@@ -2724,4 +2724,61 @@
 		<try>vaunt</try>
 	</quordle>
 
+	<quordle date="2022-12-28" number="347" scores="4 8 6 7" words="prism gaudy craft scorn">
+		<try>blast</try>
+		<try>dream</try>
+		<try>grant</try>
+		<try>prism</try>
+		<try>tract</try>
+		<try>craft</try>
+		<try>scorn</try>
+		<try>gaudy</try>
+	</quordle>
+
+	<quordle date="2022-12-29" number="348" scores="8 4 5 0" words="sixty north nerve tabby">
+		<try>quart</try>
+		<try>power</try>
+		<try>hinds</try>
+		<try>north</try>
+		<try>nerve</try>
+		<try>misty</try>
+		<try>silty</try>
+		<try>sixty</try>
+		<try>tacky</try>
+	</quordle>
+
+	<quordle date="2022-12-30" number="349" scores="8 0 5 7" words="basin bawdy reedy vigil">
+		<try>havoc</try>
+		<try>rinse</try>
+		<try>gains</try>
+		<try>dumpy</try>
+		<try>reedy</try>
+		<try>light</try>
+		<try>vigil</try>
+		<try>basin</try>
+		<try>baddy</try>
+	</quordle>
+
+	<quordle date="2022-12-31" number="350" scores="6 7 3 8" words="sheep heron place dandy">
+		<try>slant</try>
+		<try>flare</try>
+		<try>place</try>
+		<try>young</try>
+		<try>spier</try>
+		<try>sheep</try>
+		<try>heron</try>
+		<try>dandy</try>
+	</quordle>
+
+	<quordle date="2023-01-01" number="351" scores="3 7 5 8" words="seize abase ethos valid">
+		<try>years</try>
+		<try>point</try>
+		<try>seize</try>
+		<try>chase</try>
+		<try>ethos</try>
+		<try>aioli</try>
+		<try>abase</try>
+		<try>valid</try>
+	</quordle>
+
 </wordles>

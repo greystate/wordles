@@ -2371,4 +2371,39 @@
 		<try>umami</try>
 	</wordle>
 
+	<wordle date="2022-12-28" number="354" score="5" word="viola">
+		<try>trave</try>
+		<try>afveg</try>
+		<try>valør</try>
+		<try>vokal</try>
+		<try>viola</try>
+	</wordle>
+
+	<wordle date="2022-12-29" number="355" score="4" word="ringe">
+		<try>brand</try>
+		<try>runer</try>
+		<try>rente</try>
+		<try>ringe</try>
+	</wordle>
+
+	<wordle date="2022-12-30" number="356" score="4" word="pygmæ">
+		<try>lyste</try>
+		<try>fynbo</try>
+		<try>byråd</try>
+		<try>pygmæ</try>
+	</wordle>
+
+	<wordle date="2022-12-31" number="357" score="3" word="skænk">
+		<try>krone</try>
+		<try>stank</try>
+		<try>skænk</try>
+	</wordle>
+
+	<wordle date="2023-01-01" number="358" score="4" word="solur">
+		<try>nytår</try>
+		<try>poder</try>
+		<try>sonar</try>
+		<try>solur</try>
+	</wordle>
+
 </wordles>

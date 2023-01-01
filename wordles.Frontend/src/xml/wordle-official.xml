@@ -2316,4 +2316,40 @@
 		<try>condo</try>
 	</wordle>
 
+	<wordle date="2022-12-28" number="557" score="4" word="impel">
+		<try>birth</try>
+		<try>spine</try>
+		<try>peril</try>
+		<try>impel</try>
+	</wordle>
+
+	<wordle date="2022-12-29" number="558" score="5" word="havoc">
+		<try>twang</try>
+		<try>acids</try>
+		<try>cameo</try>
+		<try>bacon</try>
+		<try>havoc</try>
+	</wordle>
+
+	<wordle date="2022-12-30" number="559" score="6" word="molar">
+		<try>great</try>
+		<try>radar</try>
+		<try>solar</try>
+		<try>polar</try>
+		<try>molar</try>
+	</wordle>
+
+	<wordle date="2022-12-31" number="560" score="4" word="manly">
+		<try>slate</try>
+		<try>laugh</try>
+		<try>canal</try>
+		<try>manly</try>
+	</wordle>
+
+	<wordle date="2023-01-01" number="561" score="3" word="whine">
+		<try>years</try>
+		<try>thyme</try>
+		<try>whine</try>
+	</wordle>
+
 </wordles>
