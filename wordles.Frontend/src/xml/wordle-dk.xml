@@ -2406,4 +2406,11 @@
 		<try>solur</try>
 	</wordle>
 
+	<wordle date="2023-01-02" number="359" score="4" word="tobak">
+		<try>kaffe</try>
+		<try>skakt</try>
+		<try>antik</try>
+		<try>tobak</try>
+	</wordle>
+
 </wordles>

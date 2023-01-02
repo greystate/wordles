@@ -2781,4 +2781,17 @@
 		<try>valid</try>
 	</quordle>
 
+	<quordle date="2023-01-02" number="352" scores="4 6 3 9" words="surly touch sorry wreak">
+		<try>stone</try>
+		<try>solar</try>
+		<try>sorry</try>
+		<try>surly</try>
+		<try>mouth</try>
+		<try>touch</try>
+		<try>bread</try>
+		<try>freak</try>
+		<try>wreak</try>
+	</quordle>
+
+
 </wordles>

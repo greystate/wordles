@@ -2352,4 +2352,13 @@
 		<try>whine</try>
 	</wordle>
 
+	<wordle date="2023-01-02" number="562" score="6" word="skirt">
+		<try>brand</try>
+		<try>riper</try>
+		<try>lyric</try>
+		<try>stirs</try>
+		<try>shirt</try>
+		<try>skirt</try>
+	</wordle>
+
 </wordles>
