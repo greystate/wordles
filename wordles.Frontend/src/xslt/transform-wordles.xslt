@@ -173,6 +173,9 @@
 		<details>
 			<summary>Stats</summary>
 			<div class="stats-content">
+				<xsl:variable name="current" select="$quordles[last()]" />
+				<xsl:variable name="latest-lost" select="$current/preceding-sibling::w:quordle[contains(@scores, 0)][1]" />
+
 				<div>
 					<h3>Wins &amp; streaks</h3>
 					<table border="1">
@@ -186,7 +189,7 @@
 						<tr>
 							<th scope="row">Current streak</th>
 							<td>
-								<!-- <xsl:value-of select="$current/@number - $latest-lost/@number" /> -->
+								<xsl:value-of select="$current/@number - $latest-lost/@number" />
 							</td>
 						</tr>
 						<tr>
