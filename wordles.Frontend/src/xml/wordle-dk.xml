@@ -2420,4 +2420,10 @@
 		<try>undgå</try>
 	</wordle>
 
+	<wordle date="2023-01-04" number="361" score="3" word="virus">
+		<try>boble</try>
+		<try>advar</try>
+		<try>virus</try>
+	</wordle>
+
 </wordles>

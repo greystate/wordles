@@ -2367,4 +2367,10 @@
 		<try>antic</try>
 	</wordle>
 
+	<wordle date="2023-01-04" number="564" score="3" word="layer">
+		<try>types</try>
+		<try>money</try>
+		<try>layer</try>
+	</wordle>
+
 </wordles>
