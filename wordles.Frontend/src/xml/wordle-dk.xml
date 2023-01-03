@@ -2413,4 +2413,11 @@
 		<try>tobak</try>
 	</wordle>
 
+	<wordle date="2023-01-03" number="360" score="4" word="undgå">
+		<try>agent</try>
+		<try>ingen</try>
+		<try>snoge</try>
+		<try>undgå</try>
+	</wordle>
+
 </wordles>

@@ -2361,4 +2361,10 @@
 		<try>skirt</try>
 	</wordle>
 
+	<wordle date="2023-01-03" number="563" score="3" word="antic">
+		<try>fruit</try>
+		<try>patio</try>
+		<try>antic</try>
+	</wordle>
+
 </wordles>

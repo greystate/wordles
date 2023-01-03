@@ -2793,5 +2793,16 @@
 		<try>wreak</try>
 	</quordle>
 
+	<quordle date="2023-01-03" number="353" scores="6 5 8 7" words="harsh laden slyly ratio">
+		<try>avoid</try>
+		<try>types</try>
+		<try>human</try>
+		<try>pesky</try>
+		<try>laden</try>
+		<try>harsh</try>
+		<try>ratio</try>
+		<try>slyly</try>
+	</quordle>
+
 
 </wordles>
