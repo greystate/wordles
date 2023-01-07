@@ -2426,4 +2426,26 @@
 		<try>virus</try>
 	</wordle>
 
+	<wordle date="2023-01-05" number="362" score="3" word="robåd">
+		<try>drone</try>
+		<try>fordi</try>
+		<try>robåd</try>
+	</wordle>
+
+	<wordle date="2023-01-06" number="363" score="6" word="puppe">
+		<try>skovl</try>
+		<try>redde</try>
+		<try>hætte</try>
+		<try>yngre</try>
+		<try>fuppe</try>
+		<try>puppe</try>
+	</wordle>
+
+	<wordle date="2023-01-07" number="364" score="4" word="slips">
+		<try>udtag</try>
+		<try>bevis</try>
+		<try>silos</try>
+		<try>slips</try>
+	</wordle>
+
 </wordles>

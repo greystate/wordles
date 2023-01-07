@@ -2815,5 +2815,39 @@
 		<try>kappa</try>
 	</quordle>
 
+	<quordle date="2023-01-05" number="355" scores="5 7 8 2" words="suave pasty bylaw blink">
+		<try>brisk</try>
+		<try>blink</try>
+		<try>jumps</try>
+		<try>death</try>
+		<try>suave</try>
+		<try>pasta</try>
+		<try>pasty</try>
+		<try>bylaw</try>
+	</quordle>
+
+	<quordle date="2023-01-06" number="356" scores="3 7 0 5" words="nurse learn bitty crude">
+		<try>scone</try>
+		<try>unsee</try>
+		<try>nurse</try>
+		<try>milky</try>
+		<try>crude</try>
+		<try>renal</try>
+		<try>learn</try>
+		<try>piggy</try>
+		<try>witty</try>
+	</quordle>
+
+	<quordle date="2023-01-07" number="357" scores="7 8 0 4" words="candy privy ninth drier">
+		<try>spore</try>
+		<try>tiger</try>
+		<try>muddy</try>
+		<try>drier</try>
+		<try>pricy</try>
+		<try>caddy</try>
+		<try>candy</try>
+		<try>privy</try>
+		<try>binit</try>
+	</quordle>
 
 </wordles>

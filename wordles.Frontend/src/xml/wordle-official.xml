@@ -2373,4 +2373,26 @@
 		<try>layer</try>
 	</wordle>
 
+	<wordle date="2023-01-05" number="565" score="5" word="sleek">
+		<try>train</try>
+		<try>welsh</try>
+		<try>flees</try>
+		<try>sleep</try>
+		<try>sleek</try>
+	</wordle>
+
+	<wordle date="2023-01-06" number="566" score="4" word="belie">
+		<try>panic</try>
+		<try>broil</try>
+		<try>belit</try>
+		<try>belie</try>
+	</wordle>
+
+	<wordle date="2023-01-07" number="567" score="4" word="lemon">
+		<try>score</try>
+		<try>omega</try>
+		<try>money</try>
+		<try>lemon</try>
+	</wordle>
+
 </wordles>
