@@ -2395,4 +2395,27 @@
 		<try>lemon</try>
 	</wordle>
 
+	<wordle date="2023-01-08" number="568" score="3" word="opera">
+		<try>blurt</try>
+		<try>spare</try>
+		<try>opera</try>
+	</wordle>
+
+	<wordle date="2023-01-09" number="569" score="6" word="pixie">
+		<try>vista</try>
+		<try>rider</try>
+		<try>hinge</try>
+		<try>piece</try>
+		<try>pique</try>
+		<try>pixie</try>
+	</wordle>
+
+	<wordle date="2023-01-10" number="570" score="5" word="grimy">
+		<try>alien</try>
+		<try>drips</try>
+		<try>wring</try>
+		<try>grift</try>
+		<try>grimy</try>
+	</wordle>
+
 </wordles>

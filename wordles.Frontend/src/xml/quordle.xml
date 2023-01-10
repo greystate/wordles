@@ -2850,4 +2850,39 @@
 		<try>binit</try>
 	</quordle>
 
+	<quordle date="2023-01-08" number="358" scores="7 5 6 8" words="share vapid ought heron">
+		<try>candy</try>
+		<try>darts</try>
+		<try>bland</try>
+		<try>mopes</try>
+		<try>vapid</try>
+		<try>ought</try>
+		<try>share</try>
+		<try>heron</try>
+	</quordle>
+
+	<quordle date="2023-01-09" number="359" scores="7 8 5 9" words="aider ripen vista wheel">
+		<try>block</try>
+		<try>scant</try>
+		<try>fresh</try>
+		<try>minus</try>
+		<try>vista</try>
+		<try>aired</try>
+		<try>aider</try>
+		<try>ripen</try>
+		<try>wheel</try>
+	</quordle>
+
+	<quordle date="2023-01-10" number="360" scores="4 0 8 9" words="taper moody chili swill">
+		<try>alien</try>
+		<try>panel</try>
+		<try>torus</try>
+		<try>taper</try>
+		<try>skill</try>
+		<try>shill</try>
+		<try>child</try>
+		<try>chili</try>
+		<try>swill</try>
+	</quordle>
+
 </wordles>

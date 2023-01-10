@@ -2448,4 +2448,24 @@
 		<try>slips</try>
 	</wordle>
 
+	<wordle date="2023-01-08" number="365" score="4" word="stald">
+		<try>opera</try>
+		<try>alias</try>
+		<try>salut</try>
+		<try>stald</try>
+	</wordle>
+
+	<wordle date="2023-01-09" number="366" score="3" word="toast">
+		<try>huske</try>
+		<try>start</try>
+		<try>toast</try>
+	</wordle>
+
+	<wordle date="2023-01-10" number="367" score="4" word="ungmø">
+		<try>plant</try>
+		<try>endog</try>
+		<try>knægt</try>
+		<try>ungmø</try>
+	</wordle>
+
 </wordles>
