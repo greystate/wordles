@@ -2468,4 +2468,46 @@
 		<try>ungmø</try>
 	</wordle>
 
+	<wordle date="2023-01-11" number="368" score="3" word="visir">
+		<try>opera</try>
+		<try>frist</try>
+		<try>visir</try>
+	</wordle>
+
+	<wordle date="2023-01-12" number="369" score="5" word="rodeo">
+		<try>bilen</try>
+		<try>streg</try>
+		<try>møder</try>
+		<try>kadet</try>
+		<try>rodeo</try>
+	</wordle>
+
+	<wordle date="2023-01-13" number="370" score="5" word="royal">
+		<try>human</try>
+		<try>skrap</try>
+		<try>aftag</try>
+		<try>rival</try>
+		<try>royal</try>
+	</wordle>
+
+	<wordle date="2023-01-14" number="371" score="3" word="slægt">
+		<try>alter</try>
+		<try>ulæst</try>
+		<try>slægt</try>
+	</wordle>
+
+	<wordle date="2023-01-15" number="372" score="5" word="stang">
+		<try>spire</try>
+		<try>skabt</try>
+		<try>stads</try>
+		<try>stavn</try>
+		<try>stang</try>
+	</wordle>
+
+	<wordle date="2023-01-16" number="373" score="3" word="tonal">
+		<try>dukat</try>
+		<try>altan</try>
+		<try>tonal</try>
+	</wordle>
+
 </wordles>

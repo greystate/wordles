@@ -2418,4 +2418,51 @@
 		<try>grimy</try>
 	</wordle>
 
+	<wordle date="2023-01-11" number="571" score="4" word="sedan">
+		<try>blink</try>
+		<try>snaps</try>
+		<try>sandy</try>
+		<try>sedan</try>
+	</wordle>
+
+	<wordle date="2023-01-12" number="572" score="6" word="leapt">
+		<try>world</try>
+		<try>leans</try>
+		<try>leave</try>
+		<try>leach</try>
+		<try>leafy</try>
+		<try>leapt</try>
+	</wordle>
+
+	<wordle date="2023-01-13" number="573" score="5" word="human">
+		<try>blunt</try>
+		<try>funky</try>
+		<try>nurse</try>
+		<try>punch</try>
+		<try>human</try>
+	</wordle>
+
+	<wordle date="2023-01-14" number="574" score="4" word="koala">
+		<try>least</try>
+		<try>clamp</try>
+		<try>frail</try>
+		<try>koala</try>
+	</wordle>
+
+	<wordle date="2023-01-15" number="575" score="6" word="spire">
+		<try>weave</try>
+		<try>stone</try>
+		<try>slime</try>
+		<try>spice</try>
+		<try>spike</try>
+		<try>spire</try>
+	</wordle>
+
+	<wordle date="2023-01-16" number="576" score="4" word="frock">
+		<try>spear</try>
+		<try>rocky</try>
+		<try>crock</try>
+		<try>frock</try>
+	</wordle>
+
 </wordles>

@@ -2885,4 +2885,74 @@
 		<try>swill</try>
 	</quordle>
 
+	<quordle date="2023-01-11" number="361" scores="6 9 5 8" words="plank shone artsy click">
+		<try>waits</try>
+		<try>opera</try>
+		<try>dumpy</try>
+		<try>prank</try>
+		<try>artsy</try>
+		<try>plank</try>
+		<try>flick</try>
+		<try>click</try>
+		<try>shone</try>
+	</quordle>
+
+	<quordle date="2023-01-12" number="362" scores="7 9 0 5" words="vocal press gusto decal">
+		<try>faces</try>
+		<try>offer</try>
+		<try>trend</try>
+		<try>decay</try>
+		<try>decal</try>
+		<try>local</try>
+		<try>vocal</try>
+		<try>stomp</try>
+		<try>press</try>
+	</quordle>
+
+	<quordle date="2023-01-13" number="363" scores="8 5 6 4" words="reedy voice curve start">
+		<try>psych</try>
+		<try>timer</try>
+		<try>stich</try>
+		<try>start</try>
+		<try>voice</try>
+		<try>curve</try>
+		<try>redly</try>
+		<try>reedy</try>
+	</quordle>
+
+	<quordle date="2023-01-14" number="364" scores="3 8 6 0" words="bushy worry patio shave">
+		<try>abyss</try>
+		<try>sybil</try>
+		<try>bushy</try>
+		<try>shake</try>
+		<try>panic</try>
+		<try>patio</try>
+		<try>moray</try>
+		<try>worry</try>
+		<try>shade</try>
+	</quordle>
+
+	<quordle date="2023-01-15" number="365" scores="7 6 8 4" words="crawl groin glide polka">
+		<try>flash</try>
+		<try>point</try>
+		<try>polar</try>
+		<try>polka</try>
+		<try>grail</try>
+		<try>groin</try>
+		<try>crawl</try>
+		<try>glide</try>
+	</quordle>
+
+	<quordle date="2023-01-16" number="366" scores="7 5 9 0" words="crank joker lasso tooth">
+		<try>bingo</try>
+		<try>means</try>
+		<try>dryer</try>
+		<try>prank</try>
+		<try>joker</try>
+		<try>frank</try>
+		<try>crank</try>
+		<try>salto</try>
+		<try>lasso</try>
+	</quordle>
+
 </wordles>
