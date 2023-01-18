@@ -2465,4 +2465,27 @@
 		<try>frock</try>
 	</wordle>
 
+	<wordle date="2023-01-17" number="577" score="5" word="adopt">
+		<try>plank</try>
+		<try>caper</try>
+		<try>apply</try>
+		<try>adept</try>
+		<try>adopt</try>
+	</wordle>
+
+	<wordle date="2023-01-18" number="578" score="5" word="chard">
+		<try>wrong</try>
+		<try>reals</try>
+		<try>charm</try>
+		<try>chart</try>
+		<try>chard</try>
+	</wordle>
+
+	<wordle date="2023-01-19" number="579" score="4" word="mucky">
+		<try>flunk</try>
+		<try>sucky</try>
+		<try>lucky</try>
+		<try>mucky</try>
+	</wordle>
+
 </wordles>

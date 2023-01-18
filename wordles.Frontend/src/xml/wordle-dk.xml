@@ -2510,4 +2510,24 @@
 		<try>tonal</try>
 	</wordle>
 
+	<wordle date="2023-01-17" number="374" score="4" word="union">
+		<try>blade</try>
+		<try>græsk</try>
+		<try>futon</try>
+		<try>union</try>
+	</wordle>
+
+	<wordle date="2023-01-18" number="375" score="4" word="visit">
+		<try>laves</try>
+		<try>svært</try>
+		<try>vidst</try>
+		<try>visit</try>
+	</wordle>
+
+	<wordle date="2023-01-19" number="376" score="3" word="roman">
+		<try>skarp</try>
+		<try>ramme</try>
+		<try>roman</try>
+	</wordle>
+
 </wordles>

@@ -2955,4 +2955,39 @@
 		<try>lasso</try>
 	</quordle>
 
+	<quordle date="2023-01-17" number="367" scores="4 8 9 3" words="stiff photo datum frisk">
+		<try>least</try>
+		<try>stock</try>
+		<try>frisk</try>
+		<try>stiff</try>
+		<try>manta</try>
+		<try>broth</try>
+		<try>hooty</try>
+		<try>photo</try>
+		<try>datum</try>
+	</quordle>
+
+	<quordle date="2023-01-18" number="368" scores="8 7 0 0" words="sheer drier rower cinch">
+		<try>dooms</try>
+		<try>chirp</try>
+		<try>drink</try>
+		<try>lordy</try>
+		<try>drift</try>
+		<try>shear</try>
+		<try>drier</try>
+		<try>sheer</try>
+		<try>bower</try>
+	</quordle>
+
+	<quordle date="2023-01-19" number="369" scores="7 8 6 3" words="crypt poppy poise flesh">
+		<try>force</try>
+		<try>crash</try>
+		<try>flesh</try>
+		<try>young</try>
+		<try>moose</try>
+		<try>poise</try>
+		<try>crypt</try>
+		<try>poppy</try>
+	</quordle>
+
 </wordles>
