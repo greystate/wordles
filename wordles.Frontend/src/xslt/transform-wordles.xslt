@@ -120,7 +120,7 @@
 						<tr>
 							<th scope="row">Current streak</th>
 							<td>
-								<xsl:value-of select="$current/@number - $latest-lost/@number" />
+								<xsl:value-of select="($current/@number - $latest-lost/@number) * number(not($current/@score = 0))" />
 							</td>
 						</tr>
 						<tr>
@@ -189,7 +189,7 @@
 						<tr>
 							<th scope="row">Current streak</th>
 							<td>
-								<xsl:value-of select="$current/@number - $latest-lost/@number" />
+								<xsl:value-of select="($current/@number - $latest-lost/@number) * number(not(contains($current/@scores, '0')))" />
 							</td>
 						</tr>
 						<tr>
