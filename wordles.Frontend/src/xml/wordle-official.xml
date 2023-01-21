@@ -2488,4 +2488,18 @@
 		<try>mucky</try>
 	</wordle>
 
+	<wordle date="2023-01-20" number="580" score="3" word="alter">
+		<try>zebra</try>
+		<try>raven</try>
+		<try>alter</try>
+	</wordle>
+
+	<wordle date="2023-01-21" number="581" score="5" word="blurb">
+		<try>scram</try>
+		<try>rider</try>
+		<try>prong</try>
+		<try>blurt</try>
+		<try>blurb</try>
+	</wordle>
+
 </wordles>

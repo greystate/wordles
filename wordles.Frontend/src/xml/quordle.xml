@@ -2990,4 +2990,26 @@
 		<try>poppy</try>
 	</quordle>
 
+	<quordle date="2023-01-20" number="370" scores="9 4 6 5" words="annex track chafe movie">
+		<try>alter</try>
+		<try>merit</try>
+		<try>traps</try>
+		<try>track</try>
+		<try>movie</try>
+		<try>chafe</try>
+		<try>added</try>
+		<try>abbey</try>
+		<try>annex</try>
+	</quordle>
+
+	<quordle date="2023-01-21" number="371" scores="7 5 6 3" words="retry gleam blunt snide">
+		<try>lares</try>
+		<try>spore</try>
+		<try>snide</try>
+		<try>elate</try>
+		<try>gleam</try>
+		<try>blunt</try>
+		<try>retry</try>
+	</quordle>
+
 </wordles>

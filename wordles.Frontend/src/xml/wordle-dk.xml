@@ -2530,4 +2530,19 @@
 		<try>roman</try>
 	</wordle>
 
+	<wordle date="2023-01-20" number="377" score="5" word="safir">
+		<try>blank</try>
+		<try>astma</try>
+		<try>salær</try>
+		<try>saver</try>
+		<try>safir</try>
+	</wordle>
+
+	<wordle date="2023-01-21" number="378" score="4" word="sløjt">
+		<try>bevis</try>
+		<try>skarp</try>
+		<try>spøgt</try>
+		<try>sløjt</try>
+	</wordle>
+
 </wordles>
