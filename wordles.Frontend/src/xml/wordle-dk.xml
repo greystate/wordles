@@ -2545,4 +2545,26 @@
 		<try>sløjt</try>
 	</wordle>
 
+	<wordle date="2023-01-22" number="379" score="5" word="stork">
+		<try>brænd</try>
+		<try>revir</try>
+		<try>sorts</try>
+		<try>stort</try>
+		<try>stork</try>
+	</wordle>
+
+	<wordle date="2023-01-23" number="380" score="3" word="torso">
+		<try>danse</try>
+		<try>trist</try>
+		<try>torso</try>
+	</wordle>
+
+	<wordle date="2023-01-24" number="381" score="5" word="unåde">
+		<try>virak</try>
+		<try>heste</try>
+		<try>gumle</try>
+		<try>unode</try>
+		<try>unåde</try>
+	</wordle>
+
 </wordles>

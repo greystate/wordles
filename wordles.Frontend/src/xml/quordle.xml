@@ -2712,7 +2712,7 @@
 		<try>jaunt</try>
 	</quordle>
 
-	<quordle date="2022-12-27" number="346" scores="5 7 8 9" words="torus viper alve vaunt">
+	<quordle date="2022-12-27" number="346" scores="5 7 8 9" words="torus viper valve vaunt">
 		<try>plain</try>
 		<try>dumpy</try>
 		<try>store</try>
@@ -3010,6 +3010,42 @@
 		<try>gleam</try>
 		<try>blunt</try>
 		<try>retry</try>
+	</quordle>
+
+	<quordle date="2023-01-22" number="372" scores="5 8 7 9" words="swell cruel snake druid">
+		<try>slate</try>
+		<try>scare</try>
+		<try>shave</try>
+		<try>spade</try>
+		<try>swell</try>
+		<try>drink</try>
+		<try>snake</try>
+		<try>cruel</try>
+		<try>druid</try>
+	</quordle>
+
+	<quordle date="2023-01-23" number="373" scores="9 6 8 7" words="woken scale bluff fling">
+		<try>quest</try>
+		<try>frail</try>
+		<try>spare</try>
+		<try>snake</try>
+		<try>swale</try>
+		<try>scale</try>
+		<try>fling</try>
+		<try>bluff</try>
+		<try>woken</try>
+	</quordle>
+
+	<quordle date="2023-01-24" number="374" scores="5 6 9 8" words="cloth pluck waltz betel">
+		<try>trace</try>
+		<try>poked</try>
+		<try>octal</try>
+		<try>intel</try>
+		<try>cloth</try>
+		<try>pluck</try>
+		<try>salty</try>
+		<try>betel</try>
+		<try>waltz</try>
 	</quordle>
 
 </wordles>
