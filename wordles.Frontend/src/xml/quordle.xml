@@ -3048,4 +3048,16 @@
 		<try>waltz</try>
 	</quordle>
 
+	<quordle date="2023-01-25" number="375" scores="4 6 9 8" words="wound swore asset mango">
+		<try>whale</try>
+		<try>width</try>
+		<try>young</try>
+		<try>wound</try>
+		<try>owner</try>
+		<try>swore</try>
+		<try>mates</try>
+		<try>mango</try>
+		<try>asset</try>
+	</quordle>
+
 </wordles>

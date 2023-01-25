@@ -2524,4 +2524,13 @@
 		<try>count</try>
 	</wordle>
 
+	<wordle date="2023-01-25" number="585" score="6" word="maize">
+		<try>front</try>
+		<try>plead</try>
+		<try>saves</try>
+		<try>cache</try>
+		<try>gauze</try>
+		<try>maize</try>
+	</wordle>
+
 </wordles>

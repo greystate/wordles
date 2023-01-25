@@ -2567,4 +2567,10 @@
 		<try>unåde</try>
 	</wordle>
 
+	<wordle date="2023-01-25" number="382" score="3" word="visum">
+		<try>smadr</try>
+		<try>meste</try>
+		<try>visum</try>
+	</wordle>
+
 </wordles>
