@@ -2573,4 +2573,13 @@
 		<try>visum</try>
 	</wordle>
 
+	<wordle date="2023-01-26" number="383" score="6" word="rombe">
+		<try>plads</try>
+		<try>revir</try>
+		<try>rynke</try>
+		<try>rotte</try>
+		<try>rouge</try>
+		<try>rombe</try>
+	</wordle>
+
 </wordles>

@@ -3060,4 +3060,14 @@
 		<try>asset</try>
 	</quordle>
 
+	<quordle date="2023-01-26" number="376" scores="7 6 5 4" words="nerve heady tulip strap">
+		<try>doubt</try>
+		<try>flare</try>
+		<try>spicy</try>
+		<try>strap</try>
+		<try>tulip</try>
+		<try>heady</try>
+		<try>nerve</try>
+	</quordle>
+
 </wordles>

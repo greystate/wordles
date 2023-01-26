@@ -2533,4 +2533,10 @@
 		<try>maize</try>
 	</wordle>
 
+	<wordle date="2023-01-26" number="586" score="3" word="beefy">
+		<try>crane</try>
+		<try>feuds</try>
+		<try>beefy</try>
+	</wordle>
+
 </wordles>
