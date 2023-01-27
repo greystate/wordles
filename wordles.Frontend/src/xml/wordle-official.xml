@@ -2539,4 +2539,11 @@
 		<try>beefy</try>
 	</wordle>
 
+	<wordle date="2023-01-27" number="587" score="4" word="worry">
+		<try>blank</try>
+		<try>tiger</try>
+		<try>proms</try>
+		<try>worry</try>
+	</wordle>
+
 </wordles>

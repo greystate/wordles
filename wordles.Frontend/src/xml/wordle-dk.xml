@@ -2582,4 +2582,13 @@
 		<try>rombe</try>
 	</wordle>
 
+	<wordle date="2023-01-27" number="384" score="6" word="skala">
+		<try>barsk</try>
+		<try>skade</try>
+		<try>skalp</try>
+		<try>skalk</try>
+		<try>skals</try>
+		<try>skala</try>
+	</wordle>
+
 </wordles>

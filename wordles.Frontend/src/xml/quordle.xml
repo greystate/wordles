@@ -3070,4 +3070,16 @@
 		<try>nerve</try>
 	</quordle>
 
+	<quordle date="2023-01-27" number="378" scores="4 9 7 5" words="sugar kneed elder arose">
+		<try>tiger</try>
+		<try>power</try>
+		<try>cigar</try>
+		<try>sugar</try>
+		<try>arose</try>
+		<try>lever</try>
+		<try>elder</try>
+		<try>hyped</try>
+		<try>kneed</try>
+	</quordle>
+
 </wordles>
