@@ -2591,4 +2591,27 @@
 		<try>skala</try>
 	</wordle>
 
+	<wordle date="2023-01-28" number="385" score="4" word="smuds">
+		<try>trevl</try>
+		<try>dansk</try>
+		<try>smidt</try>
+		<try>smuds</try>
+	</wordle>
+
+	<wordle date="2023-01-29" number="386" score="4" word="stout">
+		<try>brand</try>
+		<try>suppe</try>
+		<try>slugt</try>
+		<try>stout</try>
+	</wordle>
+
+	<wordle date="2023-01-30" number="387" score="6" word="tryne">
+		<try>spore</try>
+		<try>raske</try>
+		<try>bruge</try>
+		<try>fråde</try>
+		<try>træne</try>
+		<try>tryne</try>
+	</wordle>
+
 </wordles>

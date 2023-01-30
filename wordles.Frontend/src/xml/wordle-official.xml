@@ -2546,4 +2546,23 @@
 		<try>worry</try>
 	</wordle>
 
+	<wordle date="2023-01-28" number="588" score="3" word="flirt">
+		<try>clash</try>
+		<try>flunk</try>
+		<try>flirt</try>
+	</wordle>
+
+	<wordle date="2023-01-29" number="589" score="4" word="fishy">
+		<try>brand</try>
+		<try>soups</try>
+		<try>misty</try>
+		<try>fishy</try>
+	</wordle>
+
+	<wordle date="2023-01-30" number="590" score="3" word="crave">
+		<try>house</try>
+		<try>trace</try>
+		<try>crave</try>
+	</wordle>
+
 </wordles>

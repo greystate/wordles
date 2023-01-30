@@ -3082,4 +3082,37 @@
 		<try>kneed</try>
 	</quordle>
 
+	<quordle date="2023-01-28" number="379" scores="6 4 8 5" words="newly pupil utter brine">
+		<try>tanks</try>
+		<try>power</try>
+		<try>pubic</try>
+		<try>pupil</try>
+		<try>brine</try>
+		<try>newly</try>
+		<try>truer</try>
+		<try>utter</try>
+	</quordle>
+
+	<quordle date="2023-01-29" number="380" scores="7 5 8 4" words="erode state wacky tasty">
+		<try>plays</try>
+		<try>stray</try>
+		<try>antsy</try>
+		<try>tasty</try>
+		<try>state</try>
+		<try>drove</try>
+		<try>erode</try>
+		<try>wacky</try>
+	</quordle>
+
+	<quordle date="2023-01-30" number="381" scores="6 3 7 8" words="grout spurt towel agate">
+		<try>stars</try>
+		<try>sport</try>
+		<try>spurt</try>
+		<try>trout</try>
+		<try>crout</try>
+		<try>grout</try>
+		<try>towel</try>
+		<try>agate</try>
+	</quordle>
+
 </wordles>
