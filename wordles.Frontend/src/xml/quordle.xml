@@ -3115,4 +3115,40 @@
 		<try>agate</try>
 	</quordle>
 
+	<quordle date="2023-01-31" number="382" scores="9 3 6 5" words="verge short tripe stoic">
+		<try>stare</try>
+		<try>sport</try>
+		<try>short</try>
+		<try>stock</try>
+		<try>stoic</try>
+		<try>tripe</try>
+		<try>nudge</try>
+		<try>merge</try>
+		<try>verge</try>
+	</quordle>
+
+	<quordle date="2023-02-01" number="383" scores="8 0 5 0" words="thick ninth avian excel">
+		<try>music</try>
+		<try>cigar</try>
+		<try>incur</try>
+		<try>voice</try>
+		<try>avian</try>
+		<try>juicy</try>
+		<try>which</try>
+		<try>thick</try>
+		<try>filth</try>
+	</quordle>
+
+	<quordle date="2023-02-02" number="384" scores="7 8 6 9" words="winch havoc amuse depot">
+		<try>plank</try>
+		<try>spice</try>
+		<try>youth</try>
+		<try>cinch</try>
+		<try>abuse</try>
+		<try>amuse</try>
+		<try>winch</try>
+		<try>havoc</try>
+		<try>depot</try>
+	</quordle>
+
 </wordles>

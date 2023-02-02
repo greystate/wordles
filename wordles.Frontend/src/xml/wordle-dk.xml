@@ -2614,4 +2614,26 @@
 		<try>tryne</try>
 	</wordle>
 
+	<wordle date="2023-01-31" number="388" score="4" word="salon">
+		<try>blæse</try>
+		<try>skalp</try>
+		<try>salut</try>
+		<try>salon</try>
+	</wordle>
+
+	<wordle date="2023-02-01" number="389" score="4" word="navle">
+		<try>spild</try>
+		<try>mægle</try>
+		<try>tøjle</try>
+		<try>navle</try>
+	</wordle>
+
+	<wordle date="2023-02-02" number="390" score="5" word="vodka">
+		<try>brage</try>
+		<try>salat</try>
+		<try>afkom</try>
+		<try>komma</try>
+		<try>vodka</try>
+	</wordle>
+
 </wordles>
