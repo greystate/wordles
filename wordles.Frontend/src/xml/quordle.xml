@@ -3151,4 +3151,27 @@
 		<try>depot</try>
 	</quordle>
 
+	<quordle date="2023-02-03" number="385" scores="0 8 4 9" words="offer horde stein shear">
+		<try>goats</try>
+		<try>price</try>
+		<try>stear</try>
+		<try>stein</try>
+		<try>horse</try>
+		<try>smear</try>
+		<try>swear</try>
+		<try>horde</try>
+		<try>shear</try>
+	</quordle>
+
+	<quordle date="2023-02-04" number="386" scores="7 4 5 8" words="erase borne sling brood">
+		<try>power</try>
+		<try>rents</try>
+		<try>clear</try>
+		<try>borne</try>
+		<try>sling</try>
+		<try>broom</try>
+		<try>erase</try>
+		<try>brood</try>
+	</quordle>
+
 </wordles>

@@ -2586,4 +2586,18 @@
 		<try>shirk</try>
 	</wordle>
 
+	<wordle date="2023-02-03" number="594" score="3" word="tasty">
+		<try>sport</try>
+		<try>tease</try>
+		<try>tasty</try>
+	</wordle>
+
+	<wordle date="2023-02-04" number="595" score="5" word="unlit">
+		<try>scare</try>
+		<try>plumb</try>
+		<try>ghoul</try>
+		<try>fully</try>
+		<try>unlit</try>
+	</wordle>
+
 </wordles>

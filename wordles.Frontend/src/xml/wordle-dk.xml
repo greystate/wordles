@@ -2636,4 +2636,20 @@
 		<try>vodka</try>
 	</wordle>
 
+	<wordle date="2023-02-03" number="391" score="6" word="radio">
+		<try>plask</try>
+		<try>antal</try>
+		<try>farve</try>
+		<try>bager</try>
+		<try>madro</try>
+		<try>radio</try>
+	</wordle>
+
+	<wordle date="2023-02-04" number="392" score="4" word="skrog">
+		<try>pelse</try>
+		<try>sport</try>
+		<try>sonar</try>
+		<try>skrog</try>
+	</wordle>
+
 </wordles>
