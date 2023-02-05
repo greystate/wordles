@@ -2652,4 +2652,12 @@
 		<try>skrog</try>
 	</wordle>
 
+	<wordle date="2023-02-05" number="393" score="5" word="pulje">
+		<try>spade</try>
+		<try>potte</try>
+		<try>pible</try>
+		<try>pleje</try>
+		<try>pulje</try>
+	</wordle>
+
 </wordles>

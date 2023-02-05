@@ -3174,4 +3174,16 @@
 		<try>brood</try>
 	</quordle>
 
+	<quordle date="2023-02-05" number="387" scores="8 0 3 4" words="honey pouty price prank">
+		<try>stank</try>
+		<try>crank</try>
+		<try>price</try>
+		<try>prank</try>
+		<try>gnome</try>
+		<try>honed</try>
+		<try>polly</try>
+		<try>honey</try>
+		<try>potty</try>
+	</quordle>
+
 </wordles>
