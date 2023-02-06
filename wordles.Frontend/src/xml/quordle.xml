@@ -3186,4 +3186,15 @@
 		<try>potty</try>
 	</quordle>
 
+	<quordle date="2023-02-06" number="388" scores="8 4 7 6" words="shone wrist chili canoe">
+		<try>flirt</try>
+		<try>print</try>
+		<try>spans</try>
+		<try>wrist</try>
+		<try>scone</try>
+		<try>canoe</try>
+		<try>chili</try>
+		<try>shone</try>
+	</quordle>
+
 </wordles>

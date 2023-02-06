@@ -2606,4 +2606,11 @@
 		<try>dance</try>
 	</wordle>
 
+	<wordle date="2023-02-06" number="597" score="4" word="ninth">
+		<try>polka</try>
+		<try>fresh</try>
+		<try>width</try>
+		<try>ninth</try>
+	</wordle>
+
 </wordles>

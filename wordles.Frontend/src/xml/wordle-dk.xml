@@ -2660,4 +2660,10 @@
 		<try>pulje</try>
 	</wordle>
 
+	<wordle date="2023-02-06" number="394" score="3" word="kloak">
+		<try>alder</try>
+		<try>plask</try>
+		<try>kloak</try>
+	</wordle>
+
 </wordles>
