@@ -3197,4 +3197,27 @@
 		<try>shone</try>
 	</quordle>
 
+	<quordle date="2023-02-07" number="389" scores="3 8 7 0" words="piney oxide nanny sight">
+		<try>grace</try>
+		<try>imply</try>
+		<try>piney</try>
+		<try>inane</try>
+		<try>fanny</try>
+		<try>tight</try>
+		<try>nanny</try>
+		<try>oxide</try>
+		<try>wight</try>
+	</quordle>
+
+	<quordle date="2023-02-08" number="390" scores="8 7 5 6" words="octet cameo strut money">
+		<try>great</try>
+		<try>short</try>
+		<try>depot</try>
+		<try>furry</try>
+		<try>strut</try>
+		<try>money</try>
+		<try>cameo</try>
+		<try>octet</try>
+	</quordle>
+
 </wordles>

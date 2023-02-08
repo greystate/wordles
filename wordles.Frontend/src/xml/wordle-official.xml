@@ -2613,4 +2613,19 @@
 		<try>ninth</try>
 	</wordle>
 
+	<wordle date="2023-02-07" number="598" score="5" word="apple">
+		<try>winch</try>
+		<try>lares</try>
+		<try>elate</try>
+		<try>ample</try>
+		<try>apple</try>
+	</wordle>
+
+	<wordle date="2023-02-08" number="599" score="4" word="flail">
+		<try>bland</try>
+		<try>slack</try>
+		<try>flair</try>
+		<try>flail</try>
+	</wordle>
+
 </wordles>

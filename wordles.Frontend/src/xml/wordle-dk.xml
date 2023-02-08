@@ -2666,4 +2666,20 @@
 		<try>kloak</try>
 	</wordle>
 
+	<wordle date="2023-02-07" number="395" score="5" word="stram">
+		<try>skole</try>
+		<try>spørg</try>
+		<try>strip</try>
+		<try>straf</try>
+		<try>stram</try>
+	</wordle>
+
+	<wordle date="2023-02-08" number="396" score="5" word="trævl">
+		<try>fares</try>
+		<try>trind</try>
+		<try>trykt</try>
+		<try>trægt</try>
+		<try>trævl</try>
+	</wordle>
+
 </wordles>
