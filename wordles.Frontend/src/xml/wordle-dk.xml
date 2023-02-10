@@ -2682,4 +2682,21 @@
 		<try>trævl</try>
 	</wordle>
 
+	<wordle date="2023-02-09" number="397" score="6" word="fløjl">
+		<try>scene</try>
+		<try>polka</try>
+		<try>trævl</try>
+		<try>udhul</try>
+		<try>jubel</try>
+		<try>fløjl</try>
+	</wordle>
+
+	<wordle date="2023-02-10" number="398" score="5" word="rugby">
+		<try>ferie</try>
+		<try>optur</try>
+		<try>brusk</try>
+		<try>urban</try>
+		<try>rugby</try>
+	</wordle>
+
 </wordles>

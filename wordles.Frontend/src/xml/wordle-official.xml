@@ -2628,4 +2628,18 @@
 		<try>flail</try>
 	</wordle>
 
+	<wordle date="2023-02-09" number="600" score="4" word="stage">
+		<try>clamp</try>
+		<try>stare</try>
+		<try>stake</try>
+		<try>stage</try>
+	</wordle>
+
+	<wordle date="2023-02-10" number="601" score="4" word="heady">
+		<try>flare</try>
+		<try>seamy</try>
+		<try>heavy</try>
+		<try>heady</try>
+	</wordle>
+
 </wordles>

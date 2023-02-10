@@ -3220,4 +3220,27 @@
 		<try>octet</try>
 	</quordle>
 
+	<quordle date="2023-02-09" number="391" scores="8 4 7 6" words="badly lunge gaudy gazer">
+		<try>miles</try>
+		<try>trace</try>
+		<try>punky</try>
+		<try>lunge</try>
+		<try>wager</try>
+		<try>gazer</try>
+		<try>gaudy</try>
+		<try>badly</try>
+	</quordle>
+
+	<quordle date="2023-02-10" number="392" scores="4 6 0 0" words="turbo stray frill clown">
+		<try>steel</try>
+		<try>strap</try>
+		<try>worst</try>
+		<try>turbo</try>
+		<try>wolly</try>
+		<try>stray</try>
+		<try>drill</try>
+		<try>grill</try>
+		<try>krill</try>
+	</quordle>
+
 </wordles>
