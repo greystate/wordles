@@ -2699,4 +2699,23 @@
 		<try>rugby</try>
 	</wordle>
 
+	<wordle date="2023-02-11" number="399" score="3" word="skvat">
+		<try>spejl</try>
+		<try>skrab</try>
+		<try>skvat</try>
+	</wordle>
+
+	<wordle date="2023-02-12" number="400" score="3" word="snage">
+		<try>tanke</try>
+		<try>svane</try>
+		<try>snage</try>
+	</wordle>
+
+	<wordle date="2023-02-13" number="401" score="4" word="sulfo">
+		<try>dansk</try>
+		<try>spørg</try>
+		<try>sjuft</try>
+		<try>sulfo</try>
+	</wordle>
+
 </wordles>

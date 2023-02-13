@@ -2642,4 +2642,24 @@
 		<try>heady</try>
 	</wordle>
 
+	<wordle date="2023-02-11" number="602" score="3" word="debug">
+		<try>steak</try>
+		<try>judge</try>
+		<try>debug</try>
+	</wordle>
+
+	<wordle date="2023-02-12" number="603" score="4" word="giant">
+		<try>knife</try>
+		<try>rings</try>
+		<try>night</try>
+		<try>giant</try>
+	</wordle>
+
+	<wordle date="2023-02-13" number="604" score="4" word="usage">
+		<try>halve</try>
+		<try>space</try>
+		<try>tease</try>
+		<try>usage</try>
+	</wordle>
+
 </wordles>

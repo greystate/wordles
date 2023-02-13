@@ -3243,4 +3243,39 @@
 		<try>krill</try>
 	</quordle>
 
+	<quordle date="2023-02-11" number="393" scores="7 9 6 3" words="swami dogma sieve bound">
+		<try>brink</try>
+		<try>bland</try>
+		<try>bound</try>
+		<try>hypes</try>
+		<try>vista</try>
+		<try>sieve</try>
+		<try>swami</try>
+		<try>comma</try>
+		<try>dogma</try>
+	</quordle>
+
+	<quordle date="2023-02-12" number="394" scores="7 8 6 3" words="plump dryly basil tease">
+		<try>speed</try>
+		<try>rinse</try>
+		<try>tease</try>
+		<try>block</try>
+		<try>bails</try>
+		<try>basil</try>
+		<try>plump</try>
+		<try>dryly</try>
+	</quordle>
+
+	<quordle date="2023-02-13" number="395" scores="0 6 0 5" words="wooer state feral strip">
+		<try>crank</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>slate</try>
+		<try>strip</try>
+		<try>state</try>
+		<try>hover</try>
+		<try>roger</try>
+		<try>boxer</try>
+	</quordle>
+
 </wordles>
