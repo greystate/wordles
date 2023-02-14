@@ -3278,4 +3278,15 @@
 		<try>boxer</try>
 	</quordle>
 
+	<quordle date="2023-02-14" number="396" scores="5 6 7 8" words="among gulch halve outgo">
+		<try>space</try>
+		<try>adore</try>
+		<try>linty</try>
+		<try>flung</try>
+		<try>among</try>
+		<try>gulch</try>
+		<try>halve</try>
+		<try>outgo</try>
+	</quordle>
+
 </wordles>

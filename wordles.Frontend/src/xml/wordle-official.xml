@@ -2662,4 +2662,11 @@
 		<try>usage</try>
 	</wordle>
 
+	<wordle date="2023-02-14" number="605" score="4" word="sound">
+		<try>thing</try>
+		<try>crank</try>
+		<try>spend</try>
+		<try>sound</try>
+	</wordle>
+
 </wordles>

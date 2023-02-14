@@ -2718,4 +2718,12 @@
 		<try>sulfo</try>
 	</wordle>
 
+	<wordle date="2023-02-14" number="402" score="5" word="trøst">
+		<try>blank</try>
+		<try>udset</try>
+		<try>blæst</try>
+		<try>frist</try>
+		<try>trøst</try>
+	</wordle>
+
 </wordles>
