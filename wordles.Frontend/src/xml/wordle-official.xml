@@ -2669,4 +2669,18 @@
 		<try>sound</try>
 	</wordle>
 
+	<wordle date="2023-02-15" number="606" score="4" word="salsa">
+		<try>corps</try>
+		<try>steak</try>
+		<try>smash</try>
+		<try>salsa</try>
+	</wordle>
+
+	<wordle date="2023-02-16" number="607" score="4" word="magic">
+		<try>torus</try>
+		<try>clean</try>
+		<try>hacky</try>
+		<try>magic</try>
+	</wordle>
+
 </wordles>

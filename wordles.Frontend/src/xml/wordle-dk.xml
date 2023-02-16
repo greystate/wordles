@@ -2726,4 +2726,19 @@
 		<try>trøst</try>
 	</wordle>
 
+	<wordle date="2023-02-15" number="403" score="4" word="varig">
+		<try>smalt</try>
+		<try>daner</try>
+		<try>paryk</try>
+		<try>varig</try>
+	</wordle>
+
+	<wordle date="2023-02-16" number="404" score="5" word="valid">
+		<try>spore</try>
+		<try>minut</try>
+		<try>blidt</try>
+		<try>lydig</try>
+		<try>valid</try>
+	</wordle>
+
 </wordles>

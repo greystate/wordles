@@ -3289,4 +3289,26 @@
 		<try>outgo</try>
 	</quordle>
 
+	<quordle date="2023-02-15" number="397" scores="9 6 3 7" words="rebut shirt clash scamp">
+		<try>front</try>
+		<try>plush</try>
+		<try>clash</try>
+		<try>space</try>
+		<try>scalp</try>
+		<try>shirt</try>
+		<try>scamp</try>
+		<try>duvet</try>
+		<try>rebut</try>
+	</quordle>
+
+	<quordle date="2023-02-16" number="398" scores="7 5 3 4" words="cleat chunk snare turbo">
+		<try>trunk</try>
+		<try>strip</try>
+		<try>snare</try>
+		<try>turbo</try>
+		<try>chunk</try>
+		<try>cadet</try>
+		<try>cleat</try>
+	</quordle>
+
 </wordles>
