@@ -3311,4 +3311,27 @@
 		<try>cleat</try>
 	</quordle>
 
+	<quordle date="2023-02-17" number="399" scores="9 0 5 0" words="cliff freak mouth troop">
+		<try>trash</try>
+		<try>trunk</try>
+		<try>south</try>
+		<try>wimpy</try>
+		<try>mouth</try>
+		<try>glide</try>
+		<try>creak</try>
+		<try>break</try>
+		<try>cliff</try>
+	</quordle>
+
+	<quordle date="2023-02-18" number="400" scores="3 6 8 7" words="prose leach flute folio">
+		<try>reads</try>
+		<try>power</try>
+		<try>prose</try>
+		<try>thick</try>
+		<try>beach</try>
+		<try>leach</try>
+		<try>folio</try>
+		<try>flute</try>
+	</quordle>
+
 </wordles>

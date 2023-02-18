@@ -2741,4 +2741,18 @@
 		<try>valid</try>
 	</wordle>
 
+	<wordle date="2023-02-17" number="405" score="3" word="suppe">
+		<try>træer</try>
+		<try>spade</try>
+		<try>suppe</try>
+	</wordle>
+
+	<wordle date="2023-02-18" number="406" score="5" word="svæve">
+		<try>opera</try>
+		<try>hunde</try>
+		<try>stile</try>
+		<try>skæve</try>
+		<try>svæve</try>
+	</wordle>
+
 </wordles>

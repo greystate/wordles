@@ -2683,4 +2683,18 @@
 		<try>magic</try>
 	</wordle>
 
+	<wordle date="2023-02-17" number="608" score="4" word="cache">
+		<try>alien</try>
+		<try>tease</try>
+		<try>badge</try>
+		<try>cache</try>
+	</wordle>
+
+	<wordle date="2023-02-18" number="609" score="4" word="avail">
+		<try>flute</try>
+		<try>leads</try>
+		<try>trail</try>
+		<try>avail</try>
+	</wordle>
+
 </wordles>
