@@ -2697,4 +2697,64 @@
 		<try>avail</try>
 	</wordle>
 
+	<wordle date="2023-02-19" number="610" score="4" word="kiosk">
+		<try>today</try>
+		<try>prose</try>
+		<try>floss</try>
+		<try>kiosk</try>
+	</wordle>
+
+	<wordle date="2023-02-20" number="611" score="3" word="sweat">
+		<try>spare</try>
+		<try>sedan</try>
+		<try>sweat</try>
+	</wordle>
+
+	<wordle date="2023-02-21" number="612" score="5" word="ruddy">
+		<try>spawn</try>
+		<try>tiger</try>
+		<try>brood</try>
+		<try>durum</try>
+		<try>ruddy</try>
+	</wordle>
+
+	<wordle date="2023-02-22" number="613" score="5" word="riper">
+		<try>steam</try>
+		<try>perky</try>
+		<try>spore</try>
+		<try>viper</try>
+		<try>riper</try>
+	</wordle>
+
+	<wordle date="2023-02-23" number="614" score="5" word="vague">
+		<try>bowel</try>
+		<try>jerky</try>
+		<try>steam</try>
+		<try>gauge</try>
+		<try>vague</try>
+	</wordle>
+
+	<wordle date="2023-02-24" number="615" score="5" word="arbor">
+		<try>trial</try>
+		<try>arson</try>
+		<try>arrow</try>
+		<try>armor</try>
+		<try>arbor</try>
+	</wordle>
+
+	<wordle date="2023-02-25" number="616" score="5" word="fifty">
+		<try>towel</try>
+		<try>scant</try>
+		<try>pithy</try>
+		<try>dirty</try>
+		<try>fifty</try>
+	</wordle>
+
+	<wordle date="2023-02-26" number="617" score="4" word="syrup">
+		<try>vowel</try>
+		<try>scant</try>
+		<try>sprig</try>
+		<try>syrup</try>
+	</wordle>
+
 </wordles>

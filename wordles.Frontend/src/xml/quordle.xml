@@ -3334,4 +3334,99 @@
 		<try>flute</try>
 	</quordle>
 
+
+	<quordle date="2023-02-19" number="401" scores="5 6 3 9" words="cleat bless today conch">
+		<try>found</try>
+		<try>tears</try>
+		<try>today</try>
+		<try>climb</try>
+		<try>cleat</try>
+		<try>bless</try>
+		<try>convo</try>
+		<try>congo</try>
+		<try>conch</try>
+	</quordle>
+
+	<quordle date="2023-02-20" number="402" scores="3 6 7 0" words="loyal camel oddly quite">
+		<try>glory</try>
+		<try>folly</try>
+		<try>loyal</try>
+		<try>stein</try>
+		<try>cited</try>
+		<try>camel</try>
+		<try>oddly</try>
+		<try>evict</try>
+		<try>white</try>
+	</quordle>
+
+	<quordle date="2023-02-21" number="403" scores="7 6 4 3" words="exist flair tarot trust">
+		<try>blink</try>
+		<try>hurts</try>
+		<try>trust</try>
+		<try>tarot</try>
+		<try>feist</try>
+		<try>flair</try>
+		<try>exist</try>
+	</quordle>
+
+	<quordle date="2023-02-22" number="404" scores="8 4 0 9" words="amaze token manga boozy">
+		<try>point</try>
+		<try>lurks</try>
+		<try>tweak</try>
+		<try>token</try>
+		<try>faded</try>
+		<try>mangy</try>
+		<try>hobby</try>
+		<try>amaze</try>
+		<try>boozy</try>
+	</quordle>
+
+	<quordle date="2023-02-23" number="405" scores="8 9 7 6" words="draft jerky dozen blink">
+		<try>quest</try>
+		<try>power</try>
+		<try>honed</try>
+		<try>climb</try>
+		<try>bling</try>
+		<try>blink</try>
+		<try>dozen</try>
+		<try>draft</try>
+		<try>jerky</try>
+	</quordle>
+
+	<quordle date="2023-02-24" number="406" scores="4 7 0 9" words="rivet creak cache chill">
+		<try>drums</try>
+		<try>power</try>
+		<try>faint</try>
+		<try>rivet</try>
+		<try>graze</try>
+		<try>cream</try>
+		<try>creak</try>
+		<try>cable</try>
+		<try>chill</try>
+	</quordle>
+
+	<quordle date="2023-02-25" number="407" scores="9 6 4 7" words="conic omega cadet canny">
+		<try>block</try>
+		<try>tempo</try>
+		<try>dares</try>
+		<try>cadet</try>
+		<try>cough</try>
+		<try>omega</try>
+		<try>canny</try>
+		<try>conin</try>
+		<try>conic</try>
+	</quordle>
+
+	<quordle date="2023-02-26" number="408" scores="8 6 5 0" words="civic koala stint rarer">
+		<try>dodge</try>
+		<try>still</try>
+		<try>panty</try>
+		<try>clock</try>
+		<try>stint</try>
+		<try>koala</try>
+		<try>circa</try>
+		<try>civic</try>
+		<try>harem</try>
+	</quordle>
+
 </wordles>

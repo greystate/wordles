@@ -2755,4 +2755,64 @@
 		<try>svæve</try>
 	</wordle>
 
+	<wordle date="2023-02-19" number="407" score="4" word="sæson">
+		<try>tryne</try>
+		<try>langs</try>
+		<try>snusk</try>
+		<try>sæson</try>
+	</wordle>
+
+	<wordle date="2023-02-20" number="408" score="4" word="tumor">
+		<try>frist</try>
+		<try>rygte</try>
+		<try>tuner</try>
+		<try>tumor</try>
+	</wordle>
+
+	<wordle date="2023-02-21" number="409" score="6" word="vinyl">
+		<try>tiger</try>
+		<try>citat</try>
+		<try>bingo</try>
+		<try>finsk</try>
+		<try>hindu</try>
+		<try>vinyl</try>
+	</wordle>
+
+	<wordle date="2023-02-22" number="410" score="5" word="sushi">
+		<try>point</try>
+		<try>limer</try>
+		<try>istid</try>
+		<try>afasi</try>
+		<try>sushi</try>
+	</wordle>
+
+	<wordle date="2023-02-23" number="411" score="5" word="sauna">
+		<try>skåle</try>
+		<try>spørg</try>
+		<try>stads</try>
+		<try>samba</try>
+		<try>sauna</try>
+	</wordle>
+
+	<wordle date="2023-02-24" number="412" score="5" word="facit">
+		<try>trave</try>
+		<try>atlas</try>
+		<try>bandt</try>
+		<try>kaput</try>
+		<try>facit</try>
+	</wordle>
+
+	<wordle date="2023-02-25" number="413" score="5" word="kvark">
+		<try>præst</try>
+		<try>runde</try>
+		<try>forbi</try>
+		<try>alarm</try>
+		<try>kvark</try>
+	</wordle>
+
+	<wordle date="2023-02-26" number="414" score="2" word="minus">
+		<try>gebis</try>
+		<try>minus</try>
+	</wordle>
+
 </wordles>
