@@ -2815,4 +2815,19 @@
 		<try>minus</try>
 	</wordle>
 
+	<wordle date="2023-02-27" number="415" score="6" word="søsat">
+		<try>drink</try>
+		<try>plast</try>
+		<try>afsat</try>
+		<try>besat</try>
+		<try>omsat</try>
+		<try>søsat</try>
+	</wordle>
+
+	<wordle date="2023-02-28" number="416" score="3" word="krone">
+		<try>streg</try>
+		<try>moder</try>
+		<try>krone</try>
+	</wordle>
+
 </wordles>

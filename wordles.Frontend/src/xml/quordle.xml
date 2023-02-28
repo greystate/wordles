@@ -3429,4 +3429,27 @@
 		<try>harem</try>
 	</quordle>
 
+	<quordle date="2023-02-27" number="409" scores="5 8 6 9" words="amber layer crude ditty">
+		<try>train</try>
+		<try>brush</try>
+		<try>crumb</try>
+		<try>power</try>
+		<try>amber</try>
+		<try>crude</try>
+		<try>rarer</try>
+		<try>layer</try>
+		<try>ditty</try>
+	</quordle>
+
+	<quordle date="2023-02-28" number="410" scores="6 3 7 8" words="shear organ mural couch">
+		<try>eagle</try>
+		<try>drops</try>
+		<try>organ</try>
+		<try>tower</try>
+		<try>smear</try>
+		<try>shear</try>
+		<try>mural</try>
+		<try>couch</try>
+	</quordle>
+
 </wordles>

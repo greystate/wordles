@@ -2757,4 +2757,17 @@
 		<try>syrup</try>
 	</wordle>
 
+	<wordle date="2023-02-27" number="618" score="4" word="worse">
+		<try>scare</try>
+		<try>purse</try>
+		<try>horse</try>
+		<try>worse</try>
+	</wordle>
+
+	<wordle date="2023-02-28" number="619" score="3" word="polka">
+		<try>horse</try>
+		<try>point</try>
+		<try>polka</try>
+	</wordle>
+
 </wordles>
