@@ -3452,4 +3452,26 @@
 		<try>couch</try>
 	</quordle>
 
+	<quordle date="2023-03-01" number="411" scores="6 8 7 5" words="flair evoke otter wrist">
+		<try>blank</try>
+		<try>slash</try>
+		<try>youth</try>
+		<try>weird</try>
+		<try>wrist</try>
+		<try>flair</try>
+		<try>otter</try>
+		<try>evoke</try>
+	</quordle>
+
+	<quordle date="2023-03-02" number="412" scores="7 5 8 6" words="flyer hotly freed rally">
+		<try>plush</try>
+		<try>octal</try>
+		<try>drink</try>
+		<try>hotel</try>
+		<try>hotly</try>
+		<try>rally</try>
+		<try>flyer</try>
+		<try>freed</try>
+	</quordle>
+
 </wordles>

@@ -2770,4 +2770,17 @@
 		<try>polka</try>
 	</wordle>
 
+	<wordle date="2023-03-01" number="620" score="3" word="moose">
+		<try>spark</try>
+		<try>tense</try>
+		<try>moose</try>
+	</wordle>
+
+	<wordle date="2023-03-02" number="621" score="4" word="above">
+		<try>foray</try>
+		<try>salon</try>
+		<try>about</try>
+		<try>above</try>
+	</wordle>
+
 </wordles>

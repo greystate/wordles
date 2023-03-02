@@ -2830,4 +2830,18 @@
 		<try>krone</try>
 	</wordle>
 
+	<wordle date="2023-03-01" number="417" score="4" word="emsig">
+		<try>slarp</try>
+		<try>udset</try>
+		<try>visne</try>
+		<try>emsig</try>
+	</wordle>
+
+	<wordle date="2023-03-02" number="418" score="4" word="kanin">
+		<try>opera</try>
+		<try>skalp</try>
+		<try>panik</try>
+		<try>kanin</try>
+	</wordle>
+
 </wordles>
