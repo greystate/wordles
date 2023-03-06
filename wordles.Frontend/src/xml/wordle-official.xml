@@ -2783,4 +2783,32 @@
 		<try>above</try>
 	</wordle>
 
+	<wordle date="2023-03-03" number="622" score="4" word="squat">
+		<try>eagle</try>
+		<try>draft</try>
+		<try>about</try>
+		<try>squat</try>
+	</wordle>
+
+	<wordle date="2023-03-04" number="623" score="3" word="trend">
+		<try>point</try>
+		<try>stand</try>
+		<try>trend</try>
+	</wordle>
+
+	<wordle date="2023-03-05" number="624" score="5" word="toxic">
+		<try>dance</try>
+		<try>cubic</try>
+		<try>stoic</try>
+		<try>topic</try>
+		<try>toxic</try>
+	</wordle>
+
+	<wordle date="2023-03-06" number="625" score="4" word="pinky">
+		<try>drape</try>
+		<try>point</try>
+		<try>pinch</try>
+		<try>pinky</try>
+	</wordle>
+
 </wordles>

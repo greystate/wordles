@@ -2844,4 +2844,33 @@
 		<try>kanin</try>
 	</wordle>
 
+	<wordle date="2023-03-03" number="419" score="4" word="mødom">
+		<try>trave</try>
+		<try>spild</try>
+		<try>dæmon</try>
+		<try>mødom</try>
+	</wordle>
+
+	<wordle date="2023-03-04" number="420" score="4" word="bølge">
+		<try>lager</try>
+		<try>glæde</try>
+		<try>følge</try>
+		<try>bølge</try>
+	</wordle>
+
+	<wordle date="2023-03-05" number="421" score="6" word="smurt">
+		<try>ugift</try>
+		<try>kaput</try>
+		<try>stumt</try>
+		<try>smukt</try>
+		<try>smult</try>
+		<try>smurt</try>
+	</wordle>
+
+	<wordle date="2023-03-06" number="422" score="3" word="prosa">
+		<try>brage</try>
+		<try>aroma</try>
+		<try>prosa</try>
+	</wordle>
+
 </wordles>

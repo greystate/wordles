@@ -3474,4 +3474,52 @@
 		<try>freed</try>
 	</quordle>
 
+	<quordle date="2023-03-03" number="413" scores="0 3 8 7" words="slyly above ounce crawl">
+		<try>eagle</try>
+		<try>prone</try>
+		<try>above</try>
+		<try>frail</try>
+		<try>trawl</try>
+		<try>curly</try>
+		<try>crawl</try>
+		<try>ounce</try>
+		<try>shyly</try>
+	</quordle>
+
+	<quordle date="2023-03-04" number="414" scores="9 6 8 5" words="lager marry finch crept">
+		<try>music</try>
+		<try>trend</try>
+		<try>erect</try>
+		<try>hobby</try>
+		<try>crept</try>
+		<try>marry</try>
+		<try>winch</try>
+		<try>finch</try>
+		<try>lager</try>
+	</quordle>
+
+	<quordle date="2023-03-05" number="415" scores="5 0 9 6" words="grace lathe hence stone">
+		<try>skate</try>
+		<try>store</try>
+		<try>crane</try>
+		<try>brace</try>
+		<try>grace</try>
+		<try>stone</try>
+		<try>nonce</try>
+		<try>wince</try>
+		<try>hence</try>
+	</quordle>
+
+	<quordle date="2023-03-06" number="416" scores="9 7 5 8" words="annoy flush islet awake">
+		<try>grade</try>
+		<try>skate</try>
+		<try>flake</try>
+		<try>point</try>
+		<try>islet</try>
+		<try>munch</try>
+		<try>flush</try>
+		<try>awake</try>
+		<try>annoy</try>
+	</quordle>
+
 </wordles>
