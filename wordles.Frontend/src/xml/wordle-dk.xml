@@ -2873,4 +2873,18 @@
 		<try>prosa</try>
 	</wordle>
 
+	<wordle date="2023-03-07" number="423" score="4" word="drama">
+		<try>krone</try>
+		<try>arisk</try>
+		<try>fragt</try>
+		<try>drama</try>
+	</wordle>
+
+	<wordle date="2023-03-08" number="424" score="4" word="fjord">
+		<try>marts</try>
+		<try>revir</try>
+		<try>orlov</try>
+		<try>fjord</try>
+	</wordle>
+
 </wordles>

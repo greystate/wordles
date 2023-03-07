@@ -3522,4 +3522,26 @@
 		<try>annoy</try>
 	</quordle>
 
+	<quordle date="2023-03-07" number="417" scores="6 4 7 5" words="atoll sauce brook crawl">
+		<try>money</try>
+		<try>parts</try>
+		<try>budge</try>
+		<try>sauce</try>
+		<try>crawl</try>
+		<try>atoll</try>
+		<try>brook</try>
+	</quordle>
+
+	<quordle date="2023-03-08" number="418" scores="5 8 9 4" words="juice sprig faith penne">
+		<try>queen</try>
+		<try>never</try>
+		<try>point</try>
+		<try>penne</try>
+		<try>juice</try>
+		<try>rapid</try>
+		<try>tails</try>
+		<try>sprig</try>
+		<try>faith</try>
+	</quordle>
+
 </wordles>

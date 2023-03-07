@@ -2811,4 +2811,19 @@
 		<try>pinky</try>
 	</wordle>
 
+	<wordle date="2023-03-07" number="626" score="4" word="horse">
+		<try>sauce</try>
+		<try>piste</try>
+		<try>loose</try>
+		<try>horse</try>
+	</wordle>
+
+	<wordle date="2023-03-08" number="627" score="5" word="regal">
+		<try>drunk</try>
+		<try>alert</try>
+		<try>lares</try>
+		<try>relay</try>
+		<try>regal</try>
+	</wordle>
+
 </wordles>
