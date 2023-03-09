@@ -3544,4 +3544,16 @@
 		<try>faith</try>
 	</quordle>
 
+	<quordle date="2023-03-09" number="419" scores="3 5 7 9" words="molar marry optic droll">
+		<try>blank</try>
+		<try>power</try>
+		<try>molar</try>
+		<try>march</try>
+		<try>marry</try>
+		<try>scoop</try>
+		<try>optic</try>
+		<try>drool</try>
+		<try>droll</try>
+	</quordle>
+
 </wordles>

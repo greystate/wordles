@@ -2826,4 +2826,12 @@
 		<try>regal</try>
 	</wordle>
 
+	<wordle date="2023-03-09" number="628" score="5" word="where">
+		<try>farce</try>
+		<try>prune</try>
+		<try>store</try>
+		<try>libre</try>
+		<try>where</try>
+	</wordle>
+
 </wordles>
