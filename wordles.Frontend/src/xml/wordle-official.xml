@@ -2834,4 +2834,20 @@
 		<try>where</try>
 	</wordle>
 
+	<wordle date="2023-03-10" number="629" score="5" word="revel">
+		<try>phase</try>
+		<try>enjoy</try>
+		<try>miter</try>
+		<try>cruel</try>
+		<try>revel</try>
+	</wordle>
+
+	<wordle date="2023-03-11" number="630" score="5" word="email">
+		<try>sonar</try>
+		<try>cable</try>
+		<try>aleph</try>
+		<try>delta</try>
+		<try>email</try>
+	</wordle>
+
 </wordles>

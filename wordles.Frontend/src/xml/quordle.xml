@@ -3556,4 +3556,27 @@
 		<try>droll</try>
 	</quordle>
 
+	<quordle date="2023-03-10" number="420" scores="7 5 8 6" words="enjoy spoof nasty dealt">
+		<try>jumps</try>
+		<try>tiger</try>
+		<try>octal</try>
+		<try>stash</try>
+		<try>spoof</try>
+		<try>dealt</try>
+		<try>enjoy</try>
+		<try>nasty</try>
+	</quordle>
+
+	<quordle date="2023-03-11" number="421" scores="0 6 8 7" words="bevel sonar exile renew">
+		<try>piled</try>
+		<try>young</try>
+		<try>stile</try>
+		<try>while</try>
+		<try>raver</try>
+		<try>sonar</try>
+		<try>renew</try>
+		<try>exile</try>
+		<try>level</try>
+	</quordle>
+
 </wordles>

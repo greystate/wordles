@@ -2894,4 +2894,18 @@
 		<try>grisk</try>
 	</wordle>
 
+	<wordle date="2023-03-10" number="426" score="3" word="koala">
+		<try>polsk</try>
+		<try>lokke</try>
+		<try>koala</try>
+	</wordle>
+
+	<wordle date="2023-03-11" number="427" score="5" word="nasal">
+		<try>flyve</try>
+		<try>udlæg</try>
+		<try>skrål</try>
+		<try>basal</try>
+		<try>nasal</try>
+	</wordle>
+
 </wordles>
