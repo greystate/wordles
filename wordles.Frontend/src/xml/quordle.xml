@@ -3579,4 +3579,27 @@
 		<try>level</try>
 	</quordle>
 
+	<quordle date="2023-03-12" number="422" scores="7 4 8 6" words="tenor boule elope showy">
+		<try>black</try>
+		<try>white</try>
+		<try>young</try>
+		<try>boule</try>
+		<try>clove</try>
+		<try>showy</try>
+		<try>tenor</try>
+		<try>elope</try>
+	</quordle>
+
+	<quordle date="2023-03-13" number="423" scores="4 9 5 7" words="chock maxim loopy erode">
+		<try>spark</try>
+		<try>crime</try>
+		<try>clock</try>
+		<try>chock</try>
+		<try>loopy</try>
+		<try>drone</try>
+		<try>erode</try>
+		<try>umami</try>
+		<try>maxim</try>
+	</quordle>
+
 </wordles>

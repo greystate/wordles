@@ -2908,4 +2908,18 @@
 		<try>nasal</try>
 	</wordle>
 
+	<wordle date="2023-03-12" number="428" score="4" word="psyke">
+		<try>joker</try>
+		<try>kampe</try>
+		<try>påske</try>
+		<try>psyke</try>
+	</wordle>
+
+	<wordle date="2023-03-13" number="429" score="4" word="krimi">
+		<try>under</try>
+		<try>strøm</try>
+		<try>aroma</try>
+		<try>krimi</try>
+	</wordle>
+
 </wordles>
