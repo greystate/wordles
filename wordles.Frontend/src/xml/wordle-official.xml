@@ -2864,4 +2864,26 @@
 		<try>blame</try>
 	</wordle>
 
+	<wordle date="2023-03-14" number="633" score="4" word="surly">
+		<try>spade</try>
+		<try>slush</try>
+		<try>skull</try>
+		<try>surly</try>
+	</wordle>
+
+	<wordle date="2023-03-15" number="634" score="6" word="sweep">
+		<try>place</try>
+		<try>spend</try>
+		<try>sleep</try>
+		<try>steep</try>
+		<try>sheep</try>
+		<try>sweep</try>
+	</wordle>
+
+	<wordle date="2023-03-16" number="635" score="3" word="cider">
+		<try>grunt</try>
+		<try>rapid</try>
+		<try>cider</try>
+	</wordle>
+
 </wordles>

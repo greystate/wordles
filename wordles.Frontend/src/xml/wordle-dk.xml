@@ -2922,4 +2922,27 @@
 		<try>krimi</try>
 	</wordle>
 
+	<wordle date="2023-03-14" number="430" score="5" word="judas">
+		<try>kugle</try>
+		<try>musik</try>
+		<try>sutur</try>
+		<try>hunds</try>
+		<try>judas</try>
+	</wordle>
+
+	<wordle date="2023-03-15" number="431" score="5" word="hyæne">
+		<try>plast</try>
+		<try>medie</try>
+		<try>konge</try>
+		<try>hævne</try>
+		<try>hyæne</try>
+	</wordle>
+
+	<wordle date="2023-03-16" number="432" score="4" word="adler">
+		<try>penge</try>
+		<try>flest</try>
+		<try>daler</try>
+		<try>adler</try>
+	</wordle>
+
 </wordles>

@@ -3602,4 +3602,35 @@
 		<try>maxim</try>
 	</quordle>
 
+	<quordle date="2023-03-14" number="424" scores="3 5 4 8" words="satin scoff crash smirk">
+		<try>panic</try>
+		<try>cabin</try>
+		<try>satin</try>
+		<try>crash</try>
+		<try>scoff</try>
+		<try>sired</try>
+		<try>swirl</try>
+		<try>smirk</try>
+	</quordle>
+
+	<quordle date="2023-03-15" number="423" scores="4 5 7 6" words="since usurp radio sworn">
+		<try>place</try>
+		<try>tarps</try>
+		<try>mourn</try>
+		<try>since</try>
+		<try>usurp</try>
+		<try>sworn</try>
+		<try>radio</try>
+	</quordle>
+
+	<quordle date="2023-03-16" number="424" scores="2 7 6 5" words="grunt oddly unwed avoid">
+		<try>train</try>
+		<try>grunt</try>
+		<try>mania</try>
+		<try>plows</try>
+		<try>avoid</try>
+		<try>unwed</try>
+		<try>oddly</try>
+	</quordle>
+
 </wordles>
