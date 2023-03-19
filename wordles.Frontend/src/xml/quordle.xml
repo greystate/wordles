@@ -3633,4 +3633,37 @@
 		<try>oddly</try>
 	</quordle>
 
+	<quordle date="2023-03-17" number="425" scores="6 7 3 5" words="stuff debut force rupee">
+		<try>clock</try>
+		<try>tiger</try>
+		<try>force</try>
+		<try>unsee</try>
+		<try>rupee</try>
+		<try>stuff</try>
+		<try>debut</try>
+	</quordle>
+
+	<quordle date="2023-03-18" number="426" scores="6 4 5 8" words="clued stave crane empty">
+		<try>rings</try>
+		<try>power</try>
+		<try>talky</try>
+		<try>stave</try>
+		<try>crane</try>
+		<try>clued</try>
+		<try>petty</try>
+		<try>empty</try>
+	</quordle>
+
+	<quordle date="2023-03-19" number="427" scores="0 4 9 6" words="kneel cobra liner debug">
+		<try>grace</try>
+		<try>power</try>
+		<try>coral</try>
+		<try>cobra</try>
+		<try>dusty</try>
+		<try>debug</try>
+		<try>liver</try>
+		<try>liker</try>
+		<try>liner</try>
+	</quordle>
+
 </wordles>

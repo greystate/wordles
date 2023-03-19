@@ -2886,4 +2886,23 @@
 		<try>cider</try>
 	</wordle>
 
+	<wordle date="2023-03-17" number="636" score="4" word="mealy">
+		<try>never</try>
+		<try>metal</try>
+		<try>melba</try>
+		<try>mealy</try>
+	</wordle>
+
+	<wordle date="2023-03-18" number="637" score="3" word="yacht">
+		<try>crane</try>
+		<try>tacit</try>
+		<try>yacht</try>
+	</wordle>
+
+	<wordle date="2023-03-19" number="638" score="3" word="credo">
+		<try>place</try>
+		<try>cried</try>
+		<try>credo</try>
+	</wordle>
+
 </wordles>
