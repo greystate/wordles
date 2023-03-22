@@ -2967,4 +2967,26 @@
 		<try>øvrig</try>
 	</wordle>
 
+	<wordle date="2023-03-20" number="436" score="6" word="vrøvl">
+		<try>huske</try>
+		<try>front</try>
+		<try>prygl</try>
+		<try>crawl</try>
+		<try>vriml</try>
+		<try>vrøvl</try>
+	</wordle>
+
+	<wordle date="2023-03-21" number="437" score="4" word="serum">
+		<try>tørst</try>
+		<try>vores</try>
+		<try>skrue</try>
+		<try>serum</try>
+	</wordle>
+
+	<wordle date="2023-03-22" number="438" score="3" word="melon">
+		<try>skole</try>
+		<try>onkel</try>
+		<try>melon</try>
+	</wordle>
+
 </wordles>

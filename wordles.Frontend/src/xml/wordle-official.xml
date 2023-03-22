@@ -2905,4 +2905,26 @@
 		<try>credo</try>
 	</wordle>
 
+	<wordle date="2023-03-20" number="639" score="6" word="glove">
+		<try>quilt</try>
+		<try>lares</try>
+		<try>blend</try>
+		<try>elope</try>
+		<try>clove</try>
+		<try>glove</try>
+	</wordle>
+
+	<wordle date="2023-03-21" number="640" score="3" word="tough">
+		<try>sixth</try>
+		<try>batch</try>
+		<try>tough</try>
+	</wordle>
+
+	<wordle date="2023-03-22" number="641" score="4" word="duvet">
+		<try>young</try>
+		<try>umber</try>
+		<try>fused</try>
+		<try>duvet</try>
+	</wordle>
+
 </wordles>
