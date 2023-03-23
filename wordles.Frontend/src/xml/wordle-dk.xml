@@ -2989,4 +2989,13 @@
 		<try>melon</try>
 	</wordle>
 
+	<wordle date="2023-03-23" number="439" score="6" word="koøje">
+		<try>skole</try>
+		<try>konge</try>
+		<try>korte</try>
+		<try>komme</try>
+		<try>kokke</try>
+		<try>koøje</try>
+	</wordle>
+
 </wordles>

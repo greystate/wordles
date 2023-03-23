@@ -2927,4 +2927,11 @@
 		<try>duvet</try>
 	</wordle>
 
+	<wordle date="2023-03-23" number="642" score="4" word="staid">
+		<try>steam</try>
+		<try>stain</try>
+		<try>stair</try>
+		<try>staid</try>
+	</wordle>
+
 </wordles>
