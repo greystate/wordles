@@ -2934,4 +2934,19 @@
 		<try>staid</try>
 	</wordle>
 
+	<wordle date="2023-03-24" number="643" score="6" word="grout">
+		<try>bacon</try>
+		<try>power</try>
+		<try>broil</try>
+		<try>froth</try>
+		<try>trout</try>
+		<try>grout</try>
+	</wordle>
+
+	<wordle date="2023-03-25" number="644" score="3" word="voter">
+		<try>stone</try>
+		<try>tenor</try>
+		<try>voter</try>
+	</wordle>
+
 </wordles>

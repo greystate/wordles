@@ -2998,4 +2998,21 @@
 		<try>koøje</try>
 	</wordle>
 
+	<wordle date="2023-03-24" number="440" score="5" word="islæt">
+		<try>bacon</try>
+		<try>rense</try>
+		<try>stilk</try>
+		<try>blitz</try>
+		<try>islæt</try>
+	</wordle>
+
+	<wordle date="2023-03-25" number="441" score="6" word="ferie">
+		<try>møder</try>
+		<try>skare</try>
+		<try>rulle</try>
+		<try>grove</try>
+		<try>tærte</try>
+		<try>ferie</try>
+	</wordle>
+
 </wordles>
