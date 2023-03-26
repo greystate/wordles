@@ -3733,4 +3733,16 @@
 		<try>awoke</try>
 	</quordle>
 
+	<quordle date="2023-03-26" number="434" scores="9 2 7 0" words="await drove moral reedy">
+		<try>sewer</try>
+		<try>drove</try>
+		<try>flint</try>
+		<try>rough</try>
+		<try>lorry</try>
+		<try>coral</try>
+		<try>moral</try>
+		<try>reddy</try>
+		<try>await</try>
+	</quordle>
+
 </wordles>

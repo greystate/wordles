@@ -3015,4 +3015,10 @@
 		<try>ferie</try>
 	</wordle>
 
+	<wordle date="2023-03-26" number="442" score="3" word="vrede">
+		<try>bevis</try>
+		<try>evner</try>
+		<try>vrede</try>
+	</wordle>
+
 </wordles>
