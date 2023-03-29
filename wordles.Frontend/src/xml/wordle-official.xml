@@ -2956,4 +2956,25 @@
 		<try>untie</try>
 	</wordle>
 
+	<wordle date="2023-03-27" number="646" score="4" word="guano">
+		<try>place</try>
+		<try>stark</try>
+		<try>moany</try>
+		<try>guano</try>
+	</wordle>
+
+	<wordle date="2023-03-28" number="647" score="4" word="hurry">
+		<try>poker</try>
+		<try>trial</try>
+		<try>rushy</try>
+		<try>hurry</try>
+	</wordle>
+
+	<wordle date="2023-03-29" number="648" score="4" word="beset">
+		<try>trope</try>
+		<try>steak</try>
+		<try>bites</try>
+		<try>beset</try>
+	</wordle>
+
 </wordles>

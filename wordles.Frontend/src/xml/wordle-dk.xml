@@ -3021,4 +3021,26 @@
 		<try>vrede</try>
 	</wordle>
 
+	<wordle date="2023-03-27" number="443" score="4" word="uklar">
+		<try>stork</try>
+		<try>kravl</try>
+		<try>rakle</try>
+		<try>uklar</try>
+	</wordle>
+
+	<wordle date="2023-03-28" number="444" score="4" word="satin">
+		<try>linse</try>
+		<try>snild</try>
+		<try>skrin</try>
+		<try>satin</try>
+	</wordle>
+
+	<wordle date="2023-03-29" number="445" score="5" word="magma">
+		<try>drone</try>
+		<try>grøft</try>
+		<try>plags</try>
+		<try>afgiv</try>
+		<try>magma</try>
+	</wordle>
+
 </wordles>

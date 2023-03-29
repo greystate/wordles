@@ -3745,4 +3745,39 @@
 		<try>await</try>
 	</quordle>
 
+	<quordle date="2023-03-27" number="435" scores="4 6 7 8" words="ready revue below haste">
+		<try>blank</try>
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>ready</try>
+		<try>reuse</try>
+		<try>revue</try>
+		<try>below</try>
+		<try>haste</try>
+	</quordle>
+
+	<quordle date="2023-03-28" number="436" scores="9 7 6 5" words="sugar fibre ditty triad">
+		<try>point</try>
+		<try>tears</try>
+		<try>trial</try>
+		<try>ditto</try>
+		<try>triad</try>
+		<try>ditty</try>
+		<try>fibre</try>
+		<try>sonar</try>
+		<try>sugar</try>
+	</quordle>
+
+	<quordle date="2023-03-29" number="437" scores="2 5 8 7" words="moist brand faith admin">
+		<try>point</try>
+		<try>moist</try>
+		<try>blunt</try>
+		<try>triad</try>
+		<try>brand</try>
+		<try>waive</try>
+		<try>admin</try>
+		<try>faith</try>
+	</quordle>
+
+
 </wordles>
