@@ -3043,4 +3043,11 @@
 		<try>magma</try>
 	</wordle>
 
+	<wordle date="2023-03-30" number="446" score="4" word="kogle">
+		<try>kvast</try>
+		<try>kuber</try>
+		<try>konge</try>
+		<try>kogle</try>
+	</wordle>
+
 </wordles>

@@ -2977,4 +2977,14 @@
 		<try>beset</try>
 	</wordle>
 
+	<wordle date="2023-03-30" number="649" score="6" word="bread">
+		<try>tiger</try>
+		<try>realm</try>
+		<try>earns</try>
+		<try>opera</try>
+		<try>creak</try>
+		<try>bread</try>
+	</wordle>
+
+
 </wordles>

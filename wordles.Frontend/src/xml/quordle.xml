@@ -3779,5 +3779,16 @@
 		<try>faith</try>
 	</quordle>
 
+	<quordle date="2023-03-30" number="438" scores="7 4 8 6" words="alibi reach acrid quark">
+		<try>blank</try>
+		<try>spots</try>
+		<try>rhyme</try>
+		<try>reach</try>
+		<try>guide</try>
+		<try>quark</try>
+		<try>alibi</try>
+		<try>acrid</try>
+	</quordle>
+
 
 </wordles>
