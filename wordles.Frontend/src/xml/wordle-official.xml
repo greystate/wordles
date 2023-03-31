@@ -2986,5 +2986,13 @@
 		<try>bread</try>
 	</wordle>
 
+	<wordle date="2023-03-31" number="650" score="5" word="every">
+		<try>tubal</try>
+		<try>choir</try>
+		<try>press</try>
+		<try>reedy</try>
+		<try>every</try>
+	</wordle>
+
 
 </wordles>

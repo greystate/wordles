@@ -3050,4 +3050,11 @@
 		<try>kogle</try>
 	</wordle>
 
+	<wordle date="2023-03-31" number="447" score="4" word="isbod">
+		<try>krans</try>
+		<try>sovet</try>
+		<try>disko</try>
+		<try>isbod</try>
+	</wordle>
+
 </wordles>
