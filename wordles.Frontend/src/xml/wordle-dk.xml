@@ -3057,4 +3057,19 @@
 		<try>isbod</try>
 	</wordle>
 
+	<wordle date="2023-04-01" number="448" score="5" word="døsig">
+		<try>poste</try>
+		<try>anslå</try>
+		<try>visum</try>
+		<try>issyl</try>
+		<try>døsig</try>
+	</wordle>
+
+	<wordle date="2023-04-02" number="449" score="4" word="bingo">
+		<try>opera</try>
+		<try>stænk</try>
+		<try>bison</try>
+		<try>bingo</try>
+	</wordle>
+
 </wordles>

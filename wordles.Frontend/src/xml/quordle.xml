@@ -3802,5 +3802,28 @@
 		<try>tubal</try>
 	</quordle>
 
+	<quordle date="2023-04-01" number="440" scores="5 0 6 8" words="godly motor epoxy heart">
+		<try>eagle</try>
+		<try>opera</try>
+		<try>epoch</try>
+		<try>goals</try>
+		<try>godly</try>
+		<try>epoxy</try>
+		<try>heare</try>
+		<try>heart</try>
+		<try>rotor</try>
+	</quordle>
+
+	<quordle date="2023-04-02" number="441" scores="6 7 4 9" words="whose super shark fable">
+		<try>clock</try>
+		<try>spore</try>
+		<try>snark</try>
+		<try>shark</try>
+		<try>those</try>
+		<try>whose</try>
+		<try>super</try>
+		<try>blame</try>
+		<try>fable</try>
+	</quordle>
 
 </wordles>

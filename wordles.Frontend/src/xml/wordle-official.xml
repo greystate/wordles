@@ -2994,5 +2994,18 @@
 		<try>every</try>
 	</wordle>
 
+	<wordle date="2023-04-01" number="651" score="4" word="march">
+		<try>world</try>
+		<try>strip</try>
+		<try>merge</try>
+		<try>march</try>
+	</wordle>
+
+	<wordle date="2023-04-02" number="652" score="4" word="stock">
+		<try>bland</try>
+		<try>power</try>
+		<try>couch</try>
+		<try>stock</try>
+	</wordle>
 
 </wordles>
