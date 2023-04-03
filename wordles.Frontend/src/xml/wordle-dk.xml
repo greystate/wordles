@@ -3072,4 +3072,11 @@
 		<try>bingo</try>
 	</wordle>
 
+	<wordle date="2023-04-03" number="450" score="4" word="dildo">
+		<try>fiske</try>
+		<try>divan</try>
+		<try>ditto</try>
+		<try>dildo</try>
+	</wordle>
+
 </wordles>

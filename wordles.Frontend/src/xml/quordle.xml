@@ -3826,4 +3826,14 @@
 		<try>fable</try>
 	</quordle>
 
+	<quordle date="2023-04-03" number="442" scores="5 7 6 4" words="turbo whole light sprig">
+		<try>plain</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>sprig</try>
+		<try>turbo</try>
+		<try>light</try>
+		<try>whole</try>
+	</quordle>
+
 </wordles>

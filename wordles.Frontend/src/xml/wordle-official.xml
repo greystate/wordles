@@ -3008,4 +3008,11 @@
 		<try>stock</try>
 	</wordle>
 
+	<wordle date="2023-04-03" number="653" score="4" word="flora">
+		<try>scour</try>
+		<try>probe</try>
+		<try>glory</try>
+		<try>flora</try>
+	</wordle>
+
 </wordles>
