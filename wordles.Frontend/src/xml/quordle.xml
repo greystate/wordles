@@ -3836,4 +3836,16 @@
 		<try>whole</try>
 	</quordle>
 
+	<quordle date="2023-04-04" number="443" scores="6 8 9 5" words="ounce whine frock posit">
+		<try>ethic</try>
+		<try>dumpy</try>
+		<try>grass</try>
+		<try>split</try>
+		<try>posit</try>
+		<try>ounce</try>
+		<try>crock</try>
+		<try>whine</try>
+		<try>frock</try>
+	</quordle>
+
 </wordles>

@@ -3015,4 +3015,12 @@
 		<try>flora</try>
 	</wordle>
 
+	<wordle date="2023-04-04" number="654" score="5" word="ratio">
+		<try>steak</try>
+		<try>tramp</try>
+		<try>ultra</try>
+		<try>actor</try>
+		<try>ratio</try>
+	</wordle>
+
 </wordles>
