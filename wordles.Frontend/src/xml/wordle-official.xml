@@ -3023,4 +3023,9 @@
 		<try>ratio</try>
 	</wordle>
 
+	<wordle date="2023-04-05" number="655" score="2" word="smash">
+		<try>marks</try>
+		<try>smash</try>
+	</wordle>
+
 </wordles>

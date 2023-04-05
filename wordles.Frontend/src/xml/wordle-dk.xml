@@ -3087,4 +3087,12 @@
 		<try>vugge</try>
 	</wordle>
 
+	<wordle date="2023-04-05" number="452" score="5" word="tælle">
+		<try>blade</try>
+		<try>rulle</try>
+		<try>mølle</try>
+		<try>pille</try>
+		<try>tælle</try>
+	</wordle>
+
 </wordles>

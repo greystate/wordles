@@ -3848,4 +3848,16 @@
 		<try>frock</try>
 	</quordle>
 
+	<quordle date="2023-04-05" number="444" scores="0 7 9 3" words="skull polar spree those">
+		<try>horse</try>
+		<try>chose</try>
+		<try>those</try>
+		<try>serve</try>
+		<try>siree</try>
+		<try>roman</try>
+		<try>polar</try>
+		<try>slyly</try>
+		<try>spree</try>
+	</quordle>
+
 </wordles>
