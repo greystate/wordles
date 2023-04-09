@@ -3095,4 +3095,36 @@
 		<try>tælle</try>
 	</wordle>
 
+	<wordle date="2023-04-06" number="453" score="6" word="komik">
+		<try>opera</try>
+		<try>trods</try>
+		<try>mango</try>
+		<try>ombud</try>
+		<try>komma</try>
+		<try>komik</try>
+	</wordle>
+
+	<wordle date="2023-04-07" number="454" score="6" word="salig">
+		<try>stavn</try>
+		<try>samle</try>
+		<try>salær</try>
+		<try>saldo</try>
+		<try>salsa</try>
+		<try>salig</try>
+	</wordle>
+
+	<wordle date="2023-04-08" number="455" score="4" word="basun">
+		<try>drink</try>
+		<try>navle</try>
+		<try>kanon</try>
+		<try>basun</try>
+	</wordle>
+
+	<wordle date="2023-04-09" number="456" score="4" word="lysår">
+		<try>opera</try>
+		<try>favør</try>
+		<try>udgår</try>
+		<try>lysår</try>
+	</wordle>
+
 </wordles>

@@ -3860,4 +3860,48 @@
 		<try>spree</try>
 	</quordle>
 
+	<quordle date="2023-04-06" number="445" scores="8 7 0 6" words="covey break awash stalk">
+		<try>drums</try>
+		<try>octal</try>
+		<try>salty</try>
+		<try>slate</try>
+		<try>coney</try>
+		<try>stalk</try>
+		<try>break</try>
+		<try>covey</try>
+		<try>flags</try>
+	</quordle>
+
+
+	<quordle date="2023-04-07" number="446" scores="7 6 8 4" words="rivet visor cease afoot">
+		<try>power</try>
+		<try>start</try>
+		<try>flung</try>
+		<try>afoot</try>
+		<try>misty</try>
+		<try>visor</try>
+		<try>rivet</try>
+		<try>cease</try>
+	</quordle>
+
+	<quordle date="2023-04-08" number="447" scores="4 5 6 7" words="cruel livid spied blend">
+		<try>panel</try>
+		<try>clown</try>
+		<try>drive</try>
+		<try>cruel</try>
+		<try>livid</try>
+		<try>spied</try>
+		<try>blend</try>
+	</quordle>
+
+	<quordle date="2023-04-09" number="448" scores="6 7 4 5" words="verge camel putty grass">
+		<try>train</try>
+		<try>brave</try>
+		<try>dumpy</try>
+		<try>putty</try>
+		<try>grass</try>
+		<try>verge</try>
+		<try>camel</try>
+	</quordle>
+
 </wordles>

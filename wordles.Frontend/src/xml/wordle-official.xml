@@ -3028,4 +3028,33 @@
 		<try>smash</try>
 	</wordle>
 
+	<wordle date="2023-04-06" number="656" score="3" word="leafy">
+		<try>youth</try>
+		<try>teary</try><!-- Not 100% -->
+		<try>leafy</try>
+	</wordle>
+
+	<wordle date="2023-04-07" number="657" score="5" word="locus">
+		<try>power</try>
+		<try>youth</try>
+		<try>mogul</try>
+		<try>solus</try>
+		<try>locus</try>
+	</wordle>
+
+	<wordle date="2023-04-08" number="658" score="4" word="ledge">
+		<try>trial</try>
+		<try>lunge</try>
+		<try>lodge</try>
+		<try>ledge</try>
+	</wordle>
+
+	<wordle date="2023-04-09" number="659" score="5" word="snafu">
+		<try>smart</try>
+		<try>slack</try>
+		<try>shave</try>
+		<try>spawn</try>
+		<try>snafu</try>
+	</wordle>
+
 </wordles>
