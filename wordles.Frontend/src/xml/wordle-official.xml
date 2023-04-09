@@ -3057,4 +3057,12 @@
 		<try>snafu</try>
 	</wordle>
 
+	<wordle date="2023-04-10" number="660" score="5" word="under">
+		<try>foley</try>
+		<try>tried</try>
+		<try>darer</try>
+		<try>seder</try>
+		<try>under</try>
+	</wordle>
+
 </wordles>

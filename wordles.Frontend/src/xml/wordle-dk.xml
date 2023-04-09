@@ -3127,4 +3127,10 @@
 		<try>lysår</try>
 	</wordle>
 
+	<wordle date="2023-04-10" number="457" score="3" word="knold">
+		<try>plast</try>
+		<try>lider</try>
+		<try>knold</try>
+	</wordle>
+
 </wordles>
