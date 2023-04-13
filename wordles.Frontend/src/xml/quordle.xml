@@ -3914,4 +3914,37 @@
 		<try>chess</try>
 	</quordle>
 
+	<quordle date="2023-04-11" number="450" scores="0 6 9 7" words="chime drain whose boxer">
+		<try>slink</try>
+		<try>opera</try>
+		<try>twain</try>
+		<try>brain</try>
+		<try>bored</try>
+		<try>drain</try>
+		<try>boxer</try>
+		<try>meows</try>
+		<try>whose</try>
+	</quordle>
+
+	<quordle date="2023-04-12" number="451" scores="4 5 8 7" words="incur drunk coven there">
+		<try>coral</try>
+		<try>dumpy</try>
+		<try>sting</try>
+		<try>incur</try>
+		<try>drunk</try>
+		<try>heart</try>
+		<try>there</try>
+		<try>coven</try>
+	</quordle>
+
+	<quordle date="2023-04-13" number="452" scores="4 7 5 6" words="delve pixel minor cloak">
+		<try>beast</try>
+		<try>dumpy</try>
+		<try>hinge</try>
+		<try>delve</try>
+		<try>minor</try>
+		<try>cloak</try>
+		<try>pixel</try>
+	</quordle>
+
 </wordles>

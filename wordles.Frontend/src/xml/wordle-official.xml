@@ -3065,4 +3065,26 @@
 		<try>under</try>
 	</wordle>
 
+	<wordle date="2023-04-11" number="661" score="4" word="qualm">
+		<try>dream</try>
+		<try>alarm</try>
+		<try>psalm</try>
+		<try>qualm</try>
+	</wordle>
+
+	<wordle date="2023-04-12" number="662" score="6" word="borax">
+		<try>wreck</try>
+		<try>roman</try>
+		<try>coral</try>
+		<try>foray</try>
+		<try>torah</try>
+		<try>borax</try>
+	</wordle>
+
+	<wordle date="2023-04-13" number="663" score="3" word="carat">
+		<try>cloak</try>
+		<try>cream</try>
+		<try>carat</try>
+	</wordle>
+
 </wordles>

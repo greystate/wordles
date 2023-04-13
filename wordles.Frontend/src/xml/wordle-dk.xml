@@ -3133,4 +3133,28 @@
 		<try>knold</try>
 	</wordle>
 
+	<wordle date="2023-04-11" number="458" score="5" word="intro">
+		<try>spand</try>
+		<try>nedre</try>
+		<try>bjørn</try>
+		<try>knirk</try>
+		<try>intro</try>
+	</wordle>
+
+	<wordle date="2023-04-12" number="459" score="5" word="dæmon">
+		<try>opera</try>
+		<try>tolks</try>
+		<try>udtog</try>
+		<try>mødom</try>
+		<try>dæmon</try>
+	</wordle>
+
+	<wordle date="2023-04-13" number="460" score="4" word="vemod">
+		<try>store</try>
+		<try>poden</try>
+		<try>omend</try>
+		<try>vemod</try>
+	</wordle>
+
+
 </wordles>
