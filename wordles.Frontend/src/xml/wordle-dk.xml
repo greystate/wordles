@@ -3156,5 +3156,11 @@
 		<try>vemod</try>
 	</wordle>
 
+	<wordle date="2023-04-14" number="461" score="4" word="tænde">
+		<try>tragt</try>
+		<try>tømme</try>
+		<try>tudse</try>
+		<try>tænde</try>
+	</wordle>
 
 </wordles>

@@ -3087,4 +3087,10 @@
 		<try>carat</try>
 	</wordle>
 
+	<wordle date="2023-04-14" number="664" score="3" word="thief">
+		<try>power</try>
+		<try>timed</try>
+		<try>thief</try>
+	</wordle>
+
 </wordles>
