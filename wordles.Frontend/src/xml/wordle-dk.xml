@@ -3163,4 +3163,12 @@
 		<try>tænde</try>
 	</wordle>
 
+	<wordle date="2023-04-15" number="462" score="5" word="kolbe">
+		<try>spade</try>
+		<try>træne</try>
+		<try>kjole</try>
+		<try>kloge</try>
+		<try>kolbe</try>
+	</wordle>
+
 </wordles>

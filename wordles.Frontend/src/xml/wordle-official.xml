@@ -3093,4 +3093,11 @@
 		<try>thief</try>
 	</wordle>
 
+	<wordle date="2023-04-15" number="665" score="4" word="agony">
+		<try>trial</try>
+		<try>spade</try>
+		<try>bacon</try>
+		<try>agony</try>
+	</wordle>
+
 </wordles>
