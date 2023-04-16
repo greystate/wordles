@@ -3970,4 +3970,15 @@
 		<try>false</try>
 	</quordle>
 
+	<quordle date="2023-04-46" number="456" scores="5 3 8 6" words="slate bench quash foggy">
+		<try>beast</try>
+		<try>stare</try>
+		<try>bench</try>
+		<try>flash</try>
+		<try>slate</try>
+		<try>foggy</try>
+		<try>awash</try>
+		<try>quash</try>
+	</quordle>
+
 </wordles>

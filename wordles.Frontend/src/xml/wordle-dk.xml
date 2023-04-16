@@ -3171,4 +3171,11 @@
 		<try>kolbe</try>
 	</wordle>
 
+	<wordle date="2023-04-16" number="463" score="4" word="salut">
+		<try>kanel</try>
+		<try>salto</try>
+		<try>salat</try>
+		<try>salut</try>
+	</wordle>
+
 </wordles>

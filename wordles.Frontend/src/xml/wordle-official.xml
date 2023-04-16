@@ -3100,4 +3100,10 @@
 		<try>agony</try>
 	</wordle>
 
+	<wordle date="2023-04-16" number="666" score="3" word="dwelt">
+		<try>weary</try>
+		<try>towed</try>
+		<try>dwelt</try>
+	</wordle>
+
 </wordles>
