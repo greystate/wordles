@@ -3178,4 +3178,10 @@
 		<try>salut</try>
 	</wordle>
 
+	<wordle date="2023-04-17" number="464" score="3" word="lokum">
+		<try>opera</try>
+		<try>konti</try>
+		<try>lokum</try>
+	</wordle>
+
 </wordles>

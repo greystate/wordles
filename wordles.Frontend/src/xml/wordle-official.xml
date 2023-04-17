@@ -3106,4 +3106,12 @@
 		<try>dwelt</try>
 	</wordle>
 
+	<wordle date="2023-04-17" number="667" score="5" word="whiff">
+		<try>trunk</try>
+		<try>gleam</try>
+		<try>showy</try>
+		<try>which</try>
+		<try>whiff</try>
+	</wordle>
+
 </wordles>

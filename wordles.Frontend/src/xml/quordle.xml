@@ -3970,7 +3970,7 @@
 		<try>false</try>
 	</quordle>
 
-	<quordle date="2023-04-46" number="456" scores="5 3 8 6" words="slate bench quash foggy">
+	<quordle date="2023-04-16" number="456" scores="5 3 8 6" words="slate bench quash foggy">
 		<try>beast</try>
 		<try>stare</try>
 		<try>bench</try>
@@ -3979,6 +3979,16 @@
 		<try>foggy</try>
 		<try>awash</try>
 		<try>quash</try>
+	</quordle>
+
+	<quordle date="2023-04-17" number="457" scores="7 6 3 4" words="assay slant nadir denim">
+		<try>ready</try>
+		<try>inlay</try>
+		<try>nadir</try>
+		<try>denim</try>
+		<try>plant</try>
+		<try>slant</try>
+		<try>assay</try>
 	</quordle>
 
 </wordles>
