@@ -3184,4 +3184,19 @@
 		<try>lokum</try>
 	</wordle>
 
+	<wordle date="2023-04-18" number="465" score="5" word="kløft">
+		<try>torso</try>
+		<try>stank</try>
+		<try>kutte</try>
+		<try>kahyt</try>
+		<try>kløft</try>
+	</wordle>
+
+	<wordle date="2023-04-19" number="466" score="4" word="husly">
+		<try>opera</try>
+		<try>studs</try>
+		<try>luske</try>
+		<try>husly</try>
+	</wordle>
+
 </wordles>

@@ -3991,4 +3991,25 @@
 		<try>assay</try>
 	</quordle>
 
+	<quordle date="2023-04-18" number="458" scores="4 5 8 6" words="molar probe drier borne">
+		<try>fable</try>
+		<try>slack</try>
+		<try>power</try>
+		<try>molar</try>
+		<try>probe</try>
+		<try>borne</try>
+		<try>dryer</try>
+		<try>drier</try>
+	</quordle>
+
+	<quordle date="2023-04-19" number="459" scores="4 5 7 6" words="purge opine lilac cheap">
+		<try>queen</try>
+		<try>roman</try>
+		<try>pithy</try>
+		<try>purge</try>
+		<try>opine</try>
+		<try>cheap</try>
+		<try>lilac</try>
+	</quordle>
+
 </wordles>

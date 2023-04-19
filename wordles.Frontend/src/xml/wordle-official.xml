@@ -3114,4 +3114,15 @@
 		<try>whiff</try>
 	</wordle>
 
+	<wordle date="2023-04-18" number="668" score="3" word="hound">
+		<try>fable</try>
+		<try>pouch</try>
+		<try>hound</try>
+	</wordle>
+
+	<wordle date="2023-04-19" number="669" score="2" word="thump">
+		<try>cheap</try>
+		<try>thump</try>
+	</wordle>
+
 </wordles>
