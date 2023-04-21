@@ -3199,4 +3199,17 @@
 		<try>husly</try>
 	</wordle>
 
+	<wordle date="2023-04-20" number="467" score="3" word="dvale">
+		<try>skidt</try>
+		<try>drage</try>
+		<try>dvale</try>
+	</wordle>
+
+	<wordle date="2023-04-21" number="468" score="4" word="altan">
+		<try>gjort</try>
+		<try>taske</try>
+		<try>altid</try>
+		<try>altan</try>
+	</wordle>
+
 </wordles>

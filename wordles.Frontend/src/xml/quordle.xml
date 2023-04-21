@@ -4012,4 +4012,26 @@
 		<try>lilac</try>
 	</quordle>
 
+	<quordle date="2023-04-20" number="460" scores="8 6 5 4" words="jelly prong globe bloom">
+		<try>shade</try>
+		<try>power</try>
+		<try>proof</try>
+		<try>bloom</try>
+		<try>globe</try>
+		<try>prong</try>
+		<try>telly</try>
+		<try>jelly</try>
+	</quordle>
+
+	<quordle date="2023-04-21" number="461" scores="4 5 6 8" words="warty sever knave pubic">
+		<try>swell</try>
+		<try>twiny</try>
+		<try>spare</try>
+		<try>warty</try>
+		<try>sever</try>
+		<try>knave</try>
+		<try>hippo</try>
+		<try>pubic</try>
+	</quordle>
+
 </wordles>

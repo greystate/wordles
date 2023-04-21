@@ -3125,4 +3125,18 @@
 		<try>thump</try>
 	</wordle>
 
+	<wordle date="2023-04-20" number="670" score="3" word="plate">
+		<try>trash</try>
+		<try>plant</try>
+		<try>plate</try>
+	</wordle>
+
+	<wordle date="2023-04-21" number="671" score="5" word="kayak">
+		<try>jeans</try>
+		<try>abort</try>
+		<try>palmy</try>
+		<try>yacht</try>
+		<try>kayak</try>
+	</wordle>
+
 </wordles>
