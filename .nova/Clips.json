@@ -6,7 +6,7 @@
       "trigger" : "wordle"
     },
     {
-      "content" : "<quordle date=\"2023-04-${:12}\" number=\"${:400}\" scores=\"${:6} ${:7} ${:8} ${:9}\" words=\"\">\n\t${:word}\n<\/quordle>\n",
+      "content" : "<quordle date=\"2023-04-${1:12}\" number=\"${6:400}\" scores=\"${2:6} ${3:7} ${4:8} ${5:9}\" words=\"\">\n\t${7:word}\n<\/quordle>\n",
       "name" : "Quordle",
       "trigger" : "wordle"
     }
