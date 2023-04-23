@@ -3212,4 +3212,20 @@
 		<try>altan</try>
 	</wordle>
 
+	<wordle date="2023-04-22" number="469" score="5" word="torsk">
+		<try>opera</try>
+		<try>rolig</try>
+		<try>formå</try>
+		<try>torso</try>
+		<try>torsk</try>
+	</wordle>
+
+	<wordle date="2023-04-23" number="470" score="5" word="støbe">
+		<try>skarp</try>
+		<try>solen</try>
+		<try>stime</try>
+		<try>støde</try>
+		<try>støbe</try>
+	</wordle>
+
 </wordles>

@@ -3139,4 +3139,18 @@
 		<try>kayak</try>
 	</wordle>
 
+	<wordle date="2023-04-22" number="672" score="4" word="broke">
+		<try>timer</try>
+		<try>reads</try>
+		<try>grove</try>
+		<try>broke</try>
+	</wordle>
+
+	<wordle date="2023-04-23" number="673" score="4" word="unzip">
+		<try>bland</try>
+		<try>unify</try>
+		<try>untie</try>
+		<try>unzip</try>
+	</wordle>
+
 </wordles>
