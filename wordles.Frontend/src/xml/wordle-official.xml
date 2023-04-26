@@ -3160,4 +3160,18 @@
 		<try>ditto</try>
 	</wordle>
 
+	<wordle date="2023-04-25" number="675" score="6" word="joker">
+		<try>plays</try>
+		<try>chino</try>
+		<try>overt</try>
+		<try>rover</try>
+		<try>boxer</try>
+		<try>joker</try>
+	</wordle>
+
+	<wordle date="2023-04-26" number="676" score="2" word="metro">
+		<try>route</try>
+		<try>metro</try>
+	</wordle>
+
 </wordles>

@@ -4068,4 +4068,28 @@
 		<try>young</try>
 	</quordle>
 
+	<quordle date="2023-04-25" number="465" scores="5 7 6 9" words="chest shrub credo below">
+		<try>stare</try>
+		<try>phony</try>
+		<try>shrug</try>
+		<try>whets</try>
+		<try>chest</try>
+		<try>credo</try>
+		<try>shrub</try>
+		<try>bowel</try>
+		<try>below</try>
+	</quordle>
+
+	<quordle date="2023-04-26" number="466" scores="4 5 9 7" words="parka spiny bushy chair">
+		<try>strap</try>
+		<try>dumpy</try>
+		<try>opera</try>
+		<try>parka</try>
+		<try>spiny</try>
+		<try>hussy</try>
+		<try>chair</try>
+		<try>lushy</try>
+		<try>bushy</try>
+	</quordle>
+
 </wordles>

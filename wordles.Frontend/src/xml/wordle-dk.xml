@@ -3236,4 +3236,16 @@
 		<try>råkid</try>
 	</wordle>
 
+	<wordle date="2023-04-25" number="472" score="3" word="motto">
+		<try>faste</try>
+		<try>konto</try>
+		<try>motto</try>
+	</wordle>
+
+	<wordle date="2023-04-26" number="473" score="3" word="ledig">
+		<try>frost</try>
+		<try>andel</try>
+		<try>ledig</try>
+	</wordle>
+
 </wordles>
