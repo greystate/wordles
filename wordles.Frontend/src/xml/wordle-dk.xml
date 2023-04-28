@@ -3248,4 +3248,19 @@
 		<try>ledig</try>
 	</wordle>
 
+	<wordle date="2023-04-27" number="474" score="3" word="knage">
+		<try>under</try>
+		<try>snegl</try>
+		<try>knage</try>
+	</wordle>
+
+	<wordle date="2023-04-28" number="475" score="6" word="humus">
+		<try>vidst</try>
+		<try>sørge</try>
+		<try>anslå</try>
+		<try>kokos</try>
+		<try>bybus</try>
+		<try>humus</try>
+	</wordle>
+
 </wordles>

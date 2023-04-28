@@ -3174,4 +3174,18 @@
 		<try>metro</try>
 	</wordle>
 
+	<wordle date="2023-04-27" number="677" score="3" word="logic">
+		<try>clang</try>
+		<try>gulch</try>
+		<try>logic</try>
+	</wordle>
+
+	<wordle date="2023-04-28" number="678" score="5" word="circa">
+		<try>flash</try>
+		<try>tread</try>
+		<try>moira</try>
+		<try>varia</try>
+		<try>circa</try>
+	</wordle>
+
 </wordles>
