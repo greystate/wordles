@@ -3263,4 +3263,12 @@
 		<try>humus</try>
 	</wordle>
 
+	<wordle date="2023-04-29" number="476" score="5" word="dusør">
+		<try>lejre</try>
+		<try>ravns</try>
+		<try>sprog</try>
+		<try>træsk</try>
+		<try>dusør</try>
+	</wordle>
+
 </wordles>

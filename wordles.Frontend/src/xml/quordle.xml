@@ -4112,4 +4112,15 @@
 		<try>sleek</try>
 	</quordle>
 
+	<quordle date="2023-04-29" number="469" scores="4 7 5 8" words="scour blush whine elide">
+		<try>spark</try>
+		<try>minty</try>
+		<try>drown</try>
+		<try>scour</try>
+		<try>whine</try>
+		<try>glide</try>
+		<try>blush</try>
+		<try>elide</try>
+	</quordle>
+
 </wordles>

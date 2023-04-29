@@ -3188,4 +3188,11 @@
 		<try>circa</try>
 	</wordle>
 
+	<wordle date="2023-04-29" number="679" score="4" word="cedar">
+		<try>flush</try>
+		<try>tread</try>
+		<try>debar</try>
+		<try>cedar</try>
+	</wordle>
+
 </wordles>
