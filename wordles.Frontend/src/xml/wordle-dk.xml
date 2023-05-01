@@ -3271,4 +3271,17 @@
 		<try>dusør</try>
 	</wordle>
 
+	<wordle date="2023-04-30" number="477" score="3" word="latin">
+		<try>opera</try>
+		<try>sandt</try>
+		<try>latin</try>
+	</wordle>
+
+	<wordle date="2023-05-01" number="478" score="4" word="tatar">
+		<try>larme</try>
+		<try>rankt</try>
+		<try>tapir</try>
+		<try>tatar</try>
+	</wordle>
+
 </wordles>

@@ -3195,4 +3195,17 @@
 		<try>cedar</try>
 	</wordle>
 
+	<wordle date="2023-04-30" number="680" score="4" word="plaza">
+		<try>heard</try>
+		<try>plant</try>
+		<try>plays</try>
+		<try>plaza</try>
+	</wordle>
+
+	<wordle date="2023-05-01" number="681" score="3" word="range">
+		<try>great</try>
+		<try>large</try>
+		<try>range</try>
+	</wordle>
+
 </wordles>
