@@ -4146,4 +4146,49 @@
 		<try>alike</try>
 	</quordle>
 
+	<quordle date="2023-05-02" number="472" scores="9 7 5 0" words="cross moult stain tatty">
+		<try>speed</try>
+		<try>farcy</try>
+		<try>scrub</try>
+		<try>towns</try>
+		<try>stain</try>
+		<try>tally</try>
+		<try>moult</try>
+		<try>taggy</try>
+		<try>cross</try>
+	</quordle>
+
+	<quordle date="2023-05-03" number="473" scores="5 6 7 8" words="godly lager steel growl">
+		<try>tooth</try>
+		<try>power</try>
+		<try>dummy</try>
+		<try>sails</try>
+		<try>godly</try>
+		<try>lager</try>
+		<try>steel</try>
+		<try>growl</try>
+	</quordle>
+
+	<quordle date="2023-05-04" number="474" scores="7 5 8 6" words="baler scorn fetid paste">
+		<try>under</try>
+		<try>power</try>
+		<try>might</try>
+		<try>slyly</try>
+		<try>scorn</try>
+		<try>paste</try>
+		<try>baler</try>
+		<try>fetid</try>
+	</quordle>
+
+	<quordle date="2023-05-05" number="475" scores="7 8 6 4" words="limbo revue totem elbow">
+		<try>steak</try>
+		<try>power</try>
+		<try>below</try>
+		<try>elbow</try>
+		<try>munch</try>
+		<try>totem</try>
+		<try>limbo</try>
+		<try>revue</try>
+	</quordle>
+
 </wordles>

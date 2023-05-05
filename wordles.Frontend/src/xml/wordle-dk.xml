@@ -3284,4 +3284,34 @@
 		<try>tatar</try>
 	</wordle>
 
+	<wordle date="2023-05-02" number="479" score="3" word="solgt">
+		<try>opera</try>
+		<try>tolks</try>
+		<try>solgt</try>
+	</wordle>
+
+	<wordle date="2023-05-03" number="480" score="5" word="røræg">
+		<try>sekst</try>
+		<try>alpin</try>
+		<try>mødre</try>
+		<try>bøger</try>
+		<try>røræg</try>
+	</wordle>
+
+	<wordle date="2023-05-04" number="481" score="5" word="lager">
+		<try>stævn</try>
+		<try>opera</try>
+		<try>larme</try>
+		<try>lader</try>
+		<try>lager</try>
+	</wordle>
+
+	<wordle date="2023-05-05" number="482" score="5" word="klovn">
+		<try>musik</try>
+		<try>kahyt</try>
+		<try>kører</try>
+		<try>knold</try>
+		<try>klovn</try>
+	</wordle>
+
 </wordles>

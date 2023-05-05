@@ -3208,4 +3208,32 @@
 		<try>range</try>
 	</wordle>
 
+	<wordle date="2023-05-02" number="682" score="4" word="sulky">
+		<try>loops</try>
+		<try>slate</try>
+		<try>skull</try>
+		<try>sulky</try>
+	</wordle>
+
+	<wordle date="2023-05-03" number="683" score="3" word="horde">
+		<try>quest</try>
+		<try>drape</try>
+		<try>horde</try>
+	</wordle>
+
+	<wordle date="2023-05-04" number="684" score="4" word="guppy">
+		<try>brave</try>
+		<try>pinky</try>
+		<try>loopy</try>
+		<try>guppy</try>
+	</wordle>
+
+	<wordle date="2023-05-05" number="685" score="5" word="below">
+		<try>stump</try>
+		<try>break</try>
+		<try>bendy</try>
+		<try>bevel</try>
+		<try>below</try>
+	</wordle>
+
 </wordles>
