@@ -3236,4 +3236,18 @@
 		<try>below</try>
 	</wordle>
 
+	<wordle date="2023-05-06" number="686" score="4" word="anger">
+		<try>erase</try>
+		<try>blear</try>
+		<try>pager</try>
+		<try>anger</try>
+	</wordle>
+
+	<wordle date="2023-05-07" number="687" score="4" word="ghoul">
+		<try>break</try>
+		<try>young</try>
+		<try>mogul</try>
+		<try>ghoul</try>
+	</wordle>
+
 </wordles>

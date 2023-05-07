@@ -3314,4 +3314,19 @@
 		<try>klovn</try>
 	</wordle>
 
+	<wordle date="2023-05-06" number="483" score="4" word="hulke">
+		<try>opera</try>
+		<try>elske</try>
+		<try>kælke</try>
+		<try>hulke</try>
+	</wordle>
+
+	<wordle date="2023-05-07" number="484" score="5" word="dulme">
+		<try>opera</try>
+		<try>dyste</try>
+		<try>dænge</try>
+		<try>dømme</try>
+		<try>dulme</try>
+	</wordle>
+
 </wordles>

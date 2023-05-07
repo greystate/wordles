@@ -4191,4 +4191,26 @@
 		<try>revue</try>
 	</quordle>
 
+	<quordle date="2023-05-06" number="476" scores="4 9 5 6" words="scald tabby style tease">
+		<try>crazy</try>
+		<try>place</try>
+		<try>stage</try>
+		<try>scald</try>
+		<try>style</try>
+		<try>tease</try>
+		<try>tawny</try>
+		<try>tatty</try>
+		<try>tabby</try>
+	</quordle>
+
+	<quordle date="2023-05-07" number="477" scores="7 5 4 6" words="tooth skulk brisk slosh">
+		<try>jacks</try>
+		<try>super</try>
+		<try>snowy</try>
+		<try>brisk</try>
+		<try>skulk</try>
+		<try>slosh</try>
+		<try>tooth</try>
+	</quordle>
+
 </wordles>
