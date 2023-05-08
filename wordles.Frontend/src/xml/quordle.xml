@@ -4213,4 +4213,15 @@
 		<try>tooth</try>
 	</quordle>
 
+	<quordle date="2023-05-08" number="478" scores="7 8 5 6" words="pushy gripe bloat asset">
+		<try>moped</try>
+		<try>spool</try>
+		<try>bungy</try>
+		<try>block</try>
+		<try>bloat</try>
+		<try>asset</try>
+		<try>pushy</try>
+		<try>gripe</try>
+	</quordle>
+
 </wordles>

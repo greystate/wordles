@@ -3250,4 +3250,11 @@
 		<try>ghoul</try>
 	</wordle>
 
+	<wordle date="2023-05-08" number="688" score="4" word="aglow">
+		<try>wears</try>
+		<try>macaw</try>
+		<try>allow</try>
+		<try>aglow</try>
+	</wordle>
+
 </wordles>

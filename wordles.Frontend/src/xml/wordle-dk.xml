@@ -3329,4 +3329,11 @@
 		<try>dulme</try>
 	</wordle>
 
+	<wordle date="2023-05-08" number="485" score="4" word="tarif">
+		<try>plade</try>
+		<try>antik</try>
+		<try>facit</try>
+		<try>tarif</try>
+	</wordle>
+
 </wordles>
