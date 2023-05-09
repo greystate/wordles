@@ -4224,4 +4224,14 @@
 		<try>gripe</try>
 	</quordle>
 
+	<quordle date="2023-05-09" number="479" scores="6 5 4 7" words="prose munch pivot condo">
+		<try>perch</try>
+		<try>match</try>
+		<try>point</try>
+		<try>pivot</try>
+		<try>munch</try>
+		<try>prose</try>
+		<try>condo</try>
+	</quordle>
+
 </wordles>

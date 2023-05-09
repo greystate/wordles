@@ -3336,4 +3336,11 @@
 		<try>tarif</try>
 	</wordle>
 
+	<wordle date="2023-05-09" number="486" score="4" word="smask">
+		<try>trave</try>
+		<try>skalp</try>
+		<try>snask</try>
+		<try>smask</try>
+	</wordle>
+
 </wordles>

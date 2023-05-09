@@ -3257,4 +3257,12 @@
 		<try>aglow</try>
 	</wordle>
 
+	<wordle date="2023-05-09" number="689" score="5" word="cocoa">
+		<try>bread</try>
+		<try>along</try>
+		<try>soaks</try>
+		<try>mocha</try>
+		<try>cocoa</try>
+	</wordle>
+
 </wordles>
