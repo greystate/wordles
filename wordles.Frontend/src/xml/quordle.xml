@@ -4234,4 +4234,16 @@
 		<try>condo</try>
 	</quordle>
 
+	<quordle date="2023-05-10" number="480" scores="4 8 0 7" words="print vicar gaffe plait">
+		<try>penny</try>
+		<try>point</try>
+		<try>paint</try>
+		<try>print</try>
+		<try>shuck</try>
+		<try>width</try>
+		<try>plait</try>
+		<try>vicar</try>
+		<try>gambe</try>
+	</quordle>
+
 </wordles>

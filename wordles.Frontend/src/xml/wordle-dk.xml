@@ -3343,4 +3343,12 @@
 		<try>smask</try>
 	</wordle>
 
+	<wordle date="2023-05-10" number="487" score="5" word="ræson">
+		<try>opera</try>
+		<try>torsk</try>
+		<try>brods</try>
+		<try>lysår</try>
+		<try>ræson</try>
+	</wordle>
+
 </wordles>

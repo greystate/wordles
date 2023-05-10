@@ -3265,4 +3265,11 @@
 		<try>cocoa</try>
 	</wordle>
 
+	<wordle date="2023-05-10" number="690" score="4" word="ethic">
+		<try>watch</try>
+		<try>chute</try>
+		<try>techy</try>
+		<try>ethic</try>
+	</wordle>
+
 </wordles>
