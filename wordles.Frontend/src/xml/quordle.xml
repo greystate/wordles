@@ -4246,4 +4246,15 @@
 		<try>gambe</try>
 	</quordle>
 
+	<quordle date="2023-05-11" number="481" scores="4 5 8 6" words="crypt dunce wheel noble">
+		<try>blank</try>
+		<try>dumpy</try>
+		<try>riser</try>
+		<try>crypt</try>
+		<try>dunce</try>
+		<try>noble</try>
+		<try>level</try>
+		<try>wheel</try>
+	</quordle>
+
 </wordles>

@@ -3351,4 +3351,13 @@
 		<try>ræson</try>
 	</wordle>
 
+	<wordle date="2023-05-11" number="488" score="6" word="kølig">
+		<try>blive</try>
+		<try>latin</try>
+		<try>splid</try>
+		<try>rolig</try>
+		<try>mulig</try>
+		<try>kølig</try>
+	</wordle>
+
 </wordles>

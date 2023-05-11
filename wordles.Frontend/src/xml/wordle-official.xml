@@ -3272,4 +3272,11 @@
 		<try>ethic</try>
 	</wordle>
 
+	<wordle date="2023-05-11" number="691" score="4" word="broom">
+		<try>first</try>
+		<try>raced</try>
+		<try>wrong</try>
+		<try>broom</try>
+	</wordle>
+
 </wordles>
