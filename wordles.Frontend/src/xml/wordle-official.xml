@@ -3279,4 +3279,11 @@
 		<try>broom</try>
 	</wordle>
 
+	<wordle date="2023-05-12" number="692" score="4" word="snack">
+		<try>paste</try>
+		<try>shaky</try>
+		<try>slack</try>
+		<try>snack</try>
+	</wordle>
+
 </wordles>

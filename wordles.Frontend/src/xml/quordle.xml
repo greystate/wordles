@@ -4257,4 +4257,14 @@
 		<try>wheel</try>
 	</quordle>
 
+	<quordle date="2023-05-12" number="482" scores="2 3 7 4" words="honey cynic daunt chirp">
+		<try>horns</try>
+		<try>honey</try>
+		<try>cynic</try>
+		<try>chirp</try>
+		<try>flank</try>
+		<try>gaunt</try>
+		<try>daunt</try>
+	</quordle>
+
 </wordles>

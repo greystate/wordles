@@ -3360,4 +3360,11 @@
 		<try>kølig</try>
 	</wordle>
 
+	<wordle date="2023-05-12" number="489" score="4" word="kebab">
+		<try>lader</try>
+		<try>agent</try>
+		<try>temas</try>
+		<try>kebab</try>
+	</wordle>
+
 </wordles>
