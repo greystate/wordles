@@ -3286,4 +3286,17 @@
 		<try>snack</try>
 	</wordle>
 
+	<wordle date="2023-05-13" number="693" score="3" word="acrid">
+		<try>train</try>
+		<try>paris</try>
+		<try>acrid</try>
+	</wordle>
+
+	<wordle date="2023-05-14" number="694" score="4" word="scarf">
+		<try>notes</try>
+		<try>shack</try>
+		<try>scalp</try>
+		<try>scarf</try>
+	</wordle>
+
 </wordles>

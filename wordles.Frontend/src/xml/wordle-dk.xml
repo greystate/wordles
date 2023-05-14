@@ -3367,4 +3367,18 @@
 		<try>kebab</try>
 	</wordle>
 
+	<wordle date="2023-05-13" number="490" score="4" word="helse">
+		<try>stole</try>
+		<try>læske</try>
+		<try>halse</try>
+		<try>helse</try>
+	</wordle>
+
+	<wordle date="2023-05-14" number="491" score="4" word="konto">
+		<try>buste</try>
+		<try>fakta</try>
+		<try>klits</try>
+		<try>konto</try>
+	</wordle>
+
 </wordles>

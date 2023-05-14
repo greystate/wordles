@@ -4267,4 +4267,26 @@
 		<try>daunt</try>
 	</quordle>
 
+	<quordle date="2023-05-13" number="483" scores="9 5 8 6" words="tract preen budge snare">
+		<try>train</try>
+		<try>claws</try>
+		<try>moped</try>
+		<try>track</try>
+		<try>preen</try>
+		<try>snare</try>
+		<try>buyer</try>
+		<try>budge</try>
+		<try>tract</try>
+	</quordle>
+
+	<quordle date="2023-05-14" number="484" scores="4 6 5 7" words="clone skunk swept sassy">
+		<try>music</try>
+		<try>votes</try>
+		<try>crawl</try>
+		<try>clone</try>
+		<try>swept</try>
+		<try>skunk</try>
+		<try>sassy</try>
+	</quordle>
+
 </wordles>
