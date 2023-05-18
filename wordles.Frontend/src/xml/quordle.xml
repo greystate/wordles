@@ -4289,4 +4289,47 @@
 		<try>sassy</try>
 	</quordle>
 
+	<quordle date="2023-05-15" number="485" scores="4 8 7 5" words="ulcer apnea candy adult">
+		<try>bowls</try>
+		<try>tiger</try>
+		<try>dumpy</try>
+		<try>ulcer</try>
+		<try>adult</try>
+		<try>caddy</try>
+		<try>candy</try>
+		<try>apnea</try>
+	</quordle>
+
+	<quordle date="2023-05-16" number="486" scores="7 5 6 8" words="harry colon shear larva">
+		<try>baldy</try>
+		<try>power</try>
+		<try>stuck</try>
+		<try>minge</try>
+		<try>colon</try>
+		<try>shear</try>
+		<try>harry</try>
+		<try>larva</try>
+	</quordle>
+
+	<quordle date="2023-05-17" number="487" scores="6 8 5 7" words="skimp glean payee bravo">
+		<try>towns</try>
+		<try>based</try>
+		<try>humpy</try>
+		<try>frill</try>
+		<try>payee</try>
+		<try>skimp</try>
+		<try>bravo</try>
+		<try>glean</try>
+	</quordle>
+
+	<quordle date="2023-05-18" number="488" scores="7 5 3 6" words="ennui sprig later slunk">
+		<try>freak</try>
+		<try>tiger</try>
+		<try>later</try>
+		<try>ponds</try>
+		<try>sprig</try>
+		<try>slunk</try>
+		<try>ennui</try>
+	</quordle>
+
 </wordles>

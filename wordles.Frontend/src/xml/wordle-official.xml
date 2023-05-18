@@ -3299,4 +3299,33 @@
 		<try>scarf</try>
 	</wordle>
 
+	<wordle date="2023-05-15" number="695" score="5" word="canoe">
+		<try>pride</try>
+		<try>blame</try>
+		<try>waste</try>
+		<try>gauge</try>
+		<try>canoe</try>
+	</wordle>
+
+	<wordle date="2023-05-16" number="696" score="4" word="latte">
+		<try>phone</try>
+		<try>scare</try>
+		<try>gauge</try>
+		<try>latte</try>
+	</wordle>
+
+	<wordle date="2023-05-17" number="697" score="4" word="plank">
+		<try>power</try>
+		<try>plaid</try>
+		<try>plant</try>
+		<try>plank</try>
+	</wordle>
+
+	<wordle date="2023-05-18" number="698" score="4" word="shorn">
+		<try>shark</try>
+		<try>shirt</try>
+		<try>sherd</try>
+		<try>shorn</try>
+	</wordle>
+
 </wordles>

@@ -3381,4 +3381,36 @@
 		<try>konto</try>
 	</wordle>
 
+	<wordle date="2023-05-15" number="492" score="5" word="dufte">
+		<try>stole</try>
+		<try>trave</try>
+		<try>nytte</try>
+		<try>digte</try>
+		<try>dufte</try>
+	</wordle>
+
+	<wordle date="2023-05-16" number="493" score="5" word="tante">
+		<try>skrab</try>
+		<try>bande</try>
+		<try>vante</try>
+		<try>pante</try>
+		<try>tante</try>
+	</wordle>
+
+	<wordle date="2023-05-17" number="494" score="6" word="motiv">
+		<try>spark</try>
+		<try>bombe</try>
+		<try>forum</try>
+		<try>modne</try>
+		<try>motto</try>
+		<try>motiv</try>
+	</wordle>
+
+	<wordle date="2023-05-18" number="495" score="4" word="skrig">
+		<try>splat</try>
+		<try>serie</try>
+		<try>skrin</try>
+		<try>skrig</try>
+	</wordle>
+
 </wordles>
