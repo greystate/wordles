@@ -3328,4 +3328,16 @@
 		<try>shorn</try>
 	</wordle>
 
+	<wordle date="2023-05-19" number="699" score="4" word="grief">
+		<try>drape</try>
+		<try>tries</try>
+		<try>brief</try>
+		<try>grief</try>
+	</wordle>
+
+	<wordle date="2023-05-20" number="700" score="2" word="flask">
+		<try>flick</try>
+		<try>flask</try>
+	</wordle>
+
 </wordles>

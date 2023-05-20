@@ -4332,4 +4332,27 @@
 		<try>ennui</try>
 	</quordle>
 
+	<quordle date="2023-05-19" number="489" scores="6 7 5 0" words="arbor medal trial woozy">
+		<try>brief</try>
+		<try>molds</try>
+		<try>orbit</try>
+		<try>trill</try>
+		<try>trial</try>
+		<try>arbor</try>
+		<try>medal</try>
+		<try>young</try>
+		<try>woopy</try>
+	</quordle>
+
+	<quordle date="2023-05-20" number="490" scores="8 6 4 5" words="lingo howdy grasp third">
+		<try>speed</try>
+		<try>tough</try>
+		<try>barmy</try>
+		<try>grasp</try>
+		<try>third</try>
+		<try>howdy</try>
+		<try>bingo</try>
+		<try>lingo</try>
+	</quordle>
+
 </wordles>

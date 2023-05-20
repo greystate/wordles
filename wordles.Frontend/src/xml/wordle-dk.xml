@@ -3413,4 +3413,18 @@
 		<try>skrig</try>
 	</wordle>
 
+	<wordle date="2023-05-19" number="496" score="4" word="rival">
+		<try>foder</try>
+		<try>nyrig</try>
+		<try>røsti</try>
+		<try>rival</try>
+	</wordle>
+
+	<wordle date="2023-05-20" number="497" score="4" word="kæmpe">
+		<try>opera</try>
+		<try>pedel</try>
+		<try>suppe</try>
+		<try>kæmpe</try>
+	</wordle>
+
 </wordles>
