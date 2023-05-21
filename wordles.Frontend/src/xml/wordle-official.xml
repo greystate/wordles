@@ -3340,4 +3340,12 @@
 		<try>flask</try>
 	</wordle>
 
+	<wordle date="2023-05-21" number="701" score="5" word="brash">
+		<try>prove</try>
+		<try>drill</try>
+		<try>trunk</try>
+		<try>crash</try>
+		<try>brash</try>
+	</wordle>
+
 </wordles>

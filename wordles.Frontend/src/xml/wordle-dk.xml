@@ -3427,4 +3427,11 @@
 		<try>kæmpe</try>
 	</wordle>
 
+	<wordle date="2023-05-21" number="498" score="4" word="paryk">
+		<try>sjovt</try>
+		<try>flade</try>
+		<try>panik</try>
+		<try>paryk</try>
+	</wordle>
+
 </wordles>
