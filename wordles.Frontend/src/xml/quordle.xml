@@ -4367,4 +4367,15 @@
 		<try>evoke</try>
 	</quordle>
 
+	<quordle date="2023-05-22" number="492" scores="8 6 4 7" words="eagle slick solid taken">
+		<try>trust</try>
+		<try>howdy</try>
+		<try>seams</try>
+		<try>solid</try>
+		<try>sling</try>
+		<try>slick</try>
+		<try>taken</try>
+		<try>eagle</try>
+	</quordle>
+
 </wordles>

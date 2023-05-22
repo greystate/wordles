@@ -3434,4 +3434,10 @@
 		<try>paryk</try>
 	</wordle>
 
+	<wordle date="2023-05-22" number="499" score="3" word="karma">
+		<try>smart</try>
+		<try>ramle</try>
+		<try>karma</try>
+	</wordle>
+
 </wordles>

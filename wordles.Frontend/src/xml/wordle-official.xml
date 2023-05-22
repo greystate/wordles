@@ -3348,4 +3348,10 @@
 		<try>brash</try>
 	</wordle>
 
+	<wordle date="2023-05-22" number="702" score="3" word="igloo">
+		<try>great</try>
+		<try>sings</try>
+		<try>igloo</try>
+	</wordle>
+
 </wordles>
