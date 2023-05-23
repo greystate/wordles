@@ -3440,4 +3440,11 @@
 		<try>karma</try>
 	</wordle>
 
+	<wordle date="2023-05-23" number="500" score="4" word="gåtur">
+		<try>udsat</try>
+		<try>tunge</try>
+		<try>utryg</try>
+		<try>gåtur</try>
+	</wordle>
+
 </wordles>

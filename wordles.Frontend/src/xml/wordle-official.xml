@@ -3354,4 +3354,9 @@
 		<try>igloo</try>
 	</wordle>
 
+	<wordle date="2023-05-23" number="703" score="2" word="clerk">
+		<try>track</try>
+		<try>clerk</try>
+	</wordle>
+
 </wordles>
