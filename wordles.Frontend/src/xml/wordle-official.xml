@@ -3359,4 +3359,11 @@
 		<try>clerk</try>
 	</wordle>
 
+	<wordle date="2023-05-24" number="704" score="4" word="utter">
+		<try>blast</try>
+		<try>tower</try>
+		<try>cuter</try>
+		<try>utter</try>
+	</wordle>
+
 </wordles>

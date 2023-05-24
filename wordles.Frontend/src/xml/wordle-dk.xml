@@ -3447,4 +3447,11 @@
 		<try>gåtur</try>
 	</wordle>
 
+	<wordle date="2023-05-24" number="501" score="4" word="dråbe">
+		<try>dreng</try>
+		<try>drive</try>
+		<try>dræbe</try>
+		<try>dråbe</try>
+	</wordle>
+
 </wordles>

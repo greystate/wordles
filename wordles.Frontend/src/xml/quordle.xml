@@ -4388,4 +4388,16 @@
 		<try>cross</try>
 	</quordle>
 
+	<quordle date="2023-05-24" number="494" scores="4 9 3 8" words="whiny lusty noise booth">
+		<try>young</try>
+		<try>erase</try>
+		<try>noise</try>
+		<try>whiny</try>
+		<try>tusky</try>
+		<try>dusty</try>
+		<try>tooth</try>
+		<try>booth</try>
+		<try>lusty</try>
+	</quordle>
+
 </wordles>
