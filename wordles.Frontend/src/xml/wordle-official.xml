@@ -3366,4 +3366,20 @@
 		<try>utter</try>
 	</wordle>
 
+	<wordle date="2023-05-25" number="705" score="5" word="bagel">
+		<try>trash</try>
+		<try>paved</try>
+		<try>camel</try>
+		<try>babel</try>
+		<try>bagel</try>
+	</wordle>
+
+	<wordle date="2023-05-26" number="706" score="5" word="swine">
+		<try>crave</try>
+		<try>spoke</try>
+		<try>snide</try>
+		<try>spine</try>
+		<try>swine</try>
+	</wordle>
+
 </wordles>

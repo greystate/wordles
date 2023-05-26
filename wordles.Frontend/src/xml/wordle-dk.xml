@@ -3454,4 +3454,16 @@
 		<try>dråbe</try>
 	</wordle>
 
+	<wordle date="2023-05-25" number="502" score="3" word="tango">
+		<try>tyven</try>
+		<try>tonal</try>
+		<try>tango</try>
+	</wordle>
+
+	<wordle date="2023-05-26" number="503" score="3" word="skrub">
+		<try>bolde</try>
+		<try>skabt</try>
+		<try>skrub</try>
+	</wordle>
+
 </wordles>

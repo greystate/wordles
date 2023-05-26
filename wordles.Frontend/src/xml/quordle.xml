@@ -4400,4 +4400,27 @@
 		<try>lusty</try>
 	</quordle>
 
+	<quordle date="2023-05-25" number="495" scores="5 4 6 8" words="alarm pause colon burly">
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>octal</try>
+		<try>pause</try>
+		<try>alarm</try>
+		<try>colon</try>
+		<try>lurry</try>
+		<try>burly</try>
+	</quordle>
+
+	<quordle date="2023-05-26" number="496" scores="5 8 7 9" words="loath mealy began reuse">
+		<try>power</try>
+		<try>modal</try>
+		<try>loans</try>
+		<try>fight</try>
+		<try>loath</try>
+		<try>vegan</try>
+		<try>began</try>
+		<try>mealy</try>
+		<try>reuse</try>
+	</quordle>
+
 </wordles>
