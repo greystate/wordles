@@ -3382,4 +3382,17 @@
 		<try>swine</try>
 	</wordle>
 
+	<wordle date="2023-05-27" number="707" score="3" word="ramen">
+		<try>fours</try>
+		<try>tiger</try>
+		<try>ramen</try>
+	</wordle>
+
+	<wordle date="2023-05-28" number="708" score="4" word="skimp">
+		<try>eagle</try>
+		<try>trips</try>
+		<try>spiny</try>
+		<try>skimp</try>
+	</wordle>
+
 </wordles>

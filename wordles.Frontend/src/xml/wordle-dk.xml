@@ -3466,4 +3466,18 @@
 		<try>skrub</try>
 	</wordle>
 
+	<wordle date="2023-05-27" number="504" score="3" word="robot">
+		<try>ringe</try>
+		<try>raskt</try>
+		<try>robot</try>
+	</wordle>
+
+	<wordle date="2023-05-28" number="505" score="5" word="kupon">
+		<try>kaffe</try>
+		<try>krogs</try>
+		<try>konto</try>
+		<try>kujon</try>
+		<try>kupon</try>
+	</wordle>
+
 </wordles>
