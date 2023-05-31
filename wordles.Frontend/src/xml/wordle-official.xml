@@ -3395,4 +3395,24 @@
 		<try>skimp</try>
 	</wordle>
 
+	<wordle date="2023-05-29" number="709" score="4" word="mouse">
+		<try>wheat</try>
+		<try>devil</try>
+		<try>morse</try>
+		<try>mouse</try>
+	</wordle>
+
+	<wordle date="2023-05-30" number="710" score="4" word="kneel">
+		<try>cream</try>
+		<try>flesh</try>
+		<try>dwell</try>
+		<try>kneel</try>
+	</wordle>
+
+	<wordle date="2023-05-31" number="711" score="3" word="agile">
+		<try>train</try>
+		<try>alive</try>
+		<try>agile</try>
+	</wordle>
+
 </wordles>

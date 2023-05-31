@@ -4443,4 +4443,38 @@
 		<try>gully</try>
 	</quordle>
 
+	<quordle date="2023-05-29" number="499" scores="4 8 6 7" words="annoy elect stale turbo">
+		<try>power</try>
+		<try>hunts</try>
+		<try>daily</try>
+		<try>annoy</try>
+		<try>tesla</try>
+		<try>stale</try>
+		<try>turbo</try>
+		<try>elect</try>
+	</quordle>
+
+	<quordle date="2023-05-30" number="500" scores="5 4 7 6" words="cadet ripen bread creed">
+		<try>straw</try>
+		<try>young</try>
+		<try>plied</try>
+		<try>ripen</try>
+		<try>cadet</try>
+		<try>creed</try>
+		<try>bread</try>
+	</quordle>
+
+	<quordle date="2023-05-31" number="501" scores="4 8 7 9" words="apron under alike fruit">
+		<try>limit</try>
+		<try>weird</try>
+		<try>ponds</try>
+		<try>apron</try>
+		<try>agile</try>
+		<try>alive</try>
+		<try>alike</try>
+		<try>under</try>
+		<try>fruit</try>
+	</quordle>
+
+
 </wordles>

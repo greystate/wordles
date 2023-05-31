@@ -3480,4 +3480,27 @@
 		<try>kupon</try>
 	</wordle>
 
+	<wordle date="2023-05-29" number="506" score="4" word="penis">
+		<try>bamse</try>
+		<try>desto</try>
+		<try>bevis</try>
+		<try>penis</try>
+	</wordle>
+
+	<wordle date="2023-05-30" number="507" score="4" word="kanel">
+		<try>klogt</try>
+		<try>kilde</try>
+		<try>kabel</try>
+		<try>kanel</try>
+	</wordle>
+
+	<wordle date="2023-05-31" number="508" score="5" word="grine">
+		<try>afsæt</try>
+		<try>bedre</try>
+		<try>runge</try>
+		<try>gerne</try>
+		<try>grine</try>
+	</wordle>
+
+
 </wordles>
