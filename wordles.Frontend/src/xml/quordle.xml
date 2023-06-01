@@ -4476,5 +4476,15 @@
 		<try>fruit</try>
 	</quordle>
 
+	<quordle date="2023-06-01" number="502" scores="7 6 4 5" words="blast skull vaunt liege">
+		<try>liver</try>
+		<try>goals</try>
+		<try>punty</try>
+		<try>vaunt</try>
+		<try>liege</try>
+		<try>skull</try>
+		<try>blast</try>
+	</quordle>
+
 
 </wordles>

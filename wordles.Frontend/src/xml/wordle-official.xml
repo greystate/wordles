@@ -3415,4 +3415,13 @@
 		<try>agile</try>
 	</wordle>
 
+	<wordle date="2023-06-01" number="712" score="0" word="jazzy">
+		<try>chord</try>
+		<try>steak</try>
+		<try>plain</try>
+		<try>guava</try>
+		<try>fabby</try>
+		<try>jammy</try>
+	</wordle>
+
 </wordles>

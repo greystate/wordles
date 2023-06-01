@@ -3502,5 +3502,12 @@
 		<try>grine</try>
 	</wordle>
 
+	<wordle date="2023-06-01" number="509" score="4" word="dreng">
+		<try>opera</try>
+		<try>roede</try>
+		<try>trend</try>
+		<try>dreng</try>
+	</wordle>
+
 
 </wordles>
