@@ -3509,5 +3509,14 @@
 		<try>dreng</try>
 	</wordle>
 
+	<wordle date="2023-06-02" number="510" score="0" word="mumle">
+		<try>skøde</try>
+		<try>ringe</try>
+		<try>talje</try>
+		<try>lefle</try>
+		<try>humle</try>
+		<try>bumle</try>
+	</wordle>
+
 
 </wordles>

@@ -4486,5 +4486,15 @@
 		<try>blast</try>
 	</quordle>
 
+	<quordle date="2023-06-02" number="503" scores="7 4 8 5" words="flyer chime valid lumen">
+		<try>black</try>
+		<try>white</try>
+		<try>mourn</try>
+		<try>chime</try>
+		<try>lumen</try>
+		<try>slyer</try>
+		<try>flyer</try>
+		<try>valid</try>
+	</quordle>
 
 </wordles>
