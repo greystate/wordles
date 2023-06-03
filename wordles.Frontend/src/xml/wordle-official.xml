@@ -3431,4 +3431,13 @@
 		<try>humid</try>
 	</wordle>
 
+	<wordle date="2023-06-03" number="714" score="6" word="nanny">
+		<try>tower</try>
+		<try>salty</try>
+		<try>candy</try>
+		<try>janky</try>
+		<try>fanny</try>
+		<try>nanny</try>
+	</wordle>
+
 </wordles>

@@ -3518,5 +3518,12 @@
 		<try>bumle</try>
 	</wordle>
 
+	<wordle date="2023-06-03" number="511" score="4" word="ninja">
+		<try>opera</try>
+		<try>samba</try>
+		<try>junta</try>
+		<try>ninja</try>
+	</wordle>
+
 
 </wordles>
