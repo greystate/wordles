@@ -4508,4 +4508,15 @@
 		<try>booze</try>
 	</quordle>
 
+	<quordle date="2023-06-04" number="505" scores="4 6 5 8" words="guilt birth quoth evade">
+		<try>great</try>
+		<try>dumpy</try>
+		<try>scowl</try>
+		<try>guilt</try>
+		<try>quoth</try>
+		<try>birth</try>
+		<try>faded</try>
+		<try>evade</try>
+	</quordle>
+
 </wordles>
