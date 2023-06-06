@@ -3447,4 +3447,17 @@
 		<try>beast</try>
 	</wordle>
 
+	<wordle date="2023-06-05" number="716" score="5" word="ennui">
+		<try>thorn</try>
+		<try>naive</try>
+		<try>sinew</try>
+		<try>denim</try>
+		<try>ennui</try>
+	</wordle>
+
+	<wordle date="2023-06-06" number="717" score="2" word="scout">
+		<try>young</try>
+		<try>scout</try>
+	</wordle>
+
 </wordles>

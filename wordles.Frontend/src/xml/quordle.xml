@@ -4519,4 +4519,26 @@
 		<try>evade</try>
 	</quordle>
 
+	<quordle date="2023-06-05" number="506" scores="6 7 8 5" words="stung shape quail blurt">
+		<try>blame</try>
+		<try>blink</try>
+		<try>tight</try>
+		<try>cruds</try>
+		<try>blurt</try>
+		<try>stung</try>
+		<try>shape</try>
+		<try>quail</try>
+	</quordle>
+
+	<quordle date="2023-06-06" number="507" scores="3 6 7 8" words="brick tight showy ardor">
+		<try>swing</try>
+		<try>black</try>
+		<try>brick</try>
+		<try>muted</try>
+		<try>shows</try>
+		<try>tight</try>
+		<try>showy</try>
+		<try>ardor</try>
+	</quordle>
+
 </wordles>

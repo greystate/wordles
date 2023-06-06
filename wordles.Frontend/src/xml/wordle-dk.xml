@@ -3532,5 +3532,20 @@
 		<try>adlyd</try>
 	</wordle>
 
+	<wordle date="2023-06-05" number="513" score="4" word="adlød">
+		<try>danse</try>
+		<try>gjald</try>
+		<try>adlyd</try>
+		<try>adlød</try>
+	</wordle>
+
+	<wordle date="2023-06-06" number="514" score="4" word="advar">
+		<try>spade</try>
+		<try>badut</try>
+		<try>anmod</try>
+		<try>advar</try>
+	</wordle>
+
+
 
 </wordles>
