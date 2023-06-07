@@ -4541,4 +4541,16 @@
 		<try>ardor</try>
 	</quordle>
 
+	<quordle date="2023-06-07" number="508" scores="9 5 0 6" words="quell guise undue paler">
+		<try>blank</try>
+		<try>greet</try>
+		<try>jumps</try>
+		<try>avoid</try>
+		<try>guise</try>
+		<try>paler</try>
+		<try>deuce</try>
+		<try>uncle</try>
+		<try>quell</try>
+	</quordle>
+
 </wordles>

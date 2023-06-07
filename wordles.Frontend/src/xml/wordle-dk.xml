@@ -3546,6 +3546,10 @@
 		<try>advar</try>
 	</wordle>
 
-
+	<wordle date="2023-06-07" number="515" score="3" word="trold">
+		<try>opera</try>
+		<try>robåd</try>
+		<try>trold</try>
+	</wordle>
 
 </wordles>
