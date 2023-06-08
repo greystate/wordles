@@ -3467,4 +3467,9 @@
 		<try>hater</try>
 	</wordle>
 
+	<wordle date="2023-06-08" number="719" score="2" word="crumb">
+		<try>trash</try>
+		<try>crumb</try>
+	</wordle>
+
 </wordles>

@@ -4553,4 +4553,14 @@
 		<try>quell</try>
 	</quordle>
 
+	<quordle date="2023-06-08" number="509" scores="3 4 5 7" words="trawl crude brave furry">
+		<try>thumb</try>
+		<try>tower</try>
+		<try>trawl</try>
+		<try>crude</try>
+		<try>brave</try>
+		<try>spurs</try>
+		<try>furry</try>
+	</quordle>
+
 </wordles>

@@ -3552,4 +3552,12 @@
 		<try>trold</try>
 	</wordle>
 
+	<wordle date="2023-06-08" number="516" score="5" word="kubik">
+		<try>tyver</try>
+		<try>panik</try>
+		<try>uskik</try>
+		<try>musik</try>
+		<try>kubik</try>
+	</wordle>
+
 </wordles>
