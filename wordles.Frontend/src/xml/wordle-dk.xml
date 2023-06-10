@@ -3560,4 +3560,18 @@
 		<try>kubik</try>
 	</wordle>
 
+	<wordle date="2023-06-09" number="517" score="4" word="tomat">
+		<try>malke</try>
+		<try>armod</try>
+		<try>komma</try>
+		<try>tomat</try>
+	</wordle>
+
+	<wordle date="2023-06-10" number="518" score="4" word="blink">
+		<try>opera</try>
+		<try>glimt</try>
+		<try>flink</try>
+		<try>blink</try>
+	</wordle>
+
 </wordles>

@@ -3472,4 +3472,19 @@
 		<try>crumb</try>
 	</wordle>
 
+	<wordle date="2023-06-09" number="720" score="4" word="balsa">
+		<try>crate</try>
+		<try>handy</try>
+		<try>balms</try>
+		<try>balsa</try>
+	</wordle>
+
+	<wordle date="2023-06-10" number="721" score="5" word="again">
+		<try>timer</try>
+		<try>blind</try>
+		<try>infix</try>
+		<try>chain</try>
+		<try>again</try>
+	</wordle>
+
 </wordles>

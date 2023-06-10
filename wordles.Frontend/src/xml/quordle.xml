@@ -4563,4 +4563,26 @@
 		<try>furry</try>
 	</quordle>
 
+	<quordle date="2023-06-09" number="510" scores="8 7 5 6" words="hazel react spoke chart">
+		<try>train</try>
+		<try>bowed</try>
+		<try>flush</try>
+		<try>smoke</try>
+		<try>spoke</try>
+		<try>chart</try>
+		<try>react</try>
+		<try>hazel</try>
+	</quordle>
+
+	<quordle date="2023-06-10" number="511" scores="8 7 5 6" words="wrung troll taker elate">
+		<try>blame</try>
+		<try>study</try>
+		<try>power</try>
+		<try>cater</try>
+		<try>taker</try>
+		<try>elate</try>
+		<try>troll</try>
+		<try>wrung</try>
+	</quordle>
+
 </wordles>
