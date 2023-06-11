@@ -3487,4 +3487,10 @@
 		<try>again</try>
 	</wordle>
 
+	<wordle date="2023-06-11" number="722" score="3" word="guard">
+		<try>poser</try>
+		<try>gravy</try>
+		<try>guard</try>
+	</wordle>
+
 </wordles>

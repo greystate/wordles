@@ -4585,4 +4585,16 @@
 		<try>wrung</try>
 	</quordle>
 
+	<quordle date="2023-06-11" number="512" scores="7 6 0 9" words="quack scalp drier folly">
+		<try>beers</try>
+		<try>young</try>
+		<try>tidal</try>
+		<try>jolly</try>
+		<try>psalm</try>
+		<try>scalp</try>
+		<try>quack</try>
+		<try>fried</try>
+		<try>folly</try>
+	</quordle>
+
 </wordles>

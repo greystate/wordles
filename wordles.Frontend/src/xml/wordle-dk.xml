@@ -3574,4 +3574,11 @@
 		<try>blink</try>
 	</wordle>
 
+	<wordle date="2023-06-11" number="519" score="4" word="etisk">
+		<try>onkel</try>
+		<try>klemt</try>
+		<try>aktie</try>
+		<try>etisk</try>
+	</wordle>
+
 </wordles>
