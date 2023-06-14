@@ -3581,4 +3581,27 @@
 		<try>etisk</try>
 	</wordle>
 
+	<wordle date="2023-06-12" number="520" score="4" word="skudt">
+		<try>flage</try>
+		<try>sport</try>
+		<try>smukt</try>
+		<try>skudt</try>
+	</wordle>
+
+	<wordle date="2023-06-13" number="521" score="4" word="solid">
+		<try>udtag</try>
+		<try>drøne</try>
+		<try>klods</try>
+		<try>solid</try>
+	</wordle>
+
+	<wordle date="2023-06-14" number="522" score="5" word="vasal">
+		<try>ulden</try>
+		<try>skræl</try>
+		<try>issyl</try>
+		<try>basal</try>
+		<try>vasal</try>
+	</wordle>
+
+
 </wordles>

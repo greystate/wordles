@@ -3493,4 +3493,24 @@
 		<try>guard</try>
 	</wordle>
 
+	<wordle date="2023-06-12" number="723" score="3" word="wrong">
+		<try>great</try>
+		<try>argon</try>
+		<try>wrong</try>
+	</wordle>
+
+	<wordle date="2023-06-13" number="724" score="4" word="plunk">
+		<try>break</try>
+		<try>snuck</try>
+		<try>flunk</try>
+		<try>plunk</try>
+	</wordle>
+
+	<wordle date="2023-06-14" number="725" score="4" word="crime">
+		<try>found</try>
+		<try>strap</try>
+		<try>brick</try>
+		<try>crime</try>
+	</wordle>
+
 </wordles>

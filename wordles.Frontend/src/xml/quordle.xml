@@ -4597,4 +4597,40 @@
 		<try>folly</try>
 	</quordle>
 
+	<quordle date="2023-06-12" number="513" scores="8 9 4 6" words="stamp boney trace clove">
+		<try>right</try>
+		<try>power</try>
+		<try>dance</try>
+		<try>trace</try>
+		<try>class</try>
+		<try>clove</try>
+		<try>money</try>
+		<try>stamp</try>
+		<try>boney</try>
+	</quordle>
+
+	<quordle date="2023-06-13" number="514" scores="0 9 5 0" words="lowly coral plank amiss">
+		<try>opera</try>
+		<try>loans</try>
+		<try>plant</try>
+		<try>dinky</try>
+		<try>plank</try>
+		<try>lobby</try>
+		<try>lolly</try>
+		<try>moral</try>
+		<try>coral</try>
+	</quordle>
+
+	<quordle date="2023-06-14" number="515" scores="9 6 7 8" words="libel savvy vault troll">
+		<try>black</try>
+		<try>steam</try>
+		<try>adore</try>
+		<try>white</try>
+		<try>punny</try>
+		<try>savvy</try>
+		<try>vault</try>
+		<try>troll</try>
+		<try>libel</try>
+	</quordle>
+
 </wordles>
