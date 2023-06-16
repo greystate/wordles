@@ -3513,4 +3513,18 @@
 		<try>crime</try>
 	</wordle>
 
+	<wordle date="2023-06-15" number="726" score="5" word="maybe">
+		<try>tower</try>
+		<try>seals</try>
+		<try>paned</try>
+		<try>gauze</try>
+		<try>maybe</try>
+	</wordle>
+
+	<wordle date="2023-06-16" number="727" score="3" word="strap">
+		<try>picks</try>
+		<try>spear</try>
+		<try>strap</try>
+	</wordle>
+
 </wordles>

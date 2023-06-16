@@ -4633,4 +4633,27 @@
 		<try>libel</try>
 	</quordle>
 
+	<quordle date="2023-06-15" number="516" scores="6 7 9 8" words="cobra corny mince chili">
+		<try>gauze</try>
+		<try>polka</try>
+		<try>drive</try>
+		<try>myths</try>
+		<try>coral</try>
+		<try>cobra</try>
+		<try>corny</try>
+		<try>chili</try>
+		<try>mince</try>
+	</quordle>
+
+	<quordle date="2023-06-16" number="517" scores="6 7 8 4" words="pasta rabid unfit curly">
+		<try>crave</try>
+		<try>shown</try>
+		<try>plumb</try>
+		<try>curly</try>
+		<try>tiger</try>
+		<try>pasta</try>
+		<try>rabid</try>
+		<try>unfit</try>
+	</quordle>
+
 </wordles>

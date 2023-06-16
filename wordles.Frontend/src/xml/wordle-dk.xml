@@ -3603,5 +3603,20 @@
 		<try>vasal</try>
 	</wordle>
 
+	<wordle date="2023-06-15" number="523" score="5" word="fåtal">
+		<try>bingo</try>
+		<try>klyde</try>
+		<try>træls</try>
+		<try>fatal</try>
+		<try>fåtal</try>
+	</wordle>
+
+	<wordle date="2023-06-16" number="524" score="4" word="galge">
+		<try>udset</try>
+		<try>grove</try>
+		<try>gynge</try>
+		<try>galge</try>
+	</wordle>
+
 
 </wordles>
