@@ -3527,4 +3527,18 @@
 		<try>strap</try>
 	</wordle>
 
+	<wordle date="2023-06-17" number="728" score="4" word="ranch">
+		<try>clear</try>
+		<try>scary</try>
+		<try>farce</try>
+		<try>ranch</try>
+	</wordle>
+
+	<wordle date="2023-06-18" number="729" score="4" word="shyly">
+		<try>frock</try>
+		<try>beats</try>
+		<try>swill</try>
+		<try>shyly</try>
+	</wordle>
+
 </wordles>

@@ -4656,4 +4656,27 @@
 		<try>unfit</try>
 	</quordle>
 
+	<quordle date="2023-06-17" number="518" scores="0 7 5 0" words="juror bused sappy vying">
+		<try>place</try>
+		<try>dumpy</try>
+		<try>happy</try>
+		<try>rudes</try>
+		<try>sappy</try>
+		<try>fused</try>
+		<try>bused</try>
+		<try>young</try>
+		<try>tying</try>
+	</quordle>
+
+	<quordle date="2023-06-18" number="519" scores="5 8 6 7" words="shorn friar three untie">
+		<try>paste</try>
+		<try>track</try>
+		<try>young</try>
+		<try>hides</try>
+		<try>shorn</try>
+		<try>three</try>
+		<try>untie</try>
+		<try>friar</try>
+	</quordle>
+
 </wordles>

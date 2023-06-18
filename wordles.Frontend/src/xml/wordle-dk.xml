@@ -3618,5 +3618,20 @@
 		<try>galge</try>
 	</wordle>
 
+	<wordle date="2023-06-17" number="525" score="5" word="kvæde">
+		<try>opera</try>
+		<try>tegne</try>
+		<try>kimse</try>
+		<try>kulde</try>
+		<try>kvæde</try>
+	</wordle>
+
+	<wordle date="2023-06-18" number="526" score="4" word="bolig">
+		<try>klæbe</try>
+		<try>opløb</try>
+		<try>bolds</try>
+		<try>bolig</try>
+	</wordle>
+
 
 </wordles>
