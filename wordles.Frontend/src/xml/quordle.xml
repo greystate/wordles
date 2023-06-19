@@ -4679,4 +4679,15 @@
 		<try>friar</try>
 	</quordle>
 
+	<quordle date="2023-06-19" number="520" scores="4 6 8 7" words="horde loser gusto prone">
+		<try>spark</try>
+		<try>denim</try>
+		<try>cloth</try>
+		<try>horde</try>
+		<try>roles</try>
+		<try>loser</try>
+		<try>prone</try>
+		<try>gusto</try>
+	</quordle>
+
 </wordles>

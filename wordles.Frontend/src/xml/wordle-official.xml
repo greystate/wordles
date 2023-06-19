@@ -3541,4 +3541,12 @@
 		<try>shyly</try>
 	</wordle>
 
+	<wordle date="2023-06-19" number="730" score="5" word="kazoo">
+		<try>plows</try>
+		<try>court</try>
+		<try>venom</try>
+		<try>yahoo</try>
+		<try>kazoo</try>
+	</wordle>
+
 </wordles>

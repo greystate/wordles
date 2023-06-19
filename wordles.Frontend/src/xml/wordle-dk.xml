@@ -3633,5 +3633,12 @@
 		<try>bolig</try>
 	</wordle>
 
+	<wordle date="2023-06-19" number="527" score="4" word="elgko">
+		<try>opera</try>
+		<try>sovet</try>
+		<try>klone</try>
+		<try>elgko</try>
+	</wordle>
+
 
 </wordles>
