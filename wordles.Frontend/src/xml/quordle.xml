@@ -4690,4 +4690,14 @@
 		<try>gusto</try>
 	</quordle>
 
+	<quordle date="2023-06-20" number="521" scores="3 4 7 6" words="duvet blast filmy cease">
+		<try>frost</try>
+		<try>faded</try>
+		<try>duvet</try>
+		<try>blast</try>
+		<try>phase</try>
+		<try>cease</try>
+		<try>filmy</try>
+	</quordle>
+
 </wordles>

@@ -3549,4 +3549,11 @@
 		<try>kazoo</try>
 	</wordle>
 
+	<wordle date="2023-06-20" number="731" score="4" word="frost">
+		<try>built</try>
+		<try>swept</try>
+		<try>roast</try>
+		<try>frost</try>
+	</wordle>
+
 </wordles>

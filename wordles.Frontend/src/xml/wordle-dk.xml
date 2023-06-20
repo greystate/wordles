@@ -3640,5 +3640,10 @@
 		<try>elgko</try>
 	</wordle>
 
+	<wordle date="2023-06-20" number="528" score="2" word="snydt">
+		<try>runde</try>
+		<try>snydt</try>
+	</wordle>
+
 
 </wordles>
