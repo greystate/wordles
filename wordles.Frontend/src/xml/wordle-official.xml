@@ -3556,4 +3556,10 @@
 		<try>frost</try>
 	</wordle>
 
+	<wordle date="2023-06-21" number="732" score="3" word="crane">
+		<try>peach</try>
+		<try>crave</try>
+		<try>crane</try>
+	</wordle>
+
 </wordles>

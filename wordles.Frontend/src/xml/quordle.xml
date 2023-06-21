@@ -4700,4 +4700,16 @@
 		<try>filmy</try>
 	</quordle>
 
+	<quordle date="2023-06-21" number="522" scores="4 5 9 8" words="bride tilde lower revel">
+		<try>peach</try>
+		<try>crane</try>
+		<try>tribe</try>
+		<try>bride</try>
+		<try>tilde</try>
+		<try>lemur</try>
+		<try>loser</try>
+		<try>revel</try>
+		<try>lower</try>
+	</quordle>
+
 </wordles>

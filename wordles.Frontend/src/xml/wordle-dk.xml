@@ -3645,5 +3645,12 @@
 		<try>snydt</try>
 	</wordle>
 
+	<wordle date="2023-06-21" number="529" score="5" word="vikar">
+		<try>opera</try>
+		<try>argon</try>
+		<try>rival</try>
+		<try>virak</try>
+		<try>vikar</try>
+	</wordle>
 
 </wordles>
