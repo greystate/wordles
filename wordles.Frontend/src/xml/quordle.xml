@@ -4712,4 +4712,15 @@
 		<try>lower</try>
 	</quordle>
 
+	<quordle date="2023-06-22" number="523" scores="8 5 7 6" words="amaze bingo mummy weird">
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>rinse</try>
+		<try>begin</try>
+		<try>bingo</try>
+		<try>weird</try>
+		<try>mummy</try>
+		<try>amaze</try>
+	</quordle>
+
 </wordles>

@@ -3653,4 +3653,12 @@
 		<try>vikar</try>
 	</wordle>
 
+	<wordle date="2023-06-22" number="530" score="5" word="fælde">
+		<try>skovl</try>
+		<try>legat</try>
+		<try>elver</try>
+		<try>mølle</try>
+		<try>fælde</try>
+	</wordle>
+
 </wordles>

@@ -3562,4 +3562,11 @@
 		<try>crane</try>
 	</wordle>
 
+	<wordle date="2023-06-22" number="733" score="4" word="taste">
+		<try>bloat</try>
+		<try>tacky</try>
+		<try>taper</try>
+		<try>taste</try>
+	</wordle>
+
 </wordles>
