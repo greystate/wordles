@@ -4723,4 +4723,15 @@
 		<try>amaze</try>
 	</quordle>
 
+	<quordle date="2023-06-23" number="524" scores="6 7 8 5" words="field brine begun pitch">
+		<try>cream</try>
+		<try>lumps</try>
+		<try>picky</try>
+		<try>pinch</try>
+		<try>pitch</try>
+		<try>field</try>
+		<try>brine</try>
+		<try>begun</try>
+	</quordle>
+
 </wordles>

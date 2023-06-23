@@ -3661,4 +3661,12 @@
 		<try>fælde</try>
 	</wordle>
 
+	<wordle date="2023-06-23" number="531" score="5" word="galop">
+		<try>trevl</try>
+		<try>langt</try>
+		<try>salig</try>
+		<try>galla</try>
+		<try>galop</try>
+	</wordle>
+
 </wordles>

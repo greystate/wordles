@@ -3569,4 +3569,11 @@
 		<try>taste</try>
 	</wordle>
 
+	<wordle date="2023-06-23" number="734" score="4" word="covet">
+		<try>cream</try>
+		<try>chute</try>
+		<try>cited</try>
+		<try>covet</try>
+	</wordle>
+
 </wordles>
