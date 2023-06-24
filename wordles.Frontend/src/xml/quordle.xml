@@ -4734,4 +4734,16 @@
 		<try>begun</try>
 	</quordle>
 
+	<quordle date="2023-06-24" number="525" scores="9 5 8 4" words="bilge leapt gloat pleat">
+		<try>covet</try>
+		<try>dumpy</try>
+		<try>adept</try>
+		<try>pleat</try>
+		<try>leapt</try>
+		<try>float</try>
+		<try>bowel</try>
+		<try>gloat</try>
+		<try>bilge</try>
+	</quordle>
+
 </wordles>

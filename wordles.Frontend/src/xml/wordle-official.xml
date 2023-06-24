@@ -3576,4 +3576,11 @@
 		<try>covet</try>
 	</wordle>
 
+	<wordle date="2023-06-24" number="735" score="4" word="grand">
+		<try>crazy</try>
+		<try>frail</try>
+		<try>brave</try>
+		<try>grand</try>
+	</wordle>
+
 </wordles>

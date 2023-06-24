@@ -3669,4 +3669,11 @@
 		<try>galop</try>
 	</wordle>
 
+	<wordle date="2023-06-24" number="532" score="4" word="kølle">
+		<try>stade</try>
+		<try>lirke</try>
+		<try>klone</try>
+		<try>kølle</try>
+	</wordle>
+
 </wordles>
