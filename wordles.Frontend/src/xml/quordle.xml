@@ -4746,4 +4746,27 @@
 		<try>bilge</try>
 	</quordle>
 
+	<quordle date="2023-06-25" number="526" scores="0 0 7 4" words="gaunt slang rouse unite">
+		<try>under</try>
+		<try>unsee</try>
+		<try>tunic</try>
+		<try>unite</try>
+		<try>nutty</try>
+		<try>reuse</try>
+		<try>rouse</try>
+		<try>blunt</try>
+		<try>haunt</try>
+	</quordle>
+
+	<quordle date="2023-06-26" number="527" scores="4 7 5 8" words="scare right irate orbit">
+		<try>claws</try>
+		<try>fraud</try>
+		<try>prime</try>
+		<try>scare</try>
+		<try>irate</try>
+		<try>going</try>
+		<try>right</try>
+		<try>orbit</try>
+	</quordle>
+
 </wordles>

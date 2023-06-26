@@ -3583,4 +3583,18 @@
 		<try>grand</try>
 	</wordle>
 
+	<wordle date="2023-06-25" number="736" score="4" word="rodeo">
+		<try>trick</try>
+		<try>realm</try>
+		<try>rogue</try>
+		<try>rodeo</try>
+	</wordle>
+
+	<wordle date="2023-06-26" number="737" score="4" word="guest">
+		<try>young</try>
+		<try>guava</try>
+		<try>guide</try>
+		<try>guest</try>
+	</wordle>
+
 </wordles>

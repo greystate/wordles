@@ -3676,4 +3676,16 @@
 		<try>kølle</try>
 	</wordle>
 
+	<wordle date="2023-06-25" number="533" score="4" word="bopæl">
+		<try>stude</try>
+		<try>klamp</try>
+		<try>pålæg</try>
+		<try>bopæl</try>
+	</wordle>
+
+	<wordle date="2023-06-26" number="534" score="2" word="rådyr">
+		<try>rundt</try>
+		<try>rådyr</try>
+	</wordle>
+
 </wordles>
