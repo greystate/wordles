@@ -3597,4 +3597,10 @@
 		<try>guest</try>
 	</wordle>
 
+	<wordle date="2023-06-27" number="738" score="3" word="about">
+		<try>soare</try>
+		<try>bloat</try>
+		<try>about</try>
+	</wordle>
+
 </wordles>

@@ -4769,4 +4769,15 @@
 		<try>orbit</try>
 	</quordle>
 
+	<quordle date="2023-06-27" number="528" scores="5 4 7 8" words="straw apply magma clued">
+		<try>jumpy</try>
+		<try>about</try>
+		<try>nerds</try>
+		<try>apply</try>
+		<try>straw</try>
+		<try>vague</try>
+		<try>magma</try>
+		<try>clued</try>
+	</quordle>
+
 </wordles>

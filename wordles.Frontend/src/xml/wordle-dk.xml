@@ -3688,4 +3688,10 @@
 		<try>rådyr</try>
 	</wordle>
 
+	<wordle date="2023-06-27" number="535" score="3" word="elske">
+		<try>opera</try>
+		<try>eksem</try>
+		<try>elske</try>
+	</wordle>
+
 </wordles>
