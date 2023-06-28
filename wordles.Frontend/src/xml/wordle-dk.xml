@@ -3694,4 +3694,11 @@
 		<try>elske</try>
 	</wordle>
 
+	<wordle date="2023-06-28" number="536" score="4" word="streg">
+		<try>klovn</try>
+		<try>grøft</try>
+		<try>tager</try>
+		<try>streg</try>
+	</wordle>
+
 </wordles>

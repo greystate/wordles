@@ -4780,4 +4780,16 @@
 		<try>clued</try>
 	</quordle>
 
+	<quordle date="2023-06-28" number="529" scores="6 9 7 4" words="cedar rumba widow tithe">
+		<try>place</try>
+		<try>grunt</try>
+		<try>dishy</try>
+		<try>tithe</try>
+		<try>cared</try>
+		<try>cedar</try>
+		<try>widow</try>
+		<try>umbra</try>
+		<try>rumba</try>
+	</quordle>
+
 </wordles>

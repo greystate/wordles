@@ -3603,4 +3603,11 @@
 		<try>about</try>
 	</wordle>
 
+	<wordle date="2023-06-28" number="739" score="4" word="tract">
+		<try>trash</try>
+		<try>trace</try>
+		<try>track</try>
+		<try>tract</try>
+	</wordle>
+
 </wordles>
