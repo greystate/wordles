@@ -3701,4 +3701,22 @@
 		<try>streg</try>
 	</wordle>
 
+	<wordle date="2023-06-29" number="537" score="6" word="synål">
+		<try>skarp</try>
+		<try>stolt</try>
+		<try>slids</try>
+		<try>sølle</try>
+		<try>snubl</try>
+		<try>synål</try>
+	</wordle>
+
+	<wordle date="2023-06-30" number="538" score="6" word="villa">
+		<try>dreng</try>
+		<try>skarp</try>
+		<try>afløb</try>
+		<try>mulat</try>
+		<try>hallo</try>
+		<try>villa</try>
+	</wordle>
+
 </wordles>

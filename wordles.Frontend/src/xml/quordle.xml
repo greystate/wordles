@@ -4792,4 +4792,25 @@
 		<try>rumba</try>
 	</quordle>
 
+	<quordle date="2023-06-29" number="530" scores="6 4 8 5" words="issue mount ovoid saner">
+		<try>unset</try>
+		<try>pudge</try>
+		<try>moans</try>
+		<try>mount</try>
+		<try>saner</try>
+		<try>issue</try>
+		<try>dildo</try>
+		<try>ovoid</try>
+	</quordle>
+
+	<quordle date="2023-06-30" number="531" scores="7 4 6 5" words="woman bagel super arise">
+		<try>blank</try>
+		<try>sight</try>
+		<try>alias</try>
+		<try>bagel</try>
+		<try>arise</try>
+		<try>super</try>
+		<try>woman</try>
+	</quordle>
+
 </wordles>

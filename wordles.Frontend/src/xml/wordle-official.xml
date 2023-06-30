@@ -3610,4 +3610,16 @@
 		<try>tract</try>
 	</wordle>
 
+	<wordle date="2023-06-29" number="740" score="3" word="diner">
+		<try>dream</try>
+		<try>deter</try>
+		<try>diner</try>
+	</wordle>
+
+	<wordle date="2023-06-30" number="741" score="3" word="straw">
+		<try>woman</try>
+		<try>macaw</try>
+		<try>straw</try>
+	</wordle>
+
 </wordles>
