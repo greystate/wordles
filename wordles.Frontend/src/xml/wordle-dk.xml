@@ -3719,4 +3719,9 @@
 		<try>villa</try>
 	</wordle>
 
+	<wordle date="2023-07-01" number="539" score="2" word="flute">
+		<try>flovt</try>
+		<try>flute</try>
+	</wordle>
+
 </wordles>

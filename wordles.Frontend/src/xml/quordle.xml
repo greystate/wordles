@@ -4813,4 +4813,16 @@
 		<try>woman</try>
 	</quordle>
 
+	<quordle date="2023-07-01" number="532" scores="8 4 9 5" words="knead dally amaze ideal">
+		<try>daily</try>
+		<try>plaid</try>
+		<try>lidar</try>
+		<try>dally</try>
+		<try>ideal</try>
+		<try>stead</try>
+		<try>ahead</try>
+		<try>knead</try>
+		<try>amaze</try>
+	</quordle>
+
 </wordles>

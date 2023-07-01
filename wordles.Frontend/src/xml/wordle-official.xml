@@ -3622,4 +3622,10 @@
 		<try>straw</try>
 	</wordle>
 
+	<wordle date="2023-07-01" number="742" score="3" word="bleep">
+		<try>dream</try>
+		<try>bleed</try>
+		<try>bleep</try>
+	</wordle>
+
 </wordles>
