@@ -3724,4 +3724,11 @@
 		<try>flute</try>
 	</wordle>
 
+	<wordle date="2023-07-02" number="540" score="4" word="fidus">
+		<try>opera</try>
+		<try>skudt</try>
+		<try>dusin</try>
+		<try>fidus</try>
+	</wordle>
+
 </wordles>

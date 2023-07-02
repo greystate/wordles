@@ -4825,4 +4825,16 @@
 		<try>amaze</try>
 	</quordle>
 
+	<quordle date="2023-07-02" number="533" scores="5 7 0 0" words="amiss showy lurch saucy">
+		<try>broom</try>
+		<try>steps</try>
+		<try>flamy</try>
+		<try>amass</try>
+		<try>amiss</try>
+		<try>snowy</try>
+		<try>showy</try>
+		<try>saggy</try>
+		<try>savvy</try>
+	</quordle>
+
 </wordles>

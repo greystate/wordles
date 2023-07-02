@@ -3628,4 +3628,10 @@
 		<try>bleep</try>
 	</wordle>
 
+	<wordle date="2023-07-02" number="743" score="3" word="mossy">
+		<try>plays</try>
+		<try>story</try>
+		<try>mossy</try>
+	</wordle>
+
 </wordles>
