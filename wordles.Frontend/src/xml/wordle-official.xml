@@ -3634,4 +3634,21 @@
 		<try>mossy</try>
 	</wordle>
 
+	<wordle date="2023-07-03" number="744" score="2" word="hotel">
+		<try>later</try>
+		<try>hotel</try>
+	</wordle>
+
+	<wordle date="2023-07-04" number="745" score="3" word="irate">
+		<try>dials</try>
+		<try>train</try>
+		<try>irate</try>
+	</wordle>
+
+	<wordle date="2023-07-05" number="746" score="3" word="venom">
+		<try>horse</try>
+		<try>owned</try>
+		<try>venom</try>
+	</wordle>
+
 </wordles>

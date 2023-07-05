@@ -4837,4 +4837,36 @@
 		<try>savvy</try>
 	</quordle>
 
+	<quordle date="2023-07-03" number="534" scores="8 7 6 4" words="druid enact apart hefty">
+		<try>hotel</try>
+		<try>haste</try>
+		<try>funny</try>
+		<try>hefty</try>
+		<try>wring</try>
+		<try>apart</try>
+		<try>enact</try>
+		<try>druid</try>
+	</quordle>
+
+	<quordle date="2023-07-04" number="535" scores="6 5 7 4" words="gummy squat sushi gaudy">
+		<try>train</try>
+		<try>avert</try>
+		<try>dumpy</try>
+		<try>gaudy</try>
+		<try>squat</try>
+		<try>gummy</try>
+		<try>sushi</try>
+	</quordle>
+
+	<quordle date="2023-07-05" number="536" scores="7 5 3 8" words="hilly alert sheet vodka">
+		<try>plate</try>
+		<try>shoes</try>
+		<try>sheet</try>
+		<try>crumb</try>
+		<try>alert</try>
+		<try>dying</try>
+		<try>hilly</try>
+		<try>vodka</try>
+	</quordle>
+
 </wordles>

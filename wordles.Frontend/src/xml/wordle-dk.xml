@@ -3731,4 +3731,24 @@
 		<try>fidus</try>
 	</wordle>
 
+	<wordle date="2023-07-03" number="541" score="3" word="gemyt">
+		<try>sport</try>
+		<try>fladt</try>
+		<try>gemyt</try>
+	</wordle>
+
+	<wordle date="2023-07-04" number="542" score="4" word="krudt">
+		<try>plask</try>
+		<try>koben</try>
+		<try>kukur</try>
+		<try>krudt</try>
+	</wordle>
+
+	<wordle date="2023-07-05" number="543" score="3" word="bravo">
+		<try>rotte</try>
+		<try>orkan</try>
+		<try>bravo</try>
+	</wordle>
+
+
 </wordles>
