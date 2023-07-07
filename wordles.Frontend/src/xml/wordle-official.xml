@@ -3651,4 +3651,16 @@
 		<try>venom</try>
 	</wordle>
 
+	<wordle date="2023-07-06" number="747" score="2" word="windy">
+		<try>daisy</try>
+		<try>windy</try>
+	</wordle>
+
+	<wordle date="2023-07-07" number="748" score="4" word="donut">
+		<try>woman</try>
+		<try>north</try>
+		<try>tonic</try>
+		<try>donut</try>
+	</wordle>
+
 </wordles>

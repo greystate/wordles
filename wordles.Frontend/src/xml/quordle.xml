@@ -4869,4 +4869,27 @@
 		<try>vodka</try>
 	</quordle>
 
+	<quordle date="2023-07-06" number="537" scores="8 5 9 6" words="hunch lefty abbey recur">
+		<try>windy</try>
+		<try>dumpy</try>
+		<try>lunch</try>
+		<try>leafy</try>
+		<try>lefty</try>
+		<try>recur</try>
+		<try>bunch</try>
+		<try>hunch</try>
+		<try>abbey</try>
+	</quordle>
+
+	<quordle date="2023-07-07" number="538" scores="8 5 6 7" words="clout smear gaily angry">
+		<try>while</try>
+		<try>stray</try>
+		<try>ducks</try>
+		<try>spear</try>
+		<try>smear</try>
+		<try>gaily</try>
+		<try>angry</try>
+		<try>clout</try>
+	</quordle>
+
 </wordles>

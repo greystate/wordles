@@ -3750,5 +3750,17 @@
 		<try>bravo</try>
 	</wordle>
 
+	<wordle date="2023-07-06" number="544" score="3" word="engel">
+		<try>streg</try>
+		<try>lagen</try>
+		<try>engel</try>
+	</wordle>
+
+	<wordle date="2023-07-07" number="545" score="4" word="skræk">
+		<try>ænder</try>
+		<try>sværm</try>
+		<try>stræk</try>
+		<try>skræk</try>
+	</wordle>
 
 </wordles>
