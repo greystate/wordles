@@ -3763,4 +3763,11 @@
 		<try>skræk</try>
 	</wordle>
 
+	<wordle date="2023-07-08" number="546" score="4" word="vokal">
+		<try>filme</try>
+		<try>laban</try>
+		<try>total</try>
+		<try>vokal</try>
+	</wordle>
+
 </wordles>

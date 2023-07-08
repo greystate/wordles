@@ -3663,4 +3663,13 @@
 		<try>donut</try>
 	</wordle>
 
+	<wordle date="2023-07-08" number="749" score="0" word="cower">
+		<try>movie</try>
+		<try>woken</try>
+		<try>power</try>
+		<try>tower</try>
+		<try>lower</try>
+		<try>bower</try>
+	</wordle>
+
 </wordles>
