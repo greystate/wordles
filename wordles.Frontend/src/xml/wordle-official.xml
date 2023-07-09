@@ -3672,4 +3672,9 @@
 		<try>bower</try>
 	</wordle>
 
+	<wordle date="2023-07-09" number="750" score="2" word="enter">
+		<try>unset</try>
+		<try>enter</try>
+	</wordle>
+
 </wordles>
