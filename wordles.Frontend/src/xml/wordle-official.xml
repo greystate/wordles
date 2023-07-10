@@ -3677,4 +3677,10 @@
 		<try>enter</try>
 	</wordle>
 
+	<wordle date="2023-07-10" number="751" score="3" word="folly">
+		<try>grief</try>
+		<try>falsy</try>
+		<try>folly</try>
+	</wordle>
+
 </wordles>

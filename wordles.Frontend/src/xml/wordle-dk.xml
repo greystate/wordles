@@ -3777,4 +3777,12 @@
 		<try>flink</try>
 	</wordle>
 
+	<wordle date="2023-07-10" number="548" score="5" word="genbo">
+		<try>kaffe</try>
+		<try>roder</try>
+		<try>pesos</try>
+		<try>betro</try>
+		<try>genbo</try>
+	</wordle>
+
 </wordles>

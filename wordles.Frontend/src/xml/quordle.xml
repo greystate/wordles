@@ -4915,4 +4915,15 @@
 		<try>avion</try>
 	</quordle>
 
+	<quordle date="2023-07-10" number="541" scores="6 8 7 4" words="filet dully irate nosey">
+		<try>sever</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>nosey</try>
+		<try>while</try>
+		<try>filet</try>
+		<try>irate</try>
+		<try>dully</try>
+	</quordle>
+
 </wordles>
