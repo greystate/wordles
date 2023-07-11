@@ -3689,4 +3689,12 @@
 		<try>earth</try>
 	</wordle>
 
+	<wordle date="2023-07-12" number="753" score="5" word="whirl">
+		<try>blond</try>
+		<try>liver</try>
+		<try>peril</try>
+		<try>swirl</try>
+		<try>whirl</try>
+	</wordle>
+
 </wordles>

@@ -4937,4 +4937,15 @@
 		<try>tulle</try>
 	</quordle>
 
+	<quordle date="2023-07-12" number="543" scores="6 7 5 8" words="voice manga froth bloat">
+		<try>swirl</try>
+		<try>liver</try>
+		<try>dumpy</try>
+		<try>track</try>
+		<try>froth</try>
+		<try>voice</try>
+		<try>manga</try>
+		<try>bloat</try>
+	</quordle>
+
 </wordles>

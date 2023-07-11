@@ -3791,4 +3791,12 @@
 		<try>konti</try>
 	</wordle>
 
+	<wordle date="2023-07-12" number="550" score="5" word="brint">
+		<try>blank</try>
+		<try>brønd</try>
+		<try>brune</try>
+		<try>bring</try>
+		<try>brint</try>
+	</wordle>
+
 </wordles>
