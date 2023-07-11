@@ -3683,4 +3683,10 @@
 		<try>folly</try>
 	</wordle>
 
+	<wordle date="2023-07-11" number="752" score="3" word="earth">
+		<try>welsh</try>
+		<try>epoch</try>
+		<try>earth</try>
+	</wordle>
+
 </wordles>

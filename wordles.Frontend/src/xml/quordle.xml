@@ -4926,4 +4926,15 @@
 		<try>dully</try>
 	</quordle>
 
+	<quordle date="2023-07-11" number="542" scores="6 5 7 8" words="model aisle limbo tulle">
+		<try>awake</try>
+		<try>alone</try>
+		<try>lower</try>
+		<try>moles</try>
+		<try>aisle</try>
+		<try>model</try>
+		<try>limbo</try>
+		<try>tulle</try>
+	</quordle>
+
 </wordles>
