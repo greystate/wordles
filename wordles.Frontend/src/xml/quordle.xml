@@ -4948,4 +4948,14 @@
 		<try>bloat</try>
 	</quordle>
 
+	<quordle date="2023-07-13" number="544" scores="7 6 3 5" words="baste query snail pearl">
+		<try>black</try>
+		<try>bails</try>
+		<try>snail</try>
+		<try>dumpy</try>
+		<try>pearl</try>
+		<try>query</try>
+		<try>baste</try>
+	</quordle>
+
 </wordles>
