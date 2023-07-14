@@ -4958,4 +4958,15 @@
 		<try>baste</try>
 	</quordle>
 
+	<quordle date="2023-07-14" number="545" scores="6 5 3 8" words="libel cable wreak scope">
+		<try>water</try>
+		<try>weary</try>
+		<try>wreak</try>
+		<try>globe</try>
+		<try>cable</try>
+		<try>libel</try>
+		<try>scone</try>
+		<try>scope</try>
+	</quordle>
+
 </wordles>

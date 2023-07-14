@@ -3806,4 +3806,11 @@
 		<try>enorm</try>
 	</wordle>
 
+	<wordle date="2023-07-14" number="552" score="4" word="skovl">
+		<try>huske</try>
+		<try>skilt</try>
+		<try>skrål</try>
+		<try>skovl</try>
+	</wordle>
+
 </wordles>

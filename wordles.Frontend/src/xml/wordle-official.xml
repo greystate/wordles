@@ -3704,4 +3704,11 @@
 		<try>barge</try>
 	</wordle>
 
+	<wordle date="2023-07-14" number="755" score="4" word="fiend">
+		<try>scope</try>
+		<try>entry</try>
+		<try>clean</try>
+		<try>fiend</try>
+	</wordle>
+
 </wordles>
