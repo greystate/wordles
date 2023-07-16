@@ -3813,4 +3813,19 @@
 		<try>skovl</try>
 	</wordle>
 
+	<wordle date="2023-07-15" number="553" score="4" word="smart">
+		<try>blade</try>
+		<try>kravl</try>
+		<try>skarp</try>
+		<try>smart</try>
+	</wordle>
+
+	<wordle date="2023-07-16" number="554" score="5" word="værdi">
+		<try>klovn</try>
+		<try>varer</try>
+		<try>værks</try>
+		<try>værft</try>
+		<try>værdi</try>
+	</wordle>
+
 </wordles>

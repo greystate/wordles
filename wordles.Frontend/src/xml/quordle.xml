@@ -4969,4 +4969,25 @@
 		<try>scope</try>
 	</quordle>
 
+	<quordle date="2023-07-15" number="546" scores="8 5 6 7" words="cycle false frill heavy">
+		<try>spork</try>
+		<try>great</try>
+		<try>means</try>
+		<try>eased</try>
+		<try>false</try>
+		<try>frill</try>
+		<try>heavy</try>
+		<try>cycle</try>
+	</quordle>
+
+	<quordle date="2023-07-16" number="547" scores="5 3 4 7" words="steam salty sloop truss">
+		<try>strip</try>
+		<try>octal</try>
+		<try>salty</try>
+		<try>sloop</try>
+		<try>steam</try>
+		<try>trust</try>
+		<try>truss</try>
+	</quordle>
+
 </wordles>

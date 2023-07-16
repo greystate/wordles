@@ -3711,4 +3711,17 @@
 		<try>fiend</try>
 	</wordle>
 
+	<wordle date="2023-07-15" number="756" score="4" word="crone">
+		<try>truth</try>
+		<try>prone</try>
+		<try>drone</try>
+		<try>crone</try>
+	</wordle>
+
+	<wordle date="2023-07-16" number="757" score="3" word="topaz">
+		<try>steam</try>
+		<try>trial</try>
+		<try>topaz</try>
+	</wordle>
+
 </wordles>
