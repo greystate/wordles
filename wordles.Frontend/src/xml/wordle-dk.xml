@@ -3828,4 +3828,10 @@
 		<try>værdi</try>
 	</wordle>
 
+	<wordle date="2023-07-17" number="555" score="3" word="komma">
+		<try>stork</try>
+		<try>komme</try>
+		<try>komma</try>
+	</wordle>
+
 </wordles>

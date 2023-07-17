@@ -4990,4 +4990,15 @@
 		<try>truss</try>
 	</quordle>
 
+	<quordle date="2023-07-17" number="548" scores="8 7 5 6" words="lupus alive sally abled">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>valid</try>
+		<try>sally</try>
+		<try>abled</try>
+		<try>alive</try>
+		<try>lupus</try>
+	</quordle>
+
 </wordles>

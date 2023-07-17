@@ -3724,4 +3724,12 @@
 		<try>topaz</try>
 	</wordle>
 
+	<wordle date="2023-07-17" number="758" score="5" word="droop">
+		<try>slice</try>
+		<try>gravy</try>
+		<try>proof</try>
+		<try>troop</try>
+		<try>droop</try>
+	</wordle>
+
 </wordles>
