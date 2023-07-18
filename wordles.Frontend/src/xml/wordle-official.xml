@@ -3732,4 +3732,10 @@
 		<try>droop</try>
 	</wordle>
 
+	<wordle date="2023-07-18" number="759" score="3" word="flyer">
+		<try>waste</try>
+		<try>reply</try>
+		<try>flyer</try>
+	</wordle>
+
 </wordles>

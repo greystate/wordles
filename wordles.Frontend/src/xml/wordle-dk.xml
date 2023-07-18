@@ -3834,4 +3834,10 @@
 		<try>komma</try>
 	</wordle>
 
+	<wordle date="2023-07-18" number="556" score="3" word="sport">
+		<try>dreje</try>
+		<try>salær</try>
+		<try>sport</try>
+	</wordle>
+
 </wordles>
