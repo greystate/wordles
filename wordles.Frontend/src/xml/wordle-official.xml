@@ -3738,4 +3738,11 @@
 		<try>flyer</try>
 	</wordle>
 
+	<wordle date="2023-07-19" number="760" score="4" word="tonic">
+		<try>blast</try>
+		<try>tiger</try>
+		<try>think</try>
+		<try>tonic</try>
+	</wordle>
+
 </wordles>

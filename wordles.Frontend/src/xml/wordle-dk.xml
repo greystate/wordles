@@ -3840,4 +3840,12 @@
 		<try>sport</try>
 	</wordle>
 
+	<wordle date="2023-07-19" number="557" score="5" word="brønd">
+		<try>tramp</try>
+		<try>fryde</try>
+		<try>drink</try>
+		<try>grund</try>
+		<try>brønd</try>
+	</wordle>
+
 </wordles>
