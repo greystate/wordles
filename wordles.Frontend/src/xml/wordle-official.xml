@@ -3745,4 +3745,11 @@
 		<try>tonic</try>
 	</wordle>
 
+	<wordle date="2023-07-20" number="761" score="4" word="flank">
+		<try>plant</try>
+		<try>blank</try>
+		<try>clank</try>
+		<try>flank</try>
+	</wordle>
+
 </wordles>

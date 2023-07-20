@@ -5024,4 +5024,15 @@
 		<try>kayak</try>
 	</quordle>
 
+	<quordle date="2023-07-20" number="551" scores="5 8 6 7" words="enter truly usual civil">
+		<try>scrum</try>
+		<try>power</try>
+		<try>light</try>
+		<try>bland</try>
+		<try>enter</try>
+		<try>usual</try>
+		<try>civil</try>
+		<try>truly</try>
+	</quordle>
+
 </wordles>

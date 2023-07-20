@@ -3848,4 +3848,11 @@
 		<try>brønd</try>
 	</wordle>
 
+	<wordle date="2023-07-20" number="558" score="4" word="gevir">
+		<try>lyser</try>
+		<try>begår</try>
+		<try>gevær</try>
+		<try>gevir</try>
+	</wordle>
+
 </wordles>
