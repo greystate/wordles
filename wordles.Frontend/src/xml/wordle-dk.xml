@@ -3855,4 +3855,10 @@
 		<try>gevir</try>
 	</wordle>
 
+	<wordle date="2023-07-21" number="559" score="3" word="skole">
+		<try>opera</try>
+		<try>boble</try>
+		<try>skole</try>
+	</wordle>
+
 </wordles>

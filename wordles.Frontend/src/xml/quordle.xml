@@ -5035,4 +5035,15 @@
 		<try>truly</try>
 	</quordle>
 
+	<quordle date="2023-07-21" number="552" scores="6 5 8 4" words="round tepid liver irate">
+		<try>sport</try>
+		<try>dream</try>
+		<try>unite</try>
+		<try>irate</try>
+		<try>tepid</try>
+		<try>round</try>
+		<try>biker</try>
+		<try>liver</try>
+	</quordle>
+
 </wordles>

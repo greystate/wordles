@@ -3752,4 +3752,11 @@
 		<try>flank</try>
 	</wordle>
 
+	<wordle date="2023-07-21" number="762" score="4" word="burly">
+		<try>rusty</try>
+		<try>hurry</try>
+		<try>curly</try>
+		<try>burly</try>
+	</wordle>
+
 </wordles>
