@@ -3861,4 +3861,19 @@
 		<try>skole</try>
 	</wordle>
 
+	<wordle date="2023-07-22" number="560" score="4" word="væske">
+		<try>spark</try>
+		<try>klods</try>
+		<try>æsken</try>
+		<try>væske</try>
+	</wordle>
+
+	<wordle date="2023-07-23" number="561" score="5" word="etape">
+		<try>torsk</try>
+		<try>multe</try>
+		<try>bitre</try>
+		<try>etage</try>
+		<try>etape</try>
+	</wordle>
+
 </wordles>

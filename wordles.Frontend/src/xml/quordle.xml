@@ -5046,4 +5046,27 @@
 		<try>liver</try>
 	</quordle>
 
+	<quordle date="2023-07-22" number="553" scores="6 7 9 4" words="befit jiffy arena touch">
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>octal</try>
+		<try>touch</try>
+		<try>fizzy</try>
+		<try>befit</try>
+		<try>jiffy</try>
+		<try>anger</try>
+		<try>arena</try>
+	</quordle>
+
+	<quordle date="2023-07-23" number="554" scores="5 8 7 6" words="entry giddy stamp vomit">
+		<try>trick</try>
+		<try>wades</try>
+		<try>youth</try>
+		<try>retry</try>
+		<try>entry</try>
+		<try>vomit</try>
+		<try>stamp</try>
+		<try>giddy</try>
+	</quordle>
+
 </wordles>

@@ -3759,4 +3759,20 @@
 		<try>burly</try>
 	</wordle>
 
+	<wordle date="2023-07-22" number="763" score="0" word="froze">
+		<try>rainy</try>
+		<try>truth</try>
+		<try>prowl</try>
+		<try>cross</try>
+		<try>broke</try>
+		<try>erode</try>
+	</wordle>
+
+	<wordle date="2023-07-23" number="764" score="4" word="whale">
+		<try>safer</try>
+		<try>amend</try>
+		<try>beach</try>
+		<try>whale</try>
+	</wordle>
+
 </wordles>
