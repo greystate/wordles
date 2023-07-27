@@ -5069,4 +5069,49 @@
 		<try>giddy</try>
 	</quordle>
 
+	<quordle date="2023-07-24" number="555" scores="8 4 6 5" words="stuff hippo liver blink">
+		<try>doubt</try>
+		<try>weary</try>
+		<try>pings</try>
+		<try>hippo</try>
+		<try>blink</try>
+		<try>liver</try>
+		<try>stums</try>
+		<try>stuff</try>
+	</quordle>
+
+	<quordle date="2023-07-25" number="556" scores="6 5 9 8" words="hairy rowdy quark limit">
+		<try>while</try>
+		<try>plaid</try>
+		<try>hairs</try>
+		<try>young</try>
+		<try>rowdy</try>
+		<try>hairy</try>
+		<try>civil</try>
+		<try>limit</try>
+		<try>quark</try>
+	</quordle>
+
+	<quordle date="2023-07-26" number="557" scores="7 5 6 4" words="index taker curve peach">
+		<try>mince</try>
+		<try>power</try>
+		<try>stung</try>
+		<try>peach</try>
+		<try>taker</try>
+		<try>curve</try>
+		<try>index</try>
+	</quordle>
+
+	<quordle date="2023-07-27" number="558" scores="9 7 6 8" words="evade spice float align">
+		<try>twist</try>
+		<try>funky</try>
+		<try>dares</try>
+		<try>seize</try>
+		<try>smile</try>
+		<try>float</try>
+		<try>spice</try>
+		<try>align</try>
+		<try>evade</try>
+	</quordle>
+
 </wordles>

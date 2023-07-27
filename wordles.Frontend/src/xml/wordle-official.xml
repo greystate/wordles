@@ -3775,4 +3775,30 @@
 		<try>whale</try>
 	</wordle>
 
+	<wordle date="2023-07-24" number="765" score="4" word="hobby">
+		<try>price</try>
+		<try>boast</try>
+		<try>nobly</try>
+		<try>hobby</try>
+	</wordle>
+
+	<wordle date="2023-07-25" number="766" score="3" word="wheel">
+		<try>warms</try>
+		<try>while</try>
+		<try>wheel</try>
+	</wordle>
+
+	<wordle date="2023-07-26" number="767" score="2" word="heart">
+		<try>trace</try>
+		<try>heart</try>
+	</wordle>
+
+	<wordle date="2023-07-27" number="768" score="5" word="disco">
+		<try>stare</try>
+		<try>ploys</try>
+		<try>kiosk</try>
+		<try>bison</try>
+		<try>disco</try>
+	</wordle>
+
 </wordles>

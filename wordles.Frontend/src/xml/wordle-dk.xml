@@ -3876,4 +3876,31 @@
 		<try>etape</try>
 	</wordle>
 
+	<wordle date="2023-07-24" number="562" score="3" word="giraf">
+		<try>tager</try>
+		<try>udtag</try>
+		<try>giraf</try>
+	</wordle>
+
+	<wordle date="2023-07-25" number="563" score="5" word="figur">
+		<try>drink</try>
+		<try>riste</try>
+		<try>cigar</try>
+		<try>vigør</try>
+		<try>figur</try>
+	</wordle>
+
+	<wordle date="2023-07-26" number="564" score="3" word="kobra">
+		<try>opera</try>
+		<try>flora</try>
+		<try>kobra</try>
+	</wordle>
+
+	<wordle date="2023-07-27" number="565" score="4" word="brysk">
+		<try>træde</try>
+		<try>arrig</try>
+		<try>prosa</try>
+		<try>brysk</try>
+	</wordle>
+
 </wordles>
