@@ -5114,4 +5114,24 @@
 		<try>evade</try>
 	</quordle>
 
+	<quordle date="2023-07-28" number="559" scores="6 8 3 5" words="totem basal pulse couch">
+		<try>group</try>
+		<try>lease</try>
+		<try>pulse</try>
+		<try>mints</try>
+		<try>couch</try>
+		<try>totem</try>
+		<try>sally</try>
+		<try>basal</try>
+	</quordle>
+
+	<quordle date="2023-07-29" number="560" scores="4 5 3 6" words="value along alive least">
+		<try>brave</try>
+		<try>dawns</try>
+		<try>alive</try>
+		<try>value</try>
+		<try>along</try>
+		<try>least</try>
+	</quordle>
+
 </wordles>

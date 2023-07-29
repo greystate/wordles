@@ -3801,4 +3801,19 @@
 		<try>disco</try>
 	</wordle>
 
+	<wordle date="2023-07-28" number="769" score="5" word="ethos">
+		<try>lease</try>
+		<try>speck</try>
+		<try>jives</try>
+		<try>ergos</try>
+		<try>ethos</try>
+	</wordle>
+
+	<wordle date="2023-07-29" number="770" score="4" word="curly">
+		<try>dream</try>
+		<try>roust</try>
+		<try>lurch</try>
+		<try>curly</try>
+	</wordle>
+
 </wordles>

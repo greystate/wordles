@@ -3903,4 +3903,20 @@
 		<try>brysk</try>
 	</wordle>
 
+	<wordle date="2023-07-28" number="566" score="4" word="etude">
+		<try>drift</try>
+		<try>tynde</try>
+		<try>stade</try>
+		<try>etude</try>
+	</wordle>
+
+	<wordle date="2023-07-29" number="567" score="6" word="skjul">
+		<try>bryde</try>
+		<try>raskt</try>
+		<try>skovl</try>
+		<try>skiml</try>
+		<try>skuml</try>
+		<try>skjul</try>
+	</wordle>
+
 </wordles>
