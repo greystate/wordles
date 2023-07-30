@@ -3816,4 +3816,11 @@
 		<try>curly</try>
 	</wordle>
 
+	<wordle date="2023-07-30" number="771" score="4" word="bathe">
+		<try>strap</try>
+		<try>taken</try>
+		<try>latte</try>
+		<try>bathe</try>
+	</wordle>
+
 </wordles>

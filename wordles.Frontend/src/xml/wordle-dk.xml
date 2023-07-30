@@ -3919,4 +3919,12 @@
 		<try>skjul</try>
 	</wordle>
 
+	<wordle date="2023-07-30" number="568" score="5" word="vølve">
+		<try>bløde</try>
+		<try>kølle</try>
+		<try>pølse</try>
+		<try>følte</try>
+		<try>vølve</try>
+	</wordle>
+
 </wordles>

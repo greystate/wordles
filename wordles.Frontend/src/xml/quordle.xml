@@ -5134,4 +5134,16 @@
 		<try>least</try>
 	</quordle>
 
+	<quordle date="2023-07-30" number="561" scores="8 9 7 6" words="shawl write along demon">
+		<try>shade</try>
+		<try>shark</try>
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>shall</try>
+		<try>demon</try>
+		<try>along</try>
+		<try>shawl</try>
+		<try>write</try>
+	</quordle>
+
 </wordles>
