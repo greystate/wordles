@@ -3823,4 +3823,12 @@
 		<try>bathe</try>
 	</wordle>
 
+	<wordle date="2023-07-31" number="772" score="5" word="style">
+		<try>grout</try>
+		<try>timed</try>
+		<try>vents</try>
+		<try>steak</try>
+		<try>style</try>
+	</wordle>
+
 </wordles>

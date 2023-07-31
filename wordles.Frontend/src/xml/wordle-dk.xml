@@ -3927,4 +3927,11 @@
 		<try>vølve</try>
 	</wordle>
 
+	<wordle date="2023-07-31" number="569" score="4" word="fatal">
+		<try>skule</try>
+		<try>bland</try>
+		<try>afløb</try>
+		<try>fatal</try>
+	</wordle>
+
 </wordles>

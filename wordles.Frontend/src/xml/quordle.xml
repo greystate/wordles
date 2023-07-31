@@ -5146,4 +5146,14 @@
 		<try>write</try>
 	</quordle>
 
+	<quordle date="2023-07-31" number="562" scores="7 6 4 5" words="squat chose snort there">
+		<try>seven</try>
+		<try>types</try>
+		<try>bloat</try>
+		<try>snort</try>
+		<try>there</try>
+		<try>chose</try>
+		<try>squat</try>
+	</quordle>
+
 </wordles>
