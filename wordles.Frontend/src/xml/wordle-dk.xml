@@ -3934,4 +3934,12 @@
 		<try>fatal</try>
 	</wordle>
 
+	<wordle date="2023-08-01" number="570" score="5" word="grøft">
+		<try>ruter</try>
+		<try>træls</try>
+		<try>kridt</try>
+		<try>frygt</try>
+		<try>grøft</try>
+	</wordle>
+
 </wordles>

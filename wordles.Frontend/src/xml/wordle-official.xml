@@ -3831,4 +3831,10 @@
 		<try>style</try>
 	</wordle>
 
+	<wordle date="2023-08-01" number="773" score="3" word="tenth">
+		<try>strap</try>
+		<try>thyme</try>
+		<try>tenth</try>
+	</wordle>
+
 </wordles>
