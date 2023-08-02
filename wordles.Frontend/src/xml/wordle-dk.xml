@@ -3942,4 +3942,10 @@
 		<try>grøft</try>
 	</wordle>
 
+	<wordle date="2023-08-02" number="571" score="3" word="knægt">
+		<try>skærm</try>
+		<try>kvæle</try>
+		<try>knægt</try>
+	</wordle>
+
 </wordles>

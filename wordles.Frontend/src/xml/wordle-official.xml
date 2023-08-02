@@ -3837,4 +3837,12 @@
 		<try>tenth</try>
 	</wordle>
 
+	<wordle date="2023-08-02" number="774" score="5" word="beget">
+		<try>plush</try>
+		<try>tread</try>
+		<try>jeton</try>
+		<try>befit</try>
+		<try>beget</try>
+	</wordle>
+
 </wordles>

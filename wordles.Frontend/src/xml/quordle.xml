@@ -5168,4 +5168,14 @@
 		<try>annoy</try>
 	</quordle>
 
+	<quordle date="2023-08-02" number="564" scores="5 7 3 4" words="slump flute rumba reach">
+		<try>bumpy</try>
+		<try>roads</try>
+		<try>rumba</try>
+		<try>reach</try>
+		<try>slump</try>
+		<try>fluke</try>
+		<try>flute</try>
+	</quordle>
+
 </wordles>
