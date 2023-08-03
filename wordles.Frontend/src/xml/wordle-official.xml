@@ -3845,4 +3845,10 @@
 		<try>beget</try>
 	</wordle>
 
+	<wordle date="2023-08-03" number="775" score="3" word="party">
+		<try>split</try>
+		<try>taper</try>
+		<try>party</try>
+	</wordle>
+
 </wordles>

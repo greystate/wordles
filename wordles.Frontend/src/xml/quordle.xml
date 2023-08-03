@@ -5178,4 +5178,16 @@
 		<try>flute</try>
 	</quordle>
 
+	<quordle date="2023-08-03" number="565" scores="4 7 6 9" words="bigot ample laugh easel">
+		<try>party</try>
+		<try>winds</try>
+		<try>gumbo</try>
+		<try>bigot</try>
+		<try>faugh</try>
+		<try>laugh</try>
+		<try>ample</try>
+		<try>eales</try>
+		<try>easel</try>
+	</quordle>
+
 </wordles>
