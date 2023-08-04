@@ -3955,4 +3955,10 @@
 		<try>blege</try>
 	</wordle>
 
+	<wordle date="2023-08-04" number="573" score="3" word="enkel">
+		<try>dreje</try>
+		<try>seler</try>
+		<try>enkel</try>
+	</wordle>
+
 </wordles>

@@ -3851,4 +3851,10 @@
 		<try>party</try>
 	</wordle>
 
+	<wordle date="2023-08-04" number="776" score="3" word="chart">
+		<try>dream</try>
+		<try>ranks</try>
+		<try>chart</try>
+	</wordle>
+
 </wordles>

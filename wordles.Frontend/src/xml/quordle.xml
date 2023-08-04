@@ -5190,4 +5190,15 @@
 		<try>easel</try>
 	</quordle>
 
+	<quordle date="2023-08-04" number="566" scores="6 4 8 7" words="shaky owing homer picky">
+		<try>splat</try>
+		<try>young</try>
+		<try>drive</try>
+		<try>owing</try>
+		<try>hippy</try>
+		<try>shaky</try>
+		<try>picky</try>
+		<try>homer</try>
+	</quordle>
+
 </wordles>
