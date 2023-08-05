@@ -3961,4 +3961,10 @@
 		<try>enkel</try>
 	</wordle>
 
+	<wordle date="2023-08-05" number="574" score="3" word="skade">
+		<try>næste</try>
+		<try>brase</try>
+		<try>skade</try>
+	</wordle>
+
 </wordles>

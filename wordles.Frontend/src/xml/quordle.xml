@@ -5201,4 +5201,14 @@
 		<try>homer</try>
 	</quordle>
 
+	<quordle date="2023-08-05" number="567" scores="2 4 7 5" words="spasm trawl lever birth">
+		<try>claim</try>
+		<try>spasm</try>
+		<try>three</try>
+		<try>trawl</try>
+		<try>birth</try>
+		<try>lover</try>
+		<try>lever</try>
+	</quordle>
+
 </wordles>

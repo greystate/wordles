@@ -3857,4 +3857,11 @@
 		<try>chart</try>
 	</wordle>
 
+	<wordle date="2023-08-05" number="777" score="4" word="anode">
+		<try>frame</try>
+		<try>cache</try>
+		<try>angle</try>
+		<try>anode</try>
+	</wordle>
+
 </wordles>
