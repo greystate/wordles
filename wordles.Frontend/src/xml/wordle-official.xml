@@ -3864,4 +3864,11 @@
 		<try>anode</try>
 	</wordle>
 
+	<wordle date="2023-08-06" number="778" score="4" word="polyp">
+		<try>drown</try>
+		<try>hopes</try>
+		<try>polly</try>
+		<try>polyp</try>
+	</wordle>
+
 </wordles>

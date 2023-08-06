@@ -3967,4 +3967,10 @@
 		<try>skade</try>
 	</wordle>
 
+	<wordle date="2023-08-06" number="575" score="3" word="vilje">
+		<try>hylde</try>
+		<try>vælte</try>
+		<try>vilje</try>
+	</wordle>
+
 </wordles>

@@ -5211,4 +5211,16 @@
 		<try>lever</try>
 	</quordle>
 
+	<quordle date="2023-08-06" number="568" scores="8 5 9 6" words="quash moult stalk edict">
+		<try>pearl</try>
+		<try>tower</try>
+		<try>minds</try>
+		<try>buggy</try>
+		<try>moult</try>
+		<try>edict</try>
+		<try>stall</try>
+		<try>quash</try>
+		<try>stalk</try>
+	</quordle>
+
 </wordles>
