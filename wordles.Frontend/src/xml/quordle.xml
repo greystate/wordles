@@ -5223,4 +5223,28 @@
 		<try>stalk</try>
 	</quordle>
 
+	<quordle date="2023-08-07" number="569" scores="9 3 5 7" words="smite grind crawl fibre">
+		<try>bland</try>
+		<try>sound</try>
+		<try>grind</try>
+		<try>trawl</try>
+		<try>crawl</try>
+		<try>stiff</try>
+		<try>fibre</try>
+		<try>spite</try>
+		<try>smite</try>
+	</quordle>
+
+	<quordle date="2023-08-08" number="570" scores="5 4 7 9" words="crepe caddy drier tango">
+		<try>score</try>
+		<try>farce</try>
+		<try>crude</try>
+		<try>caddy</try>
+		<try>crepe</try>
+		<try>dried</try>
+		<try>drier</try>
+		<try>mango</try>
+		<try>tango</try>
+	</quordle>
+
 </wordles>

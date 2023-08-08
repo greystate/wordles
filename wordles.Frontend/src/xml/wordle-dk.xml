@@ -3973,4 +3973,22 @@
 		<try>vilje</try>
 	</wordle>
 
+	<wordle date="2023-08-07" number="567" score="6" word="fifle">
+		<try>start</try>
+		<try>undgå</try>
+		<try>polyp</try>
+		<try>vikle</try>
+		<try>bimle</try>
+		<try>fifle</try>
+	</wordle>
+
+	<wordle date="2023-08-08" number="568" score="6" word="vidne">
+		<try>sober</try>
+		<try>tabte</try>
+		<try>glæde</try>
+		<try>dumpe</try>
+		<try>vidje</try>
+		<try>vidne</try>
+	</wordle>
+
 </wordles>
