@@ -5247,4 +5247,15 @@
 		<try>tango</try>
 	</quordle>
 
+	<quordle date="2023-08-09" number="571" scores="8 5 7 3" words="feast aping limit girth">
+		<try>purge</try>
+		<try>hasty</try>
+		<try>girth</try>
+		<try>blond</try>
+		<try>aping</try>
+		<try>steam</try>
+		<try>limit</try>
+		<try>feast</try>
+	</quordle>
+
 </wordles>
