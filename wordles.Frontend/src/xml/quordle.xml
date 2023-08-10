@@ -5258,4 +5258,15 @@
 		<try>feast</try>
 	</quordle>
 
+	<quordle date="2023-08-10" number="572" scores="4 6 8 7" words="overt rally sense atoll">
+		<try>fever</try>
+		<try>night</try>
+		<try>opera</try>
+		<try>overt</try>
+		<try>sulky</try>
+		<try>rally</try>
+		<try>atoll</try>
+		<try>sense</try>
+	</quordle>
+
 </wordles>

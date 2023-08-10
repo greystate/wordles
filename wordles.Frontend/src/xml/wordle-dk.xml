@@ -3998,4 +3998,12 @@
 		<try>guide</try>
 	</wordle>
 
+	<wordle date="2023-08-10" number="570" score="5" word="sheik">
+		<try>spole</try>
+		<try>saver</try>
+		<try>stemt</try>
+		<try>skejs</try>
+		<try>sheik</try>
+	</wordle>
+
 </wordles>
