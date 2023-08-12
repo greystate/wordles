@@ -5269,4 +5269,25 @@
 		<try>sense</try>
 	</quordle>
 
+	<quordle date="2023-08-11" number="573" scores="4 6 5 8" words="repel manor money zesty">
+		<try>overt</try>
+		<try>under</try>
+		<try>plays</try>
+		<try>repel</try>
+		<try>money</try>
+		<try>manor</try>
+		<try>testy</try>
+		<try>zesty</try>
+	</quordle>
+
+	<quordle date="2023-08-12" number="574" scores="5 7 6 4" words="apron stale guilt party">
+		<try>trick</try>
+		<try>power</try>
+		<try>bungy</try>
+		<try>party</try>
+		<try>apron</try>
+		<try>guilt</try>
+		<try>stale</try>
+	</quordle>
+
 </wordles>

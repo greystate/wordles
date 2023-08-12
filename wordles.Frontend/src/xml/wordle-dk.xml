@@ -4006,4 +4006,18 @@
 		<try>sheik</try>
 	</wordle>
 
+	<wordle date="2023-08-11" number="571" score="4" word="klima">
+		<try>flere</try>
+		<try>klogt</try>
+		<try>klask</try>
+		<try>klima</try>
+	</wordle>
+
+	<wordle date="2023-08-12" number="572" score="4" word="betro">
+		<try>trick</try>
+		<try>rotor</try>
+		<try>metro</try>
+		<try>betro</try>
+	</wordle>
+
 </wordles>

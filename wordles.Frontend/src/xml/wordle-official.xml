@@ -3900,4 +3900,18 @@
 		<try>empty</try>
 	</wordle>
 
+	<wordle date="2023-08-11" number="783" score="5" word="hello">
+		<try>trunk</try>
+		<try>hijab</try>
+		<try>hoped</try>
+		<try>helos</try>
+		<try>hello</try>
+	</wordle>
+
+	<wordle date="2023-08-12" number="784" score="3" word="quick">
+		<try>flick</try>
+		<try>trick</try>
+		<try>quick</try>
+	</wordle>
+
 </wordles>
