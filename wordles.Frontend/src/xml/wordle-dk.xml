@@ -4020,4 +4020,28 @@
 		<try>betro</try>
 	</wordle>
 
+	<wordle date="2023-08-13" number="573" score="6" word="enhed">
+		<try>grimt</try>
+		<try>spade</try>
+		<try>dyvel</try>
+		<try>koden</try>
+		<try>nyhed</try>
+		<try>enhed</try>
+	</wordle>
+
+	<wordle date="2023-08-14" number="574" score="3" word="advis">
+		<try>udset</try>
+		<try>adles</try>
+		<try>advis</try>
+	</wordle>
+
+	<wordle date="2023-08-15" number="575" score="6" word="aende">
+		<try>greve</try>
+		<try>lette</try>
+		<try>sende</try>
+		<try>kende</try>
+		<try>hende</try>
+		<try>aende</try>
+	</wordle>
+
 </wordles>

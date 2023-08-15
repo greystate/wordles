@@ -5290,4 +5290,39 @@
 		<try>stale</try>
 	</quordle>
 
+	<quordle date="2023-08-13" number="575" scores="8 5 9 7" words="sauce deign hardy flung">
+		<try>blast</try>
+		<try>power</try>
+		<try>minds</try>
+		<try>denim</try>
+		<try>deign</try>
+		<try>clung</try>
+		<try>flung</try>
+		<try>sauce</try>
+		<try>hardy</try>
+	</quordle>
+
+	<quordle date="2023-08-14" number="576" scores="4 8 3 6" words="cargo patty barge melon">
+		<try>blink</try>
+		<try>bards</try>
+		<try>barge</try>
+		<try>cargo</try>
+		<try>lemon</try>
+		<try>melon</try>
+		<try>tatty</try>
+		<try>patty</try>
+	</quordle>
+
+	<quordle date="2023-08-15" number="577" scores="3 7 8 5" words="ionic daunt bribe north">
+		<try>index</try>
+		<try>poker</try>
+		<try>ionic</try>
+		<try>tilde</try>
+		<try>north</try>
+		<try>fairy</try>
+		<try>daunt</try>
+		<try>bribe</try>
+	</quordle>
+
+
 </wordles>

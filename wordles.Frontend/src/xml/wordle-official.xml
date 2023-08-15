@@ -3914,4 +3914,23 @@
 		<try>quick</try>
 	</wordle>
 
+	<wordle date="2023-08-13" number="785" score="3" word="wrath">
+		<try>rains</try>
+		<try>heard</try>
+		<try>wrath</try>
+	</wordle>
+
+	<wordle date="2023-08-14" number="786" score="4" word="snaky">
+		<try>break</try>
+		<try>packs</try>
+		<try>shaky</try>
+		<try>snaky</try>
+	</wordle>
+
+	<wordle date="2023-08-15" number="787" score="3" word="index">
+		<try>blast</try>
+		<try>creep</try>
+		<try>index</try>
+	</wordle>
+
 </wordles>
