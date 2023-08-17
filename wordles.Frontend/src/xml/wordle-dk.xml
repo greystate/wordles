@@ -4044,4 +4044,22 @@
 		<try>aende</try>
 	</wordle>
 
+	<wordle date="2023-08-16" number="576" score="0" word="aedes">
+		<try>nøgle</try>
+		<try>bedst</try>
+		<try>redes</try>
+		<try>kedes</try>
+		<try>medes</try>
+		<try>hedes</try>
+	</wordle>
+
+	<wordle date="2023-08-17" number="577" score="6" word="dålam">
+		<try>vokse</try>
+		<try>trægt</try>
+		<try>umami</try>
+		<try>mamba</try>
+		<try>afmål</try>
+		<try>dålam</try>
+	</wordle>
+
 </wordles>

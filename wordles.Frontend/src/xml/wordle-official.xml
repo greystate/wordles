@@ -3933,4 +3933,19 @@
 		<try>index</try>
 	</wordle>
 
+	<wordle date="2023-08-16" number="788" score="5" word="scrub">
+		<try>graph</try>
+		<try>round</try>
+		<try>furry</try>
+		<try>serum</try>
+		<try>scrub</try>
+	</wordle>
+
+	<wordle date="2023-08-17" number="789" score="4" word="amiss">
+		<try>seven</try>
+		<try>flips</try>
+		<try>acids</try>
+		<try>amiss</try>
+	</wordle>
+
 </wordles>

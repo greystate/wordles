@@ -5324,5 +5324,25 @@
 		<try>bribe</try>
 	</quordle>
 
+	<quordle date="2023-08-16" number="578" scores="5 8 6 2" words="boost quark adult angst">
+		<try>gangs</try>
+		<try>angst</try>
+		<try>first</try>
+		<try>power</try>
+		<try>boost</try>
+		<try>adult</try>
+		<try>urman</try>
+		<try>quark</try>
+	</quordle>
+
+	<quordle date="2023-08-17" number="579" scores="5 3 7 6" words="olden hasty adult olive">
+		<try>seven</try>
+		<try>third</try>
+		<try>hasty</try>
+		<try>plumb</try>
+		<try>olden</try>
+		<try>olive</try>
+		<try>adult</try>
+	</quordle>
 
 </wordles>
