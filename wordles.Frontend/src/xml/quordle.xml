@@ -5345,4 +5345,17 @@
 		<try>adult</try>
 	</quordle>
 
+	<quordle date="2023-08-18" number="580" scores="3 7 4 9" words="expel rogue patch minty">
+		<try>exact</try>
+		<try>poker</try>
+		<try>expel</try>
+		<try>patch</try>
+		<try>worse</try>
+		<try>rouge</try>
+		<try>rogue</try>
+		<try>bitty</try>
+		<try>minty</try>
+	</quordle>
+
+
 </wordles>
