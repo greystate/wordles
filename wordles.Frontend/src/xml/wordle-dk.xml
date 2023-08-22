@@ -4069,4 +4069,34 @@
 		<try>falme</try>
 	</wordle>
 
+	<wordle date="2023-08-19" number="579" score="4" word="galej">
+		<try>krave</try>
+		<try>aften</try>
+		<try>sager</try>
+		<try>galej</try>
+	</wordle>
+
+	<wordle date="2023-08-20" number="580" score="5" word="istid">
+		<try>pløre</try>
+		<try>sumak</try>
+		<try>indså</try>
+		<try>isbod</try>
+		<try>istid</try>
+	</wordle>
+
+	<wordle date="2023-08-21" number="581" score="6" word="bølle">
+		<try>streg</try>
+		<try>bænke</try>
+		<try>bombe</try>
+		<try>balde</try>
+		<try>bille</try>
+		<try>bølle</try>
+	</wordle>
+
+	<wordle date="2023-08-22" number="582" score="3" word="slank">
+		<try>start</try>
+		<try>smage</try>
+		<try>slank</try>
+	</wordle>
+
 </wordles>

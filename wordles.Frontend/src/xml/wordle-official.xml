@@ -3955,4 +3955,33 @@
 		<try>exact</try>
 	</wordle>
 
+	<wordle date="2023-08-19" number="791" score="5" word="magma">
+		<try>rhine</try>
+		<try>class</try>
+		<try>vampy</try>
+		<try>datum</try>
+		<try>magma</try>
+	</wordle>
+
+	<wordle date="2023-08-20" number="792" score="3" word="quest">
+		<try>young</try>
+		<try>upset</try>
+		<try>quest</try>
+	</wordle>
+
+	<wordle date="2023-08-21" number="793" score="5" word="beach">
+		<try>stain</try>
+		<try>weary</try>
+		<try>heave</try>
+		<try>peach</try>
+		<try>beach</try>
+	</wordle>
+
+	<wordle date="2023-08-22" number="794" score="4" word="spice">
+		<try>freak</try>
+		<try>stole</try>
+		<try>spine</try>
+		<try>spice</try>
+	</wordle>
+
 </wordles>

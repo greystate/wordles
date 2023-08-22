@@ -5357,5 +5357,49 @@
 		<try>minty</try>
 	</quordle>
 
+	<quordle date="2023-08-19" number="581" scores="4 8 7 6" words="stiff quoth mucky wedge">
+		<try>sails</try>
+		<try>spire</try>
+		<try>bungy</try>
+		<try>stiff</try>
+		<try>dummy</try>
+		<try>wedge</try>
+		<try>mucky</try>
+		<try>quoth</try>
+	</quordle>
+
+	<quordle date="2023-08-20" number="582" scores="0 9 5 7" words="wimpy plunk foray shake">
+		<try>crank</try>
+		<try>youth</try>
+		<try>royal</try>
+		<try>flunk</try>
+		<try>foray</try>
+		<try>shaky</try>
+		<try>shake</try>
+		<try>piggy</try>
+		<try>plunk</try>
+	</quordle>
+
+	<quordle date="2023-08-21" number="583" scores="5 3 7 8" words="filth trace stony folio">
+		<try>blaze</try>
+		<try>truth</try>
+		<try>trace</try>
+		<try>swing</try>
+		<try>filth</try>
+		<try>stonk</try>
+		<try>stony</try>
+		<try>folio</try>
+	</quordle>
+
+	<quordle date="2023-08-22" number="584" scores="4 6 5 7" words="coast awoke cloth annex">
+		<try>dress</try>
+		<try>place</try>
+		<try>motif</try>
+		<try>coast</try>
+		<try>cloth</try>
+		<try>awoke</try>
+		<try>annex</try>
+	</quordle>
+
 
 </wordles>
