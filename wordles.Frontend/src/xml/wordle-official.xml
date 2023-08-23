@@ -3984,4 +3984,13 @@
 		<try>spice</try>
 	</wordle>
 
+	<wordle date="2023-08-23" number="795" score="0" word="verve">
+		<try>width</try>
+		<try>opera</try>
+		<try>refer</try>
+		<try>merge</try>
+		<try>serve</try>
+		<try>nerve</try>
+	</wordle>
+
 </wordles>
