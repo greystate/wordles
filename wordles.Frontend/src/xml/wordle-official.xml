@@ -3993,4 +3993,11 @@
 		<try>nerve</try>
 	</wordle>
 
+	<wordle date="2023-08-24" number="796" score="4" word="wordy">
+		<try>wedge</try>
+		<try>width</try>
+		<try>world</try>
+		<try>wordy</try>
+	</wordle>
+
 </wordles>
