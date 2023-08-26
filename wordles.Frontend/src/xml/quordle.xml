@@ -5422,4 +5422,28 @@
 		<try>jetty</try>
 	</quordle>
 
+	<quordle date="2023-08-25" number="587" scores="6 7 4 9" words="champ clack pivot booth">
+		<try>speak</try>
+		<try>fight</try>
+		<try>drown</try>
+		<try>pivot</try>
+		<try>happy</try>
+		<try>champ</try>
+		<try>clack</try>
+		<try>broth</try>
+		<try>booth</try>
+	</quordle>
+
+	<quordle date="2023-08-26" number="588" scores="5 4 9 8" words="leash smear basal brief">
+		<try>choir</try>
+		<try>heave</try>
+		<try>stump</try>
+		<try>smear</try>
+		<try>leash</try>
+		<try>wired</try>
+		<try>grief</try>
+		<try>brief</try>
+		<try>basal</try>
+	</quordle>
+
 </wordles>

@@ -4113,4 +4113,22 @@
 		<try>badut</try>
 	</wordle>
 
+	<wordle date="2023-08-25" number="585" score="0" word="bajer">
+		<try>skade</try>
+		<try>alter</try>
+		<try>vaner</try>
+		<try>fager</try>
+		<try>racer</try>
+		<try>barer</try>
+	</wordle>
+
+	<wordle date="2023-08-26" number="586" score="6" word="anlæg">
+		<try>fiske</try>
+		<try>start</try>
+		<try>mambo</try>
+		<try>udgav</try>
+		<try>galla</try>
+		<try>anlæg</try>
+	</wordle>
+
 </wordles>

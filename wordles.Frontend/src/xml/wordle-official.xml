@@ -4000,4 +4000,19 @@
 		<try>wordy</try>
 	</wordle>
 
+	<wordle date="2023-08-25" number="797" score="4" word="ocean">
+		<try>speak</try>
+		<try>evade</try>
+		<try>arena</try>
+		<try>ocean</try>
+	</wordle>
+
+	<wordle date="2023-08-26" number="798" score="5" word="choir">
+		<try>frisk</try>
+		<try>river</try>
+		<try>incur</try>
+		<try>chair</try>
+		<try>choir</try>
+	</wordle>
+
 </wordles>
