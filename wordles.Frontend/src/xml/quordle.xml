@@ -5446,4 +5446,27 @@
 		<try>basal</try>
 	</quordle>
 
+	<quordle date="2023-08-27" number="589" scores="8 6 7 4" words="vowel blunt stoke shady">
+		<try>dream</try>
+		<try>snafu</try>
+		<try>scald</try>
+		<try>shady</try>
+		<try>stove</try>
+		<try>blunt</try>
+		<try>stoke</try>
+		<try>vowel</try>
+	</quordle>
+
+	<quordle date="2023-08-28" number="590" scores="9 6 5 8" words="paint alloy forty fiber">
+		<try>freak</try>
+		<try>tower</try>
+		<try>forts</try>
+		<try>young</try>
+		<try>forty</try>
+		<try>alloy</try>
+		<try>fever</try>
+		<try>fiber</try>
+		<try>paint</try>
+	</quordle>
+
 </wordles>

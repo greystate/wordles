@@ -4131,4 +4131,18 @@
 		<try>anlæg</try>
 	</wordle>
 
+	<wordle date="2023-08-27" number="587" score="2" word="facon">
+		<try>tonal</try>
+		<try>facon</try>
+	</wordle>
+
+	<wordle date="2023-08-28" number="588" score="5" word="bizar">
+		<try>opera</try>
+		<try>raskt</try>
+		<try>brand</try>
+		<try>bilag</try>
+		<try>bizar</try>
+	</wordle>
+
+
 </wordles>
