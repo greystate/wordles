@@ -4144,5 +4144,20 @@
 		<try>bizar</try>
 	</wordle>
 
+	<wordle date="2023-08-29" number="589" score="6" word="byråd">
+		<try>lader</try>
+		<try>drink</try>
+		<try>gjord</try>
+		<try>sprød</try>
+		<try>udryd</try>
+		<try>byråd</try>
+	</wordle>
+
+	<wordle date="2023-08-30" number="590" score="4" word="vinke">
+		<try>audio</try>
+		<try>rides</try>
+		<try>kigge</try>
+		<try>vinke</try>
+	</wordle>
 
 </wordles>

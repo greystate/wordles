@@ -4031,4 +4031,16 @@
 		<try>write</try>
 	</wordle>
 
+	<wordle date="2023-08-29" number="801" score="4" word="caper">
+		<try>clear</try>
+		<try>carer</try>
+		<try>cater</try>
+		<try>caper</try>
+	</wordle>
+
+	<wordle date="2023-08-30" number="802" score="2" word="audio">
+		<try>bleak</try>
+		<try>audio</try>
+	</wordle>
+
 </wordles>

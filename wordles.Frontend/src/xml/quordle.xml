@@ -5469,4 +5469,29 @@
 		<try>paint</try>
 	</quordle>
 
+	<quordle date="2023-08-29" number="591" scores="9 3 6 7" words="brass paste wider pixie">
+		<try>caper</try>
+		<try>prove</try>
+		<try>paste</try>
+		<try>grabs</try>
+		<try>mixer</try>
+		<try>wider</try>
+		<try>pixie</try>
+		<try>brays</try>
+		<try>brass</try>
+	</quordle>
+
+	<quordle date="2023-08-30" number="592" scores="6 9 0 0" words="mount sleet scamp savoy">
+		<try>quest</try>
+		<try>drunk</try>
+		<try>blunt</try>
+		<try>slept</try>
+		<try>soggy</try>
+		<try>mount</try>
+		<try>spams</try>
+		<try>swamp</try>
+		<try>sleet</try>
+	</quordle>
+
+
 </wordles>
