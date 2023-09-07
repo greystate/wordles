@@ -4043,4 +4043,59 @@
 		<try>audio</try>
 	</wordle>
 
+	<wordle date="2023-08-31" number="803" score="4" word="bride">
+		<try>plain</try>
+		<try>sides</try>
+		<try>deity</try>
+		<try>bride</try>
+	</wordle>
+
+	<wordle date="2023-09-01" number="804" score="4" word="space">
+		<try>pound</try>
+		<try>trips</try>
+		<try>speak</try>
+		<try>space</try>
+	</wordle>
+
+	<wordle date="2023-09-02" number="805" score="4" word="onion">
+		<try>liver</try>
+		<try>stain</try>
+		<try>union</try>
+		<try>onion</try>
+	</wordle>
+
+	<wordle date="2023-09-03" number="806" score="4" word="await">
+		<try>brand</try>
+		<try>stamp</try>
+		<try>thack</try>
+		<try>await</try>
+	</wordle>
+
+	<wordle date="2023-09-04" number="807" score="4" word="giddy">
+		<try>fleas</try>
+		<try>drunk</try>
+		<try>toddy</try>
+		<try>giddy</try>
+	</wordle>
+
+	<wordle date="2023-09-05" number="808" score="4" word="birch">
+		<try>think</try>
+		<try>hitch</try>
+		<try>zilch</try>
+		<try>birch</try>
+	</wordle>
+
+	<wordle date="2023-09-06" number="809" score="4" word="gnash">
+		<try>clues</try>
+		<try>stray</try>
+		<try>basin</try>
+		<try>gnash</try>
+	</wordle>
+
+	<wordle date="2023-09-07" number="810" score="3" word="dwell">
+		<try>stain</try>
+		<try>bleed</try>
+		<try>dwell</try>
+	</wordle>
+
 </wordles>

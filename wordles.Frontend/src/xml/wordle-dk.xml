@@ -4160,4 +4160,59 @@
 		<try>vinke</try>
 	</wordle>
 
+	<wordle date="2023-08-31" number="592" score="5" word="arrig">
+		<try>dråbe</try>
+		<try>frist</try>
+		<try>ironi</try>
+		<try>ærlig</try>
+		<try>arrig</try>
+	</wordle>
+
+	<wordle date="2023-09-01" number="593" score="6" word="feber">
+		<try>drink</try>
+		<try>ramle</try>
+		<try>buret</try>
+		<try>sober</try>
+		<try>håber</try>
+		<try>feber</try>
+	</wordle>
+
+	<wordle date="2023-09-02" number="594" score="4" word="galla">
+		<try>opera</try>
+		<try>skema</try>
+		<try>panda</try>
+		<try>galla</try>
+	</wordle>
+
+	<!-- 2023-09-03 -->
+
+	<wordle date="2023-09-04" number="596" score="3" word="fræse">
+		<try>plade</try>
+		<try>stege</try>
+		<try>fræse</try>
+	</wordle>
+
+	<wordle date="2023-09-05" number="597" score="4" word="bifag">
+		<try>heste</try>
+		<try>drama</try>
+		<try>panik</try>
+		<try>aioli</try>
+		<try>bifag</try>
+	</wordle>
+
+	<wordle date="2023-09-06" number="598" score="4" word="cello">
+		<try>bamse</try>
+		<try>meter</try>
+		<try>fenol</try>
+		<try>cello</try>
+	</wordle>
+
+	<wordle date="2023-09-07" number="599" score="5" word="årlig">
+		<try>glans</try>
+		<try>ugler</try>
+		<try>rolig</try>
+		<try>ærlig</try>
+		<try>årlig</try>
+	</wordle>
+
 </wordles>
