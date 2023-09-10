@@ -5575,4 +5575,39 @@
 		<try>river</try>
 	</quordle>
 
+	<quordle date="2023-09-08" number="601" scores="8 5 6 7" words="sappy stall rayon civic">
+		<try>blunt</try>
+		<try>drove</try>
+		<try>piggy</try>
+		<try>crazy</try>
+		<try>stall</try>
+		<try>rayon</try>
+		<try>civic</try>
+		<try>sappy</try>
+	</quordle>
+
+	<quordle date="2023-09-09" number="602" scores="7 9 4 6" words="marry infer stale suite">
+		<try>stars</try>
+		<try>cling</try>
+		<try>poker</try>
+		<try>stale</try>
+		<try>muddy</try>
+		<try>suite</try>
+		<try>marry</try>
+		<try>river</try>
+		<try>infer</try>
+	</quordle>
+
+	<quordle date="2023-09-10" number="603" scores="4 7 6 8" words="train riper black scram">
+		<try>blast</try>
+		<try>knife</try>
+		<try>roped</try>
+		<try>train</try>
+		<try>racks</try>
+		<try>black</try>
+		<try>riper</try>
+		<try>scram</try>
+	</quordle>
+
+
 </wordles>

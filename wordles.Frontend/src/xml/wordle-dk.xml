@@ -4215,4 +4215,24 @@
 		<try>årlig</try>
 	</wordle>
 
+	<wordle date="2023-09-08" number="600" score="2" word="april">
+		<try>opera</try>
+		<try>april</try>
+	</wordle>
+
+	<wordle date="2023-09-09" number="601" score="4" word="kamin">
+		<try>klode</try>
+		<try>kraft</try>
+		<try>kanin</try>
+		<try>kamin</try>
+	</wordle>
+
+	<wordle date="2023-09-10" number="602" score="5" word="limbo">
+		<try>damer</try>
+		<try>dæmon</try>
+		<try>komik</try>
+		<try>bimbo</try>
+		<try>limbo</try>
+	</wordle>
+
 </wordles>
