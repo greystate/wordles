@@ -4235,4 +4235,9 @@
 		<try>limbo</try>
 	</wordle>
 
+	<wordle date="2023-09-11" number="603" score="2" word="barak">
+		<try>brysk</try>
+		<try>barak</try>
+	</wordle>
+
 </wordles>

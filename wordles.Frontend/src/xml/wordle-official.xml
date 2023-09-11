@@ -4118,4 +4118,9 @@
 		<try>quote</try>
 	</wordle>
 
+	<wordle date="2023-09-11" number="814" score="2" word="older">
+		<try>goals</try>
+		<try>older</try>
+	</wordle>
+
 </wordles>

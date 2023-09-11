@@ -5609,5 +5609,16 @@
 		<try>scram</try>
 	</quordle>
 
+	<quordle date="2023-09-11" number="604" scores="8 6 5 7" words="recut greed cover meter ">
+		<try>loins</try>
+		<try>dream</try>
+		<try>bumpy</try>
+		<try>creed</try>
+		<try>cover</try>
+		<try>greed</try>
+		<try>meter</try>
+		<try>recut</try>
+	</quordle>
+
 
 </wordles>
