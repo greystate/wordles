@@ -4123,4 +4123,17 @@
 		<try>older</try>
 	</wordle>
 
+	<wordle date="2023-09-12" number="815" score="4" word="whisk">
+		<try>plead</try>
+		<try>youth</try>
+		<try>shirk</try>
+		<try>whisk</try>
+	</wordle>
+
+	<wordle date="2023-09-13" number="816" score="3" word="clear">
+		<try>titan</try>
+		<try>regal</try>
+		<try>clear</try>
+	</wordle>
+
 </wordles>

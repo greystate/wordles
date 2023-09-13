@@ -5620,5 +5620,28 @@
 		<try>recut</try>
 	</quordle>
 
+	<quordle date="2023-09-12" number="605" scores="9 6 8 7" words="cynic gruel cacti tower">
+		<try>plant</try>
+		<try>atlas</try>
+		<try>bride</try>
+		<try>foggy</try>
+		<try>voter</try>
+		<try>gruel</try>
+		<try>tower</try>
+		<try>cacti</try>
+		<try>cynic</try>
+	</quordle>
+
+	<quordle date="2023-09-13" number="606" scores="6 4 8 9" words="guess micro droop elate">
+		<try>tonic</try>
+		<try>dumpy</try>
+		<try>share</try>
+		<try>micro</try>
+		<try>buses</try>
+		<try>guess</try>
+		<try>wrate</try>
+		<try>droop</try>
+		<try>elate</try>
+	</quordle>
 
 </wordles>

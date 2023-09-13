@@ -4240,4 +4240,18 @@
 		<try>barak</try>
 	</wordle>
 
+	<wordle date="2023-09-12" number="604" score="4" word="gyros">
+		<try>bjørn</try>
+		<try>læber</try>
+		<try>krads</try>
+		<try>gyros</try>
+	</wordle>
+
+	<wordle date="2023-09-13" number="605" score="4" word="ansat">
+		<try>konti</try>
+		<try>tænde</try>
+		<try>anset</try>
+		<try>ansat</try>
+	</wordle>
+
 </wordles>
