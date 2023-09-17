@@ -5644,4 +5644,48 @@
 		<try>elate</try>
 	</quordle>
 
+	<quordle date="2023-09-14" number="607" scores="5 7 4 8" words="chest river there emcee">
+		<try>strip</try>
+		<try>gears</try>
+		<try>youth</try>
+		<try>there</try>
+		<try>chest</try>
+		<try>rider</try>
+		<try>river</try>
+		<try>emcee</try>
+	</quordle>
+
+	<quordle date="2023-09-15" number="608" scores="9 0 7 6" words="fishy drake torus smote">
+		<try>gleam</try>
+		<try>power</try>
+		<try>manic</try>
+		<try>busty</try>
+		<try>tours</try>
+		<try>smote</try>
+		<try>torus</try>
+		<try>sissy</try>
+		<try>fishy</try>
+	</quordle>
+
+	<quordle date="2023-09-16" number="609" scores="7 6 5 4" words="flail altar yacht haunt">
+		<try>angle</try>
+		<try>droid</try>
+		<try>humps</try>
+		<try>haunt</try>
+		<try>yacht</try>
+		<try>altar</try>
+		<try>flail</try>
+	</quordle>
+
+	<quordle date="2023-09-17" number="610" scores="5 6 7 8" words="scrub dusty quoth uncle">
+		<try>money</try>
+		<try>brash</try>
+		<try>cloth</try>
+		<try>scrab</try>
+		<try>scrub</try>
+		<try>dusty</try>
+		<try>quoth</try>
+		<try>uncle</try>
+	</quordle>
+
 </wordles>

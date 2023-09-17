@@ -4254,4 +4254,33 @@
 		<try>ansat</try>
 	</wordle>
 
+	<wordle date="2023-09-14" number="606" score="4" word="farao">
+		<try>spørg</try>
+		<try>pynte</try>
+		<try>koral</try>
+		<try>farao</try>
+	</wordle>
+
+	<wordle date="2023-09-15" number="607" score="5" word="genom">
+		<try>saldo</try>
+		<try>orker</try>
+		<try>bomme</try>
+		<try>netop</try>
+		<try>genom</try>
+	</wordle>
+
+	<wordle date="2023-09-16" number="608" score="4" word="kaput">
+		<try>synsk</try>
+		<try>kroge</try>
+		<try>klamt</try>
+		<try>kaput</try>
+	</wordle>
+
+	<wordle date="2023-09-17" number="709" score="4" word="lotto">
+		<try>penge</try>
+		<try>frost</try>
+		<try>omtal</try>
+		<try>lotto</try>
+	</wordle>
+
 </wordles>
