@@ -5688,4 +5688,14 @@
 		<try>uncle</try>
 	</quordle>
 
+	<quordle date="2023-09-18" number="611" scores="6 7 4 5" words="swear lowly stand upset">
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>stand</try>
+		<try>upset</try>
+		<try>swear</try>
+		<try>lowly</try>
+	</quordle>
+
 </wordles>

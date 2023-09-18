@@ -4165,4 +4165,11 @@
 		<try>music</try>
 	</wordle>
 
+	<wordle date="2023-09-18" number="821" score="4" word="frank">
+		<try>weary</try>
+		<try>track</try>
+		<try>prank</try>
+		<try>frank</try>
+	</wordle>
+
 </wordles>

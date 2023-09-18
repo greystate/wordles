@@ -4283,4 +4283,10 @@
 		<try>lotto</try>
 	</wordle>
 
+	<wordle date="2023-09-18" number="710" score="3" word="metro">
+		<try>fiske</try>
+		<try>mader</try>
+		<try>metro</try>
+	</wordle>
+
 </wordles>
