@@ -4172,4 +4172,50 @@
 		<try>frank</try>
 	</wordle>
 
+	<wordle date="2023-09-19" number="822" score="5" word="close">
+		<try>crave</try>
+		<try>coupe</try>
+		<try>clone</try>
+		<try>clove</try>
+		<try>close</try>
+	</wordle>
+
+	<wordle date="2023-09-20" number="823" score="4" word="snare">
+		<try>stick</try>
+		<try>slash</try>
+		<try>spare</try>
+		<try>snare</try>
+	</wordle>
+
+	<wordle date="2023-09-21" number="824" score="4" word="stone">
+		<try>flash</try>
+		<try>strum</try>
+		<try>sting</try>
+		<try>stone</try>
+	</wordle>
+
+	<wordle date="2023-09-22" number="825" score="4" word="brush">
+		<try>eight</try>
+		<try>havoc</try>
+		<try>flush</try>
+		<try>brush</try>
+	</wordle>
+
+	<wordle date="2023-09-23" number="826" score="2" word="carol">
+		<try>pared</try>
+		<try>carol</try>
+	</wordle>
+
+	<wordle date="2023-09-24" number="827" score="3" word="right">
+		<try>crash</try>
+		<try>their</try>
+		<try>right</try>
+	</wordle>
+
+	<wordle date="2023-09-25" number="828" score="3" word="rocky">
+		<try>prank</try>
+		<try>risky</try>
+		<try>rocky</try>
+	</wordle>
+
 </wordles>

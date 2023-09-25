@@ -5698,4 +5698,85 @@
 		<try>lowly</try>
 	</quordle>
 
+	<quordle date="2023-09-19" number="612" scores="4 6 7 8" words="wacky layer fruit miner">
+		<try>group</try>
+		<try>stray</try>
+		<try>truck</try>
+		<try>wacky</try>
+		<try>mayor</try>
+		<try>layer</try>
+		<try>fruit</try>
+		<try>miner</try>
+	</quordle>
+
+	<quordle date="2023-09-20" number="613" scores="0 5 8 6" words="tamer snout bland sleep">
+		<try>place</try>
+		<try>elope</try>
+		<try>slant</try>
+		<try>snort</try>
+		<try>snout</try>
+		<try>sleep</try>
+		<try>flank</try>
+		<try>bland</try>
+		<try>water</try>
+	</quordle>
+
+	<quordle date="2023-09-21" number="614" scores="0 7 5 8" words="aware shone shade shelf">
+		<try>lives</try>
+		<try>trend</try>
+		<try>sugar</try>
+		<try>early</try>
+		<try>shade</try>
+		<try>shell</try>
+		<try>shone</try>
+		<try>shelf</try>
+		<try>awake</try> <!-- Mistyped this one; did know the answer -->
+	</quordle>
+
+	<quordle date="2023-09-22" number="615" scores="0 6 3 8" words="chili metro puree kiosk">
+		<try>flung</try>
+		<try>power</try>
+		<try>puree</try>
+		<try>beast</try>
+		<try>retro</try>
+		<try>metro</try>
+		<try>hilly</try>
+		<try>kiosk</try>
+		<try>child</try>
+	</quordle>
+
+	<quordle date="2023-09-23" number="616" scores="5 6 8 9" words="heard loath guest sigma">
+		<try>tanks</try>
+		<try>power</try>
+		<try>bread</try>
+		<try>chest</try>
+		<try>heard</try>
+		<try>loath</try>
+		<try>quest</try>
+		<try>guest</try>
+		<try>sigma</try>
+	</quordle>
+
+	<quordle date="2023-09-24" number="617" scores="5 3 7 6" words="lucky angry quiet lucid">
+		<try>night</try>
+		<try>poker</try>
+		<try>angry</try>
+		<try>bulky</try>
+		<try>lucky</try>
+		<try>lucid</try>
+		<try>quiet</try>
+	</quordle>
+
+	<quordle date="2023-09-25" number="617" scores="4 9 5 8" words="leash gazer guile kneed">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>leash</try>
+		<try>guile</try>
+		<try>grave</try>
+		<try>ended</try>
+		<try>kneed</try>
+		<try>gazer</try>
+	</quordle>
+
 </wordles>

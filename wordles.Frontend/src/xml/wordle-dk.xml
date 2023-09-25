@@ -4289,4 +4289,55 @@
 		<try>metro</try>
 	</wordle>
 
+	<wordle date="2023-09-19" number="711" score="3" word="bydel">
+		<try>olier</try>
+		<try>ladet</try>
+		<try>bydel</try>
+	</wordle>
+
+	<wordle date="2023-09-20" number="712" score="5" word="folie">
+		<try>hunde</try>
+		<try>katte</try>
+		<try>rimpe</try>
+		<try>slibe</try>
+		<try>folie</try>
+	</wordle>
+
+	<wordle date="2023-09-21" number="713" score="4" word="valør">
+		<try>blade</try>
+		<try>karma</try>
+		<try>salær</try>
+		<try>valør</try>
+	</wordle>
+
+	<wordle date="2023-09-22" number="714" score="5" word="apati">
+		<try>udsat</try>
+		<try>tavle</try>
+		<try>aktør</try>
+		<try>atoms</try>
+		<try>apati</try>
+	</wordle>
+
+	<wordle date="2023-09-23" number="715" score="3" word="karry">
+		<try>opera</try>
+		<try>kvark</try>
+		<try>karry</try>
+	</wordle>
+
+	<wordle date="2023-09-24" number="716" score="4" word="oktan">
+		<try>danse</try>
+		<try>indad</try>
+		<try>notat</try>
+		<try>oktan</try>
+	</wordle>
+
+	<wordle date="2023-09-25" number="717" score="0" word="fumle">
+		<try>noder</try>
+		<try>slave</try>
+		<try>lytte</try>
+		<try>bimle</try>
+		<try>humle</try>
+		<try>gumle</try>
+	</wordle>
+
 </wordles>
