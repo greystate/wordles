@@ -5779,4 +5779,51 @@
 		<try>gazer</try>
 	</quordle>
 
+	<quordle date="2023-09-26" number="618" scores="8 5 4 6" words="sedan chard chasm gusto">
+		<try>flesh</try>
+		<try>topic</try>
+		<try>grade</try>
+		<try>chasm</try>
+		<try>chard</try>
+		<try>gusto</try>
+		<try>sades</try>
+		<try>sedan</try>
+	</quordle>
+
+	<quordle date="2023-09-27" number="619" scores="8 6 0 5" words="noisy cleat eager carat">
+		<try>fling</try>
+		<try>great</try>
+		<try>argue</try>
+		<try>raged</try>
+		<try>carat</try>
+		<try>cleat</try>
+		<try>pager</try>
+		<try>noisy</try>
+		<try>wager</try>
+	</quordle>
+
+	<quordle date="2023-09-28" number="620" scores="5 8 0 4" words="saucy peach surer strip">
+		<try>boost</try>
+		<try>stray</try>
+		<try>panic</try>
+		<try>strip</try>
+		<try>saucy</try>
+		<try>space</try>
+		<try>peace</try>
+		<try>peach</try>
+		<try>surge</try>
+	</quordle>
+
+	<quordle date="2023-09-29" number="621" scores="9 4 6 0" words="parer clasp shard jerky">
+		<try>clash</try>
+		<try>class</try>
+		<try>poker</try>
+		<try>clasp</try>
+		<try>shark</try>
+		<try>shard</try>
+		<try>pager</try>
+		<try>murky</try>
+		<try>parer</try>
+	</quordle>
+
 </wordles>

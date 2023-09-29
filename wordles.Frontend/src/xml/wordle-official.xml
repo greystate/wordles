@@ -4218,4 +4218,30 @@
 		<try>rocky</try>
 	</wordle>
 
+	<wordle date="2023-09-26" number="829" score="4" word="loyal">
+		<try>print</try>
+		<try>faces</try>
+		<try>alloy</try>
+		<try>loyal</try>
+	</wordle>
+
+	<wordle date="2023-09-27" number="830" score="3" word="smile">
+		<try>dream</try>
+		<try>plume</try>
+		<try>smile</try>
+	</wordle>
+
+	<wordle date="2023-09-28" number="831" score="3" word="coach">
+		<try>ivory</try>
+		<try>chaos</try>
+		<try>coach</try>
+	</wordle>
+
+	<wordle date="2023-09-29" number="832" score="4" word="azure">
+		<try>throw</try>
+		<try>crane</try>
+		<try>faire</try>
+		<try>azure</try>
+	</wordle>
+
 </wordles>

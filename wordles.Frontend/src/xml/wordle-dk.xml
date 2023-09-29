@@ -4340,4 +4340,31 @@
 		<try>gumle</try>
 	</wordle>
 
+	<wordle date="2023-09-26" number="718" score="4" word="artig">
+		<try>opera</try>
+		<try>raskt</try>
+		<try>travl</try>
+		<try>artig</try>
+	</wordle>
+
+	<wordle date="2023-09-27" number="719" score="4" word="banko">
+		<try>klods</try>
+		<try>oktav</try>
+		<try>barok</try>
+		<try>banko</try>
+	</wordle>
+
+	<wordle date="2023-09-28" number="720" score="4" word="farin">
+		<try>skrue</try>
+		<try>april</try>
+		<try>tarif</try>
+		<try>farin</try>
+	</wordle>
+
+	<wordle date="2023-09-29" number="721" score="3" word="kolos">
+		<try>poste</try>
+		<try>modus</try>
+		<try>kolos</try>
+	</wordle>
+
 </wordles>
