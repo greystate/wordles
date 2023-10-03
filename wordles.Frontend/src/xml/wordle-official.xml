@@ -4244,4 +4244,34 @@
 		<try>azure</try>
 	</wordle>
 
+	<wordle date="2023-09-30" number="833" score="6" word="daddy">
+		<try>blush</try>
+		<try>poker</try>
+		<try>twang</try>
+		<try>acidy</try>
+		<try>faddy</try>
+		<try>daddy</try>
+	</wordle>
+
+	<wordle date="2023-10-01" number="834" score="3" word="beret">
+		<try>sweat</try>
+		<try>debit</try>
+		<try>beret</try>
+	</wordle>
+
+	<wordle date="2023-10-02" number="835" score="5" word="merry">
+		<try>hound</try>
+		<try>bream</try>
+		<try>meter</try>
+		<try>mercy</try>
+		<try>merry</try>
+	</wordle>
+
+	<wordle date="2023-10-03" number="836" score="4" word="while">
+		<try>freak</try>
+		<try>stove</try>
+		<try>glide</try>
+		<try>while</try>
+	</wordle>
+
 </wordles>

@@ -5826,4 +5826,48 @@
 		<try>parer</try>
 	</quordle>
 
+	<quordle date="2023-09-30" number="622" scores="8 4 6 7" words="melee check shone glide">
+		<try>steal</try>
+		<try>relic</try>
+		<try>shove</try>
+		<try>check</try>
+		<try>belle</try>
+		<try>shone</try>
+		<try>glide</try>
+		<try>melee</try>
+	</quordle>
+
+	<quordle date="2023-10-01" number="623" scores="9 5 8 0" words="least array bowel matey">
+		<try>spray</try>
+		<try>foray</try>
+		<try>would</try>
+		<try>vowel</try>
+		<try>array</try>
+		<try>cagey</try>
+		<try>blase</try>
+		<try>bowel</try>
+		<try>least</try>
+	</quordle>
+
+	<quordle date="2023-10-02" number="624" scores="7 6 3 8" words="guava flora legal onion">
+		<try>parse</try>
+		<try>logic</try>
+		<try>legal</try>
+		<try>alarm</try>
+		<try>bingo</try>
+		<try>flora</try>
+		<try>guava</try>
+		<try>onion</try>
+	</quordle>
+
+	<quordle date="2023-10-03" number="625" scores="4 6 5 7" words="qualm caulk voila going">
+		<try>power</try>
+		<try>bitsy</try>
+		<try>claim</try>
+		<try>qualm</try>
+		<try>voila</try>
+		<try>caulk</try>
+		<try>going</try>
+	</quordle>
+
 </wordles>

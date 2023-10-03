@@ -4367,4 +4367,32 @@
 		<try>kolos</try>
 	</wordle>
 
+	<wordle date="2023-09-30" number="722" score="3" word="moral">
+		<try>dreje</try>
+		<try>uklar</try>
+		<try>moral</try>
+	</wordle>
+
+	<wordle date="2023-10-01" number="723" score="3" word="oprør">
+		<try>opera</try>
+		<try>opråb</try>
+		<try>oprør</try>
+	</wordle>
+
+	<wordle date="2023-10-02" number="724" score="6" word="aende">
+		<try>streg</try>
+		<try>dille</try>
+		<try>mynde</try>
+		<try>bunde</try>
+		<try>kande</try>
+		<try>aende</try>
+	</wordle>
+
+	<wordle date="2023-10-03" number="725" score="4" word="bamse">
+		<try>huske</try>
+		<try>linse</try>
+		<try>morse</try>
+		<try>bamse</try>
+	</wordle>
+
 </wordles>
