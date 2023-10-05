@@ -5870,4 +5870,27 @@
 		<try>going</try>
 	</quordle>
 
+	<quordle date="2023-10-04" number="626" scores="9 6 0 7" words="whiff creep blunt spell">
+		<try>sixth</try>
+		<try>third</try>
+		<try>scrap</try>
+		<try>soups</try>
+		<try>while</try>
+		<try>creep</try>
+		<try>spell</try>
+		<try>bluff</try>
+		<try>whiff</try>
+	</quordle>
+
+	<quordle date="2023-10-05" number="627" scores="8 7 4 5" words="straw tilde miner carve">
+		<try>frank</try>
+		<try>adore</try>
+		<try>siren</try>
+		<try>miner</try>
+		<try>carve</try>
+		<try>strap</try>
+		<try>tilde</try>
+		<try>straw</try>
+	</quordle>
+
 </wordles>

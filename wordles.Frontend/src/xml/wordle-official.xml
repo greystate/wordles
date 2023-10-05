@@ -4274,4 +4274,19 @@
 		<try>while</try>
 	</wordle>
 
+	<wordle date="2023-10-04" number="837" score="4" word="spurt">
+		<try>tilde</try>
+		<try>stack</try>
+		<try>short</try>
+		<try>spurt</try>
+	</wordle>
+
+	<wordle date="2023-10-05" number="838" score="5" word="bunch">
+		<try>drink</try>
+		<try>newly</try>
+		<try>angst</try>
+		<try>cumin</try>
+		<try>bunch</try>
+	</wordle>
+
 </wordles>

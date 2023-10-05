@@ -4395,4 +4395,17 @@
 		<try>bamse</try>
 	</wordle>
 
+	<wordle date="2023-10-04" number="726" score="3" word="fløde">
+		<try>sekst</try>
+		<try>glade</try>
+		<try>fløde</try>
+	</wordle>
+
+	<wordle date="2023-10-05" number="727" score="4" word="zebra">
+		<try>fiske</try>
+		<try>typer</try>
+		<try>egern</try>
+		<try>zebra</try>
+	</wordle>
+
 </wordles>
