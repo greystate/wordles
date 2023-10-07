@@ -4289,4 +4289,19 @@
 		<try>bunch</try>
 	</wordle>
 
+	<wordle date="2023-10-06" number="839" score="4" word="chime">
+		<try>audio</try>
+		<try>cling</try>
+		<try>chief</try>
+		<try>chime</try>
+	</wordle>
+
+	<wordle date="2023-10-07" number="840" score="5" word="viola">
+		<try>track</try>
+		<try>sandy</try>
+		<try>apple</try>
+		<try>villa</try>
+		<try>viola</try>
+	</wordle>
+
 </wordles>
