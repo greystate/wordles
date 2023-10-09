@@ -4304,4 +4304,18 @@
 		<try>viola</try>
 	</wordle>
 
+	<wordle date="2023-10-08" number="841" score="4" word="binge">
+		<try>truth</try>
+		<try>plays</try>
+		<try>coven</try>
+		<try>binge</try>
+	</wordle>
+
+	<wordle date="2023-10-09" number="842" score="4" word="truth">
+		<try>lower</try>
+		<try>rains</try>
+		<try>truck</try>
+		<try>truth</try>
+	</wordle>
+
 </wordles>

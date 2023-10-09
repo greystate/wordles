@@ -4423,4 +4423,20 @@
 		<try>trick</try>
 	</wordle>
 
+	<wordle date="2023-10-08" number="730" score="0" word="søjle">
+		<try>træne</try>
+		<try>slave</try>
+		<try>solde</try>
+		<try>smile</try>
+		<try>spule</try>
+		<try>skåle</try>
+	</wordle>
+
+	<wordle date="2023-10-09" number="731" score="4" word="synsk">
+		<try>kruse</try>
+		<try>plask</try>
+		<try>finsk</try>
+		<try>synsk</try>
+	</wordle>
+
 </wordles>

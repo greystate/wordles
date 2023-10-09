@@ -5917,4 +5917,27 @@
 		<try>aloof</try>
 	</quordle>
 
+	<quordle date="2023-10-08" number="630" scores="5 6 8 7" words="ready abase puffy utile">
+		<try>spoil</try>
+		<try>tread</try>
+		<try>liter</try>
+		<try>burns</try>
+		<try>ready</try>
+		<try>abase</try>
+		<try>utile</try>
+		<try>puffy</try>
+	</quordle>
+
+	<quordle date="2023-10-09" number="631" scores="7 5 0 8" words="verge error goofy steak">
+		<try>sixth</try>
+		<try>opera</try>
+		<try>loser</try>
+		<try>decor</try>
+		<try>error</try>
+		<try>merge</try>
+		<try>verge</try>
+		<try>steak</try>
+		<try>foggy</try>
+	</quordle>
+
 </wordles>
