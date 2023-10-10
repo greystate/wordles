@@ -4318,4 +4318,10 @@
 		<try>truth</try>
 	</wordle>
 
+	<wordle date="2023-10-10" number="843" score="3" word="snail">
+		<try>spine</try>
+		<try>satin</try>
+		<try>snail</try>
+	</wordle>
+
 </wordles>

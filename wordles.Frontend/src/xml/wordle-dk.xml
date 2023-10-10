@@ -4439,4 +4439,11 @@
 		<try>synsk</try>
 	</wordle>
 
+	<wordle date="2023-10-10" number="732" score="4" word="lydig">
+		<try>drama</try>
+		<try>udset</try>
+		<try>kvæld</try>
+		<try>lydig</try>
+	</wordle>
+
 </wordles>

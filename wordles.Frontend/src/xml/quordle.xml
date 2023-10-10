@@ -5940,4 +5940,15 @@
 		<try>foggy</try>
 	</quordle>
 
+	<quordle date="2023-10-10" number="632" scores="8 6 7 5" words="putty karma stiff plumb">
+		<try>slack</try>
+		<try>poker</try>
+		<try>undid</try>
+		<try>sight</try>
+		<try>plumb</try>
+		<try>karma</try>
+		<try>stiff</try>
+		<try>putty</try>
+	</quordle>
+
 </wordles>
