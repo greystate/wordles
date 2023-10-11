@@ -4324,4 +4324,10 @@
 		<try>snail</try>
 	</wordle>
 
+	<wordle date="2023-10-11" number="844" score="3" word="skunk">
+		<try>daisy</try>
+		<try>speck</try>
+		<try>skunk</try>
+	</wordle>
+
 </wordles>

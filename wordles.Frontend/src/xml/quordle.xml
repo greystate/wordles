@@ -5951,4 +5951,15 @@
 		<try>putty</try>
 	</quordle>
 
+	<quordle date="2023-10-11" number="633" scores="8 6 5 4" words="moody grimy sappy nurse">
+		<try>wakes</try>
+		<try>point</try>
+		<try>merge</try>
+		<try>nurse</try>
+		<try>sappy</try>
+		<try>grimy</try>
+		<try>molly</try>
+		<try>moody</try>
+	</quordle>
+
 </wordles>
