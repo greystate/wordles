@@ -4453,4 +4453,34 @@
 		<try>kunst</try>
 	</wordle>
 
+	<wordle date="2023-10-12" number="734" score="5" word="human">
+		<try>opera</try>
+		<try>angiv</try>
+		<try>tands</try>
+		<try>blank</try>
+		<try>human</try>
+	</wordle>
+
+	<wordle date="2023-10-13" number="735" score="5" word="vital">
+		<try>krebs</try>
+		<try>opium</try>
+		<try>datid</try>
+		<try>tital</try>
+		<try>vital</try>
+	</wordle>
+
+	<wordle date="2023-10-14" number="736" score="4" word="svovl">
+		<try>danse</try>
+		<try>sport</try>
+		<try>skovl</try>
+		<try>svovl</try>
+	</wordle>
+
+	<wordle date="2023-10-15" number="737" score="4" word="lilla">
+		<try>norsk</try>
+		<try>fladt</try>
+		<try>lampe</try>
+		<try>lilla</try>
+	</wordle>
+
 </wordles>

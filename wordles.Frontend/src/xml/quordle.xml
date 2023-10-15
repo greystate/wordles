@@ -5962,4 +5962,50 @@
 		<try>moody</try>
 	</quordle>
 
+	<quordle date="2023-10-12" number="634" scores="8 4 7 6" words="awful stole admin limit">
+		<try>glass</try>
+		<try>spell</try>
+		<try>rocky</try>
+		<try>stole</try>
+		<try>humid</try>
+		<try>limit</try>
+		<try>admin</try>
+		<try>awful</try>
+	</quordle>
+
+	<quordle date="2023-10-13" number="635" scores="9 7 0 3" words="grill seedy frond mural">
+		<try>prime</try>
+		<try>trial</try>
+		<try>mural</try>
+		<try>drill</try>
+		<try>honed</try>
+		<try>sends</try>
+		<try>seedy</try>
+		<try>brond</try>
+		<try>grill</try>
+	</quordle>
+
+	<quordle date="2023-10-14" number="636" scores="6 5 3 8" words="ralph habit strip wiser">
+		<try>songs</try>
+		<try>trail</try>
+		<try>strip</try>
+		<try>admit</try>
+		<try>habit</try>
+		<try>ralph</try>
+		<try>fries</try>
+		<try>wiser</try>
+	</quordle>
+
+	<quordle date="2023-10-15" number="637" scores="5 6 8 9" words="false flame hyper lurch">
+		<try>great</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>lease</try>
+		<try>false</try>
+		<try>flame</try>
+		<try>perry</try>
+		<try>hyper</try>
+		<try>lurch</try>
+	</quordle>
+
 </wordles>

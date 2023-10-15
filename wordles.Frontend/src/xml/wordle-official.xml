@@ -4330,4 +4330,32 @@
 		<try>skunk</try>
 	</wordle>
 
+	<wordle date="2023-10-12" number="845" score="6" word="knelt">
+		<try>shine</try>
+		<try>never</try>
+		<try>coven</try>
+		<try>enemy</try>
+		<try>knead</try>
+		<try>knelt</try>
+	</wordle>
+
+	<wordle date="2023-10-13" number="846" score="4" word="uncle">
+		<try>rusty</try>
+		<try>mauve</try>
+		<try>undue</try>
+		<try>uncle</try>
+	</wordle>
+
+	<wordle date="2023-10-14" number="847" score="3" word="agent">
+		<try>break</try>
+		<try>adept</try>
+		<try>agent</try>
+	</wordle>
+
+	<wordle date="2023-10-15" number="848" score="3" word="leaky">
+		<try>winks</try>
+		<try>choke</try>
+		<try>leaky</try>
+	</wordle>
+
 </wordles>
