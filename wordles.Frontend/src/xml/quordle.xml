@@ -6008,4 +6008,16 @@
 		<try>lurch</try>
 	</quordle>
 
+	<quordle date="2023-10-16" number="638" scores="8 9 6 7" words="jazzy geese churn cacao">
+		<try>graph</try>
+		<try>mover</try>
+		<try>stink</try>
+		<try>bully</try>
+		<try>caddy</try>
+		<try>churn</try>
+		<try>cacao</try>
+		<try>jazzy</try>
+		<try>geese</try>
+	</quordle>
+
 </wordles>

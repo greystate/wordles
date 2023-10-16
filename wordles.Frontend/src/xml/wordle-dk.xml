@@ -4483,4 +4483,10 @@
 		<try>lilla</try>
 	</wordle>
 
+	<wordle date="2023-10-16" number="738" score="3" word="krise">
+		<try>adræt</try>
+		<try>rimpe</try>
+		<try>krise</try>
+	</wordle>
+
 </wordles>
