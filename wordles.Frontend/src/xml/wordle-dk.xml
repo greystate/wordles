@@ -4489,4 +4489,18 @@
 		<try>krise</try>
 	</wordle>
 
+	<wordle date="2023-10-17" number="739" score="5" word="hotel">
+		<try>klare</try>
+		<try>pøbel</try>
+		<try>ådsel</try>
+		<try>motel</try>
+		<try>hotel</try>
+	</wordle>
+
+	<wordle date="2023-10-18" number="740" score="3" word="vigør">
+		<try>ruden</try>
+		<try>årsag</try>
+		<try>vigør</try>
+	</wordle>
+
 </wordles>
