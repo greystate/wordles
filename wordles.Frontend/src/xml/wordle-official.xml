@@ -4380,4 +4380,24 @@
 		<try>mercy</try>
 	</wordle>
 
+	<wordle date="2023-10-19" number="852" score="4" word="splat">
+		<try>bland</try>
+		<try>loyal</try>
+		<try>gulag</try>
+		<try>splat</try>
+	</wordle>
+
+	<wordle date="2023-10-20" number="853" score="3" word="occur">
+		<try>wines</try>
+		<try>clout</try>
+		<try>occur</try>
+	</wordle>
+
+	<wordle date="2023-10-21" number="854" score="4" word="smirk">
+		<try>water</try>
+		<try>groin</try>
+		<try>shirk</try>
+		<try>smirk</try>
+	</wordle>
+
 </wordles>

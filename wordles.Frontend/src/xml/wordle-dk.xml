@@ -4503,4 +4503,26 @@
 		<try>vigør</try>
 	</wordle>
 
+	<wordle date="2023-10-19" number="741" score="4" word="svada">
+		<try>nøgle</try>
+		<try>harsk</try>
+		<try>bosat</try>
+		<try>svada</try>
+	</wordle>
+
+	<wordle date="2023-10-20" number="742" score="5" word="lemur">
+		<try>opera</try>
+		<try>rives</try>
+		<try>myrde</try>
+		<try>grumt</try>
+		<try>lemur</try>
+	</wordle>
+
+	<wordle date="2023-10-21" number="743" score="4" word="krebs">
+		<try>flyde</try>
+		<try>noter</try>
+		<try>sperm</try>
+		<try>krebs</try>
+	</wordle>
+
 </wordles>
