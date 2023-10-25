@@ -4525,4 +4525,29 @@
 		<try>krebs</try>
 	</wordle>
 
+	<wordle date="2023-10-22" number="744" score="5" word="hvede">
+		<try>dusin</try>
+		<try>poder</try>
+		<try>ædelt</try>
+		<try>avede</try>
+		<try>hvede</try>
+	</wordle>
+
+	<!-- 2023-10-23 -->
+
+	<wordle date="2023-10-24" number="746" score="3" word="lamel">
+		<try>blond</try>
+		<try>laser</try>
+		<try>lamel</try>
+	</wordle>
+
+	<wordle date="2023-10-25" number="747" score="6" word="kvote">
+		<try>dreje</try>
+		<try>maste</try>
+		<try>følte</try>
+		<try>pinte</try>
+		<try>vogte</try>
+		<try>kvote</try>
+	</wordle>
+
 </wordles>

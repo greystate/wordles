@@ -4400,4 +4400,30 @@
 		<try>smirk</try>
 	</wordle>
 
+	<wordle date="2023-10-22" number="855" score="3" word="given">
+		<try>tramp</try>
+		<try>loves</try>
+		<try>given</try>
+	</wordle>
+
+	<wordle date="2023-10-23" number="856" score="3" word="tempo">
+		<try>right</try>
+		<try>token</try>
+		<try>tempo</try>
+	</wordle>
+
+	<wordle date="2023-10-24" number="857" score="3" word="cause">
+		<try>navel</try>
+		<try>parse</try>
+		<try>cause</try>
+	</wordle>
+
+	<wordle date="2023-10-25" number="858" score="5" word="retry">
+		<try>stand</try>
+		<try>tower</try>
+		<try>crept</try>
+		<try>berth</try>
+		<try>retry</try>
+	</wordle>
+
 </wordles>

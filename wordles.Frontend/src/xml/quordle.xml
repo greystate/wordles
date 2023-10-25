@@ -6077,4 +6077,51 @@
 		<try>rayon</try>
 	</quordle>
 
+	<quordle date="2023-10-22" number="644" scores="9 5 4 8" words="dozen polar frost cobra">
+		<try>words</try>
+		<try>poker</try>
+		<try>fungi</try>
+		<try>frost</try>
+		<try>polar</try>
+		<try>roach</try>
+		<try>boned</try>
+		<try>cobra</try>
+		<try>dozen</try>
+	</quordle>
+
+	<quordle date="2023-10-23" number="645" scores="6 5 8 9" words="bayou study quilt gummy">
+		<try>wrong</try>
+		<try>pushy</try>
+		<try>bulgy</try>
+		<try>octal</try>
+		<try>study</try>
+		<try>bayou</try>
+		<try>gully</try>
+		<try>quilt</try>
+		<try>gummy</try>
+	</quordle>
+
+	<quordle date="2023-10-24" number="646" scores="8 0 6 4" words="dread rarer stair crony">
+		<try>slack</try>
+		<try>trend</try>
+		<try>bread</try>
+		<try>crony</try>
+		<try>start</try>
+		<try>stair</try>
+		<try>eager</try>
+		<try>dread</try>
+		<try>waxer</try>
+	</quordle>
+
+	<quordle date="2023-10-25" number="647" scores="8 3 5 6" words="weedy blush guile thing">
+		<try>blast</try>
+		<try>hound</try>
+		<try>blush</try>
+		<try>think</try>
+		<try>guile</try>
+		<try>thing</try>
+		<try>peery</try>
+		<try>weedy</try>
+	</quordle>
+
 </wordles>
