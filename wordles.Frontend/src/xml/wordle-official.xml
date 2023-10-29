@@ -4426,4 +4426,30 @@
 		<try>retry</try>
 	</wordle>
 
+	<wordle date="2023-10-26" number="859" score="4" word="pique">
+		<try>speak</try>
+		<try>trope</try>
+		<try>plume</try>
+		<try>pique</try>
+	</wordle>
+
+	<wordle date="2023-10-27" number="860" score="4" word="noble">
+		<try>obeys</try>
+		<try>probe</try>
+		<try>boule</try>
+		<try>noble</try>
+	</wordle>
+
+	<wordle date="2023-10-28" number="861" score="4" word="mason">
+		<try>erase</try>
+		<try>salty</try>
+		<try>basic</try>
+		<try>mason</try>
+	</wordle>
+
+	<wordle date="2023-10-29" number="862" score="2" word="phony">
+		<try>young</try>
+		<try>phony</try>
+	</wordle>
+
 </wordles>

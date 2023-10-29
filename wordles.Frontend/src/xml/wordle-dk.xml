@@ -4550,4 +4550,31 @@
 		<try>kvote</try>
 	</wordle>
 
+	<wordle date="2023-10-26" number="748" score="3" word="hopla">
+		<try>opera</try>
+		<try>kobra</try>
+		<try>hopla</try>
+	</wordle>
+
+	<wordle date="2023-10-27" number="749" score="4" word="stige">
+		<try>spejl</try>
+		<try>segne</try>
+		<try>smage</try>
+		<try>stige</try>
+	</wordle>
+
+	<wordle date="2023-10-28" number="750" score="4" word="lasso">
+		<try>kræve</try>
+		<try>bland</try>
+		<try>salat</try>
+		<try>lasso</try>
+	</wordle>
+
+	<wordle date="2023-10-29" number="751" score="4" word="kvist">
+		<try>klang</try>
+		<try>krebs</try>
+		<try>kopis</try>
+		<try>kvist</try>
+	</wordle>
+
 </wordles>

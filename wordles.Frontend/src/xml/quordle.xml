@@ -6124,4 +6124,51 @@
 		<try>weedy</try>
 	</quordle>
 
+	<quordle date="2023-10-26" number="648" scores="9 6 8 5" words="crump eaten swoon baron">
+		<try>death</try>
+		<try>poker</try>
+		<try>minus</try>
+		<try>baggy</try>
+		<try>baron</try>
+		<try>eaten</try>
+		<try>salon</try>
+		<try>swoon</try>
+		<try>crump</try>
+	</quordle>
+
+	<quordle date="2023-10-27" number="649" scores="5 8 7 4" words="under quota grove joust">
+		<try>start</try>
+		<try>poker</try>
+		<try>baton</try>
+		<try>joust</try>
+		<try>under</try>
+		<try>whore</try>
+		<try>grove</try>
+		<try>quota</try>
+	</quordle>
+
+	<quordle date="2023-10-28" number="650" scores="5 6 8 9" words="pitch scale undid thigh">
+		<try>hound</try>
+		<try>price</try>
+		<try>pilch</try>
+		<try>smith</try>
+		<try>pitch</try>
+		<try>scale</try>
+		<try>unbid</try>
+		<try>undid</try>
+		<try>thigh</try>
+	</quordle>
+
+	<quordle date="2023-10-29" number="651" scores="8 0 7 4" words="agate felon hater threw">
+		<try>under</try>
+		<try>power</try>
+		<try>thing</try>
+		<try>threw</try>
+		<try>ether</try>
+		<try>leaky</try>
+		<try>hater</try>
+		<try>agate</try>
+		<try>melon</try>
+	</quordle>
+
 </wordles>
