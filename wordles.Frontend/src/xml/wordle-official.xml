@@ -4452,4 +4452,9 @@
 		<try>phony</try>
 	</wordle>
 
+	<wordle date="2023-10-30" number="863" score="2" word="grail">
+		<try>slant</try>
+		<try>grail</try>
+	</wordle>
+
 </wordles>

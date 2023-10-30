@@ -4577,4 +4577,11 @@
 		<try>kvist</try>
 	</wordle>
 
+	<wordle date="2023-10-30" number="752" score="4" word="hertz">
+		<try>blink</try>
+		<try>varmt</try>
+		<try>tærte</try>
+		<try>hertz</try>
+	</wordle>
+
 </wordles>

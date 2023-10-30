@@ -6171,4 +6171,14 @@
 		<try>melon</try>
 	</quordle>
 
+	<quordle date="2023-10-30" number="652" scores="7 5 3 4" words="chess easel gloom glean">
+		<try>grail</try>
+		<try>jokes</try>
+		<try>gloom</try>
+		<try>glean</try>
+		<try>easel</try>
+		<try>steps</try>
+		<try>chess</try>
+	</quordle>
+
 </wordles>
