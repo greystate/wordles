@@ -4457,4 +4457,43 @@
 		<try>grail</try>
 	</wordle>
 
+	<wordle date="2023-10-31" number="864" score="4" word="bleak">
+		<try>panic</try>
+		<try>asset</try>
+		<try>heard</try>
+		<try>bleak</try>
+	</wordle>
+
+	<wordle date="2023-11-01" number="865" score="3" word="noise">
+		<try>brash</try>
+		<try>pulse</try>
+		<try>noise</try>
+	</wordle>
+
+	<wordle date="2023-11-02" number="866" score="4" word="until">
+		<try>leaps</try>
+		<try>clout</try>
+		<try>truly</try>
+		<try>until</try>
+	</wordle>
+
+	<wordle date="2023-11-03" number="867" score="4" word="ardor">
+		<try>fired</try>
+		<try>drunk</try>
+		<try>grads</try>
+		<try>ardor</try>
+	</wordle>
+
+	<wordle date="2023-11-04" number="868" score="3" word="mania">
+		<try>image</try>
+		<try>manic</try>
+		<try>mania</try>
+	</wordle>
+
+	<wordle date="2023-11-05" number="869" score="3" word="flare">
+		<try>daily</try>
+		<try>alert</try>
+		<try>flare</try>
+	</wordle>
+
 </wordles>

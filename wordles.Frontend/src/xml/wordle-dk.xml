@@ -4584,4 +4584,52 @@
 		<try>hertz</try>
 	</wordle>
 
+	<wordle date="2023-10-31" number="753" score="4" word="sytøj">
+		<try>harem</try>
+		<try>logik</try>
+		<try>stødt</try>
+		<try>sytøj</try>
+	</wordle>
+
+	<wordle date="2023-11-01" number="754" score="5" word="lumsk">
+		<try>knage</try>
+		<try>skilt</try>
+		<try>floks</try>
+		<try>polsk</try>
+		<try>lumsk</try>
+	</wordle>
+
+
+	<wordle date="2023-11-02" number="755" score="5" word="kvint">
+		<try>opera</try>
+		<try>stødt</try>
+		<try>fulgt</try>
+		<try>tænkt</try>
+		<try>kvint</try>
+	</wordle>
+
+	<wordle date="2023-11-03" number="756" score="5" word="harsk">
+		<try>mudre</try>
+		<try>frist</try>
+		<try>forsk</try>
+		<try>barsk</try>
+		<try>harsk</try>
+	</wordle>
+
+	<wordle date="2023-11-04" number="757" score="4" word="søsyg">
+		<try>laver</try>
+		<try>konti</try>
+		<try>spøgs</try>
+		<try>søsyg</try>
+	</wordle>
+
+	<wordle date="2023-11-05" number="758" score="0" word="løjpe">
+		<try>odder</try>
+		<try>andel</try>
+		<try>silke</try>
+		<try>fugle</try>
+		<try>lytte</try>
+		<try>lempe</try>
+	</wordle>
+
 </wordles>
