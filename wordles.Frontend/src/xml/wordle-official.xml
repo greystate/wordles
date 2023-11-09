@@ -4496,4 +4496,33 @@
 		<try>flare</try>
 	</wordle>
 
+	<wordle date="2023-11-06" number="870" score="3" word="trade">
+		<try>swear</try>
+		<try>pearl</try>
+		<try>trade</try>
+	</wordle>
+
+	<wordle date="2023-11-07" number="871" score="4" word="limit">
+		<try>about</try>
+		<try>reset</try>
+		<try>flint</try>
+		<try>limit</try>
+	</wordle>
+
+	<wordle date="2023-11-08" number="872" score="4" word="ninja">
+		<try>print</try>
+		<try>inlay</try>
+		<try>manic</try>
+		<try>ninja</try>
+	</wordle>
+
+	<wordle date="2023-11-09" number="873" score="6" word="glaze">
+		<try>radio</try>
+		<try>stalk</try>
+		<try>leave</try>
+		<try>blame</try>
+		<try>place</try>
+		<try>glaze</try>
+	</wordle>
+
 </wordles>

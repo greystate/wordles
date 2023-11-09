@@ -6248,4 +6248,49 @@
 		<try>dirge</try>
 	</quordle>
 
+	<quordle date="2023-11-06" number="659" scores="7 8 6 5" words="perky month dress overt">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>otter</try>
+		<try>overt</try>
+		<try>dress</try>
+		<try>perky</try>
+		<try>month</try>
+	</quordle>
+
+	<quordle date="2023-11-07" number="660" scores="3 7 5 6" words="pesto smoky quasi utile">
+		<try>stage</try>
+		<try>youth</try>
+		<try>pesto</try>
+		<try>buoys</try>
+		<try>quasi</try>
+		<try>utile</try>
+		<try>smoky</try>
+	</quordle>
+
+	<quordle date="2023-11-08" number="661" scores="9 5 7 8" words="maybe nomad impel verge">
+		<try>cleft</try>
+		<try>eased</try>
+		<try>poker</try>
+		<try>gonad</try>
+		<try>nomad</try>
+		<try>rejig</try>
+		<try>impel</try>
+		<try>verge</try>
+		<try>maybe</try>
+	</quordle>
+
+	<quordle date="2023-11-09" number="662" scores="9 6 4 7" words="clink beach bevel elfin">
+		<try>blame</try>
+		<try>beams</try>
+		<try>power</try>
+		<try>bevel</try>
+		<try>tunic</try>
+		<try>beach</try>
+		<try>elfin</try>
+		<try>cling</try>
+		<try>clink</try>
+	</quordle>
+
 </wordles>

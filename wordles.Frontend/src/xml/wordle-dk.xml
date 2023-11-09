@@ -4632,4 +4632,31 @@
 		<try>lempe</try>
 	</wordle>
 
+	<wordle date="2023-11-06" number="759" score="3" word="kunde">
+		<try>undre</try>
+		<try>bunde</try>
+		<try>kunde</try>
+	</wordle>
+
+	<wordle date="2023-11-07" number="760" score="4" word="hvalp">
+		<try>kaffe</try>
+		<try>altid</try>
+		<try>polar</try>
+		<try>hvalp</try>
+	</wordle>
+
+	<wordle date="2023-11-08" number="761" score="4" word="stærk">
+		<try>fladt</try>
+		<try>tykke</try>
+		<try>skæmt</try>
+		<try>stærk</try>
+	</wordle>
+
+	<wordle date="2023-11-09" number="762" score="4" word="latex">
+		<try>drone</try>
+		<try>tages</try>
+		<try>lavet</try>
+		<try>latex</try>
+	</wordle>
+
 </wordles>
