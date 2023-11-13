@@ -6293,4 +6293,47 @@
 		<try>clink</try>
 	</quordle>
 
+	<quordle date="2023-11-10" number="663" scores="8 5 4 7" words="folio agile stock purse">
+		<try>blast</try>
+		<try>steam</try>
+		<try>young</try>
+		<try>stock</try>
+		<try>agile</try>
+		<try>reuse</try>
+		<try>purse</try>
+		<try>folio</try>
+	</quordle>
+
+	<quordle date="2023-11-11" number="664" scores="6 7 4 5" words="below buddy bring robot">
+		<try>grows</try>
+		<try>point</try>
+		<try>claim</try>
+		<try>bring</try>
+		<try>robot</try>
+		<try>below</try>
+		<try>buddy</try>
+	</quordle>
+
+	<quordle date="2023-11-12" number="665" scores="5 6 3 7" words="chase loath rusty diode">
+		<try>spent</try>
+		<try>youth</try>
+		<try>rusty</try>
+		<try>maise</try>
+		<try>chase</try>
+		<try>loath</try>
+		<try>diode</try>
+	</quordle>
+
+	<quordle date="2023-11-13" number="666" scores="8 7 9 4" words="shell allow sheen prude">
+		<try>treat</try>
+		<try>power</try>
+		<try>pride</try>
+		<try>prude</try>
+		<try>sleek</try>
+		<try>smell</try>
+		<try>allow</try>
+		<try>shell</try>
+		<try>sheen</try>
+	</quordle>
+
 </wordles>

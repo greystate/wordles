@@ -4659,4 +4659,34 @@
 		<try>latex</try>
 	</wordle>
 
+	<wordle date="2023-11-10" number="763" score="4" word="kondi">
+		<try>blade</try>
+		<try>skudt</try>
+		<try>krydr</try>
+		<try>kondi</try>
+	</wordle>
+
+	<wordle date="2023-11-11" number="764" score="6" word="hobby">
+		<try>skrue</try>
+		<try>optag</try>
+		<try>folio</try>
+		<try>donor</try>
+		<try>bomme</try>
+		<try>hobby</try>
+	</wordle>
+
+	<wordle date="2023-11-12" number="765" score="4" word="rubin">
+		<try>opera</try>
+		<try>skræk</try>
+		<try>bytur</try>
+		<try>rubin</try>
+	</wordle>
+
+	<wordle date="2023-11-13" number="766" score="4" word="påstå">
+		<try>afsæt</try>
+		<try>ryste</try>
+		<try>bistå</try>
+		<try>påstå</try>
+	</wordle>
+
 </wordles>

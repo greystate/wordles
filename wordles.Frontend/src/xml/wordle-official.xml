@@ -4525,4 +4525,30 @@
 		<try>glaze</try>
 	</wordle>
 
+	<wordle date="2023-11-10" number="874" score="4" word="leash">
+		<try>savoy</try>
+		<try>asked</try>
+		<try>phase</try>
+		<try>leash</try>
+	</wordle>
+
+	<wordle date="2023-11-11" number="875" score="4" word="actor">
+		<try>weary</try>
+		<try>rapid</try>
+		<try>arson</try>
+		<try>actor</try>
+	</wordle>
+
+	<wordle date="2023-11-12" number="876" score="3" word="meant">
+		<try>snipe</try>
+		<try>agent</try>
+		<try>meant</try>
+	</wordle>
+
+	<wordle date="2023-11-13" number="877" score="3" word="green">
+		<try>evade</try>
+		<try>teens</try>
+		<try>green</try>
+	</wordle>
+
 </wordles>
