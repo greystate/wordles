@@ -6336,4 +6336,27 @@
 		<try>sheen</try>
 	</quordle>
 
+	<quordle date="2023-11-14" number="667" scores="8 7 4 9" words="chime pulpy taper olden">
+		<try>spots</try>
+		<try>weary</try>
+		<try>trape</try>
+		<try>taper</try>
+		<try>dumpy</try>
+		<try>lived</try>
+		<try>pulpy</try>
+		<try>chime</try>
+		<try>olden</try>
+	</quordle>
+
+	<quordle date="2023-11-15" number="668" scores="5 4 8 7" words="blend greed cumin flunk">
+		<try>opera</try>
+		<try>thugs</try>
+		<try>windy</try>
+		<try>greed</try>
+		<try>blend</try>
+		<try>clunk</try>
+		<try>flunk</try>
+		<try>cumin</try>
+	</quordle>
+
 </wordles>

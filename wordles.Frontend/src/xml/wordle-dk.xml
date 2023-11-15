@@ -4689,4 +4689,18 @@
 		<try>påstå</try>
 	</wordle>
 
+	<wordle date="2023-11-14" number="767" score="4" word="skrot">
+		<try>klask</try>
+		<try>skibe</try>
+		<try>skørt</try>
+		<try>skrot</try>
+	</wordle>
+
+	<wordle date="2023-11-15" number="768" score="4" word="rosin">
+		<try>citat</try>
+		<try>inder</try>
+		<try>ruins</try>
+		<try>rosin</try>
+	</wordle>
+
 </wordles>

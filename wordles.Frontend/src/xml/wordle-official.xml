@@ -4551,4 +4551,12 @@
 		<try>green</try>
 	</wordle>
 
+	<wordle date="2023-11-14" number="878" score="5" word="sassy">
+		<try>freak</try>
+		<try>angst</try>
+		<try>clash</try>
+		<try>massa</try>
+		<try>sassy</try>
+	</wordle>
+
 </wordles>
