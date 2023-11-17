@@ -6359,4 +6359,25 @@
 		<try>cumin</try>
 	</quordle>
 
+	<quordle date="2023-11-16" number="669" scores="5 4 7 8" words="conch perch anvil hatch">
+		<try>films</try>
+		<try>power</try>
+		<try>uncle</try>
+		<try>perch</try>
+		<try>conch</try>
+		<try>batch</try>
+		<try>anvil</try>
+		<try>hatch</try>
+	</quordle>
+
+	<quordle date="2023-11-17" number="670" scores="6 4 7 5" words="beret score aorta sedan">
+		<try>dryer</try>
+		<try>whale</try>
+		<try>stomp</try>
+		<try>score</try>
+		<try>sedan</try>
+		<try>beret</try>
+		<try>aorta</try>
+	</quordle>
+
 </wordles>

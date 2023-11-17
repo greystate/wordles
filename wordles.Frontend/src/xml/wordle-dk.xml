@@ -4703,4 +4703,19 @@
 		<try>rosin</try>
 	</wordle>
 
+	<wordle date="2023-11-16" number="769" score="5" word="poesi">
+		<try>flyde</try>
+		<try>sener</try>
+		<try>maset</try>
+		<try>bjesk</try>
+		<try>poesi</try>
+	</wordle>
+
+	<wordle date="2023-11-17" number="770" score="4" word="spejl">
+		<try>køler</try>
+		<try>lempe</try>
+		<try>plejl</try>
+		<try>spejl</try>
+	</wordle>
+
 </wordles>

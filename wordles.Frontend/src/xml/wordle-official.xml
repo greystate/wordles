@@ -4559,4 +4559,25 @@
 		<try>sassy</try>
 	</wordle>
 
+	<wordle date="2023-11-15" number="879" score="4" word="sight">
+		<try>steak</try>
+		<try>sport</try>
+		<try>swift</try>
+		<try>sight</try>
+	</wordle>
+
+	<wordle date="2023-11-16" number="880" score="5" word="trust">
+		<try>snail</try>
+		<try>pushy</try>
+		<try>rebus</try>
+		<try>crust</try>
+		<try>trust</try>
+	</wordle>
+
+	<wordle date="2023-11-17" number="881" score="3" word="tardy">
+		<try>stray</try>
+		<try>party</try>
+		<try>tardy</try>
+	</wordle>
+
 </wordles>
