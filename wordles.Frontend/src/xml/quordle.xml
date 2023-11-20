@@ -6380,4 +6380,36 @@
 		<try>aorta</try>
 	</quordle>
 
+	<quordle date="2023-11-18" number="671" scores="4 5 6 7" words="tying bacon urban guise">
+		<try>flush</try>
+		<try>poker</try>
+		<try>tawny</try>
+		<try>tying</try>
+		<try>bacon</try>
+		<try>urban</try>
+		<try>guise</try>
+	</quordle>
+
+	<quordle date="2023-11-19" number="672" scores="9 6 8 4" words="sooth irate angle badge">
+		<try>prove</try>
+		<try>bilge</try>
+		<try>budge</try>
+		<try>badge</try>
+		<try>glace</try>
+		<try>irate</try>
+		<try>shots</try>
+		<try>angle</try>
+		<try>sooth</try>
+	</quordle>
+
+	<quordle date="2023-11-20" number="673" scores="3 6 7 5" words="tuber egret gaily adept">
+		<try>trunk</try>
+		<try>turbo</try>
+		<try>tuber</try>
+		<try>amids</try>
+		<try>adept</try>
+		<try>egret</try>
+		<try>gaily</try>
+	</quordle>
+
 </wordles>

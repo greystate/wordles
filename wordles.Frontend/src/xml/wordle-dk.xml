@@ -4718,4 +4718,23 @@
 		<try>spejl</try>
 	</wordle>
 
+	<wordle date="2023-11-18" number="771" score="3" word="porto">
+		<try>brast</try>
+		<try>rotte</try>
+		<try>porto</try>
+	</wordle>
+
+	<wordle date="2023-11-19" number="772" score="3" word="agurk">
+		<try>huske</try>
+		<try>knubs</try>
+		<try>agurk</try>
+	</wordle>
+
+	<wordle date="2023-11-20" number="773" score="4" word="sperm">
+		<try>luske</try>
+		<try>seler</try>
+		<try>syren</try>
+		<try>sperm</try>
+	</wordle>
+
 </wordles>

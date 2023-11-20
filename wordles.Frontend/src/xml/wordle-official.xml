@@ -4580,4 +4580,26 @@
 		<try>tardy</try>
 	</wordle>
 
+	<wordle date="2023-11-18" number="882" score="4" word="think">
+		<try>specs</try>
+		<try>drill</try>
+		<try>twink</try>
+		<try>think</try>
+	</wordle>
+
+	<wordle date="2023-11-19" number="883" score="4" word="queue">
+		<try>links</try>
+		<try>youth</try>
+		<try>puree</try>
+		<try>queue</try>
+	</wordle>
+
+	<wordle date="2023-11-20" number="884" score="5" word="candy">
+		<try>fried</try>
+		<try>dashy</try>
+		<try>badly</try>
+		<try>gaudy</try>
+		<try>candy</try>
+	</wordle>
+
 </wordles>
