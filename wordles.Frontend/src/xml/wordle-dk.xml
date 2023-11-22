@@ -4737,4 +4737,18 @@
 		<try>sperm</try>
 	</wordle>
 
+	<wordle date="2023-11-21" number="774" score="5" word="poker">
+		<try>blank</try>
+		<try>kiosk</try>
+		<try>udkom</try>
+		<try>rokke</try>
+		<try>poker</try>
+	</wordle>
+
+	<wordle date="2023-11-22" number="775" score="3" word="besøg">
+		<try>haves</try>
+		<try>sælge</try>
+		<try>besøg</try>
+	</wordle>
+
 </wordles>

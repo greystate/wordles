@@ -4602,4 +4602,16 @@
 		<try>candy</try>
 	</wordle>
 
+	<wordle date="2023-11-21" number="885" score="2" word="piano">
+		<try>phone</try>
+		<try>piano</try>
+	</wordle>
+
+	<wordle date="2023-11-22" number="886" score="4" word="pixel">
+		<try>whale</try>
+		<try>lever</try>
+		<try>miles</try>
+		<try>pixel</try>
+	</wordle>
+
 </wordles>

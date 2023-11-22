@@ -6412,4 +6412,26 @@
 		<try>gaily</try>
 	</quordle>
 
+	<quordle date="2023-11-21" number="764" scores="4 7 6 5" words="touch triad fight reach">
+		<try>blank</try>
+		<try>flush</try>
+		<try>youth</try>
+		<try>touch</try>
+		<try>reach</try>
+		<try>fight</try>
+		<try>triad</try>
+	</quordle>
+
+	<quordle date="2023-11-22" number="765" scores="5 4 9 8" words="patio stern cocoa sloop">
+		<try>crane</try>
+		<try>pushy</try>
+		<try>siren</try>
+		<try>stern</try>
+		<try>patio</try>
+		<try>spook</try>
+		<try>swoop</try>
+		<try>sloop</try>
+		<try>cocoa</try>
+	</quordle>
+
 </wordles>
