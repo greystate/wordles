@@ -4614,4 +4614,31 @@
 		<try>pixel</try>
 	</wordle>
 
+	<wordle date="2023-11-23" number="887" score="3" word="queen">
+		<try>ticks</try>
+		<try>squad</try>
+		<try>queen</try>
+	</wordle>
+
+	<wordle date="2023-11-24" number="888" score="4" word="throw">
+		<try>eight</try>
+		<try>thumb</try>
+		<try>thack</try>
+		<try>throw</try>
+	</wordle>
+
+	<wordle date="2023-11-25" number="889" score="4" word="guide">
+		<try>stock</try>
+		<try>ready</try>
+		<try>glide</try>
+		<try>guide</try>
+	</wordle>
+
+	<wordle date="2023-11-26" number="890" score="4" word="solid">
+		<try>stuck</try>
+		<try>shore</try>
+		<try>salon</try>
+		<try>solid</try>
+	</wordle>
+
 </wordles>

@@ -6434,4 +6434,49 @@
 		<try>cocoa</try>
 	</quordle>
 
+	<quordle date="2023-11-23" number="766" scores="8 7 6 5" words="proxy carry shear shade">
+		<try>crown</try>
+		<try>trope</try>
+		<try>proud</try>
+		<try>share</try>
+		<try>shade</try>
+		<try>shear</try>
+		<try>carry</try>
+		<try>proxy</try>
+	</quordle>
+
+	<quordle date="2023-11-24" number="767" scores="6 4 5 9" words="cutie twirl flush mummy">
+		<try>seven</try>
+		<try>youth</try>
+		<try>drill</try>
+		<try>twirl</try>
+		<try>flush</try>
+		<try>cutie</try>
+		<try>bumpy</try>
+		<try>gummy</try>
+		<try>mummy</try>
+	</quordle>
+
+	<quordle date="2023-11-25" number="768" scores="7 8 9 4" words="vouch decoy mirth twang">
+		<try>stays</try>
+		<try>power</try>
+		<try>guide</try>
+		<try>couch</try>
+		<try>birth</try>
+		<try>vouch</try>
+		<try>decoy</try>
+		<try>mirth</try>
+	</quordle>
+
+	<quordle date="2023-11-26" number="769" scores="6 4 5 8" words="chord horse verse ahead">
+		<try>merry</try>
+		<try>perks</try>
+		<try>lowed</try>
+		<try>horse</try>
+		<try>verse</try>
+		<try>chord</try>
+		<try>theed</try>
+		<try>ahead</try>
+	</quordle>
+
 </wordles>
