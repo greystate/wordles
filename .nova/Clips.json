@@ -1,12 +1,12 @@
 {
   "clips" : [
     {
-      "content" : "<wordle date=\"2023-11-${1:12}\" number=\"${2:600}\" score=\"${3:3}\" word=\"${4:word}\">\n\t${4:word}\n<\/wordle>\n",
+      "content" : "<wordle date=\"2023-12-${1:12}\" number=\"${2:600}\" score=\"${3:3}\" word=\"${4:word}\">\n\t${4:word}\n<\/wordle>\n",
       "name" : "Wordle",
       "trigger" : "wordle"
     },
     {
-      "content" : "<quordle date=\"2023-11-${1:12}\" number=\"${6:700}\" scores=\"${2:6} ${3:7} ${4:8} ${5:9}\" words=\"\">\n\t${7:word}\n<\/quordle>\n",
+      "content" : "<quordle date=\"2023-12-${1:12}\" number=\"${6:700}\" scores=\"${2:6} ${3:7} ${4:8} ${5:9}\" words=\"\">\n\t${7:word}\n<\/quordle>\n",
       "name" : "Quordle",
       "trigger" : "wordle"
     }
