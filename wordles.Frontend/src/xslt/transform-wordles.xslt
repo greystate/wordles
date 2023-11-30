@@ -29,7 +29,24 @@
 	<xsl:template match="/">
 		<h1>My WORDLE scores</h1>
 		<xsl:apply-templates select="w:wordles" />
+
+		<xsl:if test="$debugging">
+			<h2>Wordles out of sequence</h2>
+			<xsl:variable name="wordles" select="w:wordles//*[self::w:wordle | self::w:quordle]" />
+			<xsl:for-each select="$wordles">
+				<xsl:variable name="preceding-number" select="preceding-sibling::*[1]/@number" />
+				<xsl:if test="not(@number = $preceding-number + 1)">
+					<xsl:apply-templates select="." mode="sequence-fail" />
+					<xsl:value-of select="@number" /> (<xsl:value-of select="$preceding-number" />)
+				</xsl:if>
+			</xsl:for-each>
+		</xsl:if>
 	</xsl:template>
+
+	<xsl:template match="*" mode="sequence-fail">
+		<p style="color:red;"><xsl:value-of select="local-name()" /> #<xsl:value-of select="@number" /> seems out of sequence.</p>
+	</xsl:template>
+
 
 	<xsl:template name="global-stats">
 		<div>
