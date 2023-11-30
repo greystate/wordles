@@ -4641,4 +4641,33 @@
 		<try>solid</try>
 	</wordle>
 
+	<wordle date="2023-11-27" number="891" score="5" word="tawny">
+		<try>novel</try>
+		<try>shiny</try>
+		<try>funny</try>
+		<try>carny</try>
+		<try>tawny</try>
+	</wordle>
+
+	<wordle date="2023-11-28" number="892" score="4" word="scope">
+		<try>blast</try>
+		<try>swing</try>
+		<try>spore</try>
+		<try>scope</try>
+	</wordle>
+
+	<wordle date="2023-11-29" number="893" score="4" word="sushi">
+		<try>merry</try>
+		<try>polka</try>
+		<try>swift</try>
+		<try>sushi</try>
+	</wordle>
+
+	<wordle date="2023-11-30" number="894" score="4" word="risen">
+		<try>blunt</try>
+		<try>nonce</try>
+		<try>infer</try>
+		<try>risen</try>
+	</wordle>
+
 </wordles>

@@ -4782,4 +4782,32 @@
 		<try>ahorn</try>
 	</wordle>
 
+	<wordle date="2023-11-27" number="680" score="5" word="bibel">
+		<try>regne</try>
+		<try>episk</try>
+		<try>timen</try>
+		<try>biled</try>
+		<try>bibel</try>
+	</wordle>
+
+	<wordle date="2023-11-28" number="681" score="3" word="podie">
+		<try>ordre</try>
+		<try>godte</try>
+		<try>podie</try>
+	</wordle>
+
+	<wordle date="2023-11-29" number="682" score="4" word="fysik">
+		<try>spand</try>
+		<try>liste</try>
+		<try>vesir</try>
+		<try>fysik</try>
+	</wordle>
+
+	<wordle date="2023-11-30" number="683" score="4" word="zobel">
+		<try>daske</try>
+		<try>enigt</try>
+		<try>broer</try>
+		<try>zobel</try>
+	</wordle>
+
 </wordles>

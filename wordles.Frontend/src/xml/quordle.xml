@@ -5527,8 +5527,8 @@
 		<try>fight</try>
 	</quordle>
 
-	<!-- 2023-09-03 -->
-
+	<!-- Missed #595 -->
+	<quordle date="2023-09-03" number="595" scores="0 0 0 0" words="? ? ? ?" />
 
 	<quordle date="2023-09-04" number="597" scores="6 7 5 9" words="riper rower rumba fjord">
 		<try>power</try>
@@ -6412,7 +6412,7 @@
 		<try>gaily</try>
 	</quordle>
 
-	<quordle date="2023-11-21" number="764" scores="4 7 6 5" words="touch triad fight reach">
+	<quordle date="2023-11-21" number="674" scores="4 7 6 5" words="touch triad fight reach">
 		<try>blank</try>
 		<try>flush</try>
 		<try>youth</try>
@@ -6422,7 +6422,7 @@
 		<try>triad</try>
 	</quordle>
 
-	<quordle date="2023-11-22" number="765" scores="5 4 9 8" words="patio stern cocoa sloop">
+	<quordle date="2023-11-22" number="675" scores="5 4 9 8" words="patio stern cocoa sloop">
 		<try>crane</try>
 		<try>pushy</try>
 		<try>siren</try>
@@ -6445,7 +6445,7 @@
 		<try>proxy</try>
 	</quordle>
 
-	<quordle date="2023-11-24" number="767" scores="6 4 5 9" words="cutie twirl flush mummy">
+	<quordle date="2023-11-24" number="677" scores="6 4 5 9" words="cutie twirl flush mummy">
 		<try>seven</try>
 		<try>youth</try>
 		<try>drill</try>
@@ -6457,10 +6457,11 @@
 		<try>mummy</try>
 	</quordle>
 
-	<quordle date="2023-11-25" number="768" scores="7 8 9 4" words="vouch decoy mirth twang">
+	<quordle date="2023-11-25" number="678" scores="7 8 9 4" words="vouch decoy mirth twang">
 		<try>stays</try>
 		<try>power</try>
 		<try>guide</try>
+		<try>twang</try>
 		<try>couch</try>
 		<try>birth</try>
 		<try>vouch</try>
@@ -6468,7 +6469,7 @@
 		<try>mirth</try>
 	</quordle>
 
-	<quordle date="2023-11-26" number="769" scores="6 4 5 8" words="chord horse verse ahead">
+	<quordle date="2023-11-26" number="679" scores="6 4 5 8" words="chord horse verse ahead">
 		<try>merry</try>
 		<try>perks</try>
 		<try>lowed</try>
@@ -6477,6 +6478,50 @@
 		<try>chord</try>
 		<try>theed</try>
 		<try>ahead</try>
+	</quordle>
+
+	<quordle date="2023-11-27" number="680" scores="8 7 5 4" words="aside dimly local clump">
+		<try>bulky</try>
+		<try>power</try>
+		<try>scaly</try>
+		<try>clump</try>
+		<try>local</try>
+		<try>fight</try>
+		<try>dimly</try>
+		<try>aside</try>
+	</quordle>
+
+	<!-- This is apparently #673 -->
+	<quordle date="2023-11-28" number="681" scores="5 0 9 0" words="pesky piece baste brace">
+		<try>stomp</try>
+		<try>under</try>
+		<try>gaily</try>
+		<try>taste</try>
+		<try>pesky</try>
+		<try>pixie</try>
+		<try>haste</try>
+		<try>waste</try>
+		<try>baste</try>
+	</quordle>
+
+	<quordle date="2023-11-29" number="682" scores="7 5 6 4" words="omega koala above troll">
+		<try>inter</try>
+		<try>youth</try>
+		<try>blast</try>
+		<try>troll</try>
+		<try>koala</try>
+		<try>above</try>
+		<try>omega</try>
+	</quordle>
+
+	<quordle date="2023-11-30" number="683" scores="5 7 6 4" words="amble briar berth about">
+		<try>infer</try>
+		<try>blunt</try>
+		<try>poach</try>
+		<try>about</try>
+		<try>amble</try>
+		<try>berth</try>
+		<try>briar</try>
 	</quordle>
 
 </wordles>
