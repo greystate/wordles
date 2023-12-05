@@ -4810,4 +4810,41 @@
 		<try>zobel</try>
 	</wordle>
 
+	<wordle date="2023-12-01" number="684" score="6" word="aioli">
+		<try>stræk</try>
+		<try>plade</try>
+		<try>afmål</try>
+		<try>anløb</try>
+		<try>agilt</try>
+		<try>aioli</try>
+	</wordle>
+
+	<wordle date="2023-12-02" number="685" score="4" word="bonus">
+		<try>klage</try>
+		<try>trops</try>
+		<try>modus</try>
+		<try>bonus</try>
+	</wordle>
+
+	<wordle date="2023-12-03" number="686" score="3" word="strøm">
+		<try>skade</try>
+		<try>sport</try>
+		<try>strøm</try>
+	</wordle>
+
+	<wordle date="2023-12-04" number="687" score="5" word="geled">
+		<try>huset</try>
+		<try>poder</try>
+		<try>dalen</try>
+		<try>biled</try>
+		<try>geled</try>
+	</wordle>
+
+	<wordle date="2023-12-05" number="688" score="4" word="hveps">
+		<try>lader</try>
+		<try>tempo</try>
+		<try>gispe</try>
+		<try>hveps</try>
+	</wordle>
+
 </wordles>

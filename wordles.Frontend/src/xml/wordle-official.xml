@@ -4670,4 +4670,41 @@
 		<try>risen</try>
 	</wordle>
 
+	<wordle date="2023-12-01" number="895" score="4" word="taken">
+		<try>spark</try>
+		<try>koala</try>
+		<try>tacky</try>
+		<try>taken</try>
+	</wordle>
+
+	<wordle date="2023-12-02" number="896" score="4" word="genre">
+		<try>stoke</try>
+		<try>pride</try>
+		<try>blare</try>
+		<try>genre</try>
+	</wordle>
+
+	<wordle date="2023-12-03" number="897" score="5" word="adapt">
+		<try>drink</try>
+		<try>bleed</try>
+		<try>maddy</try>
+		<try>adopt</try>
+		<try>adapt</try>
+	</wordle>
+
+	<wordle date="2023-12-04" number="898" score="4" word="worst">
+		<try>poker</try>
+		<try>corny</try>
+		<try>torus</try>
+		<try>worst</try>
+	</wordle>
+
+	<wordle date="2023-12-05" number="899" score="5" word="young">
+		<try>steak</try>
+		<try>crowd</try>
+		<try>opium</try>
+		<try>bough</try>
+		<try>young</try>
+	</wordle>
+
 </wordles>

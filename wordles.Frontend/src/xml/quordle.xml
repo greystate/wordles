@@ -6524,4 +6524,58 @@
 		<try>briar</try>
 	</quordle>
 
+	<quordle date="2023-12-01" number="684" scores="8 5 7 6" words="north puppy think pluck">
+		<try>amaze</try>
+		<try>power</try>
+		<try>pupil</try>
+		<try>yours</try>
+		<try>puppy</try>
+		<try>pluck</try>
+		<try>think</try>
+		<try>north</try>
+	</quordle>
+
+	<quordle date="2023-12-02" number="685" scores="7 5 4 6" words="depot modal panic gruff">
+		<try>opera</try>
+		<try>greet</try>
+		<try>minds</try>
+		<try>panic</try>
+		<try>modal</try>
+		<try>gruff</try>
+		<try>depot</try>
+	</quordle>
+
+	<quordle date="2023-12-03" number="686" scores="4 6 8 7" words="stick twice whoop waive">
+		<try>marks</try>
+		<try>poked</try>
+		<try>cling</try>
+		<try>stick</try>
+		<try>evict</try>
+		<try>twice</try>
+		<try>waive</try>
+		<try>whoop</try>
+	</quordle>
+
+	<quordle date="2023-12-04" number="687" scores="4 9 8 5" words="stomp kneed nanny buddy">
+		<try>house</try>
+		<try>triad</try>
+		<try>dumpy</try>
+		<try>stomp</try>
+		<try>buddy</try>
+		<try>canny</try>
+		<try>fanny</try>
+		<try>nanny</try>
+		<try>kneed</try>
+	</quordle>
+
+	<quordle date="2023-12-05" number="688" scores="6 3 7 4" words="prank shush cutie shell">
+		<try>house</try>
+		<try>plaid</try>
+		<try>shush</try>
+		<try>shell</try>
+		<try>untie</try>
+		<try>prank</try>
+		<try>cutie</try>
+	</quordle>
+
 </wordles>
