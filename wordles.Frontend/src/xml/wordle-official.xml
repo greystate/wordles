@@ -4707,4 +4707,37 @@
 		<try>young</try>
 	</wordle>
 
+	<wordle date="2023-12-06" number="900" score="5" word="woman">
+		<try>young</try>
+		<try>sonic</try>
+		<try>noted</try>
+		<try>roman</try>
+		<try>woman</try>
+	</wordle>
+
+	<wordle date="2023-12-07" number="901" score="2" word="sleep">
+		<try>cleft</try>
+		<try>sleep</try>
+	</wordle>
+
+	<wordle date="2023-12-08" number="902" score="3" word="sharp">
+		<try>blast</try>
+		<try>swamp</try>
+		<try>sharp</try>
+	</wordle>
+
+	<wordle date="2023-12-09" number="903" score="5" word="shift">
+		<try>place</try>
+		<try>units</try>
+		<try>stiff</try>
+		<try>swift</try>
+		<try>shift</try>
+	</wordle>
+
+	<wordle date="2023-12-10" number="904" score="3" word="chain">
+		<try>plant</try>
+		<try>snack</try>
+		<try>chain</try>
+	</wordle>
+
 </wordles>

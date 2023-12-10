@@ -4847,4 +4847,39 @@
 		<try>hveps</try>
 	</wordle>
 
+	<wordle date="2023-12-06" number="689" score="5" word="gilde">
+		<try>under</try>
+		<try>denne</try>
+		<try>glæde</try>
+		<try>galde</try>
+		<try>gilde</try>
+	</wordle>
+
+	<wordle date="2023-12-07" number="690" score="4" word="høtyv">
+		<try>træls</try>
+		<try>potte</try>
+		<try>datid</try>
+		<try>høtyv</try>
+	</wordle>
+
+	<wordle date="2023-12-08" number="691" score="3" word="idiot">
+		<try>frels</try>
+		<try>point</try>
+		<try>idiot</try>
+	</wordle>
+
+	<wordle date="2023-12-09" number="692" score="4" word="indbo">
+		<try>musik</try>
+		<try>vinge</try>
+		<try>indad</try>
+		<try>indbo</try>
+	</wordle>
+
+	<wordle date="2023-12-10" number="693" score="4" word="jodle">
+		<try>skærm</try>
+		<try>plade</try>
+		<try>dulle</try>
+		<try>jodle</try>
+	</wordle>
+
 </wordles>

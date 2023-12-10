@@ -6578,4 +6578,62 @@
 		<try>cutie</try>
 	</quordle>
 
+	<quordle date="2023-12-06" number="689" scores="7 4 0 9" words="scoff tonic waver fizzy">
+		<try>crumb</try>
+		<try>sated</try>
+		<try>point</try>
+		<try>tonic</try>
+		<try>willy</try>
+		<try>wager</try>
+		<try>scoff</try>
+		<try>jiffy</try>
+		<try>fizzy</try>
+	</quordle>
+
+	<quordle date="2023-12-07" number="690" scores="8 7 3 6" words="snaky spoon suite spelt">
+		<try>lives</try>
+		<try>drunk</try>
+		<try>suite</try>
+		<try>steel</try>
+		<try>slept</try>
+		<try>spelt</try>
+		<try>spoon</try>
+		<try>snaky</try>
+	</quordle>
+
+	<quordle date="2023-12-08" number="691" scores="7 6 9 5" words="theft saint mushy talon">
+		<try>evade</try>
+		<try>poker</try>
+		<try>suite</try>
+		<try>nylon</try>
+		<try>talon</try>
+		<try>saint</try>
+		<try>theft</try>
+		<try>hushy</try>
+		<try>mushy</try>
+	</quordle>
+
+	<quordle date="2023-12-09" number="692" scores="6 8 4 5" words="poker whack hobby bagel">
+		<try>dream</try>
+		<try>youth</try>
+		<try>bling</try>
+		<try>hobby</try>
+		<try>bagel</try>
+		<try>poker</try>
+		<try>shack</try>
+		<try>whack</try>
+	</quordle>
+
+	<quordle date="2023-12-10" number="693" scores="9 6 8 0" words="godly thump plank civic">
+		<try>quack</try>
+		<try>power</try>
+		<try>prune</try>
+		<try>slump</try>
+		<try>child</try>
+		<try>thump</try>
+		<try>dolly</try>
+		<try>plank</try>
+		<try>godly</try>
+	</quordle>
+
 </wordles>
