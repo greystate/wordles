@@ -6636,4 +6636,26 @@
 		<try>godly</try>
 	</quordle>
 
+	<quordle date="2023-12-11" number="694" scores="4 5 6 7" words="basal baron haste mania">
+		<try>lints</try>
+		<try>dream</try>
+		<try>manic</try>
+		<try>basal</try>
+		<try>baron</try>
+		<try>haste</try>
+		<try>mania</try>
+	</quordle>
+
+	<quordle date="2023-12-12" number="695" scores="8 9 6 4" words="scrap ethos condo snort">
+		<try>devil</try>
+		<try>frats</try>
+		<try>young</try>
+		<try>snort</try>
+		<try>scrab</try>
+		<try>condo</try>
+		<try>motes</try>
+		<try>scrap</try>
+		<try>ethos</try>
+	</quordle>
+
 </wordles>

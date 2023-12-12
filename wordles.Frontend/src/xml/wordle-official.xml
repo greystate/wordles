@@ -4740,4 +4740,18 @@
 		<try>chain</try>
 	</wordle>
 
+	<wordle date="2023-12-11" number="905" score="4" word="house">
+		<try>plane</try>
+		<try>drive</try>
+		<try>smote</try>
+		<try>house</try>
+	</wordle>
+
+	<wordle date="2023-12-12" number="906" score="4" word="these">
+		<try>arrow</try>
+		<try>plush</try>
+		<try>heist</try>
+		<try>these</try>
+	</wordle>
+
 </wordles>

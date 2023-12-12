@@ -4882,4 +4882,18 @@
 		<try>jodle</try>
 	</wordle>
 
+	<wordle date="2023-12-11" number="694" score="4" word="kabel">
+		<try>daske</try>
+		<try>kanel</try>
+		<try>kamel</try>
+		<try>kabel</try>
+	</wordle>
+
+	<wordle date="2023-12-12" number="695" score="4" word="polyp">
+		<try>kaste</try>
+		<try>rubin</try>
+		<try>ydmyg</try>
+		<try>polyp</try>
+	</wordle>
+
 </wordles>
