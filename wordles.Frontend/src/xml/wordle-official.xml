@@ -4754,4 +4754,40 @@
 		<try>these</try>
 	</wordle>
 
+	<wordle date="2023-12-13" number="907" score="4" word="spent">
+		<try>tread</try>
+		<try>steep</try>
+		<try>slept</try>
+		<try>spent</try>
+	</wordle>
+
+	<wordle date="2023-12-14" number="908" score="3" word="would">
+		<try>power</try>
+		<try>wonky</try>
+		<try>would</try>
+	</wordle>
+
+	<wordle date="2023-12-15" number="909" score="4" word="topic">
+		<try>grown</try>
+		<try>salvo</try>
+		<try>doped</try>
+		<try>topic</try>
+	</wordle>
+
+	<wordle date="2023-12-16" number="910" score="6" word="globe">
+		<try>crash</try>
+		<try>pound</try>
+		<try>jello</try>
+		<try>flote</try>
+		<try>glove</try>
+		<try>globe</try>
+	</wordle>
+
+	<wordle date="2023-12-17" number="911" score="4" word="bacon">
+		<try>stray</try>
+		<try>amend</try>
+		<try>chain</try>
+		<try>bacon</try>
+	</wordle>
+
 </wordles>

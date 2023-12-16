@@ -6658,4 +6658,56 @@
 		<try>ethos</try>
 	</quordle>
 
+	<quordle date="2023-12-13" number="696" scores="6 7 5 4" words="melee golly heist place">
+		<try>power</try>
+		<try>death</try>
+		<try>cling</try>
+		<try>place</try>
+		<try>heist</try>
+		<try>melee</try>
+		<try>golly</try>
+	</quordle>
+
+	<quordle date="2023-12-14" number="697" scores="4 8 6 7" words="fewer rerun speak creep">
+		<try>owner</try>
+		<try>guide</try>
+		<try>bream</try>
+		<try>fewer</try>
+		<try>steak</try>
+		<try>speak</try>
+		<try>creep</try>
+		<try>rerun</try>
+	</quordle>
+
+	<quordle date="2023-12-15" number="698" scores="7 3 4 5" words="melon ghost sassy clear">
+		<try>stone</try>
+		<try>plyer</try>
+		<try>ghost</try>
+		<try>sassy</try>
+		<try>clear</try>
+		<try>melon</try>
+		<try>felon</try>
+	</quordle>
+
+	<quordle date="2023-12-16" number="699" scores="5 8 6 7" words="exult posse frank spiky">
+		<try>quits</try>
+		<try>elope</try>
+		<try>gravy</try>
+		<try>spicy</try>
+		<try>exult</try>
+		<try>frank</try>
+		<try>spiky</try>
+		<try>posse</try>
+	</quordle>
+
+	<quordle date="2023-12-17" number="700" scores="3 7 6 4" words="solar genie ennui place">
+		<try>bacon</try>
+		<try>plush</try>
+		<try>solar</try>
+		<try>place</try>
+		<try>tuned</try>
+		<try>ennui</try>
+		<try>genie</try>
+	</quordle>
+
 </wordles>

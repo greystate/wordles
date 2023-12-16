@@ -4184,7 +4184,8 @@
 		<try>galla</try>
 	</wordle>
 
-	<!-- 2023-09-03 -->
+	<!-- Missed #595 -->
+	<wordle date="2023-09-03" number="595" score="0" word="?" />
 
 	<wordle date="2023-09-04" number="596" score="3" word="fræse">
 		<try>plade</try>
@@ -4533,7 +4534,8 @@
 		<try>hvede</try>
 	</wordle>
 
-	<!-- 2023-10-23 -->
+	<!-- Missed #645 -->
+	<wordle date="2023-10-23" number="645" score="0" word="?" />
 
 	<wordle date="2023-10-24" number="646" score="3" word="lamel">
 		<try>blond</try>
@@ -4894,6 +4896,39 @@
 		<try>rubin</try>
 		<try>ydmyg</try>
 		<try>polyp</try>
+	</wordle>
+
+	<wordle date="2023-12-13" number="696" score="4" word="katar">
+		<try>opera</try>
+		<try>krads</try>
+		<try>karat</try>
+		<try>katar</try>
+	</wordle>
+
+	<!-- Missed # 697 -->
+	<wordle date="2023-12-14" number="697" score="0" word="?" />
+
+	<wordle date="2023-12-15" number="698" score="5" word="firma">
+		<try>brænd</try>
+		<try>ruske</try>
+		<try>omgør</try>
+		<try>myrra</try>
+		<try>firma</try>
+	</wordle>
+
+	<wordle date="2023-12-16" number="699" score="5" word="hybel">
+		<try>fladt</try>
+		<try>lejre</try>
+		<try>skole</try>
+		<try>hulen</try>
+		<try>hybel</try>
+	</wordle>
+
+	<wordle date="2023-12-17" number="700" score="4" word="immun">
+		<try>bacon</try>
+		<try>siden</try>
+		<try>ikkun</try>
+		<try>immun</try>
 	</wordle>
 
 </wordles>
