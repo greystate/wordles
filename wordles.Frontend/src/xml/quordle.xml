@@ -6710,4 +6710,48 @@
 		<try>genie</try>
 	</quordle>
 
+	<quordle date="2023-12-18" number="701" scores="7 5 4 6" words="flunk train skate sprig">
+		<try>slink</try>
+		<try>panic</try>
+		<try>stake</try>
+		<try>skate</try>
+		<try>train</try>
+		<try>sprig</try>
+		<try>flunk</try>
+	</quordle>
+
+	<quordle date="2023-12-19" number="702" scores="8 4 5 6" words="china trunk suave deter">
+		<try>start</try>
+		<try>power</try>
+		<try>drunk</try>
+		<try>trunk</try>
+		<try>suave</try>
+		<try>deter</try>
+		<try>ginny</try>
+		<try>china</try>
+	</quordle>
+
+	<quordle date="2023-12-20" number="703" scores="0 0 0 0" words="humph sower wagon edict">
+		<try>panic</try>
+		<try>opera</try>
+		<try>rover</try>
+		<try>canoe</try>
+		<try>itchy</try>
+		<try>baboo</try>
+		<try>loser</try>
+		<try>sober</try>
+		<try>sorer</try>
+	</quordle>
+
+	<quordle date="2023-12-21" number="704" scores="7 5 8 6" words="tense scalp quasi prawn">
+		<try>panic</try>
+		<try>carps</try>
+		<try>space</try>
+		<try>prank</try>
+		<try>scalp</try>
+		<try>prawn</try>
+		<try>tense</try>
+		<try>quasi</try>
+	</quordle>
+
 </wordles>

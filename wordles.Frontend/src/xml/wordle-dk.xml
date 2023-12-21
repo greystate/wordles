@@ -4931,4 +4931,33 @@
 		<try>immun</try>
 	</wordle>
 
+	<!-- This is #709 -->
+	<wordle date="2023-12-18" number="701" score="5" word="læspe">
+		<try>sjove</try>
+		<try>hilse</try>
+		<try>rasle</try>
+		<try>læste</try>
+		<try>læspe</try>
+	</wordle>
+
+	<wordle date="2023-12-19" number="702" score="4" word="merit">
+		<try>træne</try>
+		<try>reder</try>
+		<try>betro</try>
+		<try>merit</try>
+	</wordle>
+
+	<wordle date="2023-12-20" number="703" score="4" word="ditto">
+		<try>jubel</try>
+		<try>dansk</try>
+		<try>drift</try>
+		<try>ditto</try>
+	</wordle>
+
+	<wordle date="2023-12-21" number="704" score="3" word="radon">
+		<try>opera</try>
+		<try>radio</try>
+		<try>radon</try>
+	</wordle>
+
 </wordles>

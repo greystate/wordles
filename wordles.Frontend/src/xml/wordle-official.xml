@@ -4790,4 +4790,33 @@
 		<try>bacon</try>
 	</wordle>
 
+	<wordle date="2023-12-18" number="912" score="4" word="funny">
+		<try>drone</try>
+		<try>trunk</try>
+		<try>bunny</try>
+		<try>funny</try>
+	</wordle>
+
+	<wordle date="2023-12-19" number="913" score="4" word="table">
+		<try>wands</try>
+		<try>paver</try>
+		<try>tache</try>
+		<try>table</try>
+	</wordle>
+
+	<wordle date="2023-12-20" number="914" score="4" word="small">
+		<try>music</try>
+		<try>shame</try>
+		<try>smart</try>
+		<try>small</try>
+	</wordle>
+
+	<wordle date="2023-12-21" number="915" score="5" word="built">
+		<try>stone</try>
+		<try>truly</try>
+		<try>guilt</try>
+		<try>quilt</try>
+		<try>built</try>
+	</wordle>
+
 </wordles>
