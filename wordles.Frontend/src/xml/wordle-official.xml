@@ -4819,4 +4819,37 @@
 		<try>built</try>
 	</wordle>
 
+	<wordle date="2023-12-22" number="916" score="4" word="touch">
+		<try>crown</try>
+		<try>mocha</try>
+		<try>botch</try>
+		<try>touch</try>
+	</wordle>
+
+	<wordle date="2023-12-23" number="917" score="4" word="slope">
+		<try>trick</try>
+		<try>bound</try>
+		<try>shove</try>
+		<try>slope</try>
+	</wordle>
+
+	<wordle date="2023-12-24" number="918" score="3" word="grace">
+		<try>gifts</try>
+		<try>green</try>
+		<try>grace</try>
+	</wordle>
+
+	<wordle date="2023-12-25" number="919" score="4" word="evoke">
+		<try>plays</try>
+		<try>drown</try>
+		<try>emote</try>
+		<try>evoke</try>
+	</wordle>
+
+	<wordle date="2023-12-26" number="620" score="3" word="phone">
+		<try>rides</try>
+		<try>petal</try>
+		<try>phone</try>
+	</wordle>
+
 </wordles>
