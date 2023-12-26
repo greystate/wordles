@@ -15,7 +15,7 @@
 	<xsl:output method="html" indent="yes" omit-xml-declaration="yes" encoding="utf-8" />
 
 	<xsl:param name="showall" select="false()" />
-	<xsl:param name="debugging" select="false()" />
+	<xsl:param name="debugging" select="true()" />
 
 	<xsl:variable name="max-wordles" select="6" />
 	<xsl:variable name="max-quordles" select="4" />
@@ -35,7 +35,7 @@
 			<xsl:variable name="wordles" select="w:wordles//*[self::w:wordle | self::w:quordle]" />
 			<xsl:for-each select="$wordles">
 				<xsl:variable name="preceding-number" select="preceding-sibling::*[1]/@number" />
-				<xsl:if test="not(@number = $preceding-number + 1)">
+				<xsl:if test="not(@number = $preceding-number + 1) and number($preceding-number) = $preceding-number">
 					<xsl:apply-templates select="." mode="sequence-fail" />
 					<xsl:value-of select="@number" /> (<xsl:value-of select="$preceding-number" />)
 				</xsl:if>
