@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parseCommand</key>
+	<dict>
+		<key>defaultDTDAttributes</key>
+		<true/>
+		<key>doNamespaces</key>
+		<true/>
+		<key>loadDTD</key>
+		<true/>
+		<key>mergeCDATA</key>
+		<true/>
+		<key>processXIncludes</key>
+		<true/>
+		<key>schemaFilePath</key>
+		<string></string>
+		<key>settingsExpanded</key>
+		<false/>
+		<key>sourceFilePath</key>
+		<string>/Users/chriz/Development/src/wordles/wordles.Frontend/src/xml/quordle.xml</string>
+		<key>substituteEntities</key>
+		<true/>
+		<key>validationType</key>
+		<integer>0</integer>
+		<key>verbose</key>
+		<true/>
+	</dict>
+	<key>queryCommand</key>
+	<dict>
+		<key>breakpointsEnabled</key>
+		<false/>
+		<key>contextQuery</key>
+		<string>/</string>
+		<key>mainQuery</key>
+		<string>//w:quordle[not(preceding-sibling::w:quordle[1]/@number + 1 = @number)]</string>
+		<key>namespaces</key>
+		<array>
+			<dict>
+				<key>URI</key>
+				<string>http://xmlns.greystate.dk/2022/wordles</string>
+				<key>prefix</key>
+				<string>w</string>
+			</dict>
+		</array>
+		<key>verbose</key>
+		<true/>
+	</dict>
+	<key>sourceBookmark</key>
+	<data>
+	Ym9va/gDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuAIA
+	AAQAAAADAwAAAAQAAAUAAAABAQAAVXNlcnMAAAAFAAAAAQEAAGNocml6AAAACwAAAAEB
+	AABEZXZlbG9wbWVudAADAAAAAQEAAHNyYwAHAAAAAQEAAHdvcmRsZXMAEAAAAAEBAAB3
+	b3JkbGVzLkZyb250ZW5kAwAAAAEBAAB4bWwACwAAAAEBAABxdW9yZGxlLnhtbAAkAAAA
+	AQYAABAAAAAgAAAAMAAAAEQAAABQAAAAYAAAAEQAAAB4AAAAhAAAAAgAAAAEAwAASVMA
+	AAAAAAAIAAAABAMAAJd4BQAAAAAACAAAAAQDAABUjxAAAAAAAAgAAAAEAwAAtscSAAAA
+	AAAIAAAABAMAAIThyAQAAAAACAAAAAQDAADP4cgEAAAAAAgAAAAEAwAA0eHIBAAAAAAI
+	AAAABAMAAF/qyAQAAAAACAAAAAQDAACJLdQJAAAAACQAAAABBgAAxAAAANQAAADkAAAA
+	9AAAAAQBAAAUAQAAJAEAADQBAABEAQAACAAAAAAEAABBxBBxp1cAMBgAAAABAgAAAQAA
+	AAAAAAAfAgAAAAAAAB8CAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAEAAAAIAAAABAMAAAcA
+	AAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3No
+	IEhECAAAAAQDAAAAoCBodAAAAAgAAAAABAAAQcVa8n8AAAAkAAAAAQEAAEUxM0FFMzc4
+	LTdFMkItNDM2Ny1CQjIxLUEyMzgzNkQyN0Q3RBgAAAABAgAAgQAAAAEAAADvEwAAAQAA
+	AO8TAAABAAAAAQAAAAEBAAAvAAAAMwAAAAECAABkbmliAAAAAAEAAAAAAAAAAAAAAAAA
+	AAAAAAAAAwAAAAAAAAB4bWw/Pz8/AAAAAAAAAAAACAEAAP7///8BAAAAAAAAABUAAAAE
+	EAAAmAAAAAAAAAAFEAAAVAEAAAAAAAAQEAAAkAEAAAAAAABAEAAAgAEAAAAAAABUEAAA
+	uAEAAAAAAABVEAAAuAEAAAAAAABWEAAAsAEAAAAAAAACIAAAcAIAAAAAAAAFIAAA4AEA
+	AAAAAAAQIAAA8AEAAAAAAAARIAAAJAIAAAAAAAASIAAABAIAAAAAAAATIAAAFAIAAAAA
+	AAAgIAAAUAIAAAAAAAAwIAAAsAEAAAAAAAABwAAAxAEAAAAAAAARwAAAIAAAAAAAAAAS
+	wAAA1AEAAAAAAAAQ0AAABAAAAAAAAAAX8AAAhAAAAAAAAAAi8AAAfAIAAAAAAAA=
+	</data>
+</dict>
+</plist>
