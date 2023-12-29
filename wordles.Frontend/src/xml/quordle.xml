@@ -6812,4 +6812,38 @@
 		<try>ombre</try>
 	</quordle>
 
+	<quordle date="2023-12-27" number="702" scores="5 6 7 0" words="alive abhor brace corer">
+		<try>chalk</try>
+		<try>diets</try>
+		<try>mourn</try>
+		<try>cover</try>
+		<try>alive</try>
+		<try>abhor</try>
+		<try>brace</try>
+		<try>cower</try>
+		<try>coper</try>
+	</quordle>
+
+	<quordle date="2023-12-28" number="703" scores="7 8 6 0" words="clerk berth finer scaly">
+		<try>means</try>
+		<try>enter</try>
+		<try>rinse</try>
+		<try>dough</try>
+		<try>fleck</try>
+		<try>finer</try>
+		<try>clerk</try>
+		<try>berth</try>
+		<try>scalp</try>
+	</quordle>
+
+	<quordle date="2023-12-29" number="704" scores="4 6 5 7" words="agony flaky phone afoul">
+		<try>sting</try>
+		<try>plead</try>
+		<try>chore</try>
+		<try>agony</try>
+		<try>phone</try>
+		<try>flaky</try>
+		<try>afoul</try>
+	</quordle>
+
 </wordles>

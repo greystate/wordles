@@ -4846,10 +4846,33 @@
 		<try>evoke</try>
 	</wordle>
 
-	<wordle date="2023-12-26" number="620" score="3" word="phone">
+	<wordle date="2023-12-26" number="920" score="3" word="phone">
 		<try>rides</try>
 		<try>petal</try>
 		<try>phone</try>
+	</wordle>
+
+	<wordle date="2023-12-27" number="921" score="4" word="daisy">
+		<try>opera</try>
+		<try>chalk</try>
+		<try>sandy</try>
+		<try>daisy</try>
+	</wordle>
+
+	<wordle date="2023-12-28" number="922" score="4" word="learn">
+		<try>truck</try>
+		<try>rival</try>
+		<try>laser</try>
+		<try>learn</try>
+	</wordle>
+
+	<wordle date="2023-12-29" number="923" score="6" word="child">
+		<try>wrong</try>
+		<try>tubas</try>
+		<try>chimp</try>
+		<try>chill</try>
+		<try>chili</try>
+		<try>child</try>
 	</wordle>
 
 </wordles>

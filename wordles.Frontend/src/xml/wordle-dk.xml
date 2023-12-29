@@ -4997,4 +4997,28 @@
 		<try>tudse</try>
 	</wordle>
 
+	<wordle date="2023-12-27" number="718" score="6" word="højre">
+		<try>flæng</try>
+		<try>trave</try>
+		<try>porre</try>
+		<try>skure</try>
+		<try>mødre</try>
+		<try>højre</try>
+	</wordle>
+
+	<wordle date="2023-12-28" number="719" score="4" word="grill">
+		<try>udsat</try>
+		<try>føler</try>
+		<try>lyrik</try>
+		<try>grill</try>
+	</wordle>
+
+	<wordle date="2023-12-29" number="720" score="5" word="tyfon">
+		<try>dråbe</try>
+		<try>magts</try>
+		<try>utopi</try>
+		<try>klovn</try>
+		<try>tyfon</try>
+	</wordle>
+
 </wordles>
