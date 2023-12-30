@@ -4875,4 +4875,11 @@
 		<try>child</try>
 	</wordle>
 
+	<wordle date="2023-12-30" number="924" score="4" word="three">
+		<try>power</try>
+		<try>dares</try>
+		<try>beret</try>
+		<try>three</try>
+	</wordle>
+
 </wordles>

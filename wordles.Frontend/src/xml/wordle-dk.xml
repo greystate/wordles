@@ -5021,4 +5021,11 @@
 		<try>tyfon</try>
 	</wordle>
 
+	<wordle date="2023-12-30" number="721" score="4" word="dvask">
+		<try>opera</try>
+		<try>musik</try>
+		<try>klask</try>
+		<try>dvask</try>
+	</wordle>
+
 </wordles>

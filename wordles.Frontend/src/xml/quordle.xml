@@ -6846,4 +6846,14 @@
 		<try>afoul</try>
 	</quordle>
 
+	<quordle date="2023-12-30" number="705" scores="5 7 4 6" words="acute sally groan growl">
+		<try>poker</try>
+		<try>dashy</try>
+		<try>cumin</try>
+		<try>groan</try>
+		<try>acute</try>
+		<try>growl</try>
+		<try>sally</try>
+	</quordle>
+
 </wordles>
