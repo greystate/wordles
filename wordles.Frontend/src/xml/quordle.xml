@@ -6856,4 +6856,16 @@
 		<try>sally</try>
 	</quordle>
 
+	<quordle date="2023-12-31" number="706" scores="5 8 0 9" words="toxic solve album graze">
+		<try>place</try>
+		<try>trunk</try>
+		<try>frame</try>
+		<try>grade</try>
+		<try>toxic</try>
+		<try>loose</try>
+		<try>grave</try>
+		<try>solve</try>
+		<try>graze</try>
+	</quordle>
+
 </wordles>

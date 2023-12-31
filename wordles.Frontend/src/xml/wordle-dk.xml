@@ -5028,4 +5028,12 @@
 		<try>dvask</try>
 	</wordle>
 
+	<wordle date="2023-12-31" number="722" score="5" word="butik">
+		<try>hylde</try>
+		<try>rings</try>
+		<try>umami</try>
+		<try>pupil</try>
+		<try>butik</try>
+	</wordle>
+
 </wordles>

@@ -4882,4 +4882,11 @@
 		<try>three</try>
 	</wordle>
 
+	<wordle date="2023-12-31" number="925" score="4" word="salty">
+		<try>tread</try>
+		<try>attic</try>
+		<try>jaunt</try>
+		<try>salty</try>
+	</wordle>
+
 </wordles>
