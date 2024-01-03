@@ -6868,4 +6868,39 @@
 		<try>graze</try>
 	</quordle>
 
+	<quordle date="2024-01-01" number="707" scores="0 0 4 6" words="maize idiom brain exert">
+		<try>night</try>
+		<try>frown</try>
+		<try>plead</try>
+		<try>brain</try>
+		<try>sucks</try>
+		<try>exert</try>
+		<try>diode</try>
+		<try>ovoid</try>
+		<try>moist</try>
+	</quordle>
+
+	<quordle date="2024-01-02" number="708" scores="8 3 6 9" words="manor torch fauna avail">
+		<try>blink</try>
+		<try>pouch</try>
+		<try>torch</try>
+		<try>silly</try>
+		<try>wrong</try>
+		<try>fauna</try>
+		<try>radon</try>
+		<try>manor</try>
+		<try>avail</try>
+	</quordle>
+
+	<quordle date="2024-01-03" number="709" scores="6 3 4 8" words="mound stuck hoard angry">
+		<try>white</try>
+		<try>cruft</try>
+		<try>stuck</try>
+		<try>hoard</try>
+		<try>mould</try>
+		<try>mound</try>
+		<try>parry</try>
+		<try>angry</try>
+	</quordle>
+
 </wordles>

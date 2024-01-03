@@ -5036,4 +5036,27 @@
 		<try>butik</try>
 	</wordle>
 
+	<wordle date="2024-01-01" number="723" score="4" word="pilot">
+		<try>udsat</try>
+		<try>frygt</try>
+		<try>plint</try>
+		<try>pilot</try>
+	</wordle>
+
+	<wordle date="2024-01-02" number="724" score="5" word="ocean">
+		<try>bøger</try>
+		<try>sendt</try>
+		<try>pagen</try>
+		<try>stavn</try>
+		<try>ocean</try>
+	</wordle>
+
+	<wordle date="2024-01-03" number="725" score="5" word="offer">
+		<try>hvide</try>
+		<try>plejl</try>
+		<try>senat</try>
+		<try>morer</try>
+		<try>offer</try>
+	</wordle>
+
 </wordles>

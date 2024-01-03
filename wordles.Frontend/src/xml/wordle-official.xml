@@ -4889,4 +4889,24 @@
 		<try>salty</try>
 	</wordle>
 
+	<wordle date="2024-01-01" number="926" score="3" word="mural">
+		<try>stare</try>
+		<try>largo</try>
+		<try>mural</try>
+	</wordle>
+
+	<wordle date="2024-01-02" number="927" score="4" word="aging">
+		<try>speak</try>
+		<try>angry</try>
+		<try>among</try>
+		<try>aging</try>
+	</wordle>
+
+	<wordle date="2024-01-03" number="928" score="4" word="twirl">
+		<try>place</try>
+		<try>longs</try>
+		<try>truly</try>
+		<try>twirl</try>
+	</wordle>
+
 </wordles>
