@@ -3790,8 +3790,7 @@
 		<try>acrid</try>
 	</quordle>
 
-	<!-- Fix from here (this is #431) -->
-	<quordle date="2023-03-31" number="439" scores="5 9 4 8" words="choir tubal scour parry">
+	<quordle date="2023-03-31" number="431" scores="5 9 4 8" words="choir tubal scour parry">
 		<try>reefs</try>
 		<try>power</try>
 		<try>volta</try>
@@ -3803,7 +3802,7 @@
 		<try>tubal</try>
 	</quordle>
 
-	<quordle date="2023-04-01" number="440" scores="5 0 6 8" words="godly motor epoxy heart">
+	<quordle date="2023-04-01" number="432" scores="5 0 6 8" words="godly motor epoxy heart">
 		<try>eagle</try>
 		<try>opera</try>
 		<try>epoch</try>
@@ -3815,7 +3814,7 @@
 		<try>rotor</try>
 	</quordle>
 
-	<quordle date="2023-04-02" number="441" scores="6 7 4 9" words="whose super shark fable">
+	<quordle date="2023-04-02" number="433" scores="6 7 4 9" words="whose super shark fable">
 		<try>clock</try>
 		<try>spore</try>
 		<try>snark</try>
@@ -3827,7 +3826,7 @@
 		<try>fable</try>
 	</quordle>
 
-	<quordle date="2023-04-03" number="442" scores="5 7 6 4" words="turbo whole light sprig">
+	<quordle date="2023-04-03" number="434" scores="5 7 6 4" words="turbo whole light sprig">
 		<try>plain</try>
 		<try>dumpy</try>
 		<try>rinse</try>
@@ -3837,7 +3836,7 @@
 		<try>whole</try>
 	</quordle>
 
-	<quordle date="2023-04-04" number="443" scores="6 8 9 5" words="ounce whine frock posit">
+	<quordle date="2023-04-04" number="435" scores="6 8 9 5" words="ounce whine frock posit">
 		<try>ethic</try>
 		<try>dumpy</try>
 		<try>grass</try>
@@ -3849,7 +3848,7 @@
 		<try>frock</try>
 	</quordle>
 
-	<quordle date="2023-04-05" number="444" scores="0 7 9 3" words="skull polar spree those">
+	<quordle date="2023-04-05" number="436" scores="0 7 9 3" words="skull polar spree those">
 		<try>horse</try>
 		<try>chose</try>
 		<try>those</try>
@@ -3861,7 +3860,7 @@
 		<try>spree</try>
 	</quordle>
 
-	<quordle date="2023-04-06" number="445" scores="8 7 0 6" words="covey break awash stalk">
+	<quordle date="2023-04-06" number="437" scores="8 7 0 6" words="covey break awash stalk">
 		<try>drums</try>
 		<try>octal</try>
 		<try>salty</try>
@@ -3874,7 +3873,7 @@
 	</quordle>
 
 
-	<quordle date="2023-04-07" number="446" scores="7 6 8 4" words="rivet visor cease afoot">
+	<quordle date="2023-04-07" number="438" scores="7 6 8 4" words="rivet visor cease afoot">
 		<try>power</try>
 		<try>start</try>
 		<try>flung</try>
@@ -3885,7 +3884,7 @@
 		<try>cease</try>
 	</quordle>
 
-	<quordle date="2023-04-08" number="447" scores="4 5 6 7" words="cruel livid spied blend">
+	<quordle date="2023-04-08" number="439" scores="4 5 6 7" words="cruel livid spied blend">
 		<try>panel</try>
 		<try>clown</try>
 		<try>drive</try>
@@ -3895,7 +3894,7 @@
 		<try>blend</try>
 	</quordle>
 
-	<quordle date="2023-04-09" number="448" scores="6 7 4 5" words="verge camel putty grass">
+	<quordle date="2023-04-09" number="440" scores="6 7 4 5" words="verge camel putty grass">
 		<try>train</try>
 		<try>brave</try>
 		<try>dumpy</try>
@@ -3905,7 +3904,7 @@
 		<try>camel</try>
 	</quordle>
 
-	<quordle date="2023-04-10" number="449" scores="6 7 4 5" words="thumb chess syrup hotel">
+	<quordle date="2023-04-10" number="441" scores="6 7 4 5" words="thumb chess syrup hotel">
 		<try>octal</try>
 		<try>dumpy</try>
 		<try>rinse</try>
@@ -3915,7 +3914,7 @@
 		<try>chess</try>
 	</quordle>
 
-	<quordle date="2023-04-11" number="450" scores="0 6 9 7" words="chime drain whose boxer">
+	<quordle date="2023-04-11" number="442" scores="0 6 9 7" words="chime drain whose boxer">
 		<try>slink</try>
 		<try>opera</try>
 		<try>twain</try>
@@ -3927,7 +3926,7 @@
 		<try>whose</try>
 	</quordle>
 
-	<quordle date="2023-04-12" number="451" scores="4 5 8 7" words="incur drunk coven there">
+	<quordle date="2023-04-12" number="443" scores="4 5 8 7" words="incur drunk coven there">
 		<try>coral</try>
 		<try>dumpy</try>
 		<try>sting</try>
@@ -3938,7 +3937,7 @@
 		<try>coven</try>
 	</quordle>
 
-	<quordle date="2023-04-13" number="452" scores="4 7 5 6" words="delve pixel minor cloak">
+	<quordle date="2023-04-13" number="444" scores="4 7 5 6" words="delve pixel minor cloak">
 		<try>beast</try>
 		<try>dumpy</try>
 		<try>hinge</try>
@@ -3948,7 +3947,7 @@
 		<try>pixel</try>
 	</quordle>
 
-	<quordle date="2023-04-14" number="453" scores="0 6 4 9" words="brown plaza drunk dodge">
+	<quordle date="2023-04-14" number="445" scores="0 6 4 9" words="brown plaza drunk dodge">
 		<try>hotel</try>
 		<try>spank</try>
 		<try>drink</try>
@@ -3960,7 +3959,7 @@
 		<try>dodge</try>
 	</quordle>
 
-	<quordle date="2023-04-15" number="454" scores="7 3 8 6" words="hazel beret false coven">
+	<quordle date="2023-04-15" number="446" scores="7 3 8 6" words="hazel beret false coven">
 		<try>bowls</try>
 		<try>birth</try>
 		<try>beret</try>
@@ -3971,7 +3970,7 @@
 		<try>false</try>
 	</quordle>
 
-	<quordle date="2023-04-16" number="456" scores="5 3 8 6" words="slate bench quash foggy">
+	<quordle date="2023-04-16" number="447" scores="5 3 8 6" words="slate bench quash foggy">
 		<try>beast</try>
 		<try>stare</try>
 		<try>bench</try>
@@ -3982,7 +3981,7 @@
 		<try>quash</try>
 	</quordle>
 
-	<quordle date="2023-04-17" number="457" scores="7 6 3 4" words="assay slant nadir denim">
+	<quordle date="2023-04-17" number="448" scores="7 6 3 4" words="assay slant nadir denim">
 		<try>ready</try>
 		<try>inlay</try>
 		<try>nadir</try>
@@ -3992,7 +3991,7 @@
 		<try>assay</try>
 	</quordle>
 
-	<quordle date="2023-04-18" number="458" scores="4 5 8 6" words="molar probe drier borne">
+	<quordle date="2023-04-18" number="449" scores="4 5 8 6" words="molar probe drier borne">
 		<try>fable</try>
 		<try>slack</try>
 		<try>power</try>
@@ -4003,7 +4002,7 @@
 		<try>drier</try>
 	</quordle>
 
-	<quordle date="2023-04-19" number="459" scores="4 5 7 6" words="purge opine lilac cheap">
+	<quordle date="2023-04-19" number="450" scores="4 5 7 6" words="purge opine lilac cheap">
 		<try>queen</try>
 		<try>roman</try>
 		<try>pithy</try>
@@ -4013,7 +4012,7 @@
 		<try>lilac</try>
 	</quordle>
 
-	<quordle date="2023-04-20" number="460" scores="8 6 5 4" words="jelly prong globe bloom">
+	<quordle date="2023-04-20" number="451" scores="8 6 5 4" words="jelly prong globe bloom">
 		<try>shade</try>
 		<try>power</try>
 		<try>proof</try>
@@ -4024,7 +4023,7 @@
 		<try>jelly</try>
 	</quordle>
 
-	<quordle date="2023-04-21" number="461" scores="4 5 6 8" words="warty sever knave pubic">
+	<quordle date="2023-04-21" number="452" scores="4 5 6 8" words="warty sever knave pubic">
 		<try>swell</try>
 		<try>twiny</try>
 		<try>spare</try>
@@ -4035,7 +4034,7 @@
 		<try>pubic</try>
 	</quordle>
 
-	<quordle date="2023-04-22" number="462" scores="5 0 8 0" words="limit irony terra arbor">
+	<quordle date="2023-04-22" number="453" scores="5 0 8 0" words="limit irony terra arbor">
 		<try>diets</try>
 		<try>soare</try>
 		<try>dumpy</try>
@@ -4047,7 +4046,7 @@
 		<try>argon</try>
 	</quordle>
 
-	<quordle date="2023-04-23" number="463" scores="8 6 4 7" words="false lusty empty flesh">
+	<quordle date="2023-04-23" number="454" scores="8 6 4 7" words="false lusty empty flesh">
 		<try>queen</try>
 		<try>trips</try>
 		<try>busty</try>
@@ -4058,7 +4057,7 @@
 		<try>false</try>
 	</quordle>
 
-	<quordle date="2023-04-24" number="464" scores="5 6 7 8" words="deuce beast noisy young">
+	<quordle date="2023-04-24" number="455" scores="5 6 7 8" words="deuce beast noisy young">
 		<try>block</try>
 		<try>dumpy</try>
 		<try>intra</try>
@@ -4069,7 +4068,7 @@
 		<try>young</try>
 	</quordle>
 
-	<quordle date="2023-04-25" number="465" scores="5 7 6 9" words="chest shrub credo below">
+	<quordle date="2023-04-25" number="456" scores="5 7 6 9" words="chest shrub credo below">
 		<try>stare</try>
 		<try>phony</try>
 		<try>shrug</try>
@@ -4081,7 +4080,7 @@
 		<try>below</try>
 	</quordle>
 
-	<quordle date="2023-04-26" number="466" scores="4 5 9 7" words="parka spiny bushy chair">
+	<quordle date="2023-04-26" number="457" scores="4 5 9 7" words="parka spiny bushy chair">
 		<try>strap</try>
 		<try>dumpy</try>
 		<try>opera</try>
@@ -4093,7 +4092,7 @@
 		<try>bushy</try>
 	</quordle>
 
-	<quordle date="2023-04-27" number="467" scores="6 5 7 4" words="quasi plush chute soapy">
+	<quordle date="2023-04-27" number="458" scores="6 5 7 4" words="quasi plush chute soapy">
 		<try>logic</try>
 		<try>treat</try>
 		<try>swaps</try>
@@ -4103,7 +4102,7 @@
 		<try>chute</try>
 	</quordle>
 
-	<quordle date="2023-04-28" number="468" scores="4 7 5 6" words="trite sleek altar voter">
+	<quordle date="2023-04-28" number="459" scores="4 7 5 6" words="trite sleek altar voter">
 		<try>rinse</try>
 		<try>octal</try>
 		<try>dumpy</try>
@@ -4113,7 +4112,7 @@
 		<try>sleek</try>
 	</quordle>
 
-	<quordle date="2023-04-29" number="469" scores="4 7 5 8" words="scour blush whine elide">
+	<quordle date="2023-04-29" number="460" scores="4 7 5 8" words="scour blush whine elide">
 		<try>spark</try>
 		<try>minty</try>
 		<try>drown</try>
@@ -4124,7 +4123,7 @@
 		<try>elide</try>
 	</quordle>
 
-	<quordle date="2023-04-30" number="470" scores="9 5 6 7" words="stout grout ralph rigor">
+	<quordle date="2023-04-30" number="461" scores="9 5 6 7" words="stout grout ralph rigor">
 		<try>black</try>
 		<try>white</try>
 		<try>dumpy</try>
@@ -4136,7 +4135,7 @@
 		<try>stout</try>
 	</quordle>
 
-	<quordle date="2023-05-01" number="471" scores="7 8 6 4" words="ethic alike birth slain">
+	<quordle date="2023-05-01" number="462" scores="7 8 6 4" words="ethic alike birth slain">
 		<try>range</try>
 		<try>avian</try>
 		<try>stain</try>
@@ -4147,7 +4146,7 @@
 		<try>alike</try>
 	</quordle>
 
-	<quordle date="2023-05-02" number="472" scores="9 7 5 0" words="cross moult stain tatty">
+	<quordle date="2023-05-02" number="463" scores="9 7 5 0" words="cross moult stain tatty">
 		<try>speed</try>
 		<try>farcy</try>
 		<try>scrub</try>
@@ -4159,7 +4158,7 @@
 		<try>cross</try>
 	</quordle>
 
-	<quordle date="2023-05-03" number="473" scores="5 6 7 8" words="godly lager steel growl">
+	<quordle date="2023-05-03" number="464" scores="5 6 7 8" words="godly lager steel growl">
 		<try>tooth</try>
 		<try>power</try>
 		<try>dummy</try>
@@ -4170,7 +4169,7 @@
 		<try>growl</try>
 	</quordle>
 
-	<quordle date="2023-05-04" number="474" scores="7 5 8 6" words="baler scorn fetid paste">
+	<quordle date="2023-05-04" number="465" scores="7 5 8 6" words="baler scorn fetid paste">
 		<try>under</try>
 		<try>power</try>
 		<try>might</try>
@@ -4181,7 +4180,7 @@
 		<try>fetid</try>
 	</quordle>
 
-	<quordle date="2023-05-05" number="475" scores="7 8 6 4" words="limbo revue totem elbow">
+	<quordle date="2023-05-05" number="466" scores="7 8 6 4" words="limbo revue totem elbow">
 		<try>steak</try>
 		<try>power</try>
 		<try>below</try>
@@ -4192,7 +4191,7 @@
 		<try>revue</try>
 	</quordle>
 
-	<quordle date="2023-05-06" number="476" scores="4 9 5 6" words="scald tabby style tease">
+	<quordle date="2023-05-06" number="467" scores="4 9 5 6" words="scald tabby style tease">
 		<try>crazy</try>
 		<try>place</try>
 		<try>stage</try>
@@ -4204,7 +4203,7 @@
 		<try>tabby</try>
 	</quordle>
 
-	<quordle date="2023-05-07" number="477" scores="7 5 4 6" words="tooth skulk brisk slosh">
+	<quordle date="2023-05-07" number="468" scores="7 5 4 6" words="tooth skulk brisk slosh">
 		<try>jacks</try>
 		<try>super</try>
 		<try>snowy</try>
@@ -4214,7 +4213,7 @@
 		<try>tooth</try>
 	</quordle>
 
-	<quordle date="2023-05-08" number="478" scores="7 8 5 6" words="pushy gripe bloat asset">
+	<quordle date="2023-05-08" number="469" scores="7 8 5 6" words="pushy gripe bloat asset">
 		<try>moped</try>
 		<try>spool</try>
 		<try>bungy</try>
@@ -4225,7 +4224,7 @@
 		<try>gripe</try>
 	</quordle>
 
-	<quordle date="2023-05-09" number="479" scores="6 5 4 7" words="prose munch pivot condo">
+	<quordle date="2023-05-09" number="470" scores="6 5 4 7" words="prose munch pivot condo">
 		<try>perch</try>
 		<try>match</try>
 		<try>point</try>
@@ -4235,7 +4234,7 @@
 		<try>condo</try>
 	</quordle>
 
-	<quordle date="2023-05-10" number="480" scores="4 8 0 7" words="print vicar gaffe plait">
+	<quordle date="2023-05-10" number="471" scores="4 8 0 7" words="print vicar gaffe plait">
 		<try>penny</try>
 		<try>point</try>
 		<try>paint</try>
@@ -4247,7 +4246,7 @@
 		<try>gambe</try>
 	</quordle>
 
-	<quordle date="2023-05-11" number="481" scores="4 5 8 6" words="crypt dunce wheel noble">
+	<quordle date="2023-05-11" number="472" scores="4 5 8 6" words="crypt dunce wheel noble">
 		<try>blank</try>
 		<try>dumpy</try>
 		<try>riser</try>
@@ -4258,7 +4257,7 @@
 		<try>wheel</try>
 	</quordle>
 
-	<quordle date="2023-05-12" number="482" scores="2 3 7 4" words="honey cynic daunt chirp">
+	<quordle date="2023-05-12" number="473" scores="2 3 7 4" words="honey cynic daunt chirp">
 		<try>horns</try>
 		<try>honey</try>
 		<try>cynic</try>
@@ -4268,7 +4267,7 @@
 		<try>daunt</try>
 	</quordle>
 
-	<quordle date="2023-05-13" number="483" scores="9 5 8 6" words="tract preen budge snare">
+	<quordle date="2023-05-13" number="474" scores="9 5 8 6" words="tract preen budge snare">
 		<try>train</try>
 		<try>claws</try>
 		<try>moped</try>
@@ -4280,7 +4279,7 @@
 		<try>tract</try>
 	</quordle>
 
-	<quordle date="2023-05-14" number="484" scores="4 6 5 7" words="clone skunk swept sassy">
+	<quordle date="2023-05-14" number="475" scores="4 6 5 7" words="clone skunk swept sassy">
 		<try>music</try>
 		<try>votes</try>
 		<try>crawl</try>
@@ -4290,7 +4289,7 @@
 		<try>sassy</try>
 	</quordle>
 
-	<quordle date="2023-05-15" number="485" scores="4 8 7 5" words="ulcer apnea candy adult">
+	<quordle date="2023-05-15" number="476" scores="4 8 7 5" words="ulcer apnea candy adult">
 		<try>bowls</try>
 		<try>tiger</try>
 		<try>dumpy</try>
@@ -4301,7 +4300,7 @@
 		<try>apnea</try>
 	</quordle>
 
-	<quordle date="2023-05-16" number="486" scores="7 5 6 8" words="harry colon shear larva">
+	<quordle date="2023-05-16" number="477" scores="7 5 6 8" words="harry colon shear larva">
 		<try>baldy</try>
 		<try>power</try>
 		<try>stuck</try>
@@ -4312,7 +4311,7 @@
 		<try>larva</try>
 	</quordle>
 
-	<quordle date="2023-05-17" number="487" scores="6 8 5 7" words="skimp glean payee bravo">
+	<quordle date="2023-05-17" number="478" scores="6 8 5 7" words="skimp glean payee bravo">
 		<try>towns</try>
 		<try>based</try>
 		<try>humpy</try>
@@ -4323,7 +4322,7 @@
 		<try>glean</try>
 	</quordle>
 
-	<quordle date="2023-05-18" number="488" scores="7 5 3 6" words="ennui sprig later slunk">
+	<quordle date="2023-05-18" number="479" scores="7 5 3 6" words="ennui sprig later slunk">
 		<try>freak</try>
 		<try>tiger</try>
 		<try>later</try>
@@ -4333,7 +4332,7 @@
 		<try>ennui</try>
 	</quordle>
 
-	<quordle date="2023-05-19" number="489" scores="6 7 5 0" words="arbor medal trial woozy">
+	<quordle date="2023-05-19" number="480" scores="6 7 5 0" words="arbor medal trial woozy">
 		<try>brief</try>
 		<try>molds</try>
 		<try>orbit</try>
@@ -4345,6 +4344,7 @@
 		<try>woopy</try>
 	</quordle>
 
+	<!-- Fix from here (this is #481) -->
 	<quordle date="2023-05-20" number="490" scores="8 6 4 5" words="lingo howdy grasp third">
 		<try>speed</try>
 		<try>tough</try>
@@ -6492,8 +6492,8 @@
 		<try>aside</try>
 	</quordle>
 
-	<!-- This is apparently #673 -->
-	<quordle date="2023-11-28" number="681" scores="5 0 9 0" words="pesky piece baste brace">
+	<!-- This is #673 -->
+	<quordle date="2023-11-28" number="673" scores="5 0 9 0" words="pesky piece baste brace">
 		<try>stomp</try>
 		<try>under</try>
 		<try>gaily</try>
@@ -6505,7 +6505,7 @@
 		<try>baste</try>
 	</quordle>
 
-	<quordle date="2023-11-29" number="682" scores="7 5 6 4" words="omega koala above troll">
+	<quordle date="2023-11-29" number="674" scores="7 5 6 4" words="omega koala above troll">
 		<try>inter</try>
 		<try>youth</try>
 		<try>blast</try>
@@ -6515,7 +6515,7 @@
 		<try>omega</try>
 	</quordle>
 
-	<quordle date="2023-11-30" number="683" scores="5 7 6 4" words="amble briar berth about">
+	<quordle date="2023-11-30" number="675" scores="5 7 6 4" words="amble briar berth about">
 		<try>infer</try>
 		<try>blunt</try>
 		<try>poach</try>
@@ -6525,7 +6525,7 @@
 		<try>briar</try>
 	</quordle>
 
-	<quordle date="2023-12-01" number="684" scores="8 5 7 6" words="north puppy think pluck">
+	<quordle date="2023-12-01" number="676" scores="8 5 7 6" words="north puppy think pluck">
 		<try>amaze</try>
 		<try>power</try>
 		<try>pupil</try>
@@ -6536,7 +6536,7 @@
 		<try>north</try>
 	</quordle>
 
-	<quordle date="2023-12-02" number="685" scores="7 5 4 6" words="depot modal panic gruff">
+	<quordle date="2023-12-02" number="677" scores="7 5 4 6" words="depot modal panic gruff">
 		<try>opera</try>
 		<try>greet</try>
 		<try>minds</try>
@@ -6546,7 +6546,7 @@
 		<try>depot</try>
 	</quordle>
 
-	<quordle date="2023-12-03" number="686" scores="4 6 8 7" words="stick twice whoop waive">
+	<quordle date="2023-12-03" number="678" scores="4 6 8 7" words="stick twice whoop waive">
 		<try>marks</try>
 		<try>poked</try>
 		<try>cling</try>
@@ -6557,7 +6557,7 @@
 		<try>whoop</try>
 	</quordle>
 
-	<quordle date="2023-12-04" number="687" scores="4 9 8 5" words="stomp kneed nanny buddy">
+	<quordle date="2023-12-04" number="679" scores="4 9 8 5" words="stomp kneed nanny buddy">
 		<try>house</try>
 		<try>triad</try>
 		<try>dumpy</try>
@@ -6569,7 +6569,7 @@
 		<try>kneed</try>
 	</quordle>
 
-	<quordle date="2023-12-05" number="688" scores="6 3 7 4" words="prank shush cutie shell">
+	<quordle date="2023-12-05" number="680" scores="6 3 7 4" words="prank shush cutie shell">
 		<try>house</try>
 		<try>plaid</try>
 		<try>shush</try>
@@ -6579,7 +6579,7 @@
 		<try>cutie</try>
 	</quordle>
 
-	<quordle date="2023-12-06" number="689" scores="7 4 0 9" words="scoff tonic waver fizzy">
+	<quordle date="2023-12-06" number="681" scores="7 4 0 9" words="scoff tonic waver fizzy">
 		<try>crumb</try>
 		<try>sated</try>
 		<try>point</try>
@@ -6591,7 +6591,7 @@
 		<try>fizzy</try>
 	</quordle>
 
-	<quordle date="2023-12-07" number="690" scores="8 7 3 6" words="snaky spoon suite spelt">
+	<quordle date="2023-12-07" number="682" scores="8 7 3 6" words="snaky spoon suite spelt">
 		<try>lives</try>
 		<try>drunk</try>
 		<try>suite</try>
@@ -6602,7 +6602,7 @@
 		<try>snaky</try>
 	</quordle>
 
-	<quordle date="2023-12-08" number="691" scores="7 6 9 5" words="theft saint mushy talon">
+	<quordle date="2023-12-08" number="683" scores="7 6 9 5" words="theft saint mushy talon">
 		<try>evade</try>
 		<try>poker</try>
 		<try>suite</try>
@@ -6614,7 +6614,7 @@
 		<try>mushy</try>
 	</quordle>
 
-	<quordle date="2023-12-09" number="692" scores="6 8 4 5" words="poker whack hobby bagel">
+	<quordle date="2023-12-09" number="684" scores="6 8 4 5" words="poker whack hobby bagel">
 		<try>dream</try>
 		<try>youth</try>
 		<try>bling</try>
@@ -6625,7 +6625,7 @@
 		<try>whack</try>
 	</quordle>
 
-	<quordle date="2023-12-10" number="693" scores="9 6 8 0" words="godly thump plank civic">
+	<quordle date="2023-12-10" number="685" scores="9 6 8 0" words="godly thump plank civic">
 		<try>quack</try>
 		<try>power</try>
 		<try>prune</try>
@@ -6637,7 +6637,7 @@
 		<try>godly</try>
 	</quordle>
 
-	<quordle date="2023-12-11" number="694" scores="4 5 6 7" words="basal baron haste mania">
+	<quordle date="2023-12-11" number="686" scores="4 5 6 7" words="basal baron haste mania">
 		<try>lints</try>
 		<try>dream</try>
 		<try>manic</try>
@@ -6647,7 +6647,7 @@
 		<try>mania</try>
 	</quordle>
 
-	<quordle date="2023-12-12" number="695" scores="8 9 6 4" words="scrap ethos condo snort">
+	<quordle date="2023-12-12" number="687" scores="8 9 6 4" words="scrap ethos condo snort">
 		<try>devil</try>
 		<try>frats</try>
 		<try>young</try>
@@ -6659,7 +6659,7 @@
 		<try>ethos</try>
 	</quordle>
 
-	<quordle date="2023-12-13" number="696" scores="6 7 5 4" words="melee golly heist place">
+	<quordle date="2023-12-13" number="688" scores="6 7 5 4" words="melee golly heist place">
 		<try>power</try>
 		<try>death</try>
 		<try>cling</try>
@@ -6669,7 +6669,7 @@
 		<try>golly</try>
 	</quordle>
 
-	<quordle date="2023-12-14" number="697" scores="4 8 6 7" words="fewer rerun speak creep">
+	<quordle date="2023-12-14" number="689" scores="4 8 6 7" words="fewer rerun speak creep">
 		<try>owner</try>
 		<try>guide</try>
 		<try>bream</try>
@@ -6680,7 +6680,7 @@
 		<try>rerun</try>
 	</quordle>
 
-	<quordle date="2023-12-15" number="698" scores="7 3 4 5" words="melon ghost sassy clear">
+	<quordle date="2023-12-15" number="690" scores="7 3 4 5" words="melon ghost sassy clear">
 		<try>stone</try>
 		<try>plyer</try>
 		<try>ghost</try>
@@ -6690,7 +6690,7 @@
 		<try>felon</try>
 	</quordle>
 
-	<quordle date="2023-12-16" number="699" scores="5 8 6 7" words="exult posse frank spiky">
+	<quordle date="2023-12-16" number="691" scores="5 8 6 7" words="exult posse frank spiky">
 		<try>quits</try>
 		<try>elope</try>
 		<try>gravy</try>
@@ -6701,7 +6701,7 @@
 		<try>posse</try>
 	</quordle>
 
-	<quordle date="2023-12-17" number="700" scores="3 7 6 4" words="solar genie ennui place">
+	<quordle date="2023-12-17" number="692" scores="3 7 6 4" words="solar genie ennui place">
 		<try>bacon</try>
 		<try>plush</try>
 		<try>solar</try>
@@ -6711,7 +6711,7 @@
 		<try>genie</try>
 	</quordle>
 
-	<quordle date="2023-12-18" number="701" scores="7 5 4 6" words="flunk train skate sprig">
+	<quordle date="2023-12-18" number="693" scores="7 5 4 6" words="flunk train skate sprig">
 		<try>slink</try>
 		<try>panic</try>
 		<try>stake</try>
@@ -6721,7 +6721,7 @@
 		<try>flunk</try>
 	</quordle>
 
-	<quordle date="2023-12-19" number="702" scores="8 4 5 6" words="china trunk suave deter">
+	<quordle date="2023-12-19" number="694" scores="8 4 5 6" words="china trunk suave deter">
 		<try>start</try>
 		<try>power</try>
 		<try>drunk</try>
@@ -6732,7 +6732,7 @@
 		<try>china</try>
 	</quordle>
 
-	<quordle date="2023-12-20" number="703" scores="0 0 0 0" words="humph sower wagon edict">
+	<quordle date="2023-12-20" number="695" scores="0 0 0 0" words="humph sower wagon edict">
 		<try>panic</try>
 		<try>opera</try>
 		<try>rover</try>
@@ -6744,7 +6744,7 @@
 		<try>sorer</try>
 	</quordle>
 
-	<quordle date="2023-12-21" number="704" scores="7 5 8 6" words="tense scalp quasi prawn">
+	<quordle date="2023-12-21" number="696" scores="7 5 8 6" words="tense scalp quasi prawn">
 		<try>panic</try>
 		<try>carps</try>
 		<try>space</try>
@@ -6755,7 +6755,7 @@
 		<try>quasi</try>
 	</quordle>
 
-	<quordle date="2023-12-22" number="705" scores="8 5 4 6" words="fruit sweet meaty ember">
+	<quordle date="2023-12-22" number="697" scores="8 5 4 6" words="fruit sweet meaty ember">
 		<try>shame</try>
 		<try>power</try>
 		<try>linty</try>
