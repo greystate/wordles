@@ -760,6 +760,22 @@
       "oAP" : "\/build\/xml\/debugger.pathology",
       "oF" : 0
     },
+    "\/src\/xml\/quordle-fixed1.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/quordle-fixed1.xml",
+      "oF" : 0
+    },
+    "\/src\/xml\/quordle-original.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/quordle-original.xml",
+      "oF" : 0
+    },
     "\/src\/xml\/quordle.xml" : {
       "cB" : 0,
       "ft" : 8192,
@@ -790,6 +806,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/build\/xml\/wordles.xml",
+      "oF" : 0
+    },
+    "\/src\/xslt\/fix-quordles.xslt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xslt\/fix-quordles.xslt",
       "oF" : 0
     },
     "\/src\/xslt\/transform-wordles-test.xspec" : {
@@ -886,7 +910,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/src\/assets\/wordle-234.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 671063213.48775196
+    "lastBuiltDate" : 726129704.18981302
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
