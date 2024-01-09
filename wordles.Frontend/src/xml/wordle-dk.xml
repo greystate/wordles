@@ -5059,4 +5059,48 @@
 		<try>offer</try>
 	</wordle>
 
+	<wordle date="2024-01-04" number="726" score="3" word="rabat">
+		<try>trope</try>
+		<try>raskt</try>
+		<try>rabat</try>
+	</wordle>
+
+	<wordle date="2024-01-05" number="727" score="0" word="pjece">
+		<try>vinde</try>
+		<try>skåle</try>
+		<try>tørre</try>
+		<try>mappe</try>
+		<try>puffe</try>
+		<try>poppe</try>
+	</wordle>
+
+	<wordle date="2024-01-06" number="728" score="5" word="slesk">
+		<try>plant</try>
+		<try>flyde</try>
+		<try>elver</try>
+		<try>klems</try>
+		<try>slesk</try>
+	</wordle>
+
+	<wordle date="2024-01-07" number="729" score="4" word="rebel">
+		<try>under</try>
+		<try>læres</try>
+		<try>rigel</try>
+		<try>rebel</try>
+	</wordle>
+
+	<wordle date="2024-01-08" number="730" score="4" word="turbo">
+		<try>opera</try>
+		<try>rosin</try>
+		<try>trold</try>
+		<try>turbo</try>
+	</wordle>
+
+	<wordle date="2024-01-09" number="731" score="4" word="snart">
+		<try>vinde</try>
+		<try>fasan</try>
+		<try>krans</try>
+		<try>snart</try>
+	</wordle>
+
 </wordles>
