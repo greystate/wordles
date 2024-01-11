@@ -5103,4 +5103,19 @@
 		<try>snart</try>
 	</wordle>
 
+	<wordle date="2024-01-10" number="732" score="5" word="ujævn">
+		<try>streg</try>
+		<try>polak</try>
+		<try>udbud</try>
+		<try>ufine</try>
+		<try>ujævn</try>
+	</wordle>
+
+	<wordle date="2024-01-11" number="733" score="4" word="teori">
+		<try>blind</try>
+		<try>rolig</try>
+		<try>utopi</try>
+		<try>teori</try>
+	</wordle>
+
 </wordles>

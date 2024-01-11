@@ -6973,4 +6973,27 @@
 		<try>ghoul</try>
 	</quordle>
 
+	<quordle date="2024-01-10" number="716" scores="7 8 6 3" words="fleck cream gummy upper">
+		<try>quant</try>
+		<try>poker</try>
+		<try>upper</try>
+		<try>reads</try>
+		<try>milky</try>
+		<try>gummy</try>
+		<try>fleck</try>
+		<try>cream</try>
+	</quordle>
+
+	<quordle date="2024-01-11" number="717" scores="6 5 0 8" words="count halve rarer dally">
+		<try>train</try>
+		<try>warps</try>
+		<try>march</try>
+		<try>large</try>
+		<try>halve</try>
+		<try>count</try>
+		<try>dared</try>
+		<try>dally</try>
+		<try>farer</try>
+	</quordle>
+
 </wordles>

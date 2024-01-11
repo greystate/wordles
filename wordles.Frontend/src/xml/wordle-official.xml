@@ -4955,4 +4955,19 @@
 		<try>liner</try>
 	</wordle>
 
+	<wordle date="2024-01-10" number="935" score="4" word="threw">
+		<try>pinch</try>
+		<try>hades</try>
+		<try>wheel</try>
+		<try>threw</try>
+	</wordle>
+
+	<wordle date="2024-01-11" number="936" score="5" word="brief">
+		<try>ruins</try>
+		<try>grill</try>
+		<try>brick</try>
+		<try>bride</try>
+		<try>brief</try>
+	</wordle>
+
 </wordles>
