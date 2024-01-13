@@ -5118,4 +5118,18 @@
 		<try>teori</try>
 	</wordle>
 
+	<wordle date="2024-01-12" number="734" score="4" word="spøjs">
+		<try>trone</try>
+		<try>slump</try>
+		<try>spids</try>
+		<try>spøjs</try>
+	</wordle>
+
+	<wordle date="2024-01-13" number="735" score="4" word="nødig">
+		<try>plads</try>
+		<try>dirke</try>
+		<try>indgå</try>
+		<try>nødig</try>
+	</wordle>
+
 </wordles>

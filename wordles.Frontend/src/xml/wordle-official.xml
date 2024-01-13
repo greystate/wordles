@@ -4970,4 +4970,18 @@
 		<try>brief</try>
 	</wordle>
 
+	<wordle date="2024-01-12" number="937" score="4" word="route">
+		<try>crave</try>
+		<try>spire</try>
+		<try>forge</try>
+		<try>route</try>
+	</wordle>
+
+	<wordle date="2024-01-13" number="938" score="4" word="heard">
+		<try>spice</try>
+		<try>raven</try>
+		<try>earth</try>
+		<try>heard</try>
+	</wordle>
+
 </wordles>

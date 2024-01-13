@@ -6996,4 +6996,28 @@
 		<try>farer</try>
 	</quordle>
 
+	<quordle date="2024-01-12" number="718" scores="0 9 7 4" words="vowel exile fudge smart">
+		<try>trans</try>
+		<try>start</try>
+		<try>mould</try>
+		<try>smart</try>
+		<try>wedge</try>
+		<try>budge</try>
+		<try>fudge</try>
+		<try>chile</try>
+		<try>exile</try>
+	</quordle>
+
+	<quordle date="2024-01-13" number="719" scores="7 9 8 0" words="shrub ascot comma shawl">
+		<try>space</try>
+		<try>smart</try>
+		<try>hound</try>
+		<try>shaky</try>
+		<try>shrug</try>
+		<try>coast</try>
+		<try>shrub</try>
+		<try>comma</try>
+		<try>ascot</try>
+	</quordle>
+
 </wordles>
