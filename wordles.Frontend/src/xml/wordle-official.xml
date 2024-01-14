@@ -4984,4 +4984,11 @@
 		<try>heard</try>
 	</wordle>
 
+	<wordle date="2024-01-14" number="939" score="4" word="doing">
+		<try>wired</try>
+		<try>davit</try>
+		<try>dying</try>
+		<try>doing</try>
+	</wordle>
+
 </wordles>

@@ -5132,4 +5132,13 @@
 		<try>nødig</try>
 	</wordle>
 
+	<wordle date="2024-01-14" number="736" score="0" word="tragt">
+		<try>stime</try>
+		<try>rundt</try>
+		<try>klart</try>
+		<try>pragt</try>
+		<try>fragt</try>
+		<try>bragt</try>
+	</wordle>
+
 </wordles>
