@@ -4991,4 +4991,10 @@
 		<try>doing</try>
 	</wordle>
 
+	<wordle date="2024-01-15" number="940" score="3" word="lunch">
+		<try>cleft</try>
+		<try>local</try>
+		<try>lunch</try>
+	</wordle>
+
 </wordles>

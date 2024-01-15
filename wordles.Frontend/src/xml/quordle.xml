@@ -7031,4 +7031,15 @@
 		<try>smoky</try>
 	</quordle>
 
+	<quordle date="2024-01-15" number="721" scores="4 7 8 5" words="quail navel freer splat">
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>rinse</try>
+		<try>quail</try>
+		<try>splat</try>
+		<try>greek</try>
+		<try>navel</try>
+		<try>freer</try>
+	</quordle>
+
 </wordles>

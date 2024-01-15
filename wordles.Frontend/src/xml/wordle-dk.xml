@@ -5141,4 +5141,11 @@
 		<try>bragt</try>
 	</wordle>
 
+	<wordle date="2024-01-15" number="737" score="4" word="odiøs">
+		<try>grumt</try>
+		<try>sadle</try>
+		<try>disko</try>
+		<try>odiøs</try>
+	</wordle>
+
 </wordles>
