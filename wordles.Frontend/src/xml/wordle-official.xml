@@ -4997,4 +4997,9 @@
 		<try>lunch</try>
 	</wordle>
 
+	<wordle date="2024-01-16" number="941" score="2" word="blond">
+		<try>toned</try>
+		<try>blond</try>
+	</wordle>
+
 </wordles>

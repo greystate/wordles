@@ -5148,4 +5148,13 @@
 		<try>odiøs</try>
 	</wordle>
 
+	<wordle date="2024-01-16" number="738" score="0" word="pølle">
+		<try>blond</try>
+		<try>lades</try>
+		<try>hvile</try>
+		<try>tumle</try>
+		<try>cykle</try>
+		<try>perle</try>
+	</wordle>
+
 </wordles>
