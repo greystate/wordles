@@ -5157,4 +5157,9 @@
 		<try>perle</try>
 	</wordle>
 
+	<wordle date="2024-01-17" number="739" score="2" word="skrål">
+		<try>skalp</try>
+		<try>skrål</try>
+	</wordle>
+
 </wordles>
