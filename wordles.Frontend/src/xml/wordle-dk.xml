@@ -5162,4 +5162,20 @@
 		<try>skrål</try>
 	</wordle>
 
+	<wordle date="2024-01-18" number="740" score="5" word="tøris">
+		<try>sager</try>
+		<try>ruins</try>
+		<try>driks</try>
+		<try>strøs</try>
+		<try>tøris</try>
+	</wordle>
+
+	<wordle date="2024-01-19" number="741" score="5" word="ombyt">
+		<try>opera</try>
+		<try>odiøs</try>
+		<try>omlæg</try>
+		<try>ombuk</try>
+		<try>ombyt</try>
+	</wordle>
+
 </wordles>
