@@ -7088,4 +7088,28 @@
 		<try>venom</try>
 	</quordle>
 
+	<quordle date="2024-01-20" number="726" scores="0 5 6 0" words="scoop relax layer teeth">
+		<try>large</try>
+		<try>later</try>
+		<try>reals</try>
+		<try>relay</try>
+		<try>relax</try>
+		<try>layer</try>
+		<try>detox</try>
+		<try>bison</try>
+		<try>spoof</try>
+	</quordle>
+
+	<quordle date="2024-01-21" number="727" scores="8 4 0 5" words="perch fiend threw medal">
+		<try>super</try>
+		<try>great</try>
+		<try>blind</try>
+		<try>fiend</try>
+		<try>medal</try>
+		<try>perry</try>
+		<try>perce</try>
+		<try>perch</try>
+		<try>three</try>
+	</quordle>
+
 </wordles>

@@ -5021,4 +5021,16 @@
 		<try>thing</try>
 	</wordle>
 
+	<wordle date="2024-01-20" number="945" score="2" word="large">
+		<try>while</try>
+		<try>large</try>
+	</wordle>
+
+	<wordle date="2024-01-21" number="946" score="4" word="north">
+		<try>flash</try>
+		<try>touch</try>
+		<try>worth</try>
+		<try>north</try>
+	</wordle>
+
 </wordles>

@@ -5178,4 +5178,17 @@
 		<try>ombyt</try>
 	</wordle>
 
+	<wordle date="2024-01-20" number="742" score="3" word="plaid">
+		<try>støde</try>
+		<try>knald</try>
+		<try>plaid</try>
+	</wordle>
+
+	<wordle date="2024-01-21" number="743" score="4" word="porse">
+		<try>opera</try>
+		<try>repos</try>
+		<try>poser</try>
+		<try>porse</try>
+	</wordle>
+
 </wordles>
