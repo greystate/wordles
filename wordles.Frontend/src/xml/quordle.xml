@@ -7112,4 +7112,15 @@
 		<try>three</try>
 	</quordle>
 
+	<quordle date="2024-01-22" number="728" scores="6 4 7 8" words="apple train abbey spell">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>train</try>
+		<try>jasey</try>
+		<try>apple</try>
+		<try>abbey</try>
+		<try>spell</try>
+	</quordle>
+
 </wordles>

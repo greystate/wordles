@@ -5191,4 +5191,11 @@
 		<try>porse</try>
 	</wordle>
 
+	<wordle date="2024-01-22" number="744" score="4" word="slæng">
+		<try>blank</try>
+		<try>plæne</try>
+		<try>flæng</try>
+		<try>slæng</try>
+	</wordle>
+
 </wordles>

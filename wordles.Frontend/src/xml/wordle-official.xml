@@ -5033,4 +5033,10 @@
 		<try>north</try>
 	</wordle>
 
+	<wordle date="2024-01-22" number="947" score="3" word="tweak">
+		<try>earth</try>
+		<try>tease</try>
+		<try>tweak</try>
+	</wordle>
+
 </wordles>
