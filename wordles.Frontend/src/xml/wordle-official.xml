@@ -5039,4 +5039,18 @@
 		<try>tweak</try>
 	</wordle>
 
+	<wordle date="2024-01-23" number="948" score="4" word="still">
+		<try>snack</try>
+		<try>spore</try>
+		<try>slimy</try>
+		<try>still</try>
+	</wordle>
+
+	<wordle date="2024-01-24" number="949" score="4" word="relic">
+		<try>crane</try>
+		<try>retch</try>
+		<try>recon</try>
+		<try>relic</try>
+	</wordle>
+
 </wordles>

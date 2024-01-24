@@ -5198,4 +5198,18 @@
 		<try>slæng</try>
 	</wordle>
 
+	<wordle date="2024-01-23" number="745" score="4" word="polio">
+		<try>opera</try>
+		<try>plovs</try>
+		<try>pilot</try>
+		<try>polio</try>
+	</wordle>
+
+	<wordle date="2024-01-24" number="746" score="4" word="slibe">
+		<try>strop</try>
+		<try>samle</try>
+		<try>sluse</try>
+		<try>slibe</try>
+	</wordle>
+
 </wordles>
