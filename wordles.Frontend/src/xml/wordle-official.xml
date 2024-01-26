@@ -5053,4 +5053,17 @@
 		<try>relic</try>
 	</wordle>
 
+	<wordle date="2024-01-25" number="950" score="3" word="block">
+		<try>boxer</try>
+		<try>blows</try>
+		<try>block</try>
+	</wordle>
+
+	<wordle date="2024-01-26" number="951" score="4" word="aloof">
+		<try>point</try>
+		<try>armor</try>
+		<try>alloy</try>
+		<try>aloof</try>
+	</wordle>
+
 </wordles>

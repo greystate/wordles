@@ -5212,4 +5212,16 @@
 		<try>slibe</try>
 	</wordle>
 
+	<wordle date="2024-01-25" number="747" score="4" word="omegn">
+		<try>klovn</try>
+		<try>tyfon</try>
+		<try>nogen</try>
+		<try>omegn</try>
+	</wordle>
+
+	<wordle date="2024-01-26" number="748" score="2" word="radar">
+		<try>ruder</try>
+		<try>radar</try>
+	</wordle>
+
 </wordles>
