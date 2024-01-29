@@ -7170,4 +7170,38 @@
 		<try>onion</try>
 	</quordle>
 
+	<quordle date="2024-01-27" number="733" scores="8 4 0 3" words="worse fauna spout freak">
+		<try>flush</try>
+		<try>rated</try>
+		<try>freak</try>
+		<try>fauna</try>
+		<try>serge</try>
+		<try>verse</try>
+		<try>morse</try>
+		<try>worse</try>
+		<try>stout</try>
+	</quordle>
+
+	<quordle date="2024-01-28" number="734" scores="6 9 7 8" words="showy lager chant fauna">
+		<try>clash</try>
+		<try>chalk</try>
+		<try>chafe</try>
+		<try>point</try>
+		<try>gummy</try>
+		<try>showy</try>
+		<try>chant</try>
+		<try>fauna</try>
+		<try>lager</try>
+	</quordle>
+
+	<quordle date="2024-01-29" number="735" scores="5 4 7 6" words="easel stain dodge thong">
+		<try>trial</try>
+		<try>pains</try>
+		<try>homed</try>
+		<try>stain</try>
+		<try>easel</try>
+		<try>thong</try>
+		<try>dodge</try>
+	</quordle>
+
 </wordles>

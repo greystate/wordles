@@ -5066,4 +5066,27 @@
 		<try>aloof</try>
 	</wordle>
 
+	<wordle date="2024-01-27" number="952" score="5" word="snake">
+		<try>plays</try>
+		<try>stare</try>
+		<try>space</try>
+		<try>shave</try>
+		<try>snake</try>
+	</wordle>
+
+	<wordle date="2024-01-28" number="953" score="4" word="ember">
+		<try>glows</try>
+		<try>dream</try>
+		<try>umber</try>
+		<try>ember</try>
+	</wordle>
+
+	<wordle date="2024-01-29" number="954" score="5" word="leggy">
+		<try>chose</try>
+		<try>enter</try>
+		<try>plead</try>
+		<try>jelly</try>
+		<try>leggy</try>
+	</wordle>
+
 </wordles>

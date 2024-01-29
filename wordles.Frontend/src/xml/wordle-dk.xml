@@ -5224,4 +5224,22 @@
 		<try>radar</try>
 	</wordle>
 
+	<wordle date="2024-01-27" number="749" score="3" word="salto">
+		<try>plint</try>
+		<try>taler</try>
+		<try>salto</try>
+	</wordle>
+
+	<wordle date="2024-01-28" number="750" score="4" word="tvivl">
+		<try>flæng</try>
+		<try>laver</try>
+		<try>vildt</try>
+		<try>tvivl</try>
+	</wordle>
+
+	<wordle date="2024-01-29" number="751" score="2" word="skarv">
+		<try>skærv</try>
+		<try>skarv</try>
+	</wordle>
+
 </wordles>
