@@ -7204,4 +7204,41 @@
 		<try>dodge</try>
 	</quordle>
 
+	<quordle date="2024-01-30" number="736" scores="8 0 6 7" words="banal forth booze unset">
+		<try>ortho</try>
+		<try>short</try>
+		<try>youth</try>
+		<try>north</try>
+		<try>beads</try>
+		<try>booze</try>
+		<try>unset</try>
+		<try>banal</try>
+		<try>worth</try>
+	</quordle>
+
+	<quordle date="2024-01-31" number="737" scores="7 9 0 0" words="floor smoke terra chide">
+		<try>flash</try>
+		<try>young</try>
+		<try>prime</try>
+		<try>water</try>
+		<try>react</try>
+		<try>chive</try>
+		<try>floor</try>
+		<try>moose</try>
+		<try>smoke</try>
+	</quordle>
+
+	<quordle date="2024-02-01" number="738" scores="8 6 9 7" words="cargo hovel swash check">
+		<try>movie</try>
+		<try>loved</try>
+		<try>novel</try>
+		<try>track</try>
+		<try>shrub</try>
+		<try>hovel</try>
+		<try>check</try>
+		<try>cargo</try>
+		<try>swash</try>
+	</quordle>
+
+
 </wordles>

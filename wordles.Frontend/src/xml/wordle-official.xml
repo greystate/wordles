@@ -5089,4 +5089,26 @@
 		<try>leggy</try>
 	</wordle>
 
+	<wordle date="2024-01-30" number="955" score="4" word="expel">
+		<try>spine</try>
+		<try>perky</try>
+		<try>taped</try>
+		<try>expel</try>
+	</wordle>
+
+	<wordle date="2024-01-31" number="956" score="5" word="bulky">
+		<try>touch</try>
+		<try>under</try>
+		<try>bulgy</try>
+		<try>bully</try>
+		<try>bulky</try>
+	</wordle>
+
+	<wordle date="2024-02-01" number="957" score="4" word="alive">
+		<try>frank</try>
+		<try>petal</try>
+		<try>salve</try>
+		<try>alive</try>
+	</wordle>
+
 </wordles>
