@@ -5111,4 +5111,9 @@
 		<try>alive</try>
 	</wordle>
 
+	<wordle date="2024-02-02" number="958" score="2" word="cleft">
+		<try>locks</try>
+		<try>cleft</try>
+	</wordle>
+
 </wordles>
