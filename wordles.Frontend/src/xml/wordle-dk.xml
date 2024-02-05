@@ -5269,4 +5269,26 @@
 		<try>porno</try>
 	</wordle>
 
+	<wordle date="2024-02-03" number="756" score="6" word="salve">
+		<try>hajer</try>
+		<try>takle</try>
+		<try>lande</try>
+		<try>falme</try>
+		<try>salme</try>
+		<try>salve</try>
+	</wordle>
+
+	<wordle date="2024-02-04" number="757" score="4" word="barok">
+		<try>opera</try>
+		<try>radio</try>
+		<try>baron</try>
+		<try>barok</try>
+	</wordle>
+
+	<wordle date="2024-02-05" number="758" score="3" word="grape">
+		<try>opera</try>
+		<try>prale</try>
+		<try>grape</try>
+	</wordle>
+
 </wordles>

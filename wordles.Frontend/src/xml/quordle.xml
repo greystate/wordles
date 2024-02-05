@@ -7251,5 +7251,38 @@
 		<try>enact</try>
 	</quordle>
 
+	<quordle date="2024-02-03" number="740" scores="8 6 3 5" words="camel flour thorn water">
+		<try>shark</try>
+		<try>young</try>
+		<try>thorn</try>
+		<try>wired</try>
+		<try>water</try>
+		<try>flour</try>
+		<try>label</try>
+		<try>camel</try>
+	</quordle>
+
+	<quordle date="2024-02-04" number="741" scores="8 9 3 5" words="plait forty wiser liver">
+		<try>brash</try>
+		<try>power</try>
+		<try>wiser</try>
+		<try>plain</try>
+		<try>liver</try>
+		<try>plaid</try>
+		<try>rocky</try>
+		<try>plait</try>
+		<try>forty</try>
+	</quordle>
+
+	<quordle date="2024-02-05" number="742" scores="8 7 4 5" words="mossy reign ghost timer">
+		<try>flash</try>
+		<try>power</try>
+		<try>might</try>
+		<try>ghost</try>
+		<try>timer</try>
+		<try>rejig</try>
+		<try>reign</try>
+		<try>mossy</try>
+	</quordle>
 
 </wordles>

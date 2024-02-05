@@ -5116,4 +5116,24 @@
 		<try>cleft</try>
 	</wordle>
 
+	<wordle date="2024-02-03" number="959" score="4" word="micro">
+		<try>shark</try>
+		<try>flirt</try>
+		<try>ivory</try>
+		<try>micro</try>
+	</wordle>
+
+	<wordle date="2024-02-04" number="960" score="3" word="verge">
+		<try>gusto</try>
+		<try>merge</try>
+		<try>verge</try>
+	</wordle>
+
+	<wordle date="2024-02-05" number="961" score="4" word="repel">
+		<try>ladle</try>
+		<try>melts</try>
+		<try>peril</try>
+		<try>repel</try>
+	</wordle>
+
 </wordles>
