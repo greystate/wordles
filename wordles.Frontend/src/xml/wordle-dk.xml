@@ -5291,4 +5291,18 @@
 		<try>grape</try>
 	</wordle>
 
+	<wordle date="2024-02-06" number="759" score="4" word="fælge">
+		<try>klare</try>
+		<try>spole</try>
+		<try>vælte</try>
+		<try>fælge</try>
+	</wordle>
+
+	<wordle date="2024-02-07" number="760" score="4" word="gekko">
+		<try>tapet</try>
+		<try>græde</try>
+		<try>gebis</try>
+		<try>gekko</try>
+	</wordle>
+
 </wordles>

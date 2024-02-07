@@ -5136,4 +5136,19 @@
 		<try>repel</try>
 	</wordle>
 
+	<wordle date="2024-02-06" number="962" score="4" word="which">
+		<try>purse</try>
+		<try>anglo</try>
+		<try>ticky</try>
+		<try>which</try>
+	</wordle>
+
+	<wordle date="2024-02-07" number="963" score="5" word="after">
+		<try>track</try>
+		<try>extra</try>
+		<try>rated</try>
+		<try>alter</try>
+		<try>after</try>
+	</wordle>
+
 </wordles>

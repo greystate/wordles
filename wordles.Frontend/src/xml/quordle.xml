@@ -7285,4 +7285,27 @@
 		<try>mossy</try>
 	</quordle>
 
+	<quordle date="2024-02-06" number="743" scores="7 4 8 6" words="virus watch known flume">
+		<try>scrap</try>
+		<try>youth</try>
+		<try>wedge</try>
+		<try>watch</try>
+		<try>blink</try>
+		<try>flume</try>
+		<try>virus</try>
+		<try>known</try>
+	</quordle>
+
+	<quordle date="2024-02-07" number="744" scores="7 9 0 6" words="wrack kappa sooty valve">
+		<try>power</try>
+		<try>trash</try>
+		<try>brawl</try>
+		<try>fling</try>
+		<try>ladle</try>
+		<try>valve</try>
+		<try>wrack</try>
+		<try>joust</try>
+		<try>kappa</try>
+	</quordle>
+
 </wordles>
