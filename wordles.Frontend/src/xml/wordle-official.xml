@@ -5151,4 +5151,31 @@
 		<try>after</try>
 	</wordle>
 
+	<wordle date="2024-02-08" number="964" score="3" word="place">
+		<try>train</try>
+		<try>slack</try>
+		<try>place</try>
+	</wordle>
+
+	<wordle date="2024-02-09" number="965" score="4" word="stiff">
+		<try>grind</try>
+		<try>flick</try>
+		<try>swift</try>
+		<try>stiff</try>
+	</wordle>
+
+	<wordle date="2024-02-10" number="966" score="3" word="fried">
+		<try>trial</try>
+		<try>price</try>
+		<try>fried</try>
+	</wordle>
+
+	<wordle date="2024-02-11" number="967" score="5" word="never">
+		<try>water</try>
+		<try>under</try>
+		<try>loner</try>
+		<try>nicer</try>
+		<try>never</try>
+	</wordle>
+
 </wordles>

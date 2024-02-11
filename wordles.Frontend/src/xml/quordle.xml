@@ -7308,4 +7308,45 @@
 		<try>kappa</try>
 	</quordle>
 
+	<quordle date="2024-02-08" number="745" scores="4 7 6 5" words="nurse mecca haute truck">
+		<try>place</try>
+		<try>young</try>
+		<try>first</try>
+		<try>nurse</try>
+		<try>truck</try>
+		<try>haute</try>
+		<try>mecca</try>
+	</quordle>
+
+	<quordle date="2024-02-09" number="746" scores="3 4 7 5" words="track price lupus wring">
+		<try>plush</try>
+		<try>react</try>
+		<try>track</try>
+		<try>price</try>
+		<try>wring</try>
+		<try>lumps</try>
+		<try>lupus</try>
+	</quordle>
+
+	<quordle date="2024-02-10" number="747" scores="6 5 7 4" words="spurn mocha laugh omega">
+		<try>words</try>
+		<try>tinge</try>
+		<try>charm</try>
+		<try>omega</try>
+		<try>mocha</try>
+		<try>spurn</try>
+		<try>laugh</try>
+	</quordle>
+
+	<quordle date="2024-02-11" number="748" scores="6 8 5 7" words="gravy couch guard slate">
+		<try>cameo</try>
+		<try>plunk</try>
+		<try>shirt</try>
+		<try>cough</try>
+		<try>guard</try>
+		<try>gravy</try>
+		<try>slate</try>
+		<try>couch</try>
+	</quordle>
+
 </wordles>

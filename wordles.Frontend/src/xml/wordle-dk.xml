@@ -5305,4 +5305,32 @@
 		<try>gekko</try>
 	</wordle>
 
+	<wordle date="2024-02-08" number="761" score="5" word="chili">
+		<try>plads</try>
+		<try>læber</try>
+		<try>kølig</try>
+		<try>futil</try>
+		<try>chili</try>
+	</wordle>
+
+	<wordle date="2024-02-09" number="762" score="3" word="donor">
+		<try>opera</try>
+		<try>robåd</try>
+		<try>donor</try>
+	</wordle>
+
+	<wordle date="2024-02-10" number="763" score="5" word="fakir">
+		<try>klang</try>
+		<try>skrap</try>
+		<try>agurk</try>
+		<try>raket</try>
+		<try>fakir</try>
+	</wordle>
+
+	<wordle date="2024-02-11" number="764" score="3" word="grums">
+		<try>under</try>
+		<try>frugt</try>
+		<try>grums</try>
+	</wordle>
+
 </wordles>
