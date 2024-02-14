@@ -5333,4 +5333,27 @@
 		<try>grums</try>
 	</wordle>
 
+	<wordle date="2024-02-12" number="765" score="5" word="globe">
+		<try>hunde</try>
+		<try>tryne</try>
+		<try>smile</try>
+		<try>bølge</try>
+		<try>globe</try>
+	</wordle>
+
+	<wordle date="2024-02-13" number="766" score="4" word="menig">
+		<try>slåen</try>
+		<try>nedad</try>
+		<try>rente</try>
+		<try>menig</try>
+	</wordle>
+
+	<wordle date="2024-02-14" number="767" score="5" word="høker">
+		<try>drage</try>
+		<try>føler</try>
+		<try>tøser</try>
+		<try>køber</try>
+		<try>høker</try>
+	</wordle>
+
 </wordles>

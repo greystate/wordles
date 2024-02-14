@@ -5178,4 +5178,21 @@
 		<try>never</try>
 	</wordle>
 
+	<wordle date="2024-02-12" number="968" score="3" word="pasta">
+		<try>spade</try>
+		<try>parks</try>
+		<try>pasta</try>
+	</wordle>
+
+	<wordle date="2024-02-13" number="969" score="2" word="scram">
+		<try>scrum</try>
+		<try>scram</try>
+	</wordle>
+
+	<wordle date="2024-02-14" number="970" score="3" word="talon">
+		<try>codes</try>
+		<try>broil</try>
+		<try>talon</try>
+	</wordle>
+
 </wordles>

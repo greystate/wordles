@@ -7349,4 +7349,36 @@
 		<try>couch</try>
 	</quordle>
 
+	<quordle date="2024-02-12" number="749" scores="5 4 7 6" words="trait flash plaza stork">
+		<try>dough</try>
+		<try>meats</try>
+		<try>flick</try>
+		<try>flash</try>
+		<try>trait</try>
+		<try>stork</try>
+		<try>plaza</try>
+	</quordle>
+
+	<quordle date="2024-02-13" number="750" scores="9 6 8 7" words="ratty vapid frail drape">
+		<try>scram</try>
+		<try>opera</try>
+		<try>thing</try>
+		<try>wrath</try>
+		<try>braid</try>
+		<try>vapid</try>
+		<try>drape</try>
+		<try>frail</try>
+		<try>ratty</try>
+	</quordle>
+
+	<quordle date="2024-02-14" number="751" scores="6 7 5 3" words="watch salve flown graph">
+		<try>flash</try>
+		<try>power</try>
+		<try>graph</try>
+		<try>neals</try>
+		<try>flown</try>
+		<try>watch</try>
+		<try>salve</try>
+	</quordle>
+
 </wordles>
