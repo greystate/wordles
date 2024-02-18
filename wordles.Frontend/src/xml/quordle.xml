@@ -7381,4 +7381,47 @@
 		<try>salve</try>
 	</quordle>
 
+	<quordle date="2024-02-15" number="752" scores="4 8 5 7" words="spill vigil blind raise">
+		<try>stalk</try>
+		<try>opera</try>
+		<try>bungy</try>
+		<try>spill</try>
+		<try>blind</try>
+		<try>arise</try>
+		<try>raise</try>
+		<try>vigil</try>
+	</quordle>
+
+	<quordle date="2024-02-16" number="753" scores="7 8 4 5" words="snaky weedy haute talon">
+		<try>stash</try>
+		<try>power</try>
+		<try>cumin</try>
+		<try>haute</try>
+		<try>talon</try>
+		<try>wedgy</try>
+		<try>snaky</try>
+		<try>weedy</try>
+	</quordle>
+
+	<quordle date="2024-02-17" number="754" scores="4 6 7 5" words="koala groan aging drift">
+		<try>steam</try>
+		<try>hound</try>
+		<try>flick</try>
+		<try>koala</try>
+		<try>drift</try>
+		<try>groan</try>
+		<try>aging</try>
+	</quordle>
+
+	<quordle date="2024-02-18" number="755" scores="8 6 7 5" words="today ombre wedge mecca">
+		<try>crack</try>
+		<try>power</try>
+		<try>store</try>
+		<try>lucid</try>
+		<try>mecca</try>
+		<try>ombre</try>
+		<try>wedge</try>
+		<try>today</try>
+	</quordle>
+
 </wordles>

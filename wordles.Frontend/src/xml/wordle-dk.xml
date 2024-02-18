@@ -5356,4 +5356,36 @@
 		<try>høker</try>
 	</wordle>
 
+	<wordle date="2024-02-15" number="768" score="5" word="ildhu">
+		<try>barsk</try>
+		<try>vente</try>
+		<try>hjælp</try>
+		<try>chili</try>
+		<try>ildhu</try>
+	</wordle>
+
+	<wordle date="2024-02-16" number="769" score="4" word="lyrik">
+		<try>blade</try>
+		<try>skold</try>
+		<try>likør</try>
+		<try>lyrik</try>
+	</wordle>
+
+	<wordle date="2024-02-17" number="770" score="5" word="medie">
+		<try>klang</try>
+		<try>syret</try>
+		<try>dumpe</try>
+		<try>fedme</try>
+		<try>medie</try>
+	</wordle>
+
+	<wordle date="2024-02-18" number="771" score="6" word="onkel">
+		<try>flæsk</try>
+		<try>likør</try>
+		<try>pukle</try>
+		<try>cykel</try>
+		<try>ankel</try>
+		<try>onkel</try>
+	</wordle>
+
 </wordles>

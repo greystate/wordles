@@ -5195,4 +5195,32 @@
 		<try>talon</try>
 	</wordle>
 
+	<wordle date="2024-02-15" number="971" score="5" word="ascot">
+		<try>grand</try>
+		<try>polka</try>
+		<try>oaths</try>
+		<try>stoat</try>
+		<try>ascot</try>
+	</wordle>
+
+	<wordle date="2024-02-16" number="972" score="4" word="stash">
+		<try>trunk</try>
+		<try>plate</try>
+		<try>boast</try>
+		<try>stash</try>
+	</wordle>
+
+	<wordle date="2024-02-17" number="973" score="3" word="psalm">
+		<try>jumps</try>
+		<try>sperm</try>
+		<try>psalm</try>
+	</wordle>
+
+	<wordle date="2024-02-18" number="974" score="4" word="ridge">
+		<try>flank</try>
+		<try>crust</try>
+		<try>riped</try>
+		<try>ridge</try>
+	</wordle>
+
 </wordles>
