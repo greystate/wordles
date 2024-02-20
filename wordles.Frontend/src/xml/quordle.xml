@@ -7424,4 +7424,28 @@
 		<try>today</try>
 	</quordle>
 
+	<quordle date="2024-02-19" number="756" scores="8 5 7 9" words="filmy nadir belly fully">
+		<try>tried</try>
+		<try>poker</try>
+		<try>lungs</try>
+		<try>manic</try>
+		<try>nadir</try>
+		<try>bully</try>
+		<try>belly</try>
+		<try>filmy</try>
+		<try>fully</try>
+	</quordle>
+
+	<quordle date="2024-02-20" number="757" scores="7 6 8 9" words="begun debar clink kayak">
+		<try>hurts</try>
+		<try>sinew</try>
+		<try>dolly</try>
+		<try>grape</try>
+		<try>dread</try>
+		<try>debar</try>
+		<try>begun</try>
+		<try>clink</try>
+		<try>kayak</try>
+	</quordle>
+
 </wordles>

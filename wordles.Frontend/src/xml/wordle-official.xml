@@ -5223,4 +5223,19 @@
 		<try>ridge</try>
 	</wordle>
 
+	<wordle date="2024-02-19" number="975" score="6" word="price">
+		<try>shame</try>
+		<try>drole</try>
+		<try>trite</try>
+		<try>bribe</try>
+		<try>cripe</try>
+		<try>price</try>
+	</wordle>
+
+	<wordle date="2024-02-20" number="976" score="3" word="match">
+		<try>mount</try>
+		<try>miter</try>
+		<try>match</try>
+	</wordle>
+
 </wordles>

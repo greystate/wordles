@@ -5388,4 +5388,19 @@
 		<try>onkel</try>
 	</wordle>
 
+	<wordle date="2024-02-19" number="772" score="5" word="kjole">
+		<try>asken</try>
+		<try>klæde</try>
+		<try>kugle</try>
+		<try>koble</try>
+		<try>kjole</try>
+	</wordle>
+
+	<wordle date="2024-02-20" number="773" score="4" word="ishav">
+		<try>danse</try>
+		<try>bosat</try>
+		<try>islam</try>
+		<try>ishav</try>
+	</wordle>
+
 </wordles>
