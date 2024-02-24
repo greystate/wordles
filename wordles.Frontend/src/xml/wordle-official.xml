@@ -5238,4 +5238,31 @@
 		<try>match</try>
 	</wordle>
 
+	<wordle date="2024-02-21" number="977" score="4" word="build">
+		<try>worth</try>
+		<try>clefs</try>
+		<try>bialy</try>
+		<try>build</try>
+	</wordle>
+
+	<wordle date="2024-02-22" number="978" score="3" word="heavy">
+		<try>stare</try>
+		<try>beamy</try>
+		<try>heavy</try>
+	</wordle>
+
+	<wordle date="2024-02-23" number="979" score="4" word="apart">
+		<try>stick</try>
+		<try>trove</try>
+		<try>blurt</try>
+		<try>apart</try>
+	</wordle>
+
+	<wordle date="2024-02-24" number="980" score="4" word="piper">
+		<try>clear</try>
+		<try>poker</try>
+		<try>prier</try>
+		<try>piper</try>
+	</wordle>
+
 </wordles>

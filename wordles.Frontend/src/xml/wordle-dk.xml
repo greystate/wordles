@@ -5403,4 +5403,29 @@
 		<try>ishav</try>
 	</wordle>
 
+	<wordle date="2024-02-21" number="774" score="2" word="kedel">
+		<try>klemt</try>
+		<try>kedel</try>
+	</wordle>
+
+	<wordle date="2024-02-22" number="775" score="2" word="lever">
+		<try>prale</try>
+		<try>lever</try>
+	</wordle>
+
+	<wordle date="2024-02-23" number="776" score="5" word="mikse">
+		<try>opera</try>
+		<try>liste</try>
+		<try>vimse</try>
+		<try>misse</try>
+		<try>mikse</try>
+	</wordle>
+
+	<wordle date="2024-02-24" number="777" score="4" word="netto">
+		<try>klamt</try>
+		<try>trope</try>
+		<try>beton</try>
+		<try>netto</try>
+	</wordle>
+
 </wordles>

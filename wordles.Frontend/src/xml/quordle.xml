@@ -7448,4 +7448,48 @@
 		<try>kayak</try>
 	</quordle>
 
+	<quordle date="2024-02-21" number="758" scores="6 4 7 5" words="radar foamy elate steak">
+		<try>worst</try>
+		<try>pinky</try>
+		<try>dream</try>
+		<try>foamy</try>
+		<try>steak</try>
+		<try>radar</try>
+		<try>elate</try>
+	</quordle>
+
+	<quordle date="2024-02-22" number="759" scores="9 5 8 7" words="brick meter gnome ashen">
+		<try>parse</try>
+		<try>lower</try>
+		<try>dummy</try>
+		<try>miter</try>
+		<try>meter</try>
+		<try>fakes</try>
+		<try>ashen</try>
+		<try>gnome</try>
+		<try>brick</try>
+	</quordle>
+
+	<quordle date="2024-02-23" number="760" scores="8 4 6 5" words="shack borne minor store">
+		<try>smart</try>
+		<try>lunge</try>
+		<try>point</try>
+		<try>borne</try>
+		<try>store</try>
+		<try>minor</try>
+		<try>shaky</try>
+		<try>shack</try>
+	</quordle>
+
+	<quordle date="2024-02-24" number="761" scores="6 4 7 8" words="scale blast flung fuzzy">
+		<try>angel</try>
+		<try>sorry</try>
+		<try>slate</try>
+		<try>blast</try>
+		<try>cling</try>
+		<try>scale</try>
+		<try>flung</try>
+		<try>fuzzy</try>
+	</quordle>
+
 </wordles>
