@@ -7492,4 +7492,15 @@
 		<try>fuzzy</try>
 	</quordle>
 
+	<quordle date="2024-02-25" number="762" scores="8 7 4 6" words="range thigh trunk manly">
+		<try>skeet</try>
+		<try>point</try>
+		<try>drama</try>
+		<try>trunk</try>
+		<try>belly</try>
+		<try>manly</try>
+		<try>thigh</try>
+		<try>range</try>
+	</quordle>
+
 </wordles>

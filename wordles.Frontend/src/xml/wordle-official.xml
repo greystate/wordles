@@ -5265,4 +5265,11 @@
 		<try>piper</try>
 	</wordle>
 
+	<wordle date="2024-02-25" number="981" score="4" word="smith">
+		<try>right</try>
+		<try>think</try>
+		<try>heist</try>
+		<try>smith</try>
+	</wordle>
+
 </wordles>
