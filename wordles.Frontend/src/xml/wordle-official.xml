@@ -5272,4 +5272,11 @@
 		<try>smith</try>
 	</wordle>
 
+	<wordle date="2024-02-26" number="982" score="4" word="often">
+		<try>squad</try>
+		<try>poker</try>
+		<try>money</try>
+		<try>often</try>
+	</wordle>
+
 </wordles>
