@@ -5441,4 +5441,42 @@
 		<try>mango</try>
 	</wordle>
 
+	<wordle date="2024-02-27" number="780" score="3" word="klask">
+		<try>plads</try>
+		<try>klase</try>
+		<try>klask</try>
+	</wordle>
+
+	<wordle date="2024-02-28" number="781" score="5" word="linje">
+		<try>opera</try>
+		<try>stile</try>
+		<try>elite</try>
+		<try>vilje</try>
+		<try>linje</try>
+	</wordle>
+
+	<wordle date="2024-02-29" number="782" score="5" word="mysli">
+		<try>opera</try>
+		<try>gnist</try>
+		<try>kilos</try>
+		<try>døsig</try>
+		<try>mysli</try>
+	</wordle>
+
+	<wordle date="2024-03-01" number="783" score="5" word="nutid">
+		<try>flyde</try>
+		<try>dansk</try>
+		<try>indgå</try>
+		<try>trind</try>
+		<try>nutid</try>
+	</wordle>
+
+	<wordle date="2024-03-02" number="784" score="5" word="palme">
+		<try>podie</try>
+		<try>prale</try>
+		<try>plade</try>
+		<try>palle</try>
+		<try>palme</try>
+	</wordle>
+
 </wordles>

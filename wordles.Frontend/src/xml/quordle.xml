@@ -7515,4 +7515,48 @@
 		<try>genre</try>
 	</quordle>
 
+	<quordle date="2024-02-27" number="764" scores="3 6 5 7" words="raspy buddy donut drool">
+		<try>ocean</try>
+		<try>rusty</try>
+		<try>raspy</try>
+		<try>mount</try>
+		<try>donut</try>
+		<try>buddy</try>
+		<try>drool</try>
+	</quordle>
+
+	<quordle date="2024-02-28" number="765" scores="8 7 5 6" words="plump frill sloth ficus">
+		<try>trope</try>
+		<try>dashy</try>
+		<try>shout</try>
+		<try>films</try>
+		<try>sloth</try>
+		<try>ficus</try>
+		<try>frill</try>
+		<try>plump</try>
+	</quordle>
+
+	<quordle date="2024-02-29" number="766" scores="9 7 8 6" words="tenet movie chore smart">
+		<try>goldy</try>
+		<try>prude</try>
+		<try>swath</try>
+		<try>think</try>
+		<try>start</try>
+		<try>smart</try>
+		<try>movie</try>
+		<try>chore</try>
+		<try>tenet</try>
+	</quordle>
+
+	<quordle date="2024-03-02" number="767" scores="7 5 8 6" words="globe brace filet swore">
+		<try>slide</try>
+		<try>place</try>
+		<try>truth</try>
+		<try>intel</try>
+		<try>brace</try>
+		<try>swore</try>
+		<try>globe</try>
+		<try>filet</try>
+	</quordle>
+
 </wordles>
