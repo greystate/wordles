@@ -5319,4 +5319,24 @@
 		<try>urban</try>
 	</wordle>
 
+	<wordle date="2024-03-03" number="988" score="3" word="state">
+		<try>trade</try>
+		<try>stale</try>
+		<try>state</try>
+	</wordle>
+
+	<wordle date="2024-03-04" number="989" score="5" word="flame">
+		<try>plots</try>
+		<try>clear</try>
+		<try>alive</try>
+		<try>blame</try>
+		<try>flame</try>
+	</wordle>
+
+	<wordle date="2024-03-05" number="990" score="3" word="hunch">
+		<try>roman</try>
+		<try>lunge</try>
+		<try>hunch</try>
+	</wordle>
+
 </wordles>

@@ -5479,4 +5479,24 @@
 		<try>palme</try>
 	</wordle>
 
+	<wordle date="2024-03-03" number="785" score="3" word="rigid">
+		<try>skrig</try>
+		<try>gevir</try>
+		<try>rigid</try>
+	</wordle>
+
+	<wordle date="2024-03-04" number="786" score="4" word="nylon">
+		<try>faldt</try>
+		<try>orlov</try>
+		<try>melon</try>
+		<try>nylon</try>
+	</wordle>
+
+	<wordle date="2024-03-05" number="787" score="4" word="pedel">
+		<try>stræk</try>
+		<try>glæde</try>
+		<try>handl</try>
+		<try>pedel</try>
+	</wordle>
+
 </wordles>
