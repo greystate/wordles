@@ -5339,4 +5339,30 @@
 		<try>hunch</try>
 	</wordle>
 
+	<wordle date="2024-03-06" number="991" score="4" word="teary">
+		<try>snack</try>
+		<try>flare</try>
+		<try>heart</try>
+		<try>teary</try>
+	</wordle>
+
+	<wordle date="2024-03-07" number="992" score="4" word="clone">
+		<try>shear</try>
+		<try>endow</try>
+		<try>ponce</try>
+		<try>clone</try>
+	</wordle>
+
+	<wordle date="2024-03-08" number="993" score="2" word="early">
+		<try>plush</try>
+		<try>early</try>
+	</wordle>
+
+	<wordle date="2024-03-09" number="994" score="4" word="cheer">
+		<try>slurp</try>
+		<try>react</try>
+		<try>creme</try>
+		<try>cheer</try>
+	</wordle>
+
 </wordles>

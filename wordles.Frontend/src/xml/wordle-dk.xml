@@ -5499,4 +5499,32 @@
 		<try>pedel</try>
 	</wordle>
 
+	<wordle date="2024-03-06" number="788" score="4" word="konge">
+		<try>opera</try>
+		<try>mosen</try>
+		<try>noble</try>
+		<try>konge</try>
+	</wordle>
+
+	<wordle date="2024-03-07" number="789" score="4" word="lobby">
+		<try>plads</try>
+		<try>lokke</try>
+		<try>lotto</try>
+		<try>lobby</try>
+	</wordle>
+
+	<wordle date="2024-03-08" number="790" score="3" word="maske">
+		<try>blank</try>
+		<try>kaste</try>
+		<try>maske</try>
+	</wordle>
+
+	<wordle date="2024-03-09" number="791" score="5" word="panda">
+		<try>streg</try>
+		<try>klamp</try>
+		<try>pilaf</try>
+		<try>pande</try>
+		<try>panda</try>
+	</wordle>
+
 </wordles>

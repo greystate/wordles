@@ -7591,4 +7591,48 @@
 		<try>clang</try>
 	</quordle>
 
+	<quordle date="2024-03-06" number="771" scores="8 5 6 4" words="exalt brawl tutor prior">
+		<try>boats</try>
+		<try>dryer</try>
+		<try>clump</try>
+		<try>prior</try>
+		<try>brawl</try>
+		<try>tutor</try>
+		<try>leant</try>
+		<try>exalt</try>
+	</quordle>
+
+	<quordle date="2024-03-07" number="772" scores="4 5 6 7" words="lithe hotly tidal drama">
+		<try>place</try>
+		<try>hunts</try>
+		<try>droid</try>
+		<try>lithe</try>
+		<try>hotly</try>
+		<try>tidal</try>
+		<try>drama</try>
+	</quordle>
+
+	<quordle date="2024-03-08" number="773" scores="4 7 6 8" words="tamer shunt humph apply">
+		<try>steam</try>
+		<try>meaty</try>
+		<try>poker</try>
+		<try>tamer</try>
+		<try>fight</try>
+		<try>humph</try>
+		<try>shunt</try>
+		<try>apply</try>
+	</quordle>
+
+	<quordle date="2024-03-09" number="774" scores="5 9 0 7" words="young whack frill gloom">
+		<try>scalp</try>
+		<try>drier</try>
+		<try>mount</try>
+		<try>grill</try>
+		<try>young</try>
+		<try>krill</try>
+		<try>gloom</try>
+		<try>chack</try>
+		<try>whack</try>
+	</quordle>
+
 </wordles>
