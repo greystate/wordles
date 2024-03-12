@@ -5365,4 +5365,25 @@
 		<try>cheer</try>
 	</wordle>
 
+	<wordle date="2024-03-10" number="995" score="4" word="grasp">
+		<try>crust</try>
+		<try>brash</try>
+		<try>grass</try>
+		<try>grasp</try>
+	</wordle>
+
+	<wordle date="2024-03-11" number="996" score="4" word="pesky">
+		<try>south</try>
+		<try>parse</try>
+		<try>penis</try>
+		<try>pesky</try>
+	</wordle>
+
+	<wordle date="2024-03-12" number="997" score="4" word="heave">
+		<try>power</try>
+		<try>tense</try>
+		<try>leave</try>
+		<try>heave</try>
+	</wordle>
+
 </wordles>

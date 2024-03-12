@@ -7635,4 +7635,39 @@
 		<try>whack</try>
 	</quordle>
 
+	<quordle date="2024-03-10" number="775" scores="8 4 9 6" words="envoy study smack trend">
+		<try>slate</try>
+		<try>shady</try>
+		<try>poker</try>
+		<try>study</try>
+		<try>ebony</try>
+		<try>trend</try>
+		<try>enjoy</try>
+		<try>envoy</try>
+		<try>smack</try>
+	</quordle>
+
+	<quordle date="2024-03-11" number="776" scores="6 4 7 8" words="grand gaudy funky boost">
+		<try>plush</try>
+		<try>tread</try>
+		<try>foggy</try>
+		<try>gaudy</try>
+		<try>moist</try>
+		<try>grand</try>
+		<try>funky</try>
+		<try>boost</try>
+	</quordle>
+
+	<quordle date="2024-03-12" number="777" scores="9 6 5 7" words="idyll faith recut sassy">
+		<try>which</try>
+		<try>poker</try>
+		<try>cease</try>
+		<try>bungy</try>
+		<try>recut</try>
+		<try>faith</try>
+		<try>sassy</try>
+		<try>vinyl</try>
+		<try>idyll</try>
+	</quordle>
+
 </wordles>

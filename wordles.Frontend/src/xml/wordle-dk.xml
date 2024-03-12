@@ -5527,4 +5527,26 @@
 		<try>panda</try>
 	</wordle>
 
+	<wordle date="2024-03-10" number="792" score="5" word="sprit">
+		<try>opera</try>
+		<try>sprød</try>
+		<try>spræt</try>
+		<try>sprut</try>
+		<try>sprit</try>
+	</wordle>
+
+	<wordle date="2024-03-11" number="793" score="4" word="mekka">
+		<try>skarp</try>
+		<try>kante</try>
+		<try>dekan</try>
+		<try>mekka</try>
+	</wordle>
+
+	<wordle date="2024-03-12" number="794" score="4" word="kværn">
+		<try>plads</try>
+		<try>tryne</try>
+		<try>uvorn</try>
+		<try>kværn</try>
+	</wordle>
+
 </wordles>
