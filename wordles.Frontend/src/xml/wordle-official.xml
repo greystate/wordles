@@ -5386,4 +5386,78 @@
 		<try>heave</try>
 	</wordle>
 
+	<wordle date="2024-03-13" number="998" score="4" word="local">
+		<try>blond</try>
+		<try>lover</try>
+		<try>logic</try>
+		<try>local</try>
+	</wordle>
+
+	<wordle date="2024-03-14" number="999" score="4" word="since">
+		<try>flyer</try>
+		<try>envoi</try>
+		<try>penis</try>
+		<try>since</try>
+	</wordle>
+
+	<wordle date="2024-03-15" number="1000" score="3" word="erupt">
+		<try>dream</try>
+		<try>brine</try>
+		<try>erupt</try>
+	</wordle>
+
+	<wordle date="2024-03-16" number="1001" score="3" word="toxin">
+		<try>trope</try>
+		<try>tonic</try>
+		<try>toxin</try>
+	</wordle>
+
+	<wordle date="2024-03-17" number="1002" score="6" word="snort">
+		<try>flash</try>
+		<try>steer</try>
+		<try>sorts</try>
+		<try>short</try>
+		<try>sport</try>
+		<try>snort</try>
+	</wordle>
+
+	<wordle date="2024-03-18" number="1003" score="3" word="spelt">
+		<try>slant</try>
+		<try>smelt</try>
+		<try>spelt</try>
+	</wordle>
+
+	<wordle date="2024-03-19" number="1004" score="3" word="abide">
+		<try>force</try>
+		<try>waive</try>
+		<try>abide</try>
+	</wordle>
+
+	<wordle date="2024-03-20" number="1005" score="2" word="lingo">
+		<try>fling</try>
+		<try>lingo</try>
+	</wordle>
+
+	<wordle date="2024-03-21" number="1006" score="6" word="shade">
+		<try>spawn</try>
+		<try>stale</try>
+		<try>shame</try>
+		<try>shave</try>
+		<try>share</try>
+		<try>shade</try>
+	</wordle>
+
+	<wordle date="2024-03-22" number="1007" score="3" word="decay">
+		<try>scrap</try>
+		<try>decal</try>
+		<try>decay</try>
+	</wordle>
+
+	<wordle date="2024-03-23" number="1008" score="4" word="risen">
+		<try>trace</try>
+		<try>lures</try>
+		<try>poser</try>
+		<try>risen</try>
+	</wordle>
+
 </wordles>

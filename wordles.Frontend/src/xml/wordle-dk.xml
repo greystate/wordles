@@ -5549,4 +5549,81 @@
 		<try>kværn</try>
 	</wordle>
 
+	<wordle date="2024-03-13" number="795" score="3" word="piano">
+		<try>sprog</try>
+		<try>polka</try>
+		<try>piano</try>
+	</wordle>
+
+	<wordle date="2024-03-14" number="796" score="5" word="niche">
+		<try>fladt</try>
+		<try>prins</try>
+		<try>vinge</try>
+		<try>nikke</try>
+		<try>niche</try>
+	</wordle>
+
+	<wordle date="2024-03-15" number="797" score="3" word="parti">
+		<try>opsat</try>
+		<try>tapir</try>
+		<try>parti</try>
+	</wordle>
+
+	<wordle date="2024-03-16" number="798" score="4" word="rotor">
+		<try>streg</try>
+		<try>trold</try>
+		<try>intro</try>
+		<try>rotor</try>
+	</wordle>
+
+	<wordle date="2024-03-17" number="799" score="4" word="sesam">
+		<try>slang</try>
+		<try>saver</try>
+		<try>skema</try>
+		<try>sesam</try>
+	</wordle>
+
+	<wordle date="2024-03-18" number="800" score="4" word="aerob">
+		<try>tales</try>
+		<try>andre</try>
+		<try>afrev</try>
+		<try>aerob</try>
+	</wordle>
+
+	<wordle date="2024-03-19" number="801" score="4" word="afart">
+		<try>skræl</try>
+		<try>rundt</try>
+		<try>afart</try>
+		<try>abort</try>
+	</wordle>
+
+	<wordle date="2024-03-20" number="802" score="6" word="begær">
+		<try>flink</try>
+		<try>opera</try>
+		<try>retur</try>
+		<try>vesir</try>
+		<try>begår</try>
+		<try>begær</try>
+	</wordle>
+
+	<wordle date="2024-03-21" number="803" score="3" word="arena">
+		<try>print</try>
+		<try>dræne</try>
+		<try>arena</try>
+	</wordle>
+
+	<wordle date="2024-03-22" number="804" score="4" word="tyran">
+		<try>frisk</try>
+		<try>rande</try>
+		<try>anråb</try>
+		<try>tyran</try>
+	</wordle>
+
+	<wordle date="2024-03-23" number="805" score="4" word="basal">
+		<try>blank</try>
+		<try>bilag</try>
+		<try>betal</try>
+		<try>basal</try>
+	</wordle>
+
 </wordles>
