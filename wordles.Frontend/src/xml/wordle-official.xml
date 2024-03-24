@@ -5460,4 +5460,11 @@
 		<try>risen</try>
 	</wordle>
 
+	<wordle date="2024-03-24" number="1009" score="4" word="towel">
+		<try>trunk</try>
+		<try>taped</try>
+		<try>totem</try>
+		<try>towel</try>
+	</wordle>
+
 </wordles>

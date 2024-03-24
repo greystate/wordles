@@ -5626,4 +5626,12 @@
 		<try>basal</try>
 	</wordle>
 
+	<wordle date="2024-03-24" number="806" score="5" word="chips">
+		<try>opera</try>
+		<try>stump</try>
+		<try>knips</try>
+		<try>flips</try>
+		<try>chips</try>
+	</wordle>
+
 </wordles>

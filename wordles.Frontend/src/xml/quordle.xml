@@ -7796,4 +7796,16 @@
 		<try>cello</try>
 	</quordle>
 
+	<quordle date="2024-03-24" number="789" scores="8 0 9 6" words="wider icily freak atone">
+		<try>grime</try>
+		<try>daunt</try>
+		<try>rider</try>
+		<try>poach</try>
+		<try>areal</try>
+		<try>atone</try>
+		<try>wreak</try>
+		<try>wider</try>
+		<try>freak</try>
+	</quordle>
+
 </wordles>
