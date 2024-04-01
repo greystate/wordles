@@ -5634,4 +5634,59 @@
 		<try>chips</try>
 	</wordle>
 
+	<wordle date="2024-03-25" number="807" score="5" word="ørred">
+		<try>hunde</try>
+		<try>dekan</try>
+		<try>mader</try>
+		<try>udret</try>
+		<try>ørred</try>
+	</wordle>
+
+	<!-- Missed # 808 -->
+	<wordle date="2024-03-26" number="808" score="0" word="?" />
+
+	<wordle date="2024-03-27" number="809" score="4" word="halvø">
+		<try>trang</try>
+		<try>skema</try>
+		<try>fadøl</try>
+		<try>halvø</try>
+	</wordle>
+
+	<wordle date="2024-03-28" number="810" score="4" word="tilde">
+		<try>opera</try>
+		<try>træde</try>
+		<try>tønde</try>
+		<try>tilde</try>
+	</wordle>
+
+	<wordle date="2024-03-29" number="811" score="6" word="udbud">
+		<try>krone</try>
+		<try>dativ</try>
+		<try>smæld</try>
+		<try>bybud</try>
+		<try>påbud</try>
+		<try>udbud</try>
+	</wordle>
+
+	<wordle date="2024-03-30" number="812" score="5" word="fjols">
+		<try>skrål</try>
+		<try>laste</try>
+		<try>bilos</try>
+		<try>plovs</try>
+		<try>fjols</try>
+	</wordle>
+
+	<wordle date="2024-03-31" number="813" score="3" word="kulso">
+		<try>huske</try>
+		<try>kunst</try>
+		<try>kulso</try>
+	</wordle>
+
+	<wordle date="2024-04-01" number="814" score="4" word="durum">
+		<try>april</try>
+		<try>ørred</try>
+		<try>udrug</try>
+		<try>durum</try>
+	</wordle>
+
 </wordles>

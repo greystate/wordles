@@ -7808,4 +7808,86 @@
 		<try>freak</try>
 	</quordle>
 
+	<quordle date="2024-03-25" number="790" scores="5 7 8 6" words="slung grill setup shock">
+		<try>bland</try>
+		<try>white</try>
+		<try>poker</try>
+		<try>scrum</try>
+		<try>slung</try>
+		<try>shock</try>
+		<try>grill</try>
+		<try>setup</try>
+	</quordle>
+
+	<!-- Missed #791 -->
+	<quordle date="2024-03-26" number="791" scores="0 0 0 0" words="? ? ? ?" />
+
+	<quordle date="2024-03-27" number="792" scores="8 6 5 7" words="qualm civil crude gouge">
+		<try>saved</try>
+		<try>place</try>
+		<try>young</try>
+		<try>rouge</try>
+		<try>crude</try>
+		<try>civil</try>
+		<try>gouge</try>
+		<try>qualm</try>
+	</quordle>
+
+	<quordle date="2024-03-28" number="793" scores="4 7 8 5" words="piney wedge vivid oddly">
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>octal</try>
+		<try>piney</try>
+		<try>oddly</try>
+		<try>hedge</try>
+		<try>wedge</try>
+		<try>vivid</try>
+	</quordle>
+
+	<quordle date="2024-03-29" number="794" scores="0 7 0 3" words="rumba slice razor steep">
+		<try>quest</try>
+		<try>drips</try>
+		<try>steep</try>
+		<try>seize</try>
+		<try>shine</try>
+		<try>smile</try>
+		<try>slice</try>
+		<try>murky</try>
+		<try>rumor</try>
+	</quordle>
+
+	<quordle date="2024-03-30" number="795" scores="7 8 9 6" words="shook dirge clean prior">
+		<try>start</try>
+		<try>opera</try>
+		<try>drunk</try>
+		<try>probe</try>
+		<try>shock</try>
+		<try>prior</try>
+		<try>shook</try>
+		<try>dirge</try>
+		<try>clean</try>
+	</quordle>
+
+	<quordle date="2024-03-31" number="796" scores="5 6 3 7" words="spike bevel perky fauna">
+		<try>words</try>
+		<try>piney</try>
+		<try>perky</try>
+		<try>gamba</try>
+		<try>spike</try>
+		<try>bevel</try>
+		<try>fauna</try>
+	</quordle>
+
+	<quordle date="2024-04-01" number="797" scores="5 9 8 6" words="carve tight aglow woven">
+		<try>trunk</try>
+		<try>wades</try>
+		<try>filmy</try>
+		<try>parve</try>
+		<try>carve</try>
+		<try>woven</try>
+		<try>allow</try>
+		<try>aglow</try>
+		<try>tight</try>
+	</quordle>
+
 </wordles>

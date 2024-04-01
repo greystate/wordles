@@ -5467,4 +5467,61 @@
 		<try>towel</try>
 	</wordle>
 
+	<wordle date="2024-03-25" number="1010" score="5" word="sally">
+		<try>peace</try>
+		<try>talon</try>
+		<try>walks</try>
+		<try>falsy</try>
+		<try>sally</try>
+	</wordle>
+
+	<wordle date="2024-03-26" number="1011" score="3" word="mayor">
+		<try>ready</try>
+		<try>yarns</try>
+		<try>mayor</try>
+	</wordle>
+
+	<wordle date="2024-03-27" number="1012" score="5" word="stung">
+		<try>shade</try>
+		<try>spork</try>
+		<try>sunny</try>
+		<try>stunt</try>
+		<try>stung</try>
+	</wordle>
+
+	<wordle date="2024-03-28" number="1013" score="4" word="speak">
+		<try>globe</try>
+		<try>dream</try>
+		<try>tweak</try>
+		<try>speak</try>
+	</wordle>
+
+	<wordle date="2024-03-29" number="1014" score="3" word="realm">
+		<try>witch</try>
+		<try>reads</try>
+		<try>realm</try>
+	</wordle>
+
+	<wordle date="2024-03-30" number="1015" score="3" word="force">
+		<try>first</try>
+		<try>fared</try>
+		<try>force</try>
+	</wordle>
+
+	<wordle date="2024-03-31" number="1016" score="5" word="taboo">
+		<try>flash</try>
+		<try>taken</try>
+		<try>tacit</try>
+		<try>tardy</try>
+		<try>taboo</try>
+	</wordle>
+
+	<wordle date="2024-04-01" number="1017" score="5" word="frond">
+		<try>flows</try>
+		<try>froth</try>
+		<try>frock</try>
+		<try>froze</try>
+		<try>frond</try>
+	</wordle>
+
 </wordles>
