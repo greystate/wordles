@@ -7890,4 +7890,40 @@
 		<try>tight</try>
 	</quordle>
 
+	<quordle date="2024-04-02" number="798" scores="4 5 9 0" words="aptly steel snout stave">
+		<try>soils</try>
+		<try>trope</try>
+		<try>steel</try>
+		<try>aptly</try>
+		<try>steal</try>
+		<try>shout</try>
+		<try>stage</try>
+		<try>scout</try>
+		<try>snout</try>
+	</quordle>
+
+	<quordle date="2024-04-03" number="799" scores="8 6 5 9" words="carry speak loser suave">
+		<try>worst</try>
+		<try>pined</try>
+		<try>flamy</try>
+		<try>roles</try>
+		<try>loser</try>
+		<try>speak</try>
+		<try>shave</try>
+		<try>carry</try>
+		<try>suave</try>
+	</quordle>
+
+	<quordle date="2024-04-04" number="800" scores="7 9 8 6" words="cleft racer tabby frail">
+		<try>heads</try>
+		<try>trick</try>
+		<try>jumpy</try>
+		<try>grain</try>
+		<try>carve</try>
+		<try>frail</try>
+		<try>cleft</try>
+		<try>tabby</try>
+		<try>racer</try>
+	</quordle>
+
 </wordles>

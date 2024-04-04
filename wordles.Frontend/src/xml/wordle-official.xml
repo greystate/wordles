@@ -5524,4 +5524,25 @@
 		<try>frond</try>
 	</wordle>
 
+	<wordle date="2024-04-02" number="1018" score="4" word="serum">
+		<try>track</try>
+		<try>resin</try>
+		<try>serve</try>
+		<try>serum</try>
+	</wordle>
+
+	<wordle date="2024-04-03" number="1019" score="4" word="plait">
+		<try>welsh</try>
+		<try>labor</try>
+		<try>tidal</try>
+		<try>plait</try>
+	</wordle>
+
+	<wordle date="2024-04-04" number="1020" score="4" word="climb">
+		<try>spawn</try>
+		<try>fruit</try>
+		<try>chime</try>
+		<try>climb</try>
+	</wordle>
+
 </wordles>

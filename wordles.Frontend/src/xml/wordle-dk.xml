@@ -5689,4 +5689,27 @@
 		<try>durum</try>
 	</wordle>
 
+	<wordle date="2024-04-02" number="815" score="6" word="blond">
+		<try>opera</try>
+		<try>sovet</try>
+		<try>kolon</try>
+		<try>limbo</try>
+		<try>klone</try>
+		<try>blond</try>
+	</wordle>
+
+	<wordle date="2024-04-03" number="816" score="5" word="taste">
+		<try>opera</try>
+		<try>fasen</try>
+		<try>nasse</try>
+		<try>taske</try>
+		<try>taste</try>
+	</wordle>
+
+	<wordle date="2024-04-04" number="817" score="3" word="antal">
+		<try>drage</try>
+		<try>aftal</try>
+		<try>antal</try>
+	</wordle>
+
 </wordles>
