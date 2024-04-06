@@ -7926,4 +7926,27 @@
 		<try>racer</try>
 	</quordle>
 
+	<quordle date="2024-04-05" number="801" scores="5 9 6 8" words="bluff tense cruel askew">
+		<try>smart</try>
+		<try>poker</try>
+		<try>dying</try>
+		<try>chuff</try>
+		<try>bluff</try>
+		<try>cruel</try>
+		<try>wakes</try>
+		<try>askew</try>
+		<try>tense</try>
+	</quordle>
+
+	<quordle date="2024-04-06" number="802" scores="6 8 7 4" words="enemy flack payee unfit">
+		<try>intro</try>
+		<try>plain</try>
+		<try>sweet</try>
+		<try>unfit</try>
+		<try>flamy</try>
+		<try>enemy</try>
+		<try>payee</try>
+		<try>flack</try>
+	</quordle>
+
 </wordles>

@@ -5545,4 +5545,18 @@
 		<try>climb</try>
 	</wordle>
 
+	<wordle date="2024-04-05" number="1021" score="3" word="wrist">
+		<try>horse</try>
+		<try>trust</try>
+		<try>wrist</try>
+	</wordle>
+
+	<wordle date="2024-04-06" number="1022" score="5" word="finch">
+		<try>plain</try>
+		<try>intro</try>
+		<try>binge</try>
+		<try>winds</try>
+		<try>finch</try>
+	</wordle>
+
 </wordles>

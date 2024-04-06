@@ -5712,4 +5712,17 @@
 		<try>antal</try>
 	</wordle>
 
+	<wordle date="2024-04-05" number="818" score="3" word="uhørt">
+		<try>skabe</try>
+		<try>pilot</try>
+		<try>uhørt</try>
+	</wordle>
+
+	<wordle date="2024-04-06" number="819" score="4" word="frisk">
+		<try>grums</try>
+		<try>frise</try>
+		<try>frist</try>
+		<try>frisk</try>
+	</wordle>
+
 </wordles>
