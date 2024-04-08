@@ -5559,4 +5559,19 @@
 		<try>finch</try>
 	</wordle>
 
+	<wordle date="2024-04-07" number="1023" score="4" word="voila">
+		<try>blend</try>
+		<try>loath</try>
+		<try>solar</try>
+		<try>voila</try>
+	</wordle>
+
+	<wordle date="2024-04-08" number="1024" score="5" word="breed">
+		<try>power</try>
+		<try>ramen</try>
+		<try>dried</try>
+		<try>urged</try>
+		<try>breed</try>
+	</wordle>
+
 </wordles>

@@ -7949,4 +7949,27 @@
 		<try>flack</try>
 	</quordle>
 
+	<quordle date="2024-04-07" number="803" scores="4 5 7 8" words="bring wring larva gogue">
+		<try>hurts</try>
+		<try>poker</try>
+		<try>bawdy</try>
+		<try>bring</try>
+		<try>wring</try>
+		<try>vogue</try>
+		<try>larva</try>
+		<try>gogue</try>
+	</quordle>
+
+	<quordle date="2024-04-08" number="804" scores="0 6 0 5" words="craze equip rally scour">
+		<try>start</try>
+		<try>poker</try>
+		<try>wimpy</try>
+		<try>deuce</try>
+		<try>scour</try>
+		<try>equip</try>
+		<try>crave</try>
+		<try>array</try>
+		<try>crane</try>
+	</quordle>
+
 </wordles>

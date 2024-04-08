@@ -5725,4 +5725,18 @@
 		<try>frisk</try>
 	</wordle>
 
+	<wordle date="2024-04-07" number="820" score="4" word="kande">
+		<try>opera</try>
+		<try>tabes</try>
+		<try>havde</try>
+		<try>kande</try>
+	</wordle>
+
+	<wordle date="2024-04-08" number="821" score="4" word="dosis">
+		<try>opera</try>
+		<try>tonic</try>
+		<try>mobil</try>
+		<try>dosis</try>
+	</wordle>
+
 </wordles>
