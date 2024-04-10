@@ -7972,4 +7972,24 @@
 		<try>crane</try>
 	</quordle>
 
+	<quordle date="2024-04-09" number="805" scores="5 6 4 3" words="heron fiend twine worse">
+		<try>paint</try>
+		<try>lower</try>
+		<try>worse</try>
+		<try>twine</try>
+		<try>heron</try>
+		<try>fiend</try>
+	</quordle>
+
+	<quordle date="2024-04-10" number="806" scores="7 5 8 6" words="lance tapir murky canal">
+		<try>blast</try>
+		<try>medal</try>
+		<try>power</try>
+		<try>guild</try>
+		<try>tapir</try>
+		<try>canal</try>
+		<try>lance</try>
+		<try>murky</try>
+	</quordle>
+
 </wordles>

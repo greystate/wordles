@@ -5574,4 +5574,18 @@
 		<try>breed</try>
 	</wordle>
 
+	<wordle date="2024-04-09" number="1025" score="4" word="merge">
+		<try>raise</try>
+		<try>force</try>
+		<try>nerve</try>
+		<try>merge</try>
+	</wordle>
+
+	<wordle date="2024-04-10" number="1026" score="4" word="broth">
+		<try>power</try>
+		<try>adorn</try>
+		<try>troll</try>
+		<try>broth</try>
+	</wordle>
+
 </wordles>

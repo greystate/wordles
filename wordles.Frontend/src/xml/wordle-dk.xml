@@ -5739,4 +5739,20 @@
 		<try>dosis</try>
 	</wordle>
 
+	<wordle date="2024-04-09" number="822" score="5" word="banan">
+		<try>præst</try>
+		<try>flage</try>
+		<try>kamin</try>
+		<try>bacon</try>
+		<try>banan</try>
+	</wordle>
+
+	<wordle date="2024-04-10" number="823" score="5" word="talje">
+		<try>plask</try>
+		<try>alene</try>
+		<try>dvale</try>
+		<try>halte</try>
+		<try>talje</try>
+	</wordle>
+
 </wordles>
