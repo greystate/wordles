@@ -5588,4 +5588,12 @@
 		<try>broth</try>
 	</wordle>
 
+	<wordle date="2024-04-11" number="1027" score="5" word="louse">
+		<try>pairs</try>
+		<try>swung</try>
+		<try>blush</try>
+		<try>lousy</try>
+		<try>louse</try>
+	</wordle>
+
 </wordles>
