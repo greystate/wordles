@@ -8002,4 +8002,24 @@
 		<try>gross</try>
 	</quordle>
 
+	<quordle date="2024-04-12" number="808" scores="7 5 6 4" words="guild vomit droop bigot">
+		<try>young</try>
+		<try>price</try>
+		<try>thaws</try>
+		<try>bigot</try>
+		<try>vomit</try>
+		<try>droop</try>
+		<try>guild</try>
+	</quordle>
+
+	<quordle date="2024-04-13" number="809" scores="5 4 7 6" words="grove alloy timid twist">
+		<try>traps</try>
+		<try>young</try>
+		<try>hilly</try>
+		<try>alloy</try>
+		<try>grove</try>
+		<try>twist</try>
+		<try>timid</try>
+	</quordle>
+
 </wordles>

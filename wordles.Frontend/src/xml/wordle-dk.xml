@@ -5762,4 +5762,17 @@
 		<try>umage</try>
 	</wordle>
 
+	<wordle date="2024-04-12" number="825" score="4" word="frugt">
+		<try>gummi</try>
+		<try>ugler</try>
+		<try>brugt</try>
+		<try>frugt</try>
+	</wordle>
+
+	<wordle date="2024-04-13" number="826" score="3" word="kalif">
+		<try>tyder</try>
+		<try>klamp</try>
+		<try>kalif</try>
+	</wordle>
+
 </wordles>

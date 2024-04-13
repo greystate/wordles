@@ -5596,4 +5596,18 @@
 		<try>louse</try>
 	</wordle>
 
+	<wordle date="2024-04-12" number="1028" score="4" word="whiny">
+		<try>erase</try>
+		<try>point</try>
+		<try>fling</try>
+		<try>whiny</try>
+	</wordle>
+
+	<wordle date="2024-04-13" number="1029" score="4" word="steel">
+		<try>decal</try>
+		<try>novel</try>
+		<try>impel</try>
+		<try>steel</try>
+	</wordle>
+
 </wordles>
