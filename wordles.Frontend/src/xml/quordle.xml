@@ -8022,4 +8022,23 @@
 		<try>timid</try>
 	</quordle>
 
+	<quordle date="2024-04-14" number="810" scores="2 7 5 6" words="witty daddy short slung">
+		<try>twist</try>
+		<try>witty</try>
+		<try>pound</try>
+		<try>freak</try>
+		<try>short</try>
+		<try>slung</try>
+		<try>daddy</try>
+	</quordle>
+
+	<quordle date="2024-04-15" number="811" scores="6 5 3 4" words="stint rapid bring build">
+		<try>baker</try>
+		<try>blows</try>
+		<try>bring</try>
+		<try>build</try>
+		<try>rapid</try>
+		<try>stint</try>
+	</quordle>
+
 </wordles>

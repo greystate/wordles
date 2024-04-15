@@ -5775,4 +5775,17 @@
 		<try>kalif</try>
 	</wordle>
 
+	<wordle date="2024-04-14" number="827" score="3" word="diode">
+		<try>trone</try>
+		<try>skole</try>
+		<try>diode</try>
+	</wordle>
+
+	<wordle date="2024-04-15" number="828" score="4" word="takst">
+		<try>træge</try>
+		<try>tomat</try>
+		<try>tavst</try>
+		<try>takst</try>
+	</wordle>
+
 </wordles>
