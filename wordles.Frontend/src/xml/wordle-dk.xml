@@ -5788,4 +5788,24 @@
 		<try>takst</try>
 	</wordle>
 
+	<wordle date="2024-04-16" number="829" score="4" word="unika">
+		<try>brand</try>
+		<try>ansæt</try>
+		<try>gnave</try>
+		<try>unika</try>
+	</wordle>
+
+	<wordle date="2024-04-17" number="830" score="4" word="frygt">
+		<try>baske</try>
+		<try>lindt</try>
+		<try>grumt</try>
+		<try>frygt</try>
+	</wordle>
+
+	<wordle date="2024-04-18" number="831" score="3" word="kabys">
+		<try>point</try>
+		<try>sadel</try>
+		<try>kabys</try>
+	</wordle>
+
 </wordles>

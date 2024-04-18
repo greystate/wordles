@@ -5624,4 +5624,29 @@
 		<try>equip</try>
 	</wordle>
 
+	<wordle date="2024-04-16" number="1032" score="5" word="shank">
+		<try>crops</try>
+		<try>stalk</try>
+		<try>swank</try>
+		<try>skank</try>
+		<try>shank</try>
+	</wordle>
+
+	<wordle date="2024-04-17" number="1033" score="5" word="tithe">
+		<try>blunt</try>
+		<try>trips</try>
+		<try>ticky</try>
+		<try>timed</try>
+		<try>tithe</try>
+	</wordle>
+
+	<wordle date="2024-04-18" number="1034" score="0" word="facet">
+		<try>trope</try>
+		<try>steam</try>
+		<try>heaty</try>
+		<try>latex</try>
+		<try>cadet</try>
+		<try>tacet</try>
+	</wordle>
+
 </wordles>
