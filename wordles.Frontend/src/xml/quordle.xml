@@ -8075,4 +8075,118 @@
 		<try>match</try>
 	</quordle>
 
+	<quordle date="2024-04-19" number="815" scores="6 7 4 5" words="woman waxen flirt float">
+		<try>cover</try>
+		<try>dashy</try>
+		<try>flunk</try>
+		<try>flirt</try>
+		<try>float</try>
+		<try>woman</try>
+		<try>waxen</try>
+	</quordle>
+
+	<quordle date="2024-04-20" number="816" scores="6 7 0 3" words="stamp forth dully ounce">
+		<try>music</try>
+		<try>opera</try>
+		<try>ounce</try>
+		<try>fully</try>
+		<try>vamps</try>
+		<try>stamp</try>
+		<try>forth</try>
+		<try>gully</try>
+		<try>bully</try>
+	</quordle>
+
+	<quordle date="2024-04-21" number="817" scores="4 7 8 9" words="caste funky cavil manga">
+		<try>score</try>
+		<try>tunic</try>
+		<try>place</try>
+		<try>caste</try>
+		<try>calif</try>
+		<try>funny</try>
+		<try>funky</try>
+		<try>cavil</try>
+		<try>manga</try>
+	</quordle>
+
+	<quordle date="2024-04-22" number="818" scores="6 7 8 5" words="plaid adage diode elbow">
+		<try>block</try>
+		<try>tread</try>
+		<try>munge</try>
+		<try>sizes</try>
+		<try>elbow</try>
+		<try>plaid</try>
+		<try>adage</try>
+		<try>diode</try>
+	</quordle>
+
+	<quordle date="2024-04-23" number="819" scores="6 5 7 9" words="plank spoil gavel stoop">
+		<try>guide</try>
+		<try>power</try>
+		<try>topic</try>
+		<try>psalm</try>
+		<try>spoil</try>
+		<try>plank</try>
+		<try>gavel</try>
+		<try>stops</try>
+		<try>stoop</try>
+	</quordle>
+
+	<quordle date="2024-04-24" number="820" scores="6 5 0 8" words="stead canal sheep unite">
+		<try>truck</try>
+		<try>stall</try>
+		<try>steam</try>
+		<try>focal</try>
+		<try>canal</try>
+		<try>stead</try>
+		<try>untie</try>
+		<try>unite</try>
+		<try>sheep</try>
+	</quordle>
+
+	<quordle date="2024-04-25" number="821" scores="4 7 9 2" words="while dodgy macho loath">
+		<try>slate</try>
+		<try>loath</try>
+		<try>chile</try>
+		<try>while</try>
+		<try>round</try>
+		<try>doggy</try>
+		<try>dodgy</try>
+		<try>achoo</try>
+		<try>macho</try>
+	</quordle>
+
+	<quordle date="2024-04-26" number="822" scores="6 7 5 4" words="among fling sound agile">
+		<try>vapid</try>
+		<try>child</try>
+		<try>artsy</try>
+		<try>agile</try>
+		<try>sound</try>
+		<try>among</try>
+		<try>fling</try>
+	</quordle>
+
+	<quordle date="2024-04-27" number="823" scores="8 3 9 7" words="quack beret skull lathe">
+		<try>break</try>
+		<try>stack</try>
+		<try>beret</try>
+		<try>knack</try>
+		<try>taped</try>
+		<try>haute</try>
+		<try>lathe</try>
+		<try>quack</try>
+		<try>skull</try>
+	</quordle>
+
+	<quordle date="2024-04-28" number="824" scores="7 4 5 8" words="llama cumin caulk rabid">
+		<try>black</try>
+		<try>white</try>
+		<try>dumpy</try>
+		<try>cumin</try>
+		<try>caulk</try>
+		<try>alarm</try>
+		<try>llama</try>
+		<try>rabid</try>
+	</quordle>
+
 </wordles>

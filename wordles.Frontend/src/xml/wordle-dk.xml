@@ -5808,4 +5808,78 @@
 		<try>kabys</try>
 	</wordle>
 
+	<wordle date="2024-04-19" number="832" score="6" word="citat">
+		<try>brand</try>
+		<try>aflys</try>
+		<try>etage</try>
+		<try>kaput</try>
+		<try>tomat</try>
+		<try>citat</try>
+	</wordle>
+
+	<wordle date="2024-04-20" number="833" score="4" word="tjavs">
+		<try>stand</try>
+		<try>afstå</try>
+		<try>brast</try>
+		<try>tjavs</try>
+	</wordle>
+
+	<wordle date="2024-04-21" number="834" score="5" word="urrem">
+		<try>opera</try>
+		<try>rente</try>
+		<try>skrev</try>
+		<try>lurer</try>
+		<try>urrem</try>
+	</wordle>
+
+	<wordle date="2024-04-22" number="835" score="2" word="fryse">
+		<try>ferie</try>
+		<try>fryse</try>
+	</wordle>
+
+	<wordle date="2024-04-23" number="836" score="4" word="istap">
+		<try>opera</try>
+		<try>topas</try>
+		<try>påsat</try>
+		<try>istap</try>
+	</wordle>
+
+	<wordle date="2024-04-24" number="837" score="4" word="bøtte">
+		<try>klart</try>
+		<try>strøg</try>
+		<try>tømme</try>
+		<try>bøtte</try>
+	</wordle>
+
+	<wordle date="2024-04-25" number="838" score="4" word="tyfus">
+		<try>næste</try>
+		<try>storm</try>
+		<try>tital</try>
+		<try>tyfus</try>
+	</wordle>
+
+	<wordle date="2024-04-26" number="839" score="5" word="uhyre">
+		<try>under</try>
+		<try>urets</try>
+		<try>uføre</try>
+		<try>ukære</try>
+		<try>uhyre</try>
+	</wordle>
+
+	<wordle date="2024-04-27" number="840" score="0" word="fråse">
+		<try>tøver</try>
+		<try>spore</try>
+		<try>hirse</try>
+		<try>kræse</try>
+		<try>fryse</try>
+		<try>frase</try>
+	</wordle>
+
+	<wordle date="2024-04-28" number="841" score="4" word="isbåd">
+		<try>poder</try>
+		<try>bland</try>
+		<try>udbud</try>
+		<try>isbåd</try>
+	</wordle>
+
 </wordles>

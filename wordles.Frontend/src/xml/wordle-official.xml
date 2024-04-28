@@ -5640,6 +5640,8 @@
 		<try>tithe</try>
 	</wordle>
 
+	<!--  ⬆️ Streak of 50 😭 -->
+
 	<wordle date="2024-04-18" number="1034" score="0" word="facet">
 		<try>trope</try>
 		<try>steam</try>
@@ -5647,6 +5649,74 @@
 		<try>latex</try>
 		<try>cadet</try>
 		<try>tacet</try>
+	</wordle>
+
+	<wordle date="2024-04-19" number="1035" score="3" word="raise">
+		<try>horse</try>
+		<try>arise</try>
+		<try>raise</try>
+	</wordle>
+
+	<wordle date="2024-04-20" number="1036" score="4" word="lucid">
+		<try>flash</try>
+		<try>lower</try>
+		<try>lumpy</try>
+		<try>lucid</try>
+	</wordle>
+
+	<wordle date="2024-04-21" number="1037" score="5" word="jolly">
+		<try>topic</try>
+		<try>folds</try>
+		<try>color</try>
+		<try>golly</try>
+		<try>jolly</try>
+	</wordle>
+
+	<wordle date="2024-04-22" number="1038" score="4" word="laser">
+		<try>clash</try>
+		<try>salty</try>
+		<try>basil</try>
+		<try>laser</try>
+	</wordle>
+
+	<wordle date="2024-04-23" number="1039" score="3" word="rover">
+		<try>proud</try>
+		<try>roves</try>
+		<try>rover</try>
+	</wordle>
+
+	<wordle date="2024-04-24" number="1040" score="4" word="overt">
+		<try>crash</try>
+		<try>round</try>
+		<try>metro</try>
+		<try>overt</try>
+	</wordle>
+
+	<wordle date="2024-04-25" number="1041" score="4" word="intro">
+		<try>eagle</try>
+		<try>spurt</try>
+		<try>thorn</try>
+		<try>intro</try>
+	</wordle>
+
+	<wordle date="2024-04-26" number="1042" score="3" word="vapid">
+		<try>mains</try>
+		<try>panic</try>
+		<try>vapid</try>
+	</wordle>
+
+	<wordle date="2024-04-27" number="1043" score="4" word="gleam">
+		<try>lover</try>
+		<try>scale</try>
+		<try>glean</try>
+		<try>gleam</try>
+	</wordle>
+
+	<wordle date="2024-04-28" number="1044" score="4" word="prune">
+		<try>trash</try>
+		<try>fried</try>
+		<try>prove</try>
+		<try>prune</try>
 	</wordle>
 
 </wordles>
