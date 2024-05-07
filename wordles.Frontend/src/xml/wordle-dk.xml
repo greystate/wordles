@@ -5882,4 +5882,75 @@
 		<try>isbåd</try>
 	</wordle>
 
+	<wordle date="2024-04-29" number="842" score="4" word="byliv">
+		<try>pløje</try>
+		<try>salær</try>
+		<try>fuldt</try>
+		<try>byliv</try>
+	</wordle>
+
+	<wordle date="2024-04-30" number="843" score="5" word="banal">
+		<try>opera</try>
+		<try>altid</try>
+		<try>langs</try>
+		<try>kanal</try>
+		<try>banal</try>
+	</wordle>
+
+	<wordle date="2024-05-01" number="844" score="4" word="aktør">
+		<try>spark</try>
+		<try>arken</try>
+		<try>akryl</try>
+		<try>aktør</try>
+	</wordle>
+
+	<wordle date="2024-05-02" number="845" score="5" word="uenig">
+		<try>opera</try>
+		<try>eksem</try>
+		<try>filme</try>
+		<try>betyd</try>
+		<try>uenig</try>
+	</wordle>
+
+	<wordle date="2024-05-03" number="846" score="3" word="futon">
+		<try>plade</try>
+		<try>munks</try>
+		<try>futon</try>
+	</wordle>
+
+	<wordle date="2024-05-04" number="847" score="6" word="hytte">
+		<try>skørt</try>
+		<try>tunge</try>
+		<try>bolte</try>
+		<try>pifte</try>
+		<try>hatte</try>
+		<try>hytte</try>
+	</wordle>
+
+	<wordle date="2024-05-05" number="848" score="0" word="bryst">
+		<try>sende</try>
+		<try>omsat</try>
+		<try>frist</try>
+		<try>trøst</try>
+		<try>kryst</try>
+		<try>prust</try>
+	</wordle>
+
+	<wordle date="2024-05-06" number="849" score="5" word="tærte">
+		<try>prale</try>
+		<try>smøre</try>
+		<try>rynke</try>
+		<try>borte</try>
+		<try>tærte</try>
+	</wordle>
+
+	<wordle date="2024-05-07" number="850" score="6" word="viske">
+		<try>opera</try>
+		<try>skude</try>
+		<try>hekse</try>
+		<try>ønske</try>
+		<try>fiske</try>
+		<try>viske</try>
+	</wordle>
+
 </wordles>

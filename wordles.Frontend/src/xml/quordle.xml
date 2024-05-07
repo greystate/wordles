@@ -8189,4 +8189,107 @@
 		<try>rabid</try>
 	</quordle>
 
+	<quordle date="2024-04-29" number="825" scores="9 6 7 5" words="stake purge pecan plant">
+		<try>flush</try>
+		<try>power</try>
+		<try>purse</try>
+		<try>taint</try>
+		<try>plant</try>
+		<try>purge</try>
+		<try>pecan</try>
+		<try>state</try>
+		<try>stake</try>
+	</quordle>
+
+	<quordle date="2024-04-30" number="826" scores="5 6 8 9" words="stash fussy reedy waltz">
+		<try>slope</try>
+		<try>train</try>
+		<try>muddy</try>
+		<try>gushy</try>
+		<try>stash</try>
+		<try>fussy</try>
+		<try>reddy</try>
+		<try>ready</try>
+		<try>waltz</try>
+	</quordle>
+
+	<quordle date="2024-05-01" number="827" scores="8 9 7 5" words="rough synod posse parry">
+		<try>slack</try>
+		<try>opera</try>
+		<try>minus</try>
+		<try>sonny</try>
+		<try>parry</try>
+		<try>posed</try>
+		<try>posse</try>
+		<try>rough</try>
+		<try>synod</try>
+	</quordle>
+
+	<quordle date="2024-05-02" number="828" scores="3 7 6 9" words="tulip daily plaza singe">
+		<try>truck</try>
+		<try>plows</try>
+		<try>tulip</try>
+		<try>plead</try>
+		<try>playa</try>
+		<try>plaza</try>
+		<try>daily</try>
+		<try>shine</try>
+		<try>singe</try>
+	</quordle>
+
+	<quordle date="2024-05-03" number="829" scores="5 8 4 6" words="nudge clash knave agent">
+		<try>spark</try>
+		<try>built</try>
+		<try>funky</try>
+		<try>knave</try>
+		<try>nudge</try>
+		<try>agent</try>
+		<try>class</try>
+		<try>clash</try>
+	</quordle>
+
+	<quordle date="2024-05-04" number="830" scores="9 5 7 8" words="wagon quick mural liege">
+		<try>craft</try>
+		<try>dough</try>
+		<try>break</try>
+		<try>spicy</try>
+		<try>quick</try>
+		<try>rural</try>
+		<try>mural</try>
+		<try>liege</try>
+		<try>wagon</try>
+	</quordle>
+
+	<quordle date="2024-05-05" number="831" scores="8 9 6 7" words="gazer tweet ferry thumb">
+		<try>track</try>
+		<try>pound</try>
+		<try>twigs</try>
+		<try>refer</try>
+		<try>lager</try>
+		<try>ferry</try>
+		<try>thumb</try>
+		<try>gazer</try>
+		<try>tweet</try>
+	</quordle>
+
+	<quordle date="2024-05-06" number="832" scores="4 7 5 6" words="stain genie level relay">
+		<try>mount</try>
+		<try>liver</try>
+		<try>flash</try>
+		<try>stain</try>
+		<try>level</try>
+		<try>relay</try>
+		<try>genie</try>
+	</quordle>
+
+	<quordle date="2024-05-07" number="833" scores="7 5 4 6" words="defer bough miser magma">
+		<try>spend</try>
+		<try>money</try>
+		<try>birth</try>
+		<try>miser</try>
+		<try>bough</try>
+		<try>magma</try>
+		<try>defer</try>
+	</quordle>
+
 </wordles>

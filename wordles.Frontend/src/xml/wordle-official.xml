@@ -5719,4 +5719,64 @@
 		<try>prune</try>
 	</wordle>
 
+	<wordle date="2024-04-29" number="1045" score="4" word="craft">
+		<try>brown</try>
+		<try>crave</try>
+		<try>crash</try>
+		<try>craft</try>
+	</wordle>
+
+	<wordle date="2024-04-30" number="1046" score="3" word="prowl">
+		<try>dream</try>
+		<try>broth</try>
+		<try>prowl</try>
+	</wordle>
+
+	<wordle date="2024-05-01" number="1047" score="4" word="diary">
+		<try>punch</try>
+		<try>drove</try>
+		<try>dirty</try>
+		<try>diary</try>
+	</wordle>
+
+	<wordle date="2024-05-02" number="1048" score="3" word="slice">
+		<try>trike</try>
+		<try>alive</try>
+		<try>slice</try>
+	</wordle>
+
+	<wordle date="2024-05-03" number="1049" score="4" word="ebony">
+		<try>topic</try>
+		<try>groan</try>
+		<try>blond</try>
+		<try>ebony</try>
+	</wordle>
+
+	<wordle date="2024-05-04" number="1050" score="4" word="value">
+		<try>bland</try>
+		<try>lasso</try>
+		<try>rally</try>
+		<try>value</try>
+	</wordle>
+
+	<wordle date="2024-05-05" number="1051" score="3" word="decal">
+		<try>trace</try>
+		<try>clean</try>
+		<try>decal</try>
+	</wordle>
+
+	<wordle date="2024-05-06" number="1052" score="4" word="shave">
+		<try>place</try>
+		<try>drake</try>
+		<try>suave</try>
+		<try>shave</try>
+	</wordle>
+
+	<wordle date="2024-05-07" number="1053" score="4" word="musty">
+		<try>poker</try>
+		<try>datum</try>
+		<try>tummy</try>
+		<try>musty</try>
+	</wordle>
+
 </wordles>
