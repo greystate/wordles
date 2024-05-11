@@ -5779,4 +5779,34 @@
 		<try>musty</try>
 	</wordle>
 
+	<wordle date="2024-05-08" number="1154" score="4" word="pious">
+		<try>power</try>
+		<try>photo</try>
+		<try>plonk</try>
+		<try>pious</try>
+	</wordle>
+
+	<wordle date="2024-05-09" number="1155" score="5" word="jerky">
+		<try>smile</try>
+		<try>epoxy</try>
+		<try>ready</try>
+		<try>berry</try>
+		<try>jerky</try>
+	</wordle>
+
+	<wordle date="2024-05-10" number="1156" score="4" word="media">
+		<try>clash</try>
+		<try>armor</try>
+		<try>metal</try>
+		<try>media</try>
+	</wordle>
+
+	<wordle date="2024-05-11" number="1157" score="5" word="tidal">
+		<try>flour</try>
+		<try>spilt</try>
+		<try>lithe</try>
+		<try>kilty</try>
+		<try>tidal</try>
+	</wordle>
+
 </wordles>

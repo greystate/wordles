@@ -8292,4 +8292,51 @@
 		<try>defer</try>
 	</quordle>
 
+	<quordle date="2024-05-08" number="834" scores="8 4 9 6" words="sever glory radar small">
+		<try>quark</try>
+		<try>tower</try>
+		<try>bingy</try>
+		<try>glory</try>
+		<try>spall</try>
+		<try>small</try>
+		<try>sheer</try>
+		<try>sever</try>
+		<try>radar</try>
+	</quordle>
+
+	<quordle date="2024-05-09" number="835" scores="5 9 7 6" words="wound igloo mealy pasty">
+		<try>black</try>
+		<try>white</try>
+		<try>deals</try>
+		<try>porno</try>
+		<try>wound</try>
+		<try>pasty</try>
+		<try>mealy</try>
+		<try>video</try>
+		<try>igloo</try>
+	</quordle>
+
+	<quordle date="2024-05-10" number="836" scores="9 7 3 8" words="quash perky ensue harpy">
+		<try>funky</try>
+		<try>unset</try>
+		<try>ensue</try>
+		<try>leaky</try>
+		<try>pecky</try>
+		<try>paddy</try>
+		<try>perky</try>
+		<try>harpy</try>
+		<try>quash</try>
+	</quordle>
+
+	<quordle date="2024-05-11" number="837" scores="5 7 6 8" words="spiny frame gooey feral">
+		<try>brush</try>
+		<try>power</try>
+		<try>licks</try>
+		<try>stain</try>
+		<try>spiny</try>
+		<try>gooey</try>
+		<try>frame</try>
+		<try>feral</try>
+	</quordle>
+
 </wordles>

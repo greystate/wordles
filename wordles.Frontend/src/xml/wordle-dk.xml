@@ -5953,4 +5953,33 @@
 		<try>viske</try>
 	</wordle>
 
+	<wordle date="2024-05-08" number="851" score="4" word="lampe">
+		<try>blank</try>
+		<try>alter</try>
+		<try>laske</try>
+		<try>lampe</try>
+	</wordle>
+
+	<wordle date="2024-05-09" number="852" score="6" word="hvile">
+		<try>blade</try>
+		<try>rumle</try>
+		<try>stole</try>
+		<try>pille</try>
+		<try>heile</try>
+		<try>hvile</try>
+	</wordle>
+
+	<wordle date="2024-05-10" number="853" score="4" word="brise">
+		<try>blade</try>
+		<try>bævre</try>
+		<try>bruse</try>
+		<try>brise</try>
+	</wordle>
+
+	<wordle date="2024-05-11" number="854" score="3" word="tønde">
+		<try>ranet</try>
+		<try>tønde</try>
+		<try>lunte</try>
+	</wordle>
+
 </wordles>
