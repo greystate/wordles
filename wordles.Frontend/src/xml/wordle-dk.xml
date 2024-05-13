@@ -5978,8 +5978,22 @@
 
 	<wordle date="2024-05-11" number="854" score="3" word="tønde">
 		<try>ranet</try>
-		<try>tønde</try>
 		<try>lunte</try>
+		<try>tønde</try>
+	</wordle>
+
+	<wordle date="2024-05-12" number="855" score="5" word="vækst">
+		<try>opera</try>
+		<try>sting</try>
+		<try>udsat</try>
+		<try>flæsk</try>
+		<try>vækst</try>
+	</wordle>
+
+	<wordle date="2024-05-13" number="856" score="3" word="lakaj">
+		<try>flæng</try>
+		<try>lader</try>
+		<try>lakaj</try>
 	</wordle>
 
 </wordles>

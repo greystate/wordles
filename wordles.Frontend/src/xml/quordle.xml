@@ -8339,4 +8339,27 @@
 		<try>feral</try>
 	</quordle>
 
+	<quordle date="2024-05-12" number="838" scores="4 5 7 8" words="blast front clack eagle">
+		<try>brand</try>
+		<try>power</try>
+		<try>still</try>
+		<try>blast</try>
+		<try>front</try>
+		<try>glazy</try>
+		<try>clack</try>
+		<try>eagle</try>
+	</quordle>
+
+	<quordle date="2024-05-13" number="839" scores="7 9 8 5" words="crass niche chest prize">
+		<try>stand</try>
+		<try>poser</try>
+		<try>price</try>
+		<try>crash</try>
+		<try>prize</try>
+		<try>chess</try>
+		<try>crass</try>
+		<try>chest</try>
+		<try>niche</try>
+	</quordle>
+
 </wordles>
