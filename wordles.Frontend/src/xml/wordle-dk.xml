@@ -5996,4 +5996,78 @@
 		<try>lakaj</try>
 	</wordle>
 
+	<wordle date="2024-05-14" number="857" score="4" word="humor">
+		<try>hanke</try>
+		<try>hølæs</try>
+		<try>hobby</try>
+		<try>humor</try>
+	</wordle>
+
+	<wordle date="2024-05-15" number="858" score="4" word="blank">
+		<try>opera</try>
+		<try>frisk</try>
+		<try>tarok</try>
+		<try>blank</try>
+	</wordle>
+
+	<wordle date="2024-05-16" number="859" score="4" word="tørst">
+		<try>klask</try>
+		<try>prise</try>
+		<try>først</try>
+		<try>tørst</try>
+	</wordle>
+
+	<wordle date="2024-05-17" number="860" score="4" word="ydmyg">
+		<try>plads</try>
+		<try>dreje</try>
+		<try>udtog</try>
+		<try>ydmyg</try>
+	</wordle>
+
+	<wordle date="2024-05-18" number="861" score="6" word="klæde">
+		<try>streg</try>
+		<try>vende</try>
+		<try>klyde</try>
+		<try>klude</try>
+		<try>klode</try>
+		<try>klæde</try>
+	</wordle>
+
+	<wordle date="2024-05-19" number="862" score="6" word="hofte">
+		<try>opera</try>
+		<try>endog</try>
+		<try>solen</try>
+		<try>kokke</try>
+		<try>tomme</try>
+		<try>hofte</try>
+	</wordle>
+
+	<wordle date="2024-05-20" number="863" score="4" word="afasi">
+		<try>slags</try>
+		<try>usand</try>
+		<try>trask</try>
+		<try>afasi</try>
+	</wordle>
+
+	<!-- Missed # 864 -->
+	<wordle date="2024-05-21" number="864" score="0" word="?" />
+
+	<wordle date="2024-05-22" number="865" score="6" word="pinse">
+		<try>opera</try>
+		<try>epoxy</try>
+		<try>hippe</try>
+		<try>pille</try>
+		<try>pinde</try>
+		<try>pinse</try>
+	</wordle>
+
+	<wordle date="2024-05-23" number="866" score="6" word="kanut">
+		<try>opera</try>
+		<try>stads</try>
+		<try>antik</try>
+		<try>tobak</try>
+		<try>tukan</try>
+		<try>kanut</try>
+	</wordle>
+
 </wordles>

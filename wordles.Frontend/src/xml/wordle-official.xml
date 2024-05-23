@@ -5824,4 +5824,75 @@
 		<try>cumin</try>
 	</wordle>
 
+	<wordle date="2024-05-14" number="1060" score="4" word="amass">
+		<try>copes</try>
+		<try>mails</try>
+		<try>trams</try>
+		<try>amass</try>
+	</wordle>
+
+	<wordle date="2024-05-15" number="1061" score="4" word="pinch">
+		<try>fours</try>
+		<try>limed</try>
+		<try>picky</try>
+		<try>pinch</try>
+	</wordle>
+
+	<wordle date="2024-05-16" number="1062" score="4" word="stall">
+		<try>ponds</try>
+		<try>sleek</try>
+		<try>shawl</try>
+		<try>stall</try>
+	</wordle>
+
+	<wordle date="2024-05-17" number="1063" score="3" word="tutor">
+		<try>break</try>
+		<try>tumor</try>
+		<try>tutor</try>
+	</wordle>
+
+	<wordle date="2024-05-18" number="1064" score="5" word="briny">
+		<try>flows</try>
+		<try>pried</try>
+		<try>brick</try>
+		<try>bring</try>
+		<try>briny</try>
+	</wordle>
+
+	<wordle date="2024-05-19" number="1065" score="4" word="hitch">
+		<try>swift</try>
+		<try>tired</try>
+		<try>linty</try>
+		<try>hitch</try>
+	</wordle>
+
+	<wordle date="2024-05-20" number="1066" score="4" word="nicer">
+		<try>spare</try>
+		<try>recut</try>
+		<try>dicer</try>
+		<try>nicer</try>
+	</wordle>
+
+	<wordle date="2024-05-21" number="1067" score="4" word="dingo">
+		<try>truck</try>
+		<try>dashy</try>
+		<try>denim</try>
+		<try>dingo</try>
+	</wordle>
+
+	<wordle date="2024-05-22" number="1068" score="4" word="exalt">
+		<try>works</try>
+		<try>place</try>
+		<try>leafy</try>
+		<try>exalt</try>
+	</wordle>
+
+	<wordle date="2024-05-23" number="1069" score="5" word="swish">
+		<try>baker</try>
+		<try>spiny</try>
+		<try>still</try>
+		<try>swims</try>
+		<try>swish</try>
+	</wordle>
+
 </wordles>
