@@ -6070,4 +6070,71 @@
 		<try>kanut</try>
 	</wordle>
 
+	<wordle date="2024-05-24" number="867" score="5" word="miljø">
+		<try>odder</try>
+		<try>falsk</try>
+		<try>lupin</try>
+		<try>mysli</try>
+		<try>miljø</try>
+	</wordle>
+
+	<wordle date="2024-05-25" number="868" score="6" word="nyrig">
+		<try>globe</try>
+		<try>tragt</try>
+		<try>ugler</try>
+		<try>rigid</try>
+		<try>fyrig</try>
+		<try>nyrig</try>
+	</wordle>
+
+	<wordle date="2024-05-26" number="869" score="6" word="stunt">
+		<try>trops</try>
+		<try>stævn</try>
+		<try>stand</try>
+		<try>sting</try>
+		<try>styne</try>
+		<try>stunt</try>
+	</wordle>
+
+	<wordle date="2024-05-27" number="870" score="4" word="isbar">
+		<try>poste</try>
+		<try>skala</try>
+		<try>divas</try>
+		<try>isbar</try>
+	</wordle>
+
+	<wordle date="2024-05-28" number="871" score="4" word="svamp">
+		<try>plads</try>
+		<try>spark</try>
+		<try>stamp</try>
+		<try>svamp</try>
+	</wordle>
+
+	<wordle date="2024-05-29" number="872" score="3" word="skrin">
+		<try>start</try>
+		<try>sørge</try>
+		<try>skrin</try>
+	</wordle>
+
+	<wordle date="2024-05-30" number="873" score="4" word="parat">
+		<try>under</try>
+		<try>grams</try>
+		<try>ratio</try>
+		<try>parat</try>
+	</wordle>
+
+	<wordle date="2024-05-31" number="874" score="5" word="baryl">
+		<try>trøst</try>
+		<try>roder</try>
+		<try>æbler</try>
+		<try>gurgl</try>
+		<try>baryl</try>
+	</wordle>
+
+	<wordle date="2024-06-01" number="875" score="3" word="fersk">
+		<try>opera</try>
+		<try>remse</try>
+		<try>fersk</try>
+	</wordle>
+
 </wordles>

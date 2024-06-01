@@ -5895,4 +5895,65 @@
 		<try>swish</try>
 	</wordle>
 
+	<wordle date="2024-05-24" number="1070" score="3" word="glide">
+		<try>young</try>
+		<try>grace</try>
+		<try>glide</try>
+	</wordle>
+
+	<wordle date="2024-05-25" number="1071" score="3" word="titan">
+		<try>cloud</try>
+		<try>treat</try>
+		<try>titan</try>
+	</wordle>
+
+	<wordle date="2024-05-26" number="1072" score="5" word="bevel">
+		<try>power</try>
+		<try>fines</try>
+		<try>maced</try>
+		<try>level</try>
+		<try>bevel</try>
+	</wordle>
+
+	<wordle date="2024-05-27" number="1073" score="5" word="skier">
+		<try>stack</try>
+		<try>skiff</try>
+		<try>skill</try>
+		<try>skimp</try>
+		<try>skier</try>
+	</wordle>
+
+	<wordle date="2024-05-28" number="1074" score="3" word="minus">
+		<try>radio</try>
+		<try>input</try>
+		<try>minus</try>
+	</wordle>
+
+	<wordle date="2024-05-29" number="1075" score="4" word="papal">
+		<try>grace</try>
+		<try>avoid</try>
+		<try>pasty</try>
+		<try>papal</try>
+	</wordle>
+
+	<wordle date="2024-05-30" number="1076" score="3" word="gummy">
+		<try>store</try>
+		<try>laugh</try>
+		<try>gummy</try>
+	</wordle>
+
+	<wordle date="2024-05-31" number="1077" score="5" word="chaos">
+		<try>bland</try>
+		<try>spare</try>
+		<try>chasm</try>
+		<try>chats</try>
+		<try>chaos</try>
+	</wordle>
+
+	<wordle date="2024-06-01" number="1078" score="3" word="basin">
+		<try>rings</try>
+		<try>inset</try>
+		<try>basin</try>
+	</wordle>
+
 </wordles>

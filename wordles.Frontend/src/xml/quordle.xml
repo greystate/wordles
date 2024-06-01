@@ -8480,4 +8480,106 @@
 		<try>mecca</try>
 	</quordle>
 
+	<quordle date="2024-05-24" number="850" scores="5 7 4 0" words="opse stint spire ionoic">
+		<try>spark</try>
+		<try>pound</try>
+		<try>lopes</try>
+		<try>spire</try>
+		<try>copse</try>
+		<try>shine</try>
+		<try>stint</try>
+		<try>tonic</try>
+		<try>monic</try>
+	</quordle>
+
+
+	<quordle date="2024-05-25" number="851" scores="6 4 7 5" words="crest slick ratty spurt">
+		<try>opera</try>
+		<try>fungi</try>
+		<try>racks</try>
+		<try>slick</try>
+		<try>spurt</try>
+		<try>crest</try>
+		<try>ratty</try>
+	</quordle>
+
+	<quordle date="2024-05-26" number="852" scores="6 8 0 7" words="brink alley fence guilt">
+		<try>blown</try>
+		<try>binds</try>
+		<try>bring</try>
+		<try>brine</try>
+		<try>briny</try>
+		<try>brink</try>
+		<try>guilt</try>
+		<try>alley</try>
+		<try>pence</try>
+	</quordle>
+
+	<quordle date="2024-05-27" number="853" scores="5 6 4 7" words="photo lurid purge emcee">
+		<try>truck</try>
+		<try>power</try>
+		<try>sails</try>
+		<try>purge</try>
+		<try>photo</try>
+		<try>lurid</try>
+		<try>emcee</try>
+	</quordle>
+
+	<quordle date="2024-05-28" number="854" scores="0 7 4 6" words="marry dutch brine tacit">
+		<try>music</try>
+		<try>moron</try>
+		<try>cubed</try>
+		<try>brine</try>
+		<try>dunce</try>
+		<try>tacit</try>
+		<try>dutch</try>
+		<try>marly</try>
+		<try>marvy</try>
+	</quordle>
+
+	<quordle date="2024-05-29" number="855" scores="4 5 8 6" words="crumb macro wheel comma">
+		<try>blank</try>
+		<try>cried</try>
+		<try>scrap</try>
+		<try>crumb</try>
+		<try>macro</try>
+		<try>comma</try>
+		<try>jewel</try>
+		<try>wheel</try>
+	</quordle>
+
+	<quordle date="2024-05-30" number="856" scores="7 5 4 8" words="debit hater photo spike">
+		<try>weald</try>
+		<try>poker</try>
+		<try>minty</try>
+		<try>photo</try>
+		<try>hater</try>
+		<try>buffs</try>
+		<try>debit</try>
+		<try>spike</try>
+	</quordle>
+
+	<quordle date="2024-05-31" number="857" scores="4 7 6 8" words="brawn cinch whose guess">
+		<try>flank</try>
+		<try>power</try>
+		<try>brute</try>
+		<try>brawn</try>
+		<try>minos</try>
+		<try>whose</try>
+		<try>cinch</try>
+		<try>guess</try>
+	</quordle>
+
+	<quordle date="2024-06-01" number="858" scores="8 6 7 9" words="dodgy libel lance groin">
+		<try>clash</try>
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>doggy</try>
+		<try>binge</try>
+		<try>libel</try>
+		<try>lance</try>
+		<try>dodgy</try>
+		<try>groin</try>
+	</quordle>
+
 </wordles>
