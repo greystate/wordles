@@ -5956,4 +5956,56 @@
 		<try>basin</try>
 	</wordle>
 
+	<wordle date="2024-06-02" number="1079" score="4" word="bravo">
+		<try>burst</try>
+		<try>brace</try>
+		<try>brand</try>
+		<try>bravo</try>
+	</wordle>
+
+	<wordle date="2024-06-03" number="1080" score="3" word="stark">
+		<try>slant</try>
+		<try>stare</try>
+		<try>stark</try>
+	</wordle>
+
+	<wordle date="2024-06-04" number="1081" score="3" word="groom">
+		<try>place</try>
+		<try>shrub</try>
+		<try>groom</try>
+	</wordle>
+
+	<wordle date="2024-06-05" number="1082" score="3" word="organ">
+		<try>power</try>
+		<try>orbit</try>
+		<try>organ</try>
+	</wordle>
+
+	<wordle date="2024-06-06" number="1083" score="3" word="ether">
+		<try>beaut</try>
+		<try>otter</try>
+		<try>ether</try>
+	</wordle>
+
+	<wordle date="2024-06-07" number="1084" score="6" word="melon">
+		<try>spoke</try>
+		<try>lover</try>
+		<try>cello</try>
+		<try>below</try>
+		<try>felon</try>
+		<try>melon</try>
+	</wordle>
+
+	<wordle date="2024-06-08" number="1085" score="4" word="hence">
+		<try>lower</try>
+		<try>quest</try>
+		<try>heavy</try>
+		<try>hence</try>
+	</wordle>
+
+	<wordle date="2024-06-09" number="1086" score="2" word="crowd">
+		<try>words</try>
+		<try>crowd</try>
+	</wordle>
+
 </wordles>

@@ -6137,4 +6137,56 @@
 		<try>fersk</try>
 	</wordle>
 
+	<wordle date="2024-06-02" number="876" score="4" word="hætte">
+		<try>sagde</try>
+		<try>pirke</try>
+		<try>mætte</try>
+		<try>hætte</try>
+	</wordle>
+
+	<wordle date="2024-06-03" number="877" score="3" word="modem">
+		<try>slapt</try>
+		<try>grund</try>
+		<try>modem</try>
+	</wordle>
+
+	<wordle date="2024-06-04" number="878" score="4" word="tabel">
+		<try>start</try>
+		<try>kabel</try>
+		<try>fabel</try>
+		<try>tabel</try>
+	</wordle>
+
+	<wordle date="2024-06-05" number="879" score="3" word="trane">
+		<try>flask</try>
+		<try>trang</try>
+		<try>trane</try>
+	</wordle>
+
+	<wordle date="2024-06-06" number="880" score="4" word="odder">
+		<try>opera</try>
+		<try>okker</try>
+		<try>ommer</try>
+		<try>odder</try>
+	</wordle>
+
+	<wordle date="2024-06-07" number="881" score="5" word="pesto">
+		<try>skælm</try>
+		<try>udset</try>
+		<try>faste</try>
+		<try>bestå</try>
+		<try>pesto</try>
+	</wordle>
+
+	<wordle date="2024-06-08" number="882" score="2" word="bistå">
+		<try>poste</try>
+		<try>bistå</try>
+	</wordle>
+
+	<wordle date="2024-06-09" number="883" score="3" word="fjong">
+		<try>opera</try>
+		<try>flops</try>
+		<try>fjong</try>
+	</wordle>
+
 </wordles>
