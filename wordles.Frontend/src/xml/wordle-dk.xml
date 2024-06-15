@@ -6189,4 +6189,49 @@
 		<try>fjong</try>
 	</wordle>
 
+	<wordle date="2024-06-10" number="884" score="5" word="kogeø">
+		<try>trone</try>
+		<try>nobel</try>
+		<try>dopes</try>
+		<try>komet</try>
+		<try>kogeø</try>
+	</wordle>
+
+	<wordle date="2024-06-11" number="885" score="4" word="væsel">
+		<try>plask</try>
+		<try>sølle</try>
+		<try>levns</try>
+		<try>væsel</try>
+	</wordle>
+
+	<wordle date="2024-06-12" number="886" score="5" word="tobis">
+		<try>under</try>
+		<try>spagt</try>
+		<try>bistå</try>
+		<try>fobis</try>
+		<try>tobis</try>
+	</wordle>
+
+	<wordle date="2024-06-13" number="887" score="3" word="pirog">
+		<try>opera</try>
+		<try>primo</try>
+		<try>pirog</try>
+	</wordle>
+
+	<wordle date="2024-06-14" number="888" score="4" word="bluff">
+		<try>spade</try>
+		<try>kling</try>
+		<try>flovt</try>
+		<try>bluff</try>
+	</wordle>
+
+	<wordle date="2024-06-15" number="889" score="6" word="flint">
+		<try>typer</try>
+		<try>stald</try>
+		<try>pilot</try>
+		<try>inuit</try>
+		<try>glimt</try>
+		<try>flint</try>
+	</wordle>
+
 </wordles>

@@ -6008,4 +6008,51 @@
 		<try>crowd</try>
 	</wordle>
 
+	<wordle date="2024-06-10" number="1087" score="5" word="manga">
+		<try>frail</try>
+		<try>paste</try>
+		<try>hacky</try>
+		<try>mango</try>
+		<try>manga</try>
+	</wordle>
+
+	<wordle date="2024-06-11" number="1088" score="6" word="swung">
+		<try>packs</try>
+		<try>strum</try>
+		<try>sunny</try>
+		<try>sound</try>
+		<try>slung</try>
+		<try>swung</try>
+	</wordle>
+
+	<wordle date="2024-06-12" number="1089" score="5" word="deter">
+		<try>blown</try>
+		<try>party</try>
+		<try>trick</try>
+		<try>reset</try>
+		<try>deter</try>
+	</wordle>
+
+	<wordle date="2024-06-13" number="1090" score="5" word="angst">
+		<try>trial</try>
+		<try>acted</try>
+		<try>about</try>
+		<try>avast</try>
+		<try>angst</try>
+	</wordle>
+
+	<wordle date="2024-06-14" number="1091" score="5" word="vault">
+		<try>blood</try>
+		<try>large</try>
+		<try>tally</try>
+		<try>fault</try>
+		<try>vault</try>
+	</wordle>
+
+	<wordle date="2024-06-15" number="1092" score="3" word="proud">
+		<try>fangs</try>
+		<try>poker</try>
+		<try>proud</try>
+	</wordle>
+
 </wordles>

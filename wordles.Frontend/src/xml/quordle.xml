@@ -8674,4 +8674,64 @@
 		<try>terra</try>
 	</quordle>
 
+	<quordle date="2024-06-10" number="867" scores="4 0 8 7" words="angst maybe suave plump">
+		<try>bland</try>
+		<try>grace</try>
+		<try>abide</try>
+		<try>angst</try>
+		<try>spake</try>
+		<try>shame</try>
+		<try>plump</try>
+		<try>suave</try>
+		<try>jambe</try>
+	</quordle>
+
+	<quordle date="2024-06-11" number="868" scores="7 6 0 9" words="clank goner liege tiara">
+		<try>flush</try>
+		<try>power</try>
+		<try>amity</try>
+		<try>bland</try>
+		<try>clang</try>
+		<try>goner</try>
+		<try>clank</try>
+		<try>trait</try>
+		<try>tiara</try>
+	</quordle>
+
+	<quordle date="2024-06-12" number="869" scores="7 5 4 6" words="quilt party spark since">
+		<try>lunge</try>
+		<try>rabid</try>
+		<try>stops</try>
+		<try>spark</try>
+		<try>party</try>
+		<try>since</try>
+		<try>quilt</try>
+	</quordle>
+
+	<quordle date="2024-06-13" number="870" scores="5 6 7 8" words="north mound peace retry">
+		<try>hurts</try>
+		<try>worth</try>
+		<try>fever</try>
+		<try>plink</try>
+		<try>north</try>
+		<try>mound</try>
+		<try>peace</try>
+		<try>retry</try>
+	</quordle>
+
+	<!-- Missed #871 -->
+	<quordle date="2024-06-14" number="871" scores="0 0 0 0" words="? ? ? ?" />
+
+	<quordle date="2024-06-15" number="872" scores="5 9 8 7" words="logic sooty wagon bride">
+		<try>young</try>
+		<try>heard</try>
+		<try>spilt</try>
+		<try>softy</try>
+		<try>logic</try>
+		<try>drier</try>
+		<try>bride</try>
+		<try>wagon</try>
+		<try>sooty</try>
+	</quordle>
+
 </wordles>
