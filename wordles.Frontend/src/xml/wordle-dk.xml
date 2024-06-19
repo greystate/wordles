@@ -6234,4 +6234,32 @@
 		<try>flint</try>
 	</wordle>
 
+	<wordle date="2024-06-16" number="890" score="4" word="modus">
+		<try>scene</try>
+		<try>døsig</try>
+		<try>plads</try>
+		<try>modus</try>
+	</wordle>
+
+	<wordle date="2024-06-17" number="891" score="4" word="okapi">
+		<try>træne</try>
+		<try>plads</try>
+		<try>svamp</try>
+		<try>okapi</try>
+	</wordle>
+
+	<wordle date="2024-06-18" number="892" score="3" word="andel">
+		<try>plade</try>
+		<try>daler</try>
+		<try>andel</try>
+	</wordle>
+
+	<wordle date="2024-06-19" number="893" score="5" word="pligt">
+		<try>langt</try>
+		<try>fulgt</try>
+		<try>ilagt</try>
+		<try>sligt</try>
+		<try>pligt</try>
+	</wordle>
+
 </wordles>

@@ -8734,4 +8734,50 @@
 		<try>sooty</try>
 	</quordle>
 
+	<quordle date="2024-06-16" number="873" scores="6 3 7 9" words="urban moist spool belie">
+		<try>crash</try>
+		<try>point</try>
+		<try>moist</try>
+		<try>lunge</try>
+		<try>slops</try>
+		<try>urban</try>
+		<try>spool</try>
+		<try>bible</try>
+		<try>belie</try>
+	</quordle>
+
+	<quordle date="2024-06-17" number="874" scores="7 6 8 5" words="await shady sweet drape">
+		<try>stray</try>
+		<try>savvy</try>
+		<try>frail</try>
+		<try>chain</try>
+		<try>drape</try>
+		<try>shady</try>
+		<try>await</try>
+		<try>sweet</try>
+	</quordle>
+
+	<quordle date="2024-06-18" number="875" scores="7 4 6 8" words="abyss octet beefy pupal">
+		<try>bland</try>
+		<try>power</try>
+		<try>stuck</try>
+		<try>octet</try>
+		<try>beige</try>
+		<try>beefy</try>
+		<try>abyss</try>
+		<try>pupal</try>
+	</quordle>
+
+	<quordle date="2024-06-19" number="876" scores="0 7 6 9" words="cello privy humor paper">
+		<try>blush</try>
+		<try>opera</try>
+		<try>pared</try>
+		<try>minty</try>
+		<try>pricy</try>
+		<try>humor</try>
+		<try>privy</try>
+		<try>pager</try>
+		<try>paper</try>
+	</quordle>
+
 </wordles>

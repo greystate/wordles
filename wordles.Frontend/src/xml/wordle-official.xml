@@ -6055,4 +6055,33 @@
 		<try>proud</try>
 	</wordle>
 
+	<wordle date="2024-06-16" number="1093" score="4" word="grind">
+		<try>slice</try>
+		<try>think</try>
+		<try>bring</try>
+		<try>grind</try>
+	</wordle>
+
+	<wordle date="2024-06-17" number="1094" score="5" word="prior">
+		<try>erase</try>
+		<try>truck</try>
+		<try>brill</try>
+		<try>wring</try>
+		<try>prior</try>
+	</wordle>
+
+	<wordle date="2024-06-18" number="1095" score="5" word="cover">
+		<try>spurt</try>
+		<try>creak</try>
+		<try>cider</try>
+		<try>cover</try>
+	</wordle>
+
+	<wordle date="2024-06-19" number="1096" score="4" word="terse">
+		<try>green</try>
+		<try>reuse</try>
+		<try>verse</try>
+		<try>terse</try>
+	</wordle>
+
 </wordles>
