@@ -6084,4 +6084,51 @@
 		<try>terse</try>
 	</wordle>
 
+	<wordle date="2024-06-20" number="1097" score="4" word="scent">
+		<try>tiles</try>
+		<try>stern</try>
+		<try>spent</try>
+		<try>scent</try>
+	</wordle>
+
+	<wordle date="2024-06-21" number="1098" score="4" word="paint">
+		<try>fifth</try>
+		<try>trips</try>
+		<try>point</try>
+		<try>paint</try>
+	</wordle>
+
+	<wordle date="2024-06-22" number="1099" score="4" word="edict">
+		<try>space</try>
+		<try>erect</try>
+		<try>evict</try>
+		<try>edict</try>
+	</wordle>
+
+	<wordle date="2024-06-23" number="1100" score="4" word="bugle">
+		<try>climb</try>
+		<try>brawl</try>
+		<try>bully</try>
+		<try>bugle</try>
+	</wordle>
+
+	<wordle date="2024-06-24" number="1101" score="3" word="dolly">
+		<try>pride</try>
+		<try>duals</try>
+		<try>dolly</try>
+	</wordle>
+
+	<wordle date="2024-06-25" number="1102" score="3" word="savor">
+		<try>worst</try>
+		<try>scorn</try>
+		<try>savor</try>
+	</wordle>
+
+	<wordle date="2024-06-26" number="1103" score="4" word="knead">
+		<try>stain</try>
+		<try>panda</try>
+		<try>nomad</try>
+		<try>knead</try>
+	</wordle>
+
 </wordles>

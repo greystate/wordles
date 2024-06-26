@@ -8780,4 +8780,73 @@
 		<try>paper</try>
 	</quordle>
 
+	<quordle date="2024-06-20" number="877" scores="0 6 8 5" words="delve bezel mamma azure">
+		<try>speed</try>
+		<try>truth</try>
+		<try>leafy</try>
+		<try>going</try>
+		<try>azure</try>
+		<try>bezel</try>
+		<try>macaw</try>
+		<try>mamma</try>
+		<try>deled</try>
+	</quordle>
+
+	<quordle date="2024-06-21" number="878" scores="8 4 6 5" words="index clued orbit loser">
+		<try>magic</try>
+		<try>power</try>
+		<try>buoys</try>
+		<try>clued</try>
+		<try>loser</try>
+		<try>orbit</try>
+		<try>dizen</try>
+		<try>index</try>
+	</quordle>
+
+	<quordle date="2024-06-22" number="879" scores="5 4 8 7" words="groin stove shrub harsh">
+		<try>spade</try>
+		<try>shine</try>
+		<try>ousts</try>
+		<try>stove</try>
+		<try>groin</try>
+		<try>crash</try>
+		<try>harsh</try>
+		<try>shrub</try>
+	</quordle>
+
+	<!-- Missed #880 -->
+	<quordle date="2024-06-23" number="880" scores="0 0 0 0" words="? ? ? ?" />
+
+	<quordle date="2024-06-24" number="881" scores="4 6 7 8" words="anger silky hurry anode">
+		<try>blush</try>
+		<try>power</try>
+		<try>unity</try>
+		<try>anger</try>
+		<try>silly</try>
+		<try>silky</try>
+		<try>hurry</try>
+		<try>anode</try>
+	</quordle>
+
+	<quordle date="2024-06-25" number="882" scores="7 6 5 4" words="apply funky swore tweak">
+		<try>freak</try>
+		<try>optic</try>
+		<try>steak</try>
+		<try>tweak</try>
+		<try>swore</try>
+		<try>funky</try>
+		<try>apply</try>
+	</quordle>
+
+	<quordle date="2024-06-26" number="883" scores="4 7 6 8" words="north lever serum slate">
+		<try>queen</try>
+		<try>proof</try>
+		<try>minty</try>
+		<try>north</try>
+		<try>mares</try>
+		<try>serum</try>
+		<try>lever</try>
+		<try>slate</try>
+	</quordle>
+
 </wordles>

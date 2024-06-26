@@ -6262,4 +6262,49 @@
 		<try>pligt</try>
 	</wordle>
 
+	<wordle date="2024-06-20" number="894" score="4" word="scent">
+		<try>tiles</try>
+		<try>stern</try>
+		<try>spent</try>
+		<try>scent</try>
+	</wordle>
+
+	<wordle date="2024-06-21" number="895" score="4" word="flæsk">
+		<try>pejle</try>
+		<try>lyrik</try>
+		<try>slank</try>
+		<try>flæsk</try>
+	</wordle>
+
+	<wordle date="2024-06-22" number="896" score="4" word="modul">
+		<try>opera</try>
+		<try>bolig</try>
+		<try>lotto</try>
+		<try>modul</try>
+	</wordle>
+
+	<!-- Missed #897 -->
+	<wordle date="2024-06-23" number="897" score="0" word="?" />
+
+	<wordle date="2024-06-24" number="898" score="3" word="baron">
+		<try>bland</try>
+		<try>banke</try>
+		<try>baron</try>
+	</wordle>
+
+	<wordle date="2024-06-25" number="899" score="4" word="stund">
+		<try>plant</try>
+		<try>torne</try>
+		<try>sting</try>
+		<try>stund</try>
+	</wordle>
+
+	<wordle date="2024-06-26" number="900" score="5" word="ratio">
+		<try>poker</try>
+		<try>oralt</try>
+		<try>stram</try>
+		<try>tarok</try>
+		<try>ratio</try>
+	</wordle>
+
 </wordles>
