@@ -1,0 +1,2639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordles xml:lang="da" xmlns="http://xmlns.greystate.dk/2022/wordles">
+
+	<wordle date="2023-01-01" number="358" score="4" word="solur">
+		<try>nytår</try>
+		<try>poder</try>
+		<try>sonar</try>
+		<try>solur</try>
+	</wordle>
+
+	<wordle date="2023-01-02" number="359" score="4" word="tobak">
+		<try>kaffe</try>
+		<try>skakt</try>
+		<try>antik</try>
+		<try>tobak</try>
+	</wordle>
+
+	<wordle date="2023-01-03" number="360" score="4" word="undgå">
+		<try>agent</try>
+		<try>ingen</try>
+		<try>snoge</try>
+		<try>undgå</try>
+	</wordle>
+
+	<wordle date="2023-01-04" number="361" score="3" word="virus">
+		<try>boble</try>
+		<try>advar</try>
+		<try>virus</try>
+	</wordle>
+
+	<wordle date="2023-01-05" number="362" score="3" word="robåd">
+		<try>drone</try>
+		<try>fordi</try>
+		<try>robåd</try>
+	</wordle>
+
+	<wordle date="2023-01-06" number="363" score="6" word="puppe">
+		<try>skovl</try>
+		<try>redde</try>
+		<try>hætte</try>
+		<try>yngre</try>
+		<try>fuppe</try>
+		<try>puppe</try>
+	</wordle>
+
+	<wordle date="2023-01-07" number="364" score="4" word="slips">
+		<try>udtag</try>
+		<try>bevis</try>
+		<try>silos</try>
+		<try>slips</try>
+	</wordle>
+
+	<wordle date="2023-01-08" number="365" score="4" word="stald">
+		<try>opera</try>
+		<try>alias</try>
+		<try>salut</try>
+		<try>stald</try>
+	</wordle>
+
+	<wordle date="2023-01-09" number="366" score="3" word="toast">
+		<try>huske</try>
+		<try>start</try>
+		<try>toast</try>
+	</wordle>
+
+	<wordle date="2023-01-10" number="367" score="4" word="ungmø">
+		<try>plant</try>
+		<try>endog</try>
+		<try>knægt</try>
+		<try>ungmø</try>
+	</wordle>
+
+	<wordle date="2023-01-11" number="368" score="3" word="visir">
+		<try>opera</try>
+		<try>frist</try>
+		<try>visir</try>
+	</wordle>
+
+	<wordle date="2023-01-12" number="369" score="5" word="rodeo">
+		<try>bilen</try>
+		<try>streg</try>
+		<try>møder</try>
+		<try>kadet</try>
+		<try>rodeo</try>
+	</wordle>
+
+	<wordle date="2023-01-13" number="370" score="5" word="royal">
+		<try>human</try>
+		<try>skrap</try>
+		<try>aftag</try>
+		<try>rival</try>
+		<try>royal</try>
+	</wordle>
+
+	<wordle date="2023-01-14" number="371" score="3" word="slægt">
+		<try>alter</try>
+		<try>ulæst</try>
+		<try>slægt</try>
+	</wordle>
+
+	<wordle date="2023-01-15" number="372" score="5" word="stang">
+		<try>spire</try>
+		<try>skabt</try>
+		<try>stads</try>
+		<try>stavn</try>
+		<try>stang</try>
+	</wordle>
+
+	<wordle date="2023-01-16" number="373" score="3" word="tonal">
+		<try>dukat</try>
+		<try>altan</try>
+		<try>tonal</try>
+	</wordle>
+
+	<wordle date="2023-01-17" number="374" score="4" word="union">
+		<try>blade</try>
+		<try>græsk</try>
+		<try>futon</try>
+		<try>union</try>
+	</wordle>
+
+	<wordle date="2023-01-18" number="375" score="4" word="visit">
+		<try>laves</try>
+		<try>svært</try>
+		<try>vidst</try>
+		<try>visit</try>
+	</wordle>
+
+	<wordle date="2023-01-19" number="376" score="3" word="roman">
+		<try>skarp</try>
+		<try>ramme</try>
+		<try>roman</try>
+	</wordle>
+
+	<wordle date="2023-01-20" number="377" score="5" word="safir">
+		<try>blank</try>
+		<try>astma</try>
+		<try>salær</try>
+		<try>saver</try>
+		<try>safir</try>
+	</wordle>
+
+	<wordle date="2023-01-21" number="378" score="4" word="sløjt">
+		<try>bevis</try>
+		<try>skarp</try>
+		<try>spøgt</try>
+		<try>sløjt</try>
+	</wordle>
+
+	<wordle date="2023-01-22" number="379" score="5" word="stork">
+		<try>brænd</try>
+		<try>revir</try>
+		<try>sorts</try>
+		<try>stort</try>
+		<try>stork</try>
+	</wordle>
+
+	<wordle date="2023-01-23" number="380" score="3" word="torso">
+		<try>danse</try>
+		<try>trist</try>
+		<try>torso</try>
+	</wordle>
+
+	<wordle date="2023-01-24" number="381" score="5" word="unåde">
+		<try>virak</try>
+		<try>heste</try>
+		<try>gumle</try>
+		<try>unode</try>
+		<try>unåde</try>
+	</wordle>
+
+	<wordle date="2023-01-25" number="382" score="3" word="visum">
+		<try>smadr</try>
+		<try>meste</try>
+		<try>visum</try>
+	</wordle>
+
+	<wordle date="2023-01-26" number="383" score="6" word="rombe">
+		<try>plads</try>
+		<try>revir</try>
+		<try>rynke</try>
+		<try>rotte</try>
+		<try>rouge</try>
+		<try>rombe</try>
+	</wordle>
+
+	<wordle date="2023-01-27" number="384" score="6" word="skala">
+		<try>barsk</try>
+		<try>skade</try>
+		<try>skalp</try>
+		<try>skalk</try>
+		<try>skals</try>
+		<try>skala</try>
+	</wordle>
+
+	<wordle date="2023-01-28" number="385" score="4" word="smuds">
+		<try>trevl</try>
+		<try>dansk</try>
+		<try>smidt</try>
+		<try>smuds</try>
+	</wordle>
+
+	<wordle date="2023-01-29" number="386" score="4" word="stout">
+		<try>brand</try>
+		<try>suppe</try>
+		<try>slugt</try>
+		<try>stout</try>
+	</wordle>
+
+	<wordle date="2023-01-30" number="387" score="6" word="tryne">
+		<try>spore</try>
+		<try>raske</try>
+		<try>bruge</try>
+		<try>fråde</try>
+		<try>træne</try>
+		<try>tryne</try>
+	</wordle>
+
+	<wordle date="2023-01-31" number="388" score="4" word="salon">
+		<try>blæse</try>
+		<try>skalp</try>
+		<try>salut</try>
+		<try>salon</try>
+	</wordle>
+
+	<wordle date="2023-02-01" number="389" score="4" word="navle">
+		<try>spild</try>
+		<try>mægle</try>
+		<try>tøjle</try>
+		<try>navle</try>
+	</wordle>
+
+	<wordle date="2023-02-02" number="390" score="5" word="vodka">
+		<try>brage</try>
+		<try>salat</try>
+		<try>afkom</try>
+		<try>komma</try>
+		<try>vodka</try>
+	</wordle>
+
+	<wordle date="2023-02-03" number="391" score="6" word="radio">
+		<try>plask</try>
+		<try>antal</try>
+		<try>farve</try>
+		<try>bager</try>
+		<try>madro</try>
+		<try>radio</try>
+	</wordle>
+
+	<wordle date="2023-02-04" number="392" score="4" word="skrog">
+		<try>pelse</try>
+		<try>sport</try>
+		<try>sonar</try>
+		<try>skrog</try>
+	</wordle>
+
+	<wordle date="2023-02-05" number="393" score="5" word="pulje">
+		<try>spade</try>
+		<try>potte</try>
+		<try>pible</try>
+		<try>pleje</try>
+		<try>pulje</try>
+	</wordle>
+
+	<wordle date="2023-02-06" number="394" score="3" word="kloak">
+		<try>alder</try>
+		<try>plask</try>
+		<try>kloak</try>
+	</wordle>
+
+	<wordle date="2023-02-07" number="395" score="5" word="stram">
+		<try>skole</try>
+		<try>spørg</try>
+		<try>strip</try>
+		<try>straf</try>
+		<try>stram</try>
+	</wordle>
+
+	<wordle date="2023-02-08" number="396" score="5" word="trævl">
+		<try>fares</try>
+		<try>trind</try>
+		<try>trykt</try>
+		<try>trægt</try>
+		<try>trævl</try>
+	</wordle>
+
+	<wordle date="2023-02-09" number="397" score="6" word="fløjl">
+		<try>scene</try>
+		<try>polka</try>
+		<try>trævl</try>
+		<try>udhul</try>
+		<try>jubel</try>
+		<try>fløjl</try>
+	</wordle>
+
+	<wordle date="2023-02-10" number="398" score="5" word="rugby">
+		<try>ferie</try>
+		<try>optur</try>
+		<try>brusk</try>
+		<try>urban</try>
+		<try>rugby</try>
+	</wordle>
+
+	<wordle date="2023-02-11" number="399" score="3" word="skvat">
+		<try>spejl</try>
+		<try>skrab</try>
+		<try>skvat</try>
+	</wordle>
+
+	<wordle date="2023-02-12" number="400" score="3" word="snage">
+		<try>tanke</try>
+		<try>svane</try>
+		<try>snage</try>
+	</wordle>
+
+	<wordle date="2023-02-13" number="401" score="4" word="sulfo">
+		<try>dansk</try>
+		<try>spørg</try>
+		<try>sjuft</try>
+		<try>sulfo</try>
+	</wordle>
+
+	<wordle date="2023-02-14" number="402" score="5" word="trøst">
+		<try>blank</try>
+		<try>udset</try>
+		<try>blæst</try>
+		<try>frist</try>
+		<try>trøst</try>
+	</wordle>
+
+	<wordle date="2023-02-15" number="403" score="4" word="varig">
+		<try>smalt</try>
+		<try>daner</try>
+		<try>paryk</try>
+		<try>varig</try>
+	</wordle>
+
+	<wordle date="2023-02-16" number="404" score="5" word="valid">
+		<try>spore</try>
+		<try>minut</try>
+		<try>blidt</try>
+		<try>lydig</try>
+		<try>valid</try>
+	</wordle>
+
+	<wordle date="2023-02-17" number="405" score="3" word="suppe">
+		<try>træer</try>
+		<try>spade</try>
+		<try>suppe</try>
+	</wordle>
+
+	<wordle date="2023-02-18" number="406" score="5" word="svæve">
+		<try>opera</try>
+		<try>hunde</try>
+		<try>stile</try>
+		<try>skæve</try>
+		<try>svæve</try>
+	</wordle>
+
+	<wordle date="2023-02-19" number="407" score="4" word="sæson">
+		<try>tryne</try>
+		<try>langs</try>
+		<try>snusk</try>
+		<try>sæson</try>
+	</wordle>
+
+	<wordle date="2023-02-20" number="408" score="4" word="tumor">
+		<try>frist</try>
+		<try>rygte</try>
+		<try>tuner</try>
+		<try>tumor</try>
+	</wordle>
+
+	<wordle date="2023-02-21" number="409" score="6" word="vinyl">
+		<try>tiger</try>
+		<try>citat</try>
+		<try>bingo</try>
+		<try>finsk</try>
+		<try>hindu</try>
+		<try>vinyl</try>
+	</wordle>
+
+	<wordle date="2023-02-22" number="410" score="5" word="sushi">
+		<try>point</try>
+		<try>limer</try>
+		<try>istid</try>
+		<try>afasi</try>
+		<try>sushi</try>
+	</wordle>
+
+	<wordle date="2023-02-23" number="411" score="5" word="sauna">
+		<try>skåle</try>
+		<try>spørg</try>
+		<try>stads</try>
+		<try>samba</try>
+		<try>sauna</try>
+	</wordle>
+
+	<wordle date="2023-02-24" number="412" score="5" word="facit">
+		<try>trave</try>
+		<try>atlas</try>
+		<try>bandt</try>
+		<try>kaput</try>
+		<try>facit</try>
+	</wordle>
+
+	<wordle date="2023-02-25" number="413" score="5" word="kvark">
+		<try>præst</try>
+		<try>runde</try>
+		<try>forbi</try>
+		<try>alarm</try>
+		<try>kvark</try>
+	</wordle>
+
+	<wordle date="2023-02-26" number="414" score="2" word="minus">
+		<try>gebis</try>
+		<try>minus</try>
+	</wordle>
+
+	<wordle date="2023-02-27" number="415" score="6" word="søsat">
+		<try>drink</try>
+		<try>plast</try>
+		<try>afsat</try>
+		<try>besat</try>
+		<try>omsat</try>
+		<try>søsat</try>
+	</wordle>
+
+	<wordle date="2023-02-28" number="416" score="3" word="krone">
+		<try>streg</try>
+		<try>moder</try>
+		<try>krone</try>
+	</wordle>
+
+	<wordle date="2023-03-01" number="417" score="4" word="emsig">
+		<try>slarp</try>
+		<try>udset</try>
+		<try>visne</try>
+		<try>emsig</try>
+	</wordle>
+
+	<wordle date="2023-03-02" number="418" score="4" word="kanin">
+		<try>opera</try>
+		<try>skalp</try>
+		<try>panik</try>
+		<try>kanin</try>
+	</wordle>
+
+	<wordle date="2023-03-03" number="419" score="4" word="mødom">
+		<try>trave</try>
+		<try>spild</try>
+		<try>dæmon</try>
+		<try>mødom</try>
+	</wordle>
+
+	<wordle date="2023-03-04" number="420" score="4" word="bølge">
+		<try>lager</try>
+		<try>glæde</try>
+		<try>følge</try>
+		<try>bølge</try>
+	</wordle>
+
+	<wordle date="2023-03-05" number="421" score="6" word="smurt">
+		<try>ugift</try>
+		<try>kaput</try>
+		<try>stumt</try>
+		<try>smukt</try>
+		<try>smult</try>
+		<try>smurt</try>
+	</wordle>
+
+	<wordle date="2023-03-06" number="422" score="3" word="prosa">
+		<try>brage</try>
+		<try>aroma</try>
+		<try>prosa</try>
+	</wordle>
+
+	<wordle date="2023-03-07" number="423" score="4" word="drama">
+		<try>krone</try>
+		<try>arisk</try>
+		<try>fragt</try>
+		<try>drama</try>
+	</wordle>
+
+	<wordle date="2023-03-08" number="424" score="4" word="fjord">
+		<try>marts</try>
+		<try>revir</try>
+		<try>orlov</try>
+		<try>fjord</try>
+	</wordle>
+
+	<wordle date="2023-03-09" number="425" score="4" word="grisk">
+		<try>skole</try>
+		<try>brysk</try>
+		<try>frisk</try>
+		<try>grisk</try>
+	</wordle>
+
+	<wordle date="2023-03-10" number="426" score="3" word="koala">
+		<try>polsk</try>
+		<try>lokke</try>
+		<try>koala</try>
+	</wordle>
+
+	<wordle date="2023-03-11" number="427" score="5" word="nasal">
+		<try>flyve</try>
+		<try>udlæg</try>
+		<try>skrål</try>
+		<try>basal</try>
+		<try>nasal</try>
+	</wordle>
+
+	<wordle date="2023-03-12" number="428" score="4" word="psyke">
+		<try>joker</try>
+		<try>kampe</try>
+		<try>påske</try>
+		<try>psyke</try>
+	</wordle>
+
+	<wordle date="2023-03-13" number="429" score="4" word="krimi">
+		<try>under</try>
+		<try>strøm</try>
+		<try>aroma</try>
+		<try>krimi</try>
+	</wordle>
+
+	<wordle date="2023-03-14" number="430" score="5" word="judas">
+		<try>kugle</try>
+		<try>musik</try>
+		<try>sutur</try>
+		<try>hunds</try>
+		<try>judas</try>
+	</wordle>
+
+	<wordle date="2023-03-15" number="431" score="5" word="hyæne">
+		<try>plast</try>
+		<try>medie</try>
+		<try>konge</try>
+		<try>hævne</try>
+		<try>hyæne</try>
+	</wordle>
+
+	<wordle date="2023-03-16" number="432" score="4" word="adler">
+		<try>penge</try>
+		<try>flest</try>
+		<try>daler</try>
+		<try>adler</try>
+	</wordle>
+
+	<wordle date="2023-03-17" number="433" score="3" word="adles">
+		<try>stand</try>
+		<try>daser</try>
+		<try>adles</try>
+	</wordle>
+
+	<wordle date="2023-03-18" number="434" score="6" word="adled">
+		<try>blank</try>
+		<try>larme</try>
+		<try>pedal</try>
+		<try>adlet</try>
+		<try>adles</try>
+		<try>adled</try>
+	</wordle>
+
+	<wordle date="2023-03-19" number="435" score="4" word="øvrig">
+		<try>adlet</try>
+		<try>frisk</try>
+		<try>nærig</try>
+		<try>øvrig</try>
+	</wordle>
+
+	<wordle date="2023-03-20" number="436" score="6" word="vrøvl">
+		<try>huske</try>
+		<try>front</try>
+		<try>prygl</try>
+		<try>crawl</try>
+		<try>vriml</try>
+		<try>vrøvl</try>
+	</wordle>
+
+	<wordle date="2023-03-21" number="437" score="4" word="serum">
+		<try>tørst</try>
+		<try>vores</try>
+		<try>skrue</try>
+		<try>serum</try>
+	</wordle>
+
+	<wordle date="2023-03-22" number="438" score="3" word="melon">
+		<try>skole</try>
+		<try>onkel</try>
+		<try>melon</try>
+	</wordle>
+
+	<wordle date="2023-03-23" number="439" score="6" word="koøje">
+		<try>skole</try>
+		<try>konge</try>
+		<try>korte</try>
+		<try>komme</try>
+		<try>kokke</try>
+		<try>koøje</try>
+	</wordle>
+
+	<wordle date="2023-03-24" number="440" score="5" word="islæt">
+		<try>bacon</try>
+		<try>rense</try>
+		<try>stilk</try>
+		<try>blitz</try>
+		<try>islæt</try>
+	</wordle>
+
+	<wordle date="2023-03-25" number="441" score="6" word="ferie">
+		<try>møder</try>
+		<try>skare</try>
+		<try>rulle</try>
+		<try>grove</try>
+		<try>tærte</try>
+		<try>ferie</try>
+	</wordle>
+
+	<wordle date="2023-03-26" number="442" score="3" word="vrede">
+		<try>bevis</try>
+		<try>evner</try>
+		<try>vrede</try>
+	</wordle>
+
+	<wordle date="2023-03-27" number="443" score="4" word="uklar">
+		<try>stork</try>
+		<try>kravl</try>
+		<try>rakle</try>
+		<try>uklar</try>
+	</wordle>
+
+	<wordle date="2023-03-28" number="444" score="4" word="satin">
+		<try>linse</try>
+		<try>snild</try>
+		<try>skrin</try>
+		<try>satin</try>
+	</wordle>
+
+	<wordle date="2023-03-29" number="445" score="5" word="magma">
+		<try>drone</try>
+		<try>grøft</try>
+		<try>plags</try>
+		<try>afgiv</try>
+		<try>magma</try>
+	</wordle>
+
+	<wordle date="2023-03-30" number="446" score="4" word="kogle">
+		<try>kvast</try>
+		<try>kuber</try>
+		<try>konge</try>
+		<try>kogle</try>
+	</wordle>
+
+	<wordle date="2023-03-31" number="447" score="4" word="isbod">
+		<try>krans</try>
+		<try>sovet</try>
+		<try>disko</try>
+		<try>isbod</try>
+	</wordle>
+
+	<wordle date="2023-04-01" number="448" score="5" word="døsig">
+		<try>poste</try>
+		<try>anslå</try>
+		<try>visum</try>
+		<try>issyl</try>
+		<try>døsig</try>
+	</wordle>
+
+	<wordle date="2023-04-02" number="449" score="4" word="bingo">
+		<try>opera</try>
+		<try>stænk</try>
+		<try>bison</try>
+		<try>bingo</try>
+	</wordle>
+
+	<wordle date="2023-04-03" number="450" score="4" word="dildo">
+		<try>fiske</try>
+		<try>divan</try>
+		<try>ditto</try>
+		<try>dildo</try>
+	</wordle>
+
+	<wordle date="2023-04-04" number="451" score="5" word="vugge">
+		<try>plask</try>
+		<try>rydde</try>
+		<try>hofte</try>
+		<try>mugne</try>
+		<try>vugge</try>
+	</wordle>
+
+	<wordle date="2023-04-05" number="452" score="5" word="tælle">
+		<try>blade</try>
+		<try>rulle</try>
+		<try>mølle</try>
+		<try>pille</try>
+		<try>tælle</try>
+	</wordle>
+
+	<wordle date="2023-04-06" number="453" score="6" word="komik">
+		<try>opera</try>
+		<try>trods</try>
+		<try>mango</try>
+		<try>ombud</try>
+		<try>komma</try>
+		<try>komik</try>
+	</wordle>
+
+	<wordle date="2023-04-07" number="454" score="6" word="salig">
+		<try>stavn</try>
+		<try>samle</try>
+		<try>salær</try>
+		<try>saldo</try>
+		<try>salsa</try>
+		<try>salig</try>
+	</wordle>
+
+	<wordle date="2023-04-08" number="455" score="4" word="basun">
+		<try>drink</try>
+		<try>navle</try>
+		<try>kanon</try>
+		<try>basun</try>
+	</wordle>
+
+	<wordle date="2023-04-09" number="456" score="4" word="lysår">
+		<try>opera</try>
+		<try>favør</try>
+		<try>udgår</try>
+		<try>lysår</try>
+	</wordle>
+
+	<wordle date="2023-04-10" number="457" score="3" word="knold">
+		<try>plast</try>
+		<try>lider</try>
+		<try>knold</try>
+	</wordle>
+
+	<wordle date="2023-04-11" number="458" score="5" word="intro">
+		<try>spand</try>
+		<try>nedre</try>
+		<try>bjørn</try>
+		<try>knirk</try>
+		<try>intro</try>
+	</wordle>
+
+	<wordle date="2023-04-12" number="459" score="5" word="dæmon">
+		<try>opera</try>
+		<try>tolks</try>
+		<try>udtog</try>
+		<try>mødom</try>
+		<try>dæmon</try>
+	</wordle>
+
+	<wordle date="2023-04-13" number="460" score="4" word="vemod">
+		<try>store</try>
+		<try>poden</try>
+		<try>omend</try>
+		<try>vemod</try>
+	</wordle>
+
+	<wordle date="2023-04-14" number="461" score="4" word="tænde">
+		<try>tragt</try>
+		<try>tømme</try>
+		<try>tudse</try>
+		<try>tænde</try>
+	</wordle>
+
+	<wordle date="2023-04-15" number="462" score="5" word="kolbe">
+		<try>spade</try>
+		<try>træne</try>
+		<try>kjole</try>
+		<try>kloge</try>
+		<try>kolbe</try>
+	</wordle>
+
+	<wordle date="2023-04-16" number="463" score="4" word="salut">
+		<try>kanel</try>
+		<try>salto</try>
+		<try>salat</try>
+		<try>salut</try>
+	</wordle>
+
+	<wordle date="2023-04-17" number="464" score="3" word="lokum">
+		<try>opera</try>
+		<try>konti</try>
+		<try>lokum</try>
+	</wordle>
+
+	<wordle date="2023-04-18" number="465" score="5" word="kløft">
+		<try>torso</try>
+		<try>stank</try>
+		<try>kutte</try>
+		<try>kahyt</try>
+		<try>kløft</try>
+	</wordle>
+
+	<wordle date="2023-04-19" number="466" score="4" word="husly">
+		<try>opera</try>
+		<try>studs</try>
+		<try>luske</try>
+		<try>husly</try>
+	</wordle>
+
+	<wordle date="2023-04-20" number="467" score="3" word="dvale">
+		<try>skidt</try>
+		<try>drage</try>
+		<try>dvale</try>
+	</wordle>
+
+	<wordle date="2023-04-21" number="468" score="4" word="altan">
+		<try>gjort</try>
+		<try>taske</try>
+		<try>altid</try>
+		<try>altan</try>
+	</wordle>
+
+	<wordle date="2023-04-22" number="469" score="5" word="torsk">
+		<try>opera</try>
+		<try>rolig</try>
+		<try>formå</try>
+		<try>torso</try>
+		<try>torsk</try>
+	</wordle>
+
+	<wordle date="2023-04-23" number="470" score="5" word="støbe">
+		<try>skarp</try>
+		<try>solen</try>
+		<try>stime</try>
+		<try>støde</try>
+		<try>støbe</try>
+	</wordle>
+
+	<wordle date="2023-04-24" number="471" score="5" word="råkid">
+		<try>trofæ</try>
+		<try>ringe</try>
+		<try>røsti</try>
+		<try>rådig</try>
+		<try>råkid</try>
+	</wordle>
+
+	<wordle date="2023-04-25" number="472" score="3" word="motto">
+		<try>faste</try>
+		<try>konto</try>
+		<try>motto</try>
+	</wordle>
+
+	<wordle date="2023-04-26" number="473" score="3" word="ledig">
+		<try>frost</try>
+		<try>andel</try>
+		<try>ledig</try>
+	</wordle>
+
+	<wordle date="2023-04-27" number="474" score="3" word="knage">
+		<try>under</try>
+		<try>snegl</try>
+		<try>knage</try>
+	</wordle>
+
+	<wordle date="2023-04-28" number="475" score="6" word="humus">
+		<try>vidst</try>
+		<try>sørge</try>
+		<try>anslå</try>
+		<try>kokos</try>
+		<try>bybus</try>
+		<try>humus</try>
+	</wordle>
+
+	<wordle date="2023-04-29" number="476" score="5" word="dusør">
+		<try>lejre</try>
+		<try>ravns</try>
+		<try>sprog</try>
+		<try>træsk</try>
+		<try>dusør</try>
+	</wordle>
+
+	<wordle date="2023-04-30" number="477" score="3" word="latin">
+		<try>opera</try>
+		<try>sandt</try>
+		<try>latin</try>
+	</wordle>
+
+	<wordle date="2023-05-01" number="478" score="4" word="tatar">
+		<try>larme</try>
+		<try>rankt</try>
+		<try>tapir</try>
+		<try>tatar</try>
+	</wordle>
+
+	<wordle date="2023-05-02" number="479" score="3" word="solgt">
+		<try>opera</try>
+		<try>tolks</try>
+		<try>solgt</try>
+	</wordle>
+
+	<wordle date="2023-05-03" number="480" score="5" word="røræg">
+		<try>sekst</try>
+		<try>alpin</try>
+		<try>mødre</try>
+		<try>bøger</try>
+		<try>røræg</try>
+	</wordle>
+
+	<wordle date="2023-05-04" number="481" score="5" word="lager">
+		<try>stævn</try>
+		<try>opera</try>
+		<try>larme</try>
+		<try>lader</try>
+		<try>lager</try>
+	</wordle>
+
+	<wordle date="2023-05-05" number="482" score="5" word="klovn">
+		<try>musik</try>
+		<try>kahyt</try>
+		<try>kører</try>
+		<try>knold</try>
+		<try>klovn</try>
+	</wordle>
+
+	<wordle date="2023-05-06" number="483" score="4" word="hulke">
+		<try>opera</try>
+		<try>elske</try>
+		<try>kælke</try>
+		<try>hulke</try>
+	</wordle>
+
+	<wordle date="2023-05-07" number="484" score="5" word="dulme">
+		<try>opera</try>
+		<try>dyste</try>
+		<try>dænge</try>
+		<try>dømme</try>
+		<try>dulme</try>
+	</wordle>
+
+	<wordle date="2023-05-08" number="485" score="4" word="tarif">
+		<try>plade</try>
+		<try>antik</try>
+		<try>facit</try>
+		<try>tarif</try>
+	</wordle>
+
+	<wordle date="2023-05-09" number="486" score="4" word="smask">
+		<try>trave</try>
+		<try>skalp</try>
+		<try>snask</try>
+		<try>smask</try>
+	</wordle>
+
+	<wordle date="2023-05-10" number="487" score="5" word="ræson">
+		<try>opera</try>
+		<try>torsk</try>
+		<try>brods</try>
+		<try>lysår</try>
+		<try>ræson</try>
+	</wordle>
+
+	<wordle date="2023-05-11" number="488" score="6" word="kølig">
+		<try>blive</try>
+		<try>latin</try>
+		<try>splid</try>
+		<try>rolig</try>
+		<try>mulig</try>
+		<try>kølig</try>
+	</wordle>
+
+	<wordle date="2023-05-12" number="489" score="4" word="kebab">
+		<try>lader</try>
+		<try>agent</try>
+		<try>temas</try>
+		<try>kebab</try>
+	</wordle>
+
+	<wordle date="2023-05-13" number="490" score="4" word="helse">
+		<try>stole</try>
+		<try>læske</try>
+		<try>halse</try>
+		<try>helse</try>
+	</wordle>
+
+	<wordle date="2023-05-14" number="491" score="4" word="konto">
+		<try>buste</try>
+		<try>fakta</try>
+		<try>klits</try>
+		<try>konto</try>
+	</wordle>
+
+	<wordle date="2023-05-15" number="492" score="5" word="dufte">
+		<try>stole</try>
+		<try>trave</try>
+		<try>nytte</try>
+		<try>digte</try>
+		<try>dufte</try>
+	</wordle>
+
+	<wordle date="2023-05-16" number="493" score="5" word="tante">
+		<try>skrab</try>
+		<try>bande</try>
+		<try>vante</try>
+		<try>pante</try>
+		<try>tante</try>
+	</wordle>
+
+	<wordle date="2023-05-17" number="494" score="6" word="motiv">
+		<try>spark</try>
+		<try>bombe</try>
+		<try>forum</try>
+		<try>modne</try>
+		<try>motto</try>
+		<try>motiv</try>
+	</wordle>
+
+	<wordle date="2023-05-18" number="495" score="4" word="skrig">
+		<try>splat</try>
+		<try>serie</try>
+		<try>skrin</try>
+		<try>skrig</try>
+	</wordle>
+
+	<wordle date="2023-05-19" number="496" score="4" word="rival">
+		<try>foder</try>
+		<try>nyrig</try>
+		<try>røsti</try>
+		<try>rival</try>
+	</wordle>
+
+	<wordle date="2023-05-20" number="497" score="4" word="kæmpe">
+		<try>opera</try>
+		<try>pedel</try>
+		<try>suppe</try>
+		<try>kæmpe</try>
+	</wordle>
+
+	<wordle date="2023-05-21" number="498" score="4" word="paryk">
+		<try>sjovt</try>
+		<try>flade</try>
+		<try>panik</try>
+		<try>paryk</try>
+	</wordle>
+
+	<wordle date="2023-05-22" number="499" score="3" word="karma">
+		<try>smart</try>
+		<try>ramle</try>
+		<try>karma</try>
+	</wordle>
+
+	<wordle date="2023-05-23" number="500" score="4" word="gåtur">
+		<try>udsat</try>
+		<try>tunge</try>
+		<try>utryg</try>
+		<try>gåtur</try>
+	</wordle>
+
+	<wordle date="2023-05-24" number="501" score="4" word="dråbe">
+		<try>dreng</try>
+		<try>drive</try>
+		<try>dræbe</try>
+		<try>dråbe</try>
+	</wordle>
+
+	<wordle date="2023-05-25" number="502" score="3" word="tango">
+		<try>tyven</try>
+		<try>tonal</try>
+		<try>tango</try>
+	</wordle>
+
+	<wordle date="2023-05-26" number="503" score="3" word="skrub">
+		<try>bolde</try>
+		<try>skabt</try>
+		<try>skrub</try>
+	</wordle>
+
+	<wordle date="2023-05-27" number="504" score="3" word="robot">
+		<try>ringe</try>
+		<try>raskt</try>
+		<try>robot</try>
+	</wordle>
+
+	<wordle date="2023-05-28" number="505" score="5" word="kupon">
+		<try>kaffe</try>
+		<try>krogs</try>
+		<try>konto</try>
+		<try>kujon</try>
+		<try>kupon</try>
+	</wordle>
+
+	<wordle date="2023-05-29" number="506" score="4" word="penis">
+		<try>bamse</try>
+		<try>desto</try>
+		<try>bevis</try>
+		<try>penis</try>
+	</wordle>
+
+	<wordle date="2023-05-30" number="507" score="4" word="kanel">
+		<try>klogt</try>
+		<try>kilde</try>
+		<try>kabel</try>
+		<try>kanel</try>
+	</wordle>
+
+	<wordle date="2023-05-31" number="508" score="5" word="grine">
+		<try>afsæt</try>
+		<try>bedre</try>
+		<try>runge</try>
+		<try>gerne</try>
+		<try>grine</try>
+	</wordle>
+
+	<wordle date="2023-06-01" number="509" score="4" word="dreng">
+		<try>opera</try>
+		<try>roede</try>
+		<try>trend</try>
+		<try>dreng</try>
+	</wordle>
+
+	<wordle date="2023-06-02" number="510" score="0" word="mumle">
+		<try>skøde</try>
+		<try>ringe</try>
+		<try>talje</try>
+		<try>lefle</try>
+		<try>humle</try>
+		<try>bumle</try>
+	</wordle>
+
+	<wordle date="2023-06-03" number="511" score="4" word="ninja">
+		<try>opera</try>
+		<try>samba</try>
+		<try>junta</try>
+		<try>ninja</try>
+	</wordle>
+
+	<wordle date="2023-06-04" number="512" score="4" word="adlyd">
+		<try>under</try>
+		<try>stald</try>
+		<try>aflad</try>
+		<try>adlyd</try>
+	</wordle>
+
+	<wordle date="2023-06-05" number="513" score="4" word="adlød">
+		<try>danse</try>
+		<try>gjald</try>
+		<try>adlyd</try>
+		<try>adlød</try>
+	</wordle>
+
+	<wordle date="2023-06-06" number="514" score="4" word="advar">
+		<try>spade</try>
+		<try>badut</try>
+		<try>anmod</try>
+		<try>advar</try>
+	</wordle>
+
+	<wordle date="2023-06-07" number="515" score="3" word="trold">
+		<try>opera</try>
+		<try>robåd</try>
+		<try>trold</try>
+	</wordle>
+
+	<wordle date="2023-06-08" number="516" score="5" word="kubik">
+		<try>tyver</try>
+		<try>panik</try>
+		<try>uskik</try>
+		<try>musik</try>
+		<try>kubik</try>
+	</wordle>
+
+	<wordle date="2023-06-09" number="517" score="4" word="tomat">
+		<try>malke</try>
+		<try>armod</try>
+		<try>komma</try>
+		<try>tomat</try>
+	</wordle>
+
+	<wordle date="2023-06-10" number="518" score="4" word="blink">
+		<try>opera</try>
+		<try>glimt</try>
+		<try>flink</try>
+		<try>blink</try>
+	</wordle>
+
+	<wordle date="2023-06-11" number="519" score="4" word="etisk">
+		<try>onkel</try>
+		<try>klemt</try>
+		<try>aktie</try>
+		<try>etisk</try>
+	</wordle>
+
+	<wordle date="2023-06-12" number="520" score="4" word="skudt">
+		<try>flage</try>
+		<try>sport</try>
+		<try>smukt</try>
+		<try>skudt</try>
+	</wordle>
+
+	<wordle date="2023-06-13" number="521" score="4" word="solid">
+		<try>udtag</try>
+		<try>drøne</try>
+		<try>klods</try>
+		<try>solid</try>
+	</wordle>
+
+	<wordle date="2023-06-14" number="522" score="5" word="vasal">
+		<try>ulden</try>
+		<try>skræl</try>
+		<try>issyl</try>
+		<try>basal</try>
+		<try>vasal</try>
+	</wordle>
+
+	<wordle date="2023-06-15" number="523" score="5" word="fåtal">
+		<try>bingo</try>
+		<try>klyde</try>
+		<try>træls</try>
+		<try>fatal</try>
+		<try>fåtal</try>
+	</wordle>
+
+	<wordle date="2023-06-16" number="524" score="4" word="galge">
+		<try>udset</try>
+		<try>grove</try>
+		<try>gynge</try>
+		<try>galge</try>
+	</wordle>
+
+	<wordle date="2023-06-17" number="525" score="5" word="kvæde">
+		<try>opera</try>
+		<try>tegne</try>
+		<try>kimse</try>
+		<try>kulde</try>
+		<try>kvæde</try>
+	</wordle>
+
+	<wordle date="2023-06-18" number="526" score="4" word="bolig">
+		<try>klæbe</try>
+		<try>opløb</try>
+		<try>bolds</try>
+		<try>bolig</try>
+	</wordle>
+
+	<wordle date="2023-06-19" number="527" score="4" word="elgko">
+		<try>opera</try>
+		<try>sovet</try>
+		<try>klone</try>
+		<try>elgko</try>
+	</wordle>
+
+	<wordle date="2023-06-20" number="528" score="2" word="snydt">
+		<try>runde</try>
+		<try>snydt</try>
+	</wordle>
+
+	<wordle date="2023-06-21" number="529" score="5" word="vikar">
+		<try>opera</try>
+		<try>argon</try>
+		<try>rival</try>
+		<try>virak</try>
+		<try>vikar</try>
+	</wordle>
+
+	<wordle date="2023-06-22" number="530" score="5" word="fælde">
+		<try>skovl</try>
+		<try>legat</try>
+		<try>elver</try>
+		<try>mølle</try>
+		<try>fælde</try>
+	</wordle>
+
+	<wordle date="2023-06-23" number="531" score="5" word="galop">
+		<try>trevl</try>
+		<try>langt</try>
+		<try>salig</try>
+		<try>galla</try>
+		<try>galop</try>
+	</wordle>
+
+	<wordle date="2023-06-24" number="532" score="4" word="kølle">
+		<try>stade</try>
+		<try>lirke</try>
+		<try>klone</try>
+		<try>kølle</try>
+	</wordle>
+
+	<wordle date="2023-06-25" number="533" score="4" word="bopæl">
+		<try>stude</try>
+		<try>klamp</try>
+		<try>pålæg</try>
+		<try>bopæl</try>
+	</wordle>
+
+	<wordle date="2023-06-26" number="534" score="2" word="rådyr">
+		<try>rundt</try>
+		<try>rådyr</try>
+	</wordle>
+
+	<wordle date="2023-06-27" number="535" score="3" word="elske">
+		<try>opera</try>
+		<try>eksem</try>
+		<try>elske</try>
+	</wordle>
+
+	<wordle date="2023-06-28" number="536" score="4" word="streg">
+		<try>klovn</try>
+		<try>grøft</try>
+		<try>tager</try>
+		<try>streg</try>
+	</wordle>
+
+	<wordle date="2023-06-29" number="537" score="6" word="synål">
+		<try>skarp</try>
+		<try>stolt</try>
+		<try>slids</try>
+		<try>sølle</try>
+		<try>snubl</try>
+		<try>synål</try>
+	</wordle>
+
+	<wordle date="2023-06-30" number="538" score="6" word="villa">
+		<try>dreng</try>
+		<try>skarp</try>
+		<try>afløb</try>
+		<try>mulat</try>
+		<try>hallo</try>
+		<try>villa</try>
+	</wordle>
+
+	<wordle date="2023-07-01" number="539" score="2" word="flute">
+		<try>flovt</try>
+		<try>flute</try>
+	</wordle>
+
+	<wordle date="2023-07-02" number="540" score="4" word="fidus">
+		<try>opera</try>
+		<try>skudt</try>
+		<try>dusin</try>
+		<try>fidus</try>
+	</wordle>
+
+	<wordle date="2023-07-03" number="541" score="3" word="gemyt">
+		<try>sport</try>
+		<try>fladt</try>
+		<try>gemyt</try>
+	</wordle>
+
+	<wordle date="2023-07-04" number="542" score="4" word="krudt">
+		<try>plask</try>
+		<try>koben</try>
+		<try>kukur</try>
+		<try>krudt</try>
+	</wordle>
+
+	<wordle date="2023-07-05" number="543" score="3" word="bravo">
+		<try>rotte</try>
+		<try>orkan</try>
+		<try>bravo</try>
+	</wordle>
+
+	<wordle date="2023-07-06" number="544" score="3" word="engel">
+		<try>streg</try>
+		<try>lagen</try>
+		<try>engel</try>
+	</wordle>
+
+	<wordle date="2023-07-07" number="545" score="4" word="skræk">
+		<try>ænder</try>
+		<try>sværm</try>
+		<try>stræk</try>
+		<try>skræk</try>
+	</wordle>
+
+	<wordle date="2023-07-08" number="546" score="4" word="vokal">
+		<try>filme</try>
+		<try>laban</try>
+		<try>total</try>
+		<try>vokal</try>
+	</wordle>
+
+	<wordle date="2023-07-09" number="547" score="4" word="flink">
+		<try>opera</try>
+		<try>kluns</try>
+		<try>blink</try>
+		<try>flink</try>
+	</wordle>
+
+	<wordle date="2023-07-10" number="548" score="5" word="genbo">
+		<try>kaffe</try>
+		<try>roder</try>
+		<try>pesos</try>
+		<try>betro</try>
+		<try>genbo</try>
+	</wordle>
+
+	<wordle date="2023-07-11" number="549" score="3" word="konti">
+		<try>skole</try>
+		<try>komma</try>
+		<try>konti</try>
+	</wordle>
+
+	<wordle date="2023-07-12" number="550" score="5" word="brint">
+		<try>blank</try>
+		<try>brønd</try>
+		<try>brune</try>
+		<try>bring</try>
+		<try>brint</try>
+	</wordle>
+
+	<wordle date="2023-07-13" number="551" score="4" word="enorm">
+		<try>snack</try>
+		<try>under</try>
+		<try>enere</try>
+		<try>enorm</try>
+	</wordle>
+
+	<wordle date="2023-07-14" number="552" score="4" word="skovl">
+		<try>huske</try>
+		<try>skilt</try>
+		<try>skrål</try>
+		<try>skovl</try>
+	</wordle>
+
+	<wordle date="2023-07-15" number="553" score="4" word="smart">
+		<try>blade</try>
+		<try>kravl</try>
+		<try>skarp</try>
+		<try>smart</try>
+	</wordle>
+
+	<wordle date="2023-07-16" number="554" score="5" word="værdi">
+		<try>klovn</try>
+		<try>varer</try>
+		<try>værks</try>
+		<try>værft</try>
+		<try>værdi</try>
+	</wordle>
+
+	<wordle date="2023-07-17" number="555" score="3" word="komma">
+		<try>stork</try>
+		<try>komme</try>
+		<try>komma</try>
+	</wordle>
+
+	<wordle date="2023-07-18" number="556" score="3" word="sport">
+		<try>dreje</try>
+		<try>salær</try>
+		<try>sport</try>
+	</wordle>
+
+	<wordle date="2023-07-19" number="557" score="5" word="brønd">
+		<try>tramp</try>
+		<try>fryde</try>
+		<try>drink</try>
+		<try>grund</try>
+		<try>brønd</try>
+	</wordle>
+
+	<wordle date="2023-07-20" number="558" score="4" word="gevir">
+		<try>lyser</try>
+		<try>begår</try>
+		<try>gevær</try>
+		<try>gevir</try>
+	</wordle>
+
+	<wordle date="2023-07-21" number="559" score="3" word="skole">
+		<try>opera</try>
+		<try>boble</try>
+		<try>skole</try>
+	</wordle>
+
+	<wordle date="2023-07-22" number="560" score="4" word="væske">
+		<try>spark</try>
+		<try>klods</try>
+		<try>æsken</try>
+		<try>væske</try>
+	</wordle>
+
+	<wordle date="2023-07-23" number="561" score="5" word="etape">
+		<try>torsk</try>
+		<try>multe</try>
+		<try>bitre</try>
+		<try>etage</try>
+		<try>etape</try>
+	</wordle>
+
+	<wordle date="2023-07-24" number="562" score="3" word="giraf">
+		<try>tager</try>
+		<try>udtag</try>
+		<try>giraf</try>
+	</wordle>
+
+	<wordle date="2023-07-25" number="563" score="5" word="figur">
+		<try>drink</try>
+		<try>riste</try>
+		<try>cigar</try>
+		<try>vigør</try>
+		<try>figur</try>
+	</wordle>
+
+	<wordle date="2023-07-26" number="564" score="3" word="kobra">
+		<try>opera</try>
+		<try>flora</try>
+		<try>kobra</try>
+	</wordle>
+
+	<wordle date="2023-07-27" number="565" score="4" word="brysk">
+		<try>træde</try>
+		<try>arrig</try>
+		<try>prosa</try>
+		<try>brysk</try>
+	</wordle>
+
+	<wordle date="2023-07-28" number="566" score="4" word="etude">
+		<try>drift</try>
+		<try>tynde</try>
+		<try>stade</try>
+		<try>etude</try>
+	</wordle>
+
+	<wordle date="2023-07-29" number="567" score="6" word="skjul">
+		<try>bryde</try>
+		<try>raskt</try>
+		<try>skovl</try>
+		<try>skiml</try>
+		<try>skuml</try>
+		<try>skjul</try>
+	</wordle>
+
+	<wordle date="2023-07-30" number="568" score="5" word="vølve">
+		<try>bløde</try>
+		<try>kølle</try>
+		<try>pølse</try>
+		<try>følte</try>
+		<try>vølve</try>
+	</wordle>
+
+	<wordle date="2023-07-31" number="569" score="4" word="fatal">
+		<try>skule</try>
+		<try>bland</try>
+		<try>afløb</try>
+		<try>fatal</try>
+	</wordle>
+
+	<wordle date="2023-08-01" number="570" score="5" word="grøft">
+		<try>ruter</try>
+		<try>træls</try>
+		<try>kridt</try>
+		<try>frygt</try>
+		<try>grøft</try>
+	</wordle>
+
+	<wordle date="2023-08-02" number="571" score="3" word="knægt">
+		<try>skærm</try>
+		<try>kvæle</try>
+		<try>knægt</try>
+	</wordle>
+
+	<wordle date="2023-08-03" number="572" score="4" word="blege">
+		<try>opera</try>
+		<try>slemt</try>
+		<try>klejn</try>
+		<try>blege</try>
+	</wordle>
+
+	<wordle date="2023-08-04" number="573" score="3" word="enkel">
+		<try>dreje</try>
+		<try>seler</try>
+		<try>enkel</try>
+	</wordle>
+
+	<wordle date="2023-08-05" number="574" score="3" word="skade">
+		<try>næste</try>
+		<try>brase</try>
+		<try>skade</try>
+	</wordle>
+
+	<wordle date="2023-08-06" number="575" score="3" word="vilje">
+		<try>hylde</try>
+		<try>vælte</try>
+		<try>vilje</try>
+	</wordle>
+
+	<!-- Fix from here -->
+	<wordle date="2023-08-07" number="576" score="6" word="fifle">
+		<try>start</try>
+		<try>undgå</try>
+		<try>polyp</try>
+		<try>vikle</try>
+		<try>bimle</try>
+		<try>fifle</try>
+	</wordle>
+
+	<wordle date="2023-08-08" number="577" score="6" word="vidne">
+		<try>sober</try>
+		<try>tabte</try>
+		<try>glæde</try>
+		<try>dumpe</try>
+		<try>vidje</try>
+		<try>vidne</try>
+	</wordle>
+
+	<wordle date="2023-08-09" number="578" score="4" word="guide">
+		<try>fladt</try>
+		<try>sunde</try>
+		<try>burde</try>
+		<try>guide</try>
+	</wordle>
+
+	<wordle date="2023-08-10" number="579" score="5" word="sheik">
+		<try>spole</try>
+		<try>saver</try>
+		<try>stemt</try>
+		<try>skejs</try>
+		<try>sheik</try>
+	</wordle>
+
+	<wordle date="2023-08-11" number="580" score="4" word="klima">
+		<try>flere</try>
+		<try>klogt</try>
+		<try>klask</try>
+		<try>klima</try>
+	</wordle>
+
+	<wordle date="2023-08-12" number="581" score="4" word="betro">
+		<try>trick</try>
+		<try>rotor</try>
+		<try>metro</try>
+		<try>betro</try>
+	</wordle>
+
+	<wordle date="2023-08-13" number="582" score="6" word="enhed">
+		<try>grimt</try>
+		<try>spade</try>
+		<try>dyvel</try>
+		<try>koden</try>
+		<try>nyhed</try>
+		<try>enhed</try>
+	</wordle>
+
+	<wordle date="2023-08-14" number="583" score="3" word="advis">
+		<try>udset</try>
+		<try>adles</try>
+		<try>advis</try>
+	</wordle>
+
+	<wordle date="2023-08-15" number="584" score="6" word="aende">
+		<try>greve</try>
+		<try>lette</try>
+		<try>sende</try>
+		<try>kende</try>
+		<try>hende</try>
+		<try>aende</try>
+	</wordle>
+
+	<wordle date="2023-08-16" number="585" score="0" word="aedes">
+		<try>nøgle</try>
+		<try>bedst</try>
+		<try>redes</try>
+		<try>kedes</try>
+		<try>medes</try>
+		<try>hedes</try>
+	</wordle>
+
+	<wordle date="2023-08-17" number="586" score="6" word="dålam">
+		<try>vokse</try>
+		<try>trægt</try>
+		<try>umami</try>
+		<try>mamba</try>
+		<try>afmål</try>
+		<try>dålam</try>
+	</wordle>
+
+	<wordle date="2023-08-18" number="587" score="4" word="falme">
+		<try>groft</try>
+		<try>fiske</try>
+		<try>fulde</try>
+		<try>falme</try>
+	</wordle>
+
+	<wordle date="2023-08-19" number="588" score="4" word="galej">
+		<try>krave</try>
+		<try>aften</try>
+		<try>sager</try>
+		<try>galej</try>
+	</wordle>
+
+	<wordle date="2023-08-20" number="589" score="5" word="istid">
+		<try>pløre</try>
+		<try>sumak</try>
+		<try>indså</try>
+		<try>isbod</try>
+		<try>istid</try>
+	</wordle>
+
+	<wordle date="2023-08-21" number="590" score="6" word="bølle">
+		<try>streg</try>
+		<try>bænke</try>
+		<try>bombe</try>
+		<try>balde</try>
+		<try>bille</try>
+		<try>bølle</try>
+	</wordle>
+
+	<wordle date="2023-08-22" number="591" score="3" word="slank">
+		<try>start</try>
+		<try>smage</try>
+		<try>slank</try>
+	</wordle>
+
+	<wordle date="2023-08-23" number="592" score="4" word="plade">
+		<try>groft</try>
+		<try>sadle</try>
+		<try>blade</try>
+		<try>plade</try>
+	</wordle>
+
+	<wordle date="2023-08-24" number="593" score="4" word="badut">
+		<try>tærsk</try>
+		<try>altid</try>
+		<try>pante</try>
+		<try>badut</try>
+	</wordle>
+
+	<wordle date="2023-08-25" number="594" score="0" word="bajer">
+		<try>skade</try>
+		<try>alter</try>
+		<try>vaner</try>
+		<try>fager</try>
+		<try>racer</try>
+		<try>barer</try>
+	</wordle>
+
+	<wordle date="2023-08-26" number="595" score="6" word="anlæg">
+		<try>fiske</try>
+		<try>start</try>
+		<try>mambo</try>
+		<try>udgav</try>
+		<try>galla</try>
+		<try>anlæg</try>
+	</wordle>
+
+	<wordle date="2023-08-27" number="596" score="2" word="facon">
+		<try>tonal</try>
+		<try>facon</try>
+	</wordle>
+
+	<wordle date="2023-08-28" number="597" score="5" word="bizar">
+		<try>opera</try>
+		<try>raskt</try>
+		<try>brand</try>
+		<try>bilag</try>
+		<try>bizar</try>
+	</wordle>
+
+	<wordle date="2023-08-29" number="598" score="6" word="byråd">
+		<try>lader</try>
+		<try>drink</try>
+		<try>gjord</try>
+		<try>sprød</try>
+		<try>udryd</try>
+		<try>byråd</try>
+	</wordle>
+
+	<wordle date="2023-08-30" number="599" score="4" word="vinke">
+		<try>audio</try>
+		<try>rides</try>
+		<try>kigge</try>
+		<try>vinke</try>
+	</wordle>
+
+	<wordle date="2023-08-31" number="600" score="5" word="arrig">
+		<try>dråbe</try>
+		<try>frist</try>
+		<try>ironi</try>
+		<try>ærlig</try>
+		<try>arrig</try>
+	</wordle>
+
+	<wordle date="2023-09-01" number="601" score="6" word="feber">
+		<try>drink</try>
+		<try>ramle</try>
+		<try>buret</try>
+		<try>sober</try>
+		<try>håber</try>
+		<try>feber</try>
+	</wordle>
+
+	<wordle date="2023-09-02" number="602" score="4" word="galla">
+		<try>opera</try>
+		<try>skema</try>
+		<try>panda</try>
+		<try>galla</try>
+	</wordle>
+
+	<!-- Missed #603 -->
+	<wordle date="2023-09-03" number="603" score="0" word="?" />
+
+	<wordle date="2023-09-04" number="604" score="3" word="fræse">
+		<try>plade</try>
+		<try>stege</try>
+		<try>fræse</try>
+	</wordle>
+
+	<wordle date="2023-09-05" number="605" score="4" word="bifag">
+		<try>heste</try>
+		<try>drama</try>
+		<try>panik</try>
+		<try>aioli</try>
+		<try>bifag</try>
+	</wordle>
+
+	<wordle date="2023-09-06" number="606" score="4" word="cello">
+		<try>bamse</try>
+		<try>meter</try>
+		<try>fenol</try>
+		<try>cello</try>
+	</wordle>
+
+	<wordle date="2023-09-07" number="607" score="5" word="årlig">
+		<try>glans</try>
+		<try>ugler</try>
+		<try>rolig</try>
+		<try>ærlig</try>
+		<try>årlig</try>
+	</wordle>
+
+	<wordle date="2023-09-08" number="608" score="2" word="april">
+		<try>opera</try>
+		<try>april</try>
+	</wordle>
+
+	<wordle date="2023-09-09" number="609" score="4" word="kamin">
+		<try>klode</try>
+		<try>kraft</try>
+		<try>kanin</try>
+		<try>kamin</try>
+	</wordle>
+
+	<wordle date="2023-09-10" number="610" score="5" word="limbo">
+		<try>damer</try>
+		<try>dæmon</try>
+		<try>komik</try>
+		<try>bimbo</try>
+		<try>limbo</try>
+	</wordle>
+
+	<wordle date="2023-09-11" number="611" score="2" word="barak">
+		<try>brysk</try>
+		<try>barak</try>
+	</wordle>
+
+	<wordle date="2023-09-12" number="612" score="4" word="gyros">
+		<try>bjørn</try>
+		<try>læber</try>
+		<try>krads</try>
+		<try>gyros</try>
+	</wordle>
+
+	<wordle date="2023-09-13" number="613" score="4" word="ansat">
+		<try>konti</try>
+		<try>tænde</try>
+		<try>anset</try>
+		<try>ansat</try>
+	</wordle>
+
+	<wordle date="2023-09-14" number="614" score="4" word="farao">
+		<try>spørg</try>
+		<try>pynte</try>
+		<try>koral</try>
+		<try>farao</try>
+	</wordle>
+
+	<wordle date="2023-09-15" number="615" score="5" word="genom">
+		<try>saldo</try>
+		<try>orker</try>
+		<try>bomme</try>
+		<try>netop</try>
+		<try>genom</try>
+	</wordle>
+
+	<wordle date="2023-09-16" number="616" score="4" word="kaput">
+		<try>synsk</try>
+		<try>kroge</try>
+		<try>klamt</try>
+		<try>kaput</try>
+	</wordle>
+
+	<wordle date="2023-09-17" number="617" score="4" word="lotto">
+		<try>penge</try>
+		<try>frost</try>
+		<try>omtal</try>
+		<try>lotto</try>
+	</wordle>
+
+	<wordle date="2023-09-18" number="618" score="3" word="metro">
+		<try>fiske</try>
+		<try>mader</try>
+		<try>metro</try>
+	</wordle>
+
+	<wordle date="2023-09-19" number="619" score="3" word="bydel">
+		<try>olier</try>
+		<try>ladet</try>
+		<try>bydel</try>
+	</wordle>
+
+	<wordle date="2023-09-20" number="620" score="5" word="folie">
+		<try>hunde</try>
+		<try>katte</try>
+		<try>rimpe</try>
+		<try>slibe</try>
+		<try>folie</try>
+	</wordle>
+
+	<wordle date="2023-09-21" number="621" score="4" word="valør">
+		<try>blade</try>
+		<try>karma</try>
+		<try>salær</try>
+		<try>valør</try>
+	</wordle>
+
+	<wordle date="2023-09-22" number="622" score="5" word="apati">
+		<try>udsat</try>
+		<try>tavle</try>
+		<try>aktør</try>
+		<try>atoms</try>
+		<try>apati</try>
+	</wordle>
+
+	<wordle date="2023-09-23" number="623" score="3" word="karry">
+		<try>opera</try>
+		<try>kvark</try>
+		<try>karry</try>
+	</wordle>
+
+	<wordle date="2023-09-24" number="624" score="4" word="oktan">
+		<try>danse</try>
+		<try>indad</try>
+		<try>notat</try>
+		<try>oktan</try>
+	</wordle>
+
+	<wordle date="2023-09-25" number="625" score="0" word="fumle">
+		<try>noder</try>
+		<try>slave</try>
+		<try>lytte</try>
+		<try>bimle</try>
+		<try>humle</try>
+		<try>gumle</try>
+	</wordle>
+
+	<wordle date="2023-09-26" number="626" score="4" word="artig">
+		<try>opera</try>
+		<try>raskt</try>
+		<try>travl</try>
+		<try>artig</try>
+	</wordle>
+
+	<wordle date="2023-09-27" number="627" score="4" word="banko">
+		<try>klods</try>
+		<try>oktav</try>
+		<try>barok</try>
+		<try>banko</try>
+	</wordle>
+
+	<wordle date="2023-09-28" number="628" score="4" word="farin">
+		<try>skrue</try>
+		<try>april</try>
+		<try>tarif</try>
+		<try>farin</try>
+	</wordle>
+
+	<wordle date="2023-09-29" number="629" score="3" word="kolos">
+		<try>poste</try>
+		<try>modus</try>
+		<try>kolos</try>
+	</wordle>
+
+	<wordle date="2023-09-30" number="630" score="3" word="moral">
+		<try>dreje</try>
+		<try>uklar</try>
+		<try>moral</try>
+	</wordle>
+
+	<wordle date="2023-10-01" number="631" score="3" word="oprør">
+		<try>opera</try>
+		<try>opråb</try>
+		<try>oprør</try>
+	</wordle>
+
+	<wordle date="2023-10-02" number="632" score="6" word="aende">
+		<try>streg</try>
+		<try>dille</try>
+		<try>mynde</try>
+		<try>bunde</try>
+		<try>kande</try>
+		<try>aende</try>
+	</wordle>
+
+	<wordle date="2023-10-03" number="633" score="4" word="bamse">
+		<try>huske</try>
+		<try>linse</try>
+		<try>morse</try>
+		<try>bamse</try>
+	</wordle>
+
+	<wordle date="2023-10-04" number="634" score="3" word="fløde">
+		<try>sekst</try>
+		<try>glade</try>
+		<try>fløde</try>
+	</wordle>
+
+	<wordle date="2023-10-05" number="635" score="4" word="zebra">
+		<try>fiske</try>
+		<try>typer</try>
+		<try>egern</try>
+		<try>zebra</try>
+	</wordle>
+
+	<wordle date="2023-10-06" number="636" score="5" word="vægur">
+		<try>ringe</try>
+		<try>grøft</try>
+		<try>skrog</try>
+		<try>pågår</try>
+		<try>vægur</try>
+	</wordle>
+
+	<wordle date="2023-10-07" number="637" score="4" word="trick">
+		<try>opera</try>
+		<try>ærlig</try>
+		<try>drift</try>
+		<try>trick</try>
+	</wordle>
+
+	<wordle date="2023-10-08" number="638" score="0" word="søjle">
+		<try>træne</try>
+		<try>slave</try>
+		<try>solde</try>
+		<try>smile</try>
+		<try>spule</try>
+		<try>skåle</try>
+	</wordle>
+
+	<wordle date="2023-10-09" number="639" score="4" word="synsk">
+		<try>kruse</try>
+		<try>plask</try>
+		<try>finsk</try>
+		<try>synsk</try>
+	</wordle>
+
+	<wordle date="2023-10-10" number="640" score="4" word="lydig">
+		<try>drama</try>
+		<try>udset</try>
+		<try>kvæld</try>
+		<try>lydig</try>
+	</wordle>
+
+	<wordle date="2023-10-11" number="641" score="4" word="kunst">
+		<try>trave</try>
+		<try>støbt</try>
+		<try>blist</try>
+		<try>kunst</try>
+	</wordle>
+
+	<wordle date="2023-10-12" number="642" score="5" word="human">
+		<try>opera</try>
+		<try>angiv</try>
+		<try>tands</try>
+		<try>blank</try>
+		<try>human</try>
+	</wordle>
+
+	<wordle date="2023-10-13" number="643" score="5" word="vital">
+		<try>krebs</try>
+		<try>opium</try>
+		<try>datid</try>
+		<try>tital</try>
+		<try>vital</try>
+	</wordle>
+
+	<wordle date="2023-10-14" number="644" score="4" word="svovl">
+		<try>danse</try>
+		<try>sport</try>
+		<try>skovl</try>
+		<try>svovl</try>
+	</wordle>
+
+	<wordle date="2023-10-15" number="645" score="4" word="lilla">
+		<try>norsk</try>
+		<try>fladt</try>
+		<try>lampe</try>
+		<try>lilla</try>
+	</wordle>
+
+	<wordle date="2023-10-16" number="646" score="3" word="krise">
+		<try>adræt</try>
+		<try>rimpe</try>
+		<try>krise</try>
+	</wordle>
+
+	<wordle date="2023-10-17" number="647" score="5" word="hotel">
+		<try>klare</try>
+		<try>pøbel</try>
+		<try>ådsel</try>
+		<try>motel</try>
+		<try>hotel</try>
+	</wordle>
+
+	<wordle date="2023-10-18" number="648" score="3" word="vigør">
+		<try>ruden</try>
+		<try>årsag</try>
+		<try>vigør</try>
+	</wordle>
+
+	<wordle date="2023-10-19" number="649" score="4" word="svada">
+		<try>nøgle</try>
+		<try>harsk</try>
+		<try>bosat</try>
+		<try>svada</try>
+	</wordle>
+
+	<wordle date="2023-10-20" number="650" score="5" word="lemur">
+		<try>opera</try>
+		<try>rives</try>
+		<try>myrde</try>
+		<try>grumt</try>
+		<try>lemur</try>
+	</wordle>
+
+	<wordle date="2023-10-21" number="651" score="4" word="krebs">
+		<try>flyde</try>
+		<try>noter</try>
+		<try>sperm</try>
+		<try>krebs</try>
+	</wordle>
+
+	<wordle date="2023-10-22" number="652" score="5" word="hvede">
+		<try>dusin</try>
+		<try>poder</try>
+		<try>ædelt</try>
+		<try>avede</try>
+		<try>hvede</try>
+	</wordle>
+
+	<!-- Missed #645 -->
+	<wordle date="2023-10-23" number="653" score="0" word="?" />
+
+	<wordle date="2023-10-24" number="654" score="3" word="lamel">
+		<try>blond</try>
+		<try>laser</try>
+		<try>lamel</try>
+	</wordle>
+
+	<wordle date="2023-10-25" number="655" score="6" word="kvote">
+		<try>dreje</try>
+		<try>maste</try>
+		<try>følte</try>
+		<try>pinte</try>
+		<try>vogte</try>
+		<try>kvote</try>
+	</wordle>
+
+	<wordle date="2023-10-26" number="656" score="3" word="hopla">
+		<try>opera</try>
+		<try>kobra</try>
+		<try>hopla</try>
+	</wordle>
+
+	<wordle date="2023-10-27" number="657" score="4" word="stige">
+		<try>spejl</try>
+		<try>segne</try>
+		<try>smage</try>
+		<try>stige</try>
+	</wordle>
+
+	<wordle date="2023-10-28" number="658" score="4" word="lasso">
+		<try>kræve</try>
+		<try>bland</try>
+		<try>salat</try>
+		<try>lasso</try>
+	</wordle>
+
+	<wordle date="2023-10-29" number="659" score="4" word="kvist">
+		<try>klang</try>
+		<try>krebs</try>
+		<try>kopis</try>
+		<try>kvist</try>
+	</wordle>
+
+	<wordle date="2023-10-30" number="660" score="4" word="hertz">
+		<try>blink</try>
+		<try>varmt</try>
+		<try>tærte</try>
+		<try>hertz</try>
+	</wordle>
+
+	<wordle date="2023-10-31" number="661" score="4" word="sytøj">
+		<try>harem</try>
+		<try>logik</try>
+		<try>stødt</try>
+		<try>sytøj</try>
+	</wordle>
+
+	<wordle date="2023-11-01" number="662" score="5" word="lumsk">
+		<try>knage</try>
+		<try>skilt</try>
+		<try>floks</try>
+		<try>polsk</try>
+		<try>lumsk</try>
+	</wordle>
+
+	<wordle date="2023-11-02" number="663" score="5" word="kvint">
+		<try>opera</try>
+		<try>stødt</try>
+		<try>fulgt</try>
+		<try>tænkt</try>
+		<try>kvint</try>
+	</wordle>
+
+	<wordle date="2023-11-03" number="664" score="5" word="harsk">
+		<try>mudre</try>
+		<try>frist</try>
+		<try>forsk</try>
+		<try>barsk</try>
+		<try>harsk</try>
+	</wordle>
+
+	<wordle date="2023-11-04" number="665" score="4" word="søsyg">
+		<try>laver</try>
+		<try>konti</try>
+		<try>spøgs</try>
+		<try>søsyg</try>
+	</wordle>
+
+	<wordle date="2023-11-05" number="666" score="0" word="løjpe">
+		<try>odder</try>
+		<try>andel</try>
+		<try>silke</try>
+		<try>fugle</try>
+		<try>lytte</try>
+		<try>lempe</try>
+	</wordle>
+
+	<wordle date="2023-11-06" number="667" score="3" word="kunde">
+		<try>undre</try>
+		<try>bunde</try>
+		<try>kunde</try>
+	</wordle>
+
+	<wordle date="2023-11-07" number="668" score="4" word="hvalp">
+		<try>kaffe</try>
+		<try>altid</try>
+		<try>polar</try>
+		<try>hvalp</try>
+	</wordle>
+
+	<wordle date="2023-11-08" number="669" score="4" word="stærk">
+		<try>fladt</try>
+		<try>tykke</try>
+		<try>skæmt</try>
+		<try>stærk</try>
+	</wordle>
+
+	<wordle date="2023-11-09" number="670" score="4" word="latex">
+		<try>drone</try>
+		<try>tages</try>
+		<try>lavet</try>
+		<try>latex</try>
+	</wordle>
+
+	<wordle date="2023-11-10" number="671" score="4" word="kondi">
+		<try>blade</try>
+		<try>skudt</try>
+		<try>krydr</try>
+		<try>kondi</try>
+	</wordle>
+
+	<wordle date="2023-11-11" number="672" score="6" word="hobby">
+		<try>skrue</try>
+		<try>optag</try>
+		<try>folio</try>
+		<try>donor</try>
+		<try>bomme</try>
+		<try>hobby</try>
+	</wordle>
+
+	<wordle date="2023-11-12" number="673" score="4" word="rubin">
+		<try>opera</try>
+		<try>skræk</try>
+		<try>bytur</try>
+		<try>rubin</try>
+	</wordle>
+
+	<wordle date="2023-11-13" number="674" score="4" word="påstå">
+		<try>afsæt</try>
+		<try>ryste</try>
+		<try>bistå</try>
+		<try>påstå</try>
+	</wordle>
+
+	<wordle date="2023-11-14" number="675" score="4" word="skrot">
+		<try>klask</try>
+		<try>skibe</try>
+		<try>skørt</try>
+		<try>skrot</try>
+	</wordle>
+
+	<wordle date="2023-11-15" number="676" score="4" word="rosin">
+		<try>citat</try>
+		<try>inder</try>
+		<try>ruins</try>
+		<try>rosin</try>
+	</wordle>
+
+	<wordle date="2023-11-16" number="677" score="5" word="poesi">
+		<try>flyde</try>
+		<try>sener</try>
+		<try>maset</try>
+		<try>bjesk</try>
+		<try>poesi</try>
+	</wordle>
+
+	<wordle date="2023-11-17" number="678" score="4" word="spejl">
+		<try>køler</try>
+		<try>lempe</try>
+		<try>plejl</try>
+		<try>spejl</try>
+	</wordle>
+
+	<wordle date="2023-11-18" number="679" score="3" word="porto">
+		<try>brast</try>
+		<try>rotte</try>
+		<try>porto</try>
+	</wordle>
+
+	<wordle date="2023-11-19" number="680" score="3" word="agurk">
+		<try>huske</try>
+		<try>knubs</try>
+		<try>agurk</try>
+	</wordle>
+
+	<wordle date="2023-11-20" number="681" score="4" word="sperm">
+		<try>luske</try>
+		<try>seler</try>
+		<try>syren</try>
+		<try>sperm</try>
+	</wordle>
+
+	<wordle date="2023-11-21" number="682" score="5" word="poker">
+		<try>blank</try>
+		<try>kiosk</try>
+		<try>udkom</try>
+		<try>rokke</try>
+		<try>poker</try>
+	</wordle>
+
+	<wordle date="2023-11-22" number="683" score="3" word="besøg">
+		<try>haves</try>
+		<try>sælge</try>
+		<try>besøg</try>
+	</wordle>
+
+	<wordle date="2023-11-23" number="684" score="5" word="cerut">
+		<try>fladt</try>
+		<try>skørt</try>
+		<try>print</try>
+		<try>revet</try>
+		<try>cerut</try>
+	</wordle>
+
+	<wordle date="2023-11-24" number="685" score="4" word="alibi">
+		<try>total</try>
+		<try>lader</try>
+		<try>album</try>
+		<try>alibi</try>
+	</wordle>
+
+	<wordle date="2023-11-25" number="686" score="5" word="frist">
+		<try>opera</try>
+		<try>rings</try>
+		<try>strik</try>
+		<try>trist</try>
+		<try>frist</try>
+	</wordle>
+
+	<wordle date="2023-11-26" number="687" score="5" word="ahorn">
+		<try>løver</try>
+		<try>rundt</try>
+		<try>bring</try>
+		<try>skarn</try>
+		<try>ahorn</try>
+	</wordle>
+
+	<wordle date="2023-11-27" number="688" score="5" word="bibel">
+		<try>regne</try>
+		<try>episk</try>
+		<try>timen</try>
+		<try>biled</try>
+		<try>bibel</try>
+	</wordle>
+
+	<wordle date="2023-11-28" number="689" score="3" word="podie">
+		<try>ordre</try>
+		<try>godte</try>
+		<try>podie</try>
+	</wordle>
+
+	<wordle date="2023-11-29" number="690" score="4" word="fysik">
+		<try>spand</try>
+		<try>liste</try>
+		<try>vesir</try>
+		<try>fysik</try>
+	</wordle>
+
+	<wordle date="2023-11-30" number="691" score="4" word="zobel">
+		<try>daske</try>
+		<try>enigt</try>
+		<try>broer</try>
+		<try>zobel</try>
+	</wordle>
+
+	<wordle date="2023-12-01" number="692" score="6" word="aioli">
+		<try>stræk</try>
+		<try>plade</try>
+		<try>afmål</try>
+		<try>anløb</try>
+		<try>agilt</try>
+		<try>aioli</try>
+	</wordle>
+
+	<wordle date="2023-12-02" number="693" score="4" word="bonus">
+		<try>klage</try>
+		<try>trops</try>
+		<try>modus</try>
+		<try>bonus</try>
+	</wordle>
+
+	<wordle date="2023-12-03" number="694" score="3" word="strøm">
+		<try>skade</try>
+		<try>sport</try>
+		<try>strøm</try>
+	</wordle>
+
+	<wordle date="2023-12-04" number="695" score="5" word="geled">
+		<try>huset</try>
+		<try>poder</try>
+		<try>dalen</try>
+		<try>biled</try>
+		<try>geled</try>
+	</wordle>
+
+	<wordle date="2023-12-05" number="696" score="4" word="hveps">
+		<try>lader</try>
+		<try>tempo</try>
+		<try>gispe</try>
+		<try>hveps</try>
+	</wordle>
+
+	<wordle date="2023-12-06" number="697" score="5" word="gilde">
+		<try>under</try>
+		<try>denne</try>
+		<try>glæde</try>
+		<try>galde</try>
+		<try>gilde</try>
+	</wordle>
+
+	<wordle date="2023-12-07" number="698" score="4" word="høtyv">
+		<try>træls</try>
+		<try>potte</try>
+		<try>datid</try>
+		<try>høtyv</try>
+	</wordle>
+
+	<wordle date="2023-12-08" number="699" score="3" word="idiot">
+		<try>frels</try>
+		<try>point</try>
+		<try>idiot</try>
+	</wordle>
+
+	<wordle date="2023-12-09" number="700" score="4" word="indbo">
+		<try>musik</try>
+		<try>vinge</try>
+		<try>indad</try>
+		<try>indbo</try>
+	</wordle>
+
+	<wordle date="2023-12-10" number="701" score="4" word="jodle">
+		<try>skærm</try>
+		<try>plade</try>
+		<try>dulle</try>
+		<try>jodle</try>
+	</wordle>
+
+	<wordle date="2023-12-11" number="702" score="4" word="kabel">
+		<try>daske</try>
+		<try>kanel</try>
+		<try>kamel</try>
+		<try>kabel</try>
+	</wordle>
+
+	<wordle date="2023-12-12" number="703" score="4" word="polyp">
+		<try>kaste</try>
+		<try>rubin</try>
+		<try>ydmyg</try>
+		<try>polyp</try>
+	</wordle>
+
+	<wordle date="2023-12-13" number="704" score="4" word="katar">
+		<try>opera</try>
+		<try>krads</try>
+		<try>karat</try>
+		<try>katar</try>
+	</wordle>
+
+	<!-- Missed # 705 -->
+	<wordle date="2023-12-14" number="705" score="0" word="?" />
+
+	<wordle date="2023-12-15" number="706" score="5" word="firma">
+		<try>brænd</try>
+		<try>ruske</try>
+		<try>omgør</try>
+		<try>myrra</try>
+		<try>firma</try>
+	</wordle>
+
+	<wordle date="2023-12-16" number="707" score="5" word="hybel">
+		<try>fladt</try>
+		<try>lejre</try>
+		<try>skole</try>
+		<try>hulen</try>
+		<try>hybel</try>
+	</wordle>
+
+	<wordle date="2023-12-17" number="708" score="4" word="immun">
+		<try>bacon</try>
+		<try>siden</try>
+		<try>ikkun</try>
+		<try>immun</try>
+	</wordle>
+
+	<wordle date="2023-12-18" number="709" score="5" word="læspe">
+		<try>sjove</try>
+		<try>hilse</try>
+		<try>rasle</try>
+		<try>læste</try>
+		<try>læspe</try>
+	</wordle>
+
+	<wordle date="2023-12-19" number="710" score="4" word="merit">
+		<try>træne</try>
+		<try>reder</try>
+		<try>betro</try>
+		<try>merit</try>
+	</wordle>
+
+	<wordle date="2023-12-20" number="711" score="4" word="ditto">
+		<try>jubel</try>
+		<try>dansk</try>
+		<try>drift</try>
+		<try>ditto</try>
+	</wordle>
+
+	<wordle date="2023-12-21" number="712" score="3" word="radon">
+		<try>opera</try>
+		<try>radio</try>
+		<try>radon</try>
+	</wordle>
+
+	<wordle date="2023-12-22" number="713" score="5" word="skræv">
+		<try>stræk</try>
+		<try>skræl</try>
+		<try>skræm</try>
+		<try>skræp</try>
+		<try>skræv</try>
+	</wordle>
+
+	<wordle date="2023-12-23" number="714" score="4" word="metal">
+		<try>jorde</try>
+		<try>låsen</try>
+		<try>uegal</try>
+		<try>metal</try>
+	</wordle>
+
+	<wordle date="2023-12-24" number="715" score="3" word="spurv">
+		<try>julen</try>
+		<try>smurt</try>
+		<try>spurv</try>
+	</wordle>
+
+	<wordle date="2023-12-25" number="716" score="4" word="totem">
+		<try>flade</try>
+		<try>nuser</try>
+		<try>måbet</try>
+		<try>totem</try>
+	</wordle>
+
+	<wordle date="2023-12-26" number="717" score="5" word="tudse">
+		<try>blank</try>
+		<try>piger</try>
+		<try>stemt</try>
+		<try>feste</try>
+		<try>tudse</try>
+	</wordle>
+
+	<wordle date="2023-12-27" number="718" score="6" word="højre">
+		<try>flæng</try>
+		<try>trave</try>
+		<try>porre</try>
+		<try>skure</try>
+		<try>mødre</try>
+		<try>højre</try>
+	</wordle>
+
+	<wordle date="2023-12-28" number="719" score="4" word="grill">
+		<try>udsat</try>
+		<try>føler</try>
+		<try>lyrik</try>
+		<try>grill</try>
+	</wordle>
+
+	<wordle date="2023-12-29" number="720" score="5" word="tyfon">
+		<try>dråbe</try>
+		<try>magts</try>
+		<try>utopi</try>
+		<try>klovn</try>
+		<try>tyfon</try>
+	</wordle>
+
+	<wordle date="2023-12-30" number="721" score="4" word="dvask">
+		<try>opera</try>
+		<try>musik</try>
+		<try>klask</try>
+		<try>dvask</try>
+	</wordle>
+
+	<wordle date="2023-12-31" number="722" score="5" word="butik">
+		<try>hylde</try>
+		<try>rings</try>
+		<try>umami</try>
+		<try>pupil</try>
+		<try>butik</try>
+	</wordle>
+
+</wordles>
