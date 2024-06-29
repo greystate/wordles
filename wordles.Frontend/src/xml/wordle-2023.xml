@@ -1,0 +1,2548 @@
+<wordles xmlns="http://xmlns.greystate.dk/2022/wordles">
+
+	<wordle date="2023-01-01" number="561" score="3" word="whine">
+		<try>years</try>
+		<try>thyme</try>
+		<try>whine</try>
+	</wordle>
+
+	<wordle date="2023-01-02" number="562" score="6" word="skirt">
+		<try>brand</try>
+		<try>riper</try>
+		<try>lyric</try>
+		<try>stirs</try>
+		<try>shirt</try>
+		<try>skirt</try>
+	</wordle>
+
+	<wordle date="2023-01-03" number="563" score="3" word="antic">
+		<try>fruit</try>
+		<try>patio</try>
+		<try>antic</try>
+	</wordle>
+
+	<wordle date="2023-01-04" number="564" score="3" word="layer">
+		<try>types</try>
+		<try>money</try>
+		<try>layer</try>
+	</wordle>
+
+	<wordle date="2023-01-05" number="565" score="5" word="sleek">
+		<try>train</try>
+		<try>welsh</try>
+		<try>flees</try>
+		<try>sleep</try>
+		<try>sleek</try>
+	</wordle>
+
+	<wordle date="2023-01-06" number="566" score="4" word="belie">
+		<try>panic</try>
+		<try>broil</try>
+		<try>belit</try>
+		<try>belie</try>
+	</wordle>
+
+	<wordle date="2023-01-07" number="567" score="4" word="lemon">
+		<try>score</try>
+		<try>omega</try>
+		<try>money</try>
+		<try>lemon</try>
+	</wordle>
+
+	<wordle date="2023-01-08" number="568" score="3" word="opera">
+		<try>blurt</try>
+		<try>spare</try>
+		<try>opera</try>
+	</wordle>
+
+	<wordle date="2023-01-09" number="569" score="6" word="pixie">
+		<try>vista</try>
+		<try>rider</try>
+		<try>hinge</try>
+		<try>piece</try>
+		<try>pique</try>
+		<try>pixie</try>
+	</wordle>
+
+	<wordle date="2023-01-10" number="570" score="5" word="grimy">
+		<try>alien</try>
+		<try>drips</try>
+		<try>wring</try>
+		<try>grift</try>
+		<try>grimy</try>
+	</wordle>
+
+	<wordle date="2023-01-11" number="571" score="4" word="sedan">
+		<try>blink</try>
+		<try>snaps</try>
+		<try>sandy</try>
+		<try>sedan</try>
+	</wordle>
+
+	<wordle date="2023-01-12" number="572" score="6" word="leapt">
+		<try>world</try>
+		<try>leans</try>
+		<try>leave</try>
+		<try>leach</try>
+		<try>leafy</try>
+		<try>leapt</try>
+	</wordle>
+
+	<wordle date="2023-01-13" number="573" score="5" word="human">
+		<try>blunt</try>
+		<try>funky</try>
+		<try>nurse</try>
+		<try>punch</try>
+		<try>human</try>
+	</wordle>
+
+	<wordle date="2023-01-14" number="574" score="4" word="koala">
+		<try>least</try>
+		<try>clamp</try>
+		<try>frail</try>
+		<try>koala</try>
+	</wordle>
+
+	<wordle date="2023-01-15" number="575" score="6" word="spire">
+		<try>weave</try>
+		<try>stone</try>
+		<try>slime</try>
+		<try>spice</try>
+		<try>spike</try>
+		<try>spire</try>
+	</wordle>
+
+	<wordle date="2023-01-16" number="576" score="4" word="frock">
+		<try>spear</try>
+		<try>rocky</try>
+		<try>crock</try>
+		<try>frock</try>
+	</wordle>
+
+	<wordle date="2023-01-17" number="577" score="5" word="adopt">
+		<try>plank</try>
+		<try>caper</try>
+		<try>apply</try>
+		<try>adept</try>
+		<try>adopt</try>
+	</wordle>
+
+	<wordle date="2023-01-18" number="578" score="5" word="chard">
+		<try>wrong</try>
+		<try>reals</try>
+		<try>charm</try>
+		<try>chart</try>
+		<try>chard</try>
+	</wordle>
+
+	<wordle date="2023-01-19" number="579" score="4" word="mucky">
+		<try>flunk</try>
+		<try>sucky</try>
+		<try>lucky</try>
+		<try>mucky</try>
+	</wordle>
+
+	<wordle date="2023-01-20" number="580" score="3" word="alter">
+		<try>zebra</try>
+		<try>raven</try>
+		<try>alter</try>
+	</wordle>
+
+	<wordle date="2023-01-21" number="581" score="5" word="blurb">
+		<try>scram</try>
+		<try>rider</try>
+		<try>prong</try>
+		<try>blurt</try>
+		<try>blurb</try>
+	</wordle>
+
+	<wordle date="2023-01-22" number="582" score="6" word="matey">
+		<try>crops</try>
+		<try>death</try>
+		<try>tweak</try>
+		<try>eaten</try>
+		<try>latex</try>
+		<try>matey</try>
+	</wordle>
+
+	<wordle date="2023-01-23" number="583" score="4" word="elude">
+		<try>frail</try>
+		<try>leech</try>
+		<try>elope</try>
+		<try>elude</try>
+	</wordle>
+
+	<wordle date="2023-01-24" number="584" score="3" word="count">
+		<try>loans</try>
+		<try>corny</try>
+		<try>count</try>
+	</wordle>
+
+	<wordle date="2023-01-25" number="585" score="6" word="maize">
+		<try>front</try>
+		<try>plead</try>
+		<try>saves</try>
+		<try>cache</try>
+		<try>gauze</try>
+		<try>maize</try>
+	</wordle>
+
+	<wordle date="2023-01-26" number="586" score="3" word="beefy">
+		<try>crane</try>
+		<try>feuds</try>
+		<try>beefy</try>
+	</wordle>
+
+	<wordle date="2023-01-27" number="587" score="4" word="worry">
+		<try>blank</try>
+		<try>tiger</try>
+		<try>proms</try>
+		<try>worry</try>
+	</wordle>
+
+	<wordle date="2023-01-28" number="588" score="3" word="flirt">
+		<try>clash</try>
+		<try>flunk</try>
+		<try>flirt</try>
+	</wordle>
+
+	<wordle date="2023-01-29" number="589" score="4" word="fishy">
+		<try>brand</try>
+		<try>soups</try>
+		<try>misty</try>
+		<try>fishy</try>
+	</wordle>
+
+	<wordle date="2023-01-30" number="590" score="3" word="crave">
+		<try>house</try>
+		<try>trace</try>
+		<try>crave</try>
+	</wordle>
+
+	<wordle date="2023-01-31" number="591" score="3" word="cross">
+		<try>stare</try>
+		<try>rocks</try>
+		<try>cross</try>
+	</wordle>
+
+	<wordle date="2023-02-01" number="592" score="4" word="scold">
+		<try>spare</try>
+		<try>stomp</try>
+		<try>shock</try>
+		<try>scold</try>
+	</wordle>
+
+	<wordle date="2023-02-02" number="593" score="5" word="shirk">
+		<try>scare</try>
+		<try>story</try>
+		<try>swirl</try>
+		<try>smirk</try>
+		<try>shirk</try>
+	</wordle>
+
+	<wordle date="2023-02-03" number="594" score="3" word="tasty">
+		<try>sport</try>
+		<try>tease</try>
+		<try>tasty</try>
+	</wordle>
+
+	<wordle date="2023-02-04" number="595" score="5" word="unlit">
+		<try>scare</try>
+		<try>plumb</try>
+		<try>ghoul</try>
+		<try>fully</try>
+		<try>unlit</try>
+	</wordle>
+
+	<wordle date="2023-02-05" number="596" score="3" word="dance">
+		<try>slice</try>
+		<try>deuce</try>
+		<try>dance</try>
+	</wordle>
+
+	<wordle date="2023-02-06" number="597" score="4" word="ninth">
+		<try>polka</try>
+		<try>fresh</try>
+		<try>width</try>
+		<try>ninth</try>
+	</wordle>
+
+	<wordle date="2023-02-07" number="598" score="5" word="apple">
+		<try>winch</try>
+		<try>lares</try>
+		<try>elate</try>
+		<try>ample</try>
+		<try>apple</try>
+	</wordle>
+
+	<wordle date="2023-02-08" number="599" score="4" word="flail">
+		<try>bland</try>
+		<try>slack</try>
+		<try>flair</try>
+		<try>flail</try>
+	</wordle>
+
+	<wordle date="2023-02-09" number="600" score="4" word="stage">
+		<try>clamp</try>
+		<try>stare</try>
+		<try>stake</try>
+		<try>stage</try>
+	</wordle>
+
+	<wordle date="2023-02-10" number="601" score="4" word="heady">
+		<try>flare</try>
+		<try>seamy</try>
+		<try>heavy</try>
+		<try>heady</try>
+	</wordle>
+
+	<wordle date="2023-02-11" number="602" score="3" word="debug">
+		<try>steak</try>
+		<try>judge</try>
+		<try>debug</try>
+	</wordle>
+
+	<wordle date="2023-02-12" number="603" score="4" word="giant">
+		<try>knife</try>
+		<try>rings</try>
+		<try>night</try>
+		<try>giant</try>
+	</wordle>
+
+	<wordle date="2023-02-13" number="604" score="4" word="usage">
+		<try>halve</try>
+		<try>space</try>
+		<try>tease</try>
+		<try>usage</try>
+	</wordle>
+
+	<wordle date="2023-02-14" number="605" score="4" word="sound">
+		<try>thing</try>
+		<try>crank</try>
+		<try>spend</try>
+		<try>sound</try>
+	</wordle>
+
+	<wordle date="2023-02-15" number="606" score="4" word="salsa">
+		<try>corps</try>
+		<try>steak</try>
+		<try>smash</try>
+		<try>salsa</try>
+	</wordle>
+
+	<wordle date="2023-02-16" number="607" score="4" word="magic">
+		<try>torus</try>
+		<try>clean</try>
+		<try>hacky</try>
+		<try>magic</try>
+	</wordle>
+
+	<wordle date="2023-02-17" number="608" score="4" word="cache">
+		<try>alien</try>
+		<try>tease</try>
+		<try>badge</try>
+		<try>cache</try>
+	</wordle>
+
+	<wordle date="2023-02-18" number="609" score="4" word="avail">
+		<try>flute</try>
+		<try>leads</try>
+		<try>trail</try>
+		<try>avail</try>
+	</wordle>
+
+	<wordle date="2023-02-19" number="610" score="4" word="kiosk">
+		<try>today</try>
+		<try>prose</try>
+		<try>floss</try>
+		<try>kiosk</try>
+	</wordle>
+
+	<wordle date="2023-02-20" number="611" score="3" word="sweat">
+		<try>spare</try>
+		<try>sedan</try>
+		<try>sweat</try>
+	</wordle>
+
+	<wordle date="2023-02-21" number="612" score="5" word="ruddy">
+		<try>spawn</try>
+		<try>tiger</try>
+		<try>brood</try>
+		<try>durum</try>
+		<try>ruddy</try>
+	</wordle>
+
+	<wordle date="2023-02-22" number="613" score="5" word="riper">
+		<try>steam</try>
+		<try>perky</try>
+		<try>spore</try>
+		<try>viper</try>
+		<try>riper</try>
+	</wordle>
+
+	<wordle date="2023-02-23" number="614" score="5" word="vague">
+		<try>bowel</try>
+		<try>jerky</try>
+		<try>steam</try>
+		<try>gauge</try>
+		<try>vague</try>
+	</wordle>
+
+	<wordle date="2023-02-24" number="615" score="5" word="arbor">
+		<try>trial</try>
+		<try>arson</try>
+		<try>arrow</try>
+		<try>armor</try>
+		<try>arbor</try>
+	</wordle>
+
+	<wordle date="2023-02-25" number="616" score="5" word="fifty">
+		<try>towel</try>
+		<try>scant</try>
+		<try>pithy</try>
+		<try>dirty</try>
+		<try>fifty</try>
+	</wordle>
+
+	<wordle date="2023-02-26" number="617" score="4" word="syrup">
+		<try>vowel</try>
+		<try>scant</try>
+		<try>sprig</try>
+		<try>syrup</try>
+	</wordle>
+
+	<wordle date="2023-02-27" number="618" score="4" word="worse">
+		<try>scare</try>
+		<try>purse</try>
+		<try>horse</try>
+		<try>worse</try>
+	</wordle>
+
+	<wordle date="2023-02-28" number="619" score="3" word="polka">
+		<try>horse</try>
+		<try>point</try>
+		<try>polka</try>
+	</wordle>
+
+	<wordle date="2023-03-01" number="620" score="3" word="moose">
+		<try>spark</try>
+		<try>tense</try>
+		<try>moose</try>
+	</wordle>
+
+	<wordle date="2023-03-02" number="621" score="4" word="above">
+		<try>foray</try>
+		<try>salon</try>
+		<try>about</try>
+		<try>above</try>
+	</wordle>
+
+	<wordle date="2023-03-03" number="622" score="4" word="squat">
+		<try>eagle</try>
+		<try>draft</try>
+		<try>about</try>
+		<try>squat</try>
+	</wordle>
+
+	<wordle date="2023-03-04" number="623" score="3" word="trend">
+		<try>point</try>
+		<try>stand</try>
+		<try>trend</try>
+	</wordle>
+
+	<wordle date="2023-03-05" number="624" score="5" word="toxic">
+		<try>dance</try>
+		<try>cubic</try>
+		<try>stoic</try>
+		<try>topic</try>
+		<try>toxic</try>
+	</wordle>
+
+	<wordle date="2023-03-06" number="625" score="4" word="pinky">
+		<try>drape</try>
+		<try>point</try>
+		<try>pinch</try>
+		<try>pinky</try>
+	</wordle>
+
+	<wordle date="2023-03-07" number="626" score="4" word="horse">
+		<try>sauce</try>
+		<try>piste</try>
+		<try>loose</try>
+		<try>horse</try>
+	</wordle>
+
+	<wordle date="2023-03-08" number="627" score="5" word="regal">
+		<try>drunk</try>
+		<try>alert</try>
+		<try>lares</try>
+		<try>relay</try>
+		<try>regal</try>
+	</wordle>
+
+	<wordle date="2023-03-09" number="628" score="5" word="where">
+		<try>farce</try>
+		<try>prune</try>
+		<try>store</try>
+		<try>libre</try>
+		<try>where</try>
+	</wordle>
+
+	<wordle date="2023-03-10" number="629" score="5" word="revel">
+		<try>phase</try>
+		<try>enjoy</try>
+		<try>miter</try>
+		<try>cruel</try>
+		<try>revel</try>
+	</wordle>
+
+	<wordle date="2023-03-11" number="630" score="5" word="email">
+		<try>sonar</try>
+		<try>cable</try>
+		<try>aleph</try>
+		<try>delta</try>
+		<try>email</try>
+	</wordle>
+
+	<wordle date="2023-03-12" number="631" score="3" word="birth">
+		<try>cares</try>
+		<try>dirty</try>
+		<try>birth</try>
+	</wordle>
+
+	<wordle date="2023-03-13" number="632" score="5" word="blame">
+		<try>stand</try>
+		<try>flash</try>
+		<try>place</try>
+		<try>glare</try>
+		<try>blame</try>
+	</wordle>
+
+	<wordle date="2023-03-14" number="633" score="4" word="surly">
+		<try>spade</try>
+		<try>slush</try>
+		<try>skull</try>
+		<try>surly</try>
+	</wordle>
+
+	<wordle date="2023-03-15" number="634" score="6" word="sweep">
+		<try>place</try>
+		<try>spend</try>
+		<try>sleep</try>
+		<try>steep</try>
+		<try>sheep</try>
+		<try>sweep</try>
+	</wordle>
+
+	<wordle date="2023-03-16" number="635" score="3" word="cider">
+		<try>grunt</try>
+		<try>rapid</try>
+		<try>cider</try>
+	</wordle>
+
+	<wordle date="2023-03-17" number="636" score="4" word="mealy">
+		<try>never</try>
+		<try>metal</try>
+		<try>melba</try>
+		<try>mealy</try>
+	</wordle>
+
+	<wordle date="2023-03-18" number="637" score="3" word="yacht">
+		<try>crane</try>
+		<try>tacit</try>
+		<try>yacht</try>
+	</wordle>
+
+	<wordle date="2023-03-19" number="638" score="3" word="credo">
+		<try>place</try>
+		<try>cried</try>
+		<try>credo</try>
+	</wordle>
+
+	<wordle date="2023-03-20" number="639" score="6" word="glove">
+		<try>quilt</try>
+		<try>lares</try>
+		<try>blend</try>
+		<try>elope</try>
+		<try>clove</try>
+		<try>glove</try>
+	</wordle>
+
+	<wordle date="2023-03-21" number="640" score="3" word="tough">
+		<try>sixth</try>
+		<try>batch</try>
+		<try>tough</try>
+	</wordle>
+
+	<wordle date="2023-03-22" number="641" score="4" word="duvet">
+		<try>young</try>
+		<try>umber</try>
+		<try>fused</try>
+		<try>duvet</try>
+	</wordle>
+
+	<wordle date="2023-03-23" number="642" score="4" word="staid">
+		<try>steam</try>
+		<try>stain</try>
+		<try>stair</try>
+		<try>staid</try>
+	</wordle>
+
+	<wordle date="2023-03-24" number="643" score="6" word="grout">
+		<try>bacon</try>
+		<try>power</try>
+		<try>broil</try>
+		<try>froth</try>
+		<try>trout</try>
+		<try>grout</try>
+	</wordle>
+
+	<wordle date="2023-03-25" number="644" score="3" word="voter">
+		<try>stone</try>
+		<try>tenor</try>
+		<try>voter</try>
+	</wordle>
+
+	<wordle date="2023-03-26" number="645" score="4" word="untie">
+		<try>rapid</try>
+		<try>broil</try>
+		<try>stein</try>
+		<try>untie</try>
+	</wordle>
+
+	<wordle date="2023-03-27" number="646" score="4" word="guano">
+		<try>place</try>
+		<try>stark</try>
+		<try>moany</try>
+		<try>guano</try>
+	</wordle>
+
+	<wordle date="2023-03-28" number="647" score="4" word="hurry">
+		<try>poker</try>
+		<try>trial</try>
+		<try>rushy</try>
+		<try>hurry</try>
+	</wordle>
+
+	<wordle date="2023-03-29" number="648" score="4" word="beset">
+		<try>trope</try>
+		<try>steak</try>
+		<try>bites</try>
+		<try>beset</try>
+	</wordle>
+
+	<wordle date="2023-03-30" number="649" score="6" word="bread">
+		<try>tiger</try>
+		<try>realm</try>
+		<try>earns</try>
+		<try>opera</try>
+		<try>creak</try>
+		<try>bread</try>
+	</wordle>
+
+	<wordle date="2023-03-31" number="650" score="5" word="every">
+		<try>tubal</try>
+		<try>choir</try>
+		<try>press</try>
+		<try>reedy</try>
+		<try>every</try>
+	</wordle>
+
+	<wordle date="2023-04-01" number="651" score="4" word="march">
+		<try>world</try>
+		<try>strip</try>
+		<try>merge</try>
+		<try>march</try>
+	</wordle>
+
+	<wordle date="2023-04-02" number="652" score="4" word="stock">
+		<try>bland</try>
+		<try>power</try>
+		<try>couch</try>
+		<try>stock</try>
+	</wordle>
+
+	<wordle date="2023-04-03" number="653" score="4" word="flora">
+		<try>scour</try>
+		<try>probe</try>
+		<try>glory</try>
+		<try>flora</try>
+	</wordle>
+
+	<wordle date="2023-04-04" number="654" score="5" word="ratio">
+		<try>steak</try>
+		<try>tramp</try>
+		<try>ultra</try>
+		<try>actor</try>
+		<try>ratio</try>
+	</wordle>
+
+	<wordle date="2023-04-05" number="655" score="2" word="smash">
+		<try>marks</try>
+		<try>smash</try>
+	</wordle>
+
+	<wordle date="2023-04-06" number="656" score="3" word="leafy">
+		<try>youth</try>
+		<try>teary</try><!-- Not 100% -->
+		<try>leafy</try>
+	</wordle>
+
+	<wordle date="2023-04-07" number="657" score="5" word="locus">
+		<try>power</try>
+		<try>youth</try>
+		<try>mogul</try>
+		<try>solus</try>
+		<try>locus</try>
+	</wordle>
+
+	<wordle date="2023-04-08" number="658" score="4" word="ledge">
+		<try>trial</try>
+		<try>lunge</try>
+		<try>lodge</try>
+		<try>ledge</try>
+	</wordle>
+
+	<wordle date="2023-04-09" number="659" score="5" word="snafu">
+		<try>smart</try>
+		<try>slack</try>
+		<try>shave</try>
+		<try>spawn</try>
+		<try>snafu</try>
+	</wordle>
+
+	<wordle date="2023-04-10" number="660" score="5" word="under">
+		<try>foley</try>
+		<try>tried</try>
+		<try>darer</try>
+		<try>seder</try>
+		<try>under</try>
+	</wordle>
+
+	<wordle date="2023-04-11" number="661" score="4" word="qualm">
+		<try>dream</try>
+		<try>alarm</try>
+		<try>psalm</try>
+		<try>qualm</try>
+	</wordle>
+
+	<wordle date="2023-04-12" number="662" score="6" word="borax">
+		<try>wreck</try>
+		<try>roman</try>
+		<try>coral</try>
+		<try>foray</try>
+		<try>torah</try>
+		<try>borax</try>
+	</wordle>
+
+	<wordle date="2023-04-13" number="663" score="3" word="carat">
+		<try>cloak</try>
+		<try>cream</try>
+		<try>carat</try>
+	</wordle>
+
+	<wordle date="2023-04-14" number="664" score="3" word="thief">
+		<try>power</try>
+		<try>timed</try>
+		<try>thief</try>
+	</wordle>
+
+	<wordle date="2023-04-15" number="665" score="4" word="agony">
+		<try>trial</try>
+		<try>spade</try>
+		<try>bacon</try>
+		<try>agony</try>
+	</wordle>
+
+	<wordle date="2023-04-16" number="666" score="3" word="dwelt">
+		<try>weary</try>
+		<try>towed</try>
+		<try>dwelt</try>
+	</wordle>
+
+	<wordle date="2023-04-17" number="667" score="5" word="whiff">
+		<try>trunk</try>
+		<try>gleam</try>
+		<try>showy</try>
+		<try>which</try>
+		<try>whiff</try>
+	</wordle>
+
+	<wordle date="2023-04-18" number="668" score="3" word="hound">
+		<try>fable</try>
+		<try>pouch</try>
+		<try>hound</try>
+	</wordle>
+
+	<wordle date="2023-04-19" number="669" score="2" word="thump">
+		<try>cheap</try>
+		<try>thump</try>
+	</wordle>
+
+	<wordle date="2023-04-20" number="670" score="3" word="plate">
+		<try>trash</try>
+		<try>plant</try>
+		<try>plate</try>
+	</wordle>
+
+	<wordle date="2023-04-21" number="671" score="5" word="kayak">
+		<try>jeans</try>
+		<try>abort</try>
+		<try>palmy</try>
+		<try>yacht</try>
+		<try>kayak</try>
+	</wordle>
+
+	<wordle date="2023-04-22" number="672" score="4" word="broke">
+		<try>timer</try>
+		<try>reads</try>
+		<try>grove</try>
+		<try>broke</try>
+	</wordle>
+
+	<wordle date="2023-04-23" number="673" score="4" word="unzip">
+		<try>bland</try>
+		<try>unify</try>
+		<try>untie</try>
+		<try>unzip</try>
+	</wordle>
+
+	<wordle date="2023-04-24" number="674" score="4" word="ditto">
+		<try>frame</try>
+		<try>chino</try>
+		<try>polio</try>
+		<try>ditto</try>
+	</wordle>
+
+	<wordle date="2023-04-25" number="675" score="6" word="joker">
+		<try>plays</try>
+		<try>chino</try>
+		<try>overt</try>
+		<try>rover</try>
+		<try>boxer</try>
+		<try>joker</try>
+	</wordle>
+
+	<wordle date="2023-04-26" number="676" score="2" word="metro">
+		<try>route</try>
+		<try>metro</try>
+	</wordle>
+
+	<wordle date="2023-04-27" number="677" score="3" word="logic">
+		<try>clang</try>
+		<try>gulch</try>
+		<try>logic</try>
+	</wordle>
+
+	<wordle date="2023-04-28" number="678" score="5" word="circa">
+		<try>flash</try>
+		<try>tread</try>
+		<try>moira</try>
+		<try>varia</try>
+		<try>circa</try>
+	</wordle>
+
+	<wordle date="2023-04-29" number="679" score="4" word="cedar">
+		<try>flush</try>
+		<try>tread</try>
+		<try>debar</try>
+		<try>cedar</try>
+	</wordle>
+
+	<wordle date="2023-04-30" number="680" score="4" word="plaza">
+		<try>heard</try>
+		<try>plant</try>
+		<try>plays</try>
+		<try>plaza</try>
+	</wordle>
+
+	<wordle date="2023-05-01" number="681" score="3" word="range">
+		<try>great</try>
+		<try>large</try>
+		<try>range</try>
+	</wordle>
+
+	<wordle date="2023-05-02" number="682" score="4" word="sulky">
+		<try>loops</try>
+		<try>slate</try>
+		<try>skull</try>
+		<try>sulky</try>
+	</wordle>
+
+	<wordle date="2023-05-03" number="683" score="3" word="horde">
+		<try>quest</try>
+		<try>drape</try>
+		<try>horde</try>
+	</wordle>
+
+	<wordle date="2023-05-04" number="684" score="4" word="guppy">
+		<try>brave</try>
+		<try>pinky</try>
+		<try>loopy</try>
+		<try>guppy</try>
+	</wordle>
+
+	<wordle date="2023-05-05" number="685" score="5" word="below">
+		<try>stump</try>
+		<try>break</try>
+		<try>bendy</try>
+		<try>bevel</try>
+		<try>below</try>
+	</wordle>
+
+	<wordle date="2023-05-06" number="686" score="4" word="anger">
+		<try>erase</try>
+		<try>blear</try>
+		<try>pager</try>
+		<try>anger</try>
+	</wordle>
+
+	<wordle date="2023-05-07" number="687" score="4" word="ghoul">
+		<try>break</try>
+		<try>young</try>
+		<try>mogul</try>
+		<try>ghoul</try>
+	</wordle>
+
+	<wordle date="2023-05-08" number="688" score="4" word="aglow">
+		<try>wears</try>
+		<try>macaw</try>
+		<try>allow</try>
+		<try>aglow</try>
+	</wordle>
+
+	<wordle date="2023-05-09" number="689" score="5" word="cocoa">
+		<try>bread</try>
+		<try>along</try>
+		<try>soaks</try>
+		<try>mocha</try>
+		<try>cocoa</try>
+	</wordle>
+
+	<wordle date="2023-05-10" number="690" score="4" word="ethic">
+		<try>watch</try>
+		<try>chute</try>
+		<try>techy</try>
+		<try>ethic</try>
+	</wordle>
+
+	<wordle date="2023-05-11" number="691" score="4" word="broom">
+		<try>first</try>
+		<try>raced</try>
+		<try>wrong</try>
+		<try>broom</try>
+	</wordle>
+
+	<wordle date="2023-05-12" number="692" score="4" word="snack">
+		<try>paste</try>
+		<try>shaky</try>
+		<try>slack</try>
+		<try>snack</try>
+	</wordle>
+
+	<wordle date="2023-05-13" number="693" score="3" word="acrid">
+		<try>train</try>
+		<try>paris</try>
+		<try>acrid</try>
+	</wordle>
+
+	<wordle date="2023-05-14" number="694" score="4" word="scarf">
+		<try>notes</try>
+		<try>shack</try>
+		<try>scalp</try>
+		<try>scarf</try>
+	</wordle>
+
+	<wordle date="2023-05-15" number="695" score="5" word="canoe">
+		<try>pride</try>
+		<try>blame</try>
+		<try>waste</try>
+		<try>gauge</try>
+		<try>canoe</try>
+	</wordle>
+
+	<wordle date="2023-05-16" number="696" score="4" word="latte">
+		<try>phone</try>
+		<try>scare</try>
+		<try>gauge</try>
+		<try>latte</try>
+	</wordle>
+
+	<wordle date="2023-05-17" number="697" score="4" word="plank">
+		<try>power</try>
+		<try>plaid</try>
+		<try>plant</try>
+		<try>plank</try>
+	</wordle>
+
+	<wordle date="2023-05-18" number="698" score="4" word="shorn">
+		<try>shark</try>
+		<try>shirt</try>
+		<try>sherd</try>
+		<try>shorn</try>
+	</wordle>
+
+	<wordle date="2023-05-19" number="699" score="4" word="grief">
+		<try>drape</try>
+		<try>tries</try>
+		<try>brief</try>
+		<try>grief</try>
+	</wordle>
+
+	<wordle date="2023-05-20" number="700" score="2" word="flask">
+		<try>flick</try>
+		<try>flask</try>
+	</wordle>
+
+	<wordle date="2023-05-21" number="701" score="5" word="brash">
+		<try>prove</try>
+		<try>drill</try>
+		<try>trunk</try>
+		<try>crash</try>
+		<try>brash</try>
+	</wordle>
+
+	<wordle date="2023-05-22" number="702" score="3" word="igloo">
+		<try>great</try>
+		<try>sings</try>
+		<try>igloo</try>
+	</wordle>
+
+	<wordle date="2023-05-23" number="703" score="2" word="clerk">
+		<try>track</try>
+		<try>clerk</try>
+	</wordle>
+
+	<wordle date="2023-05-24" number="704" score="4" word="utter">
+		<try>blast</try>
+		<try>tower</try>
+		<try>cuter</try>
+		<try>utter</try>
+	</wordle>
+
+	<wordle date="2023-05-25" number="705" score="5" word="bagel">
+		<try>trash</try>
+		<try>paved</try>
+		<try>camel</try>
+		<try>babel</try>
+		<try>bagel</try>
+	</wordle>
+
+	<wordle date="2023-05-26" number="706" score="5" word="swine">
+		<try>crave</try>
+		<try>spoke</try>
+		<try>snide</try>
+		<try>spine</try>
+		<try>swine</try>
+	</wordle>
+
+	<wordle date="2023-05-27" number="707" score="3" word="ramen">
+		<try>fours</try>
+		<try>tiger</try>
+		<try>ramen</try>
+	</wordle>
+
+	<wordle date="2023-05-28" number="708" score="4" word="skimp">
+		<try>eagle</try>
+		<try>trips</try>
+		<try>spiny</try>
+		<try>skimp</try>
+	</wordle>
+
+	<wordle date="2023-05-29" number="709" score="4" word="mouse">
+		<try>wheat</try>
+		<try>devil</try>
+		<try>morse</try>
+		<try>mouse</try>
+	</wordle>
+
+	<wordle date="2023-05-30" number="710" score="4" word="kneel">
+		<try>cream</try>
+		<try>flesh</try>
+		<try>dwell</try>
+		<try>kneel</try>
+	</wordle>
+
+	<wordle date="2023-05-31" number="711" score="3" word="agile">
+		<try>train</try>
+		<try>alive</try>
+		<try>agile</try>
+	</wordle>
+
+	<wordle date="2023-06-01" number="712" score="0" word="jazzy">
+		<try>chord</try>
+		<try>steak</try>
+		<try>plain</try>
+		<try>guava</try>
+		<try>fabby</try>
+		<try>jammy</try>
+	</wordle>
+
+	<wordle date="2023-06-02" number="713" score="4" word="humid">
+		<try>black</try>
+		<try>white</try>
+		<try>hinds</try>
+		<try>humid</try>
+	</wordle>
+
+	<wordle date="2023-06-03" number="714" score="6" word="nanny">
+		<try>tower</try>
+		<try>salty</try>
+		<try>candy</try>
+		<try>janky</try>
+		<try>fanny</try>
+		<try>nanny</try>
+	</wordle>
+
+	<wordle date="2023-06-04" number="715" score="4" word="beast">
+		<try>under</try>
+		<try>steam</try>
+		<try>tease</try>
+		<try>beast</try>
+	</wordle>
+
+	<wordle date="2023-06-05" number="716" score="5" word="ennui">
+		<try>thorn</try>
+		<try>naive</try>
+		<try>sinew</try>
+		<try>denim</try>
+		<try>ennui</try>
+	</wordle>
+
+	<wordle date="2023-06-06" number="717" score="2" word="scout">
+		<try>young</try>
+		<try>scout</try>
+	</wordle>
+
+	<wordle date="2023-06-07" number="718" score="4" word="hater">
+		<try>early</try>
+		<try>water</try>
+		<try>dater</try>
+		<try>hater</try>
+	</wordle>
+
+	<wordle date="2023-06-08" number="719" score="2" word="crumb">
+		<try>trash</try>
+		<try>crumb</try>
+	</wordle>
+
+	<wordle date="2023-06-09" number="720" score="4" word="balsa">
+		<try>crate</try>
+		<try>handy</try>
+		<try>balms</try>
+		<try>balsa</try>
+	</wordle>
+
+	<wordle date="2023-06-10" number="721" score="5" word="again">
+		<try>timer</try>
+		<try>blind</try>
+		<try>infix</try>
+		<try>chain</try>
+		<try>again</try>
+	</wordle>
+
+	<wordle date="2023-06-11" number="722" score="3" word="guard">
+		<try>poser</try>
+		<try>gravy</try>
+		<try>guard</try>
+	</wordle>
+
+	<wordle date="2023-06-12" number="723" score="3" word="wrong">
+		<try>great</try>
+		<try>argon</try>
+		<try>wrong</try>
+	</wordle>
+
+	<wordle date="2023-06-13" number="724" score="4" word="plunk">
+		<try>break</try>
+		<try>snuck</try>
+		<try>flunk</try>
+		<try>plunk</try>
+	</wordle>
+
+	<wordle date="2023-06-14" number="725" score="4" word="crime">
+		<try>found</try>
+		<try>strap</try>
+		<try>brick</try>
+		<try>crime</try>
+	</wordle>
+
+	<wordle date="2023-06-15" number="726" score="5" word="maybe">
+		<try>tower</try>
+		<try>seals</try>
+		<try>paned</try>
+		<try>gauze</try>
+		<try>maybe</try>
+	</wordle>
+
+	<wordle date="2023-06-16" number="727" score="3" word="strap">
+		<try>picks</try>
+		<try>spear</try>
+		<try>strap</try>
+	</wordle>
+
+	<wordle date="2023-06-17" number="728" score="4" word="ranch">
+		<try>clear</try>
+		<try>scary</try>
+		<try>farce</try>
+		<try>ranch</try>
+	</wordle>
+
+	<wordle date="2023-06-18" number="729" score="4" word="shyly">
+		<try>frock</try>
+		<try>beats</try>
+		<try>swill</try>
+		<try>shyly</try>
+	</wordle>
+
+	<wordle date="2023-06-19" number="730" score="5" word="kazoo">
+		<try>plows</try>
+		<try>court</try>
+		<try>venom</try>
+		<try>yahoo</try>
+		<try>kazoo</try>
+	</wordle>
+
+	<wordle date="2023-06-20" number="731" score="4" word="frost">
+		<try>built</try>
+		<try>swept</try>
+		<try>roast</try>
+		<try>frost</try>
+	</wordle>
+
+	<wordle date="2023-06-21" number="732" score="3" word="crane">
+		<try>peach</try>
+		<try>crave</try>
+		<try>crane</try>
+	</wordle>
+
+	<wordle date="2023-06-22" number="733" score="4" word="taste">
+		<try>bloat</try>
+		<try>tacky</try>
+		<try>taper</try>
+		<try>taste</try>
+	</wordle>
+
+	<wordle date="2023-06-23" number="734" score="4" word="covet">
+		<try>cream</try>
+		<try>chute</try>
+		<try>cited</try>
+		<try>covet</try>
+	</wordle>
+
+	<wordle date="2023-06-24" number="735" score="4" word="grand">
+		<try>crazy</try>
+		<try>frail</try>
+		<try>brave</try>
+		<try>grand</try>
+	</wordle>
+
+	<wordle date="2023-06-25" number="736" score="4" word="rodeo">
+		<try>trick</try>
+		<try>realm</try>
+		<try>rogue</try>
+		<try>rodeo</try>
+	</wordle>
+
+	<wordle date="2023-06-26" number="737" score="4" word="guest">
+		<try>young</try>
+		<try>guava</try>
+		<try>guide</try>
+		<try>guest</try>
+	</wordle>
+
+	<wordle date="2023-06-27" number="738" score="3" word="about">
+		<try>soare</try>
+		<try>bloat</try>
+		<try>about</try>
+	</wordle>
+
+	<wordle date="2023-06-28" number="739" score="4" word="tract">
+		<try>trash</try>
+		<try>trace</try>
+		<try>track</try>
+		<try>tract</try>
+	</wordle>
+
+	<wordle date="2023-06-29" number="740" score="3" word="diner">
+		<try>dream</try>
+		<try>deter</try>
+		<try>diner</try>
+	</wordle>
+
+	<wordle date="2023-06-30" number="741" score="3" word="straw">
+		<try>woman</try>
+		<try>macaw</try>
+		<try>straw</try>
+	</wordle>
+
+	<wordle date="2023-07-01" number="742" score="3" word="bleep">
+		<try>dream</try>
+		<try>bleed</try>
+		<try>bleep</try>
+	</wordle>
+
+	<wordle date="2023-07-02" number="743" score="3" word="mossy">
+		<try>plays</try>
+		<try>story</try>
+		<try>mossy</try>
+	</wordle>
+
+	<wordle date="2023-07-03" number="744" score="2" word="hotel">
+		<try>later</try>
+		<try>hotel</try>
+	</wordle>
+
+	<wordle date="2023-07-04" number="745" score="3" word="irate">
+		<try>dials</try>
+		<try>train</try>
+		<try>irate</try>
+	</wordle>
+
+	<wordle date="2023-07-05" number="746" score="3" word="venom">
+		<try>horse</try>
+		<try>owned</try>
+		<try>venom</try>
+	</wordle>
+
+	<wordle date="2023-07-06" number="747" score="2" word="windy">
+		<try>daisy</try>
+		<try>windy</try>
+	</wordle>
+
+	<wordle date="2023-07-07" number="748" score="4" word="donut">
+		<try>woman</try>
+		<try>north</try>
+		<try>tonic</try>
+		<try>donut</try>
+	</wordle>
+
+	<wordle date="2023-07-08" number="749" score="0" word="cower">
+		<try>movie</try>
+		<try>woken</try>
+		<try>power</try>
+		<try>tower</try>
+		<try>lower</try>
+		<try>bower</try>
+	</wordle>
+
+	<wordle date="2023-07-09" number="750" score="2" word="enter">
+		<try>unset</try>
+		<try>enter</try>
+	</wordle>
+
+	<wordle date="2023-07-10" number="751" score="3" word="folly">
+		<try>grief</try>
+		<try>falsy</try>
+		<try>folly</try>
+	</wordle>
+
+	<wordle date="2023-07-11" number="752" score="3" word="earth">
+		<try>welsh</try>
+		<try>epoch</try>
+		<try>earth</try>
+	</wordle>
+
+	<wordle date="2023-07-12" number="753" score="5" word="whirl">
+		<try>blond</try>
+		<try>liver</try>
+		<try>peril</try>
+		<try>swirl</try>
+		<try>whirl</try>
+	</wordle>
+
+	<wordle date="2023-07-13" number="754" score="4" word="barge">
+		<try>clove</try>
+		<try>trade</try>
+		<try>parse</try>
+		<try>barge</try>
+	</wordle>
+
+	<wordle date="2023-07-14" number="755" score="4" word="fiend">
+		<try>scope</try>
+		<try>entry</try>
+		<try>clean</try>
+		<try>fiend</try>
+	</wordle>
+
+	<wordle date="2023-07-15" number="756" score="4" word="crone">
+		<try>truth</try>
+		<try>prone</try>
+		<try>drone</try>
+		<try>crone</try>
+	</wordle>
+
+	<wordle date="2023-07-16" number="757" score="3" word="topaz">
+		<try>steam</try>
+		<try>trial</try>
+		<try>topaz</try>
+	</wordle>
+
+	<wordle date="2023-07-17" number="758" score="5" word="droop">
+		<try>slice</try>
+		<try>gravy</try>
+		<try>proof</try>
+		<try>troop</try>
+		<try>droop</try>
+	</wordle>
+
+	<wordle date="2023-07-18" number="759" score="3" word="flyer">
+		<try>waste</try>
+		<try>reply</try>
+		<try>flyer</try>
+	</wordle>
+
+	<wordle date="2023-07-19" number="760" score="4" word="tonic">
+		<try>blast</try>
+		<try>tiger</try>
+		<try>think</try>
+		<try>tonic</try>
+	</wordle>
+
+	<wordle date="2023-07-20" number="761" score="4" word="flank">
+		<try>plant</try>
+		<try>blank</try>
+		<try>clank</try>
+		<try>flank</try>
+	</wordle>
+
+	<wordle date="2023-07-21" number="762" score="4" word="burly">
+		<try>rusty</try>
+		<try>hurry</try>
+		<try>curly</try>
+		<try>burly</try>
+	</wordle>
+
+	<wordle date="2023-07-22" number="763" score="0" word="froze">
+		<try>rainy</try>
+		<try>truth</try>
+		<try>prowl</try>
+		<try>cross</try>
+		<try>broke</try>
+		<try>erode</try>
+	</wordle>
+
+	<wordle date="2023-07-23" number="764" score="4" word="whale">
+		<try>safer</try>
+		<try>amend</try>
+		<try>beach</try>
+		<try>whale</try>
+	</wordle>
+
+	<wordle date="2023-07-24" number="765" score="4" word="hobby">
+		<try>price</try>
+		<try>boast</try>
+		<try>nobly</try>
+		<try>hobby</try>
+	</wordle>
+
+	<wordle date="2023-07-25" number="766" score="3" word="wheel">
+		<try>warms</try>
+		<try>while</try>
+		<try>wheel</try>
+	</wordle>
+
+	<wordle date="2023-07-26" number="767" score="2" word="heart">
+		<try>trace</try>
+		<try>heart</try>
+	</wordle>
+
+	<wordle date="2023-07-27" number="768" score="5" word="disco">
+		<try>stare</try>
+		<try>ploys</try>
+		<try>kiosk</try>
+		<try>bison</try>
+		<try>disco</try>
+	</wordle>
+
+	<wordle date="2023-07-28" number="769" score="5" word="ethos">
+		<try>lease</try>
+		<try>speck</try>
+		<try>jives</try>
+		<try>ergos</try>
+		<try>ethos</try>
+	</wordle>
+
+	<wordle date="2023-07-29" number="770" score="4" word="curly">
+		<try>dream</try>
+		<try>roust</try>
+		<try>lurch</try>
+		<try>curly</try>
+	</wordle>
+
+	<wordle date="2023-07-30" number="771" score="4" word="bathe">
+		<try>strap</try>
+		<try>taken</try>
+		<try>latte</try>
+		<try>bathe</try>
+	</wordle>
+
+	<wordle date="2023-07-31" number="772" score="5" word="style">
+		<try>grout</try>
+		<try>timed</try>
+		<try>vents</try>
+		<try>steak</try>
+		<try>style</try>
+	</wordle>
+
+	<wordle date="2023-08-01" number="773" score="3" word="tenth">
+		<try>strap</try>
+		<try>thyme</try>
+		<try>tenth</try>
+	</wordle>
+
+	<wordle date="2023-08-02" number="774" score="5" word="beget">
+		<try>plush</try>
+		<try>tread</try>
+		<try>jeton</try>
+		<try>befit</try>
+		<try>beget</try>
+	</wordle>
+
+	<wordle date="2023-08-03" number="775" score="3" word="party">
+		<try>split</try>
+		<try>taper</try>
+		<try>party</try>
+	</wordle>
+
+	<wordle date="2023-08-04" number="776" score="3" word="chart">
+		<try>dream</try>
+		<try>ranks</try>
+		<try>chart</try>
+	</wordle>
+
+	<wordle date="2023-08-05" number="777" score="4" word="anode">
+		<try>frame</try>
+		<try>cache</try>
+		<try>angle</try>
+		<try>anode</try>
+	</wordle>
+
+	<wordle date="2023-08-06" number="778" score="4" word="polyp">
+		<try>drown</try>
+		<try>hopes</try>
+		<try>polly</try>
+		<try>polyp</try>
+	</wordle>
+
+	<wordle date="2023-08-07" number="779" score="5" word="brook">
+		<try>quest</try>
+		<try>gravy</try>
+		<try>proof</try>
+		<try>brood</try>
+		<try>brook</try>
+	</wordle>
+
+	<wordle date="2023-08-08" number="780" score="2" word="bully">
+		<try>blush</try>
+		<try>bully</try>
+	</wordle>
+
+	<wordle date="2023-08-09" number="781" score="5" word="lover">
+		<try>lumpy</try>
+		<try>leash</try>
+		<try>litre</try>
+		<try>loner</try>
+		<try>lover</try>
+	</wordle>
+
+	<wordle date="2023-08-10" number="782" score="5" word="empty">
+		<try>viral</try>
+		<try>poked</try>
+		<try>spent</try>
+		<try>tuple</try>
+		<try>empty</try>
+	</wordle>
+
+	<wordle date="2023-08-11" number="783" score="5" word="hello">
+		<try>trunk</try>
+		<try>hijab</try>
+		<try>hoped</try>
+		<try>helos</try>
+		<try>hello</try>
+	</wordle>
+
+	<wordle date="2023-08-12" number="784" score="3" word="quick">
+		<try>flick</try>
+		<try>trick</try>
+		<try>quick</try>
+	</wordle>
+
+	<wordle date="2023-08-13" number="785" score="3" word="wrath">
+		<try>rains</try>
+		<try>heard</try>
+		<try>wrath</try>
+	</wordle>
+
+	<wordle date="2023-08-14" number="786" score="4" word="snaky">
+		<try>break</try>
+		<try>packs</try>
+		<try>shaky</try>
+		<try>snaky</try>
+	</wordle>
+
+	<wordle date="2023-08-15" number="787" score="3" word="index">
+		<try>blast</try>
+		<try>creep</try>
+		<try>index</try>
+	</wordle>
+
+	<wordle date="2023-08-16" number="788" score="5" word="scrub">
+		<try>graph</try>
+		<try>round</try>
+		<try>furry</try>
+		<try>serum</try>
+		<try>scrub</try>
+	</wordle>
+
+	<wordle date="2023-08-17" number="789" score="4" word="amiss">
+		<try>seven</try>
+		<try>flips</try>
+		<try>acids</try>
+		<try>amiss</try>
+	</wordle>
+
+	<wordle date="2023-08-18" number="790" score="4" word="exact">
+		<try>miles</try>
+		<try>evade</try>
+		<try>enact</try>
+		<try>exact</try>
+	</wordle>
+
+	<wordle date="2023-08-19" number="791" score="5" word="magma">
+		<try>rhine</try>
+		<try>class</try>
+		<try>vampy</try>
+		<try>datum</try>
+		<try>magma</try>
+	</wordle>
+
+	<wordle date="2023-08-20" number="792" score="3" word="quest">
+		<try>young</try>
+		<try>upset</try>
+		<try>quest</try>
+	</wordle>
+
+	<wordle date="2023-08-21" number="793" score="5" word="beach">
+		<try>stain</try>
+		<try>weary</try>
+		<try>heave</try>
+		<try>peach</try>
+		<try>beach</try>
+	</wordle>
+
+	<wordle date="2023-08-22" number="794" score="4" word="spice">
+		<try>freak</try>
+		<try>stole</try>
+		<try>spine</try>
+		<try>spice</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 31 😭 -->
+
+	<wordle date="2023-08-23" number="795" score="0" word="verve">
+		<try>width</try>
+		<try>opera</try>
+		<try>refer</try>
+		<try>merge</try>
+		<try>serve</try>
+		<try>nerve</try>
+	</wordle>
+
+	<wordle date="2023-08-24" number="796" score="4" word="wordy">
+		<try>wedge</try>
+		<try>width</try>
+		<try>world</try>
+		<try>wordy</try>
+	</wordle>
+
+	<wordle date="2023-08-25" number="797" score="4" word="ocean">
+		<try>speak</try>
+		<try>evade</try>
+		<try>arena</try>
+		<try>ocean</try>
+	</wordle>
+
+	<wordle date="2023-08-26" number="798" score="5" word="choir">
+		<try>frisk</try>
+		<try>river</try>
+		<try>incur</try>
+		<try>chair</try>
+		<try>choir</try>
+	</wordle>
+
+	<wordle date="2023-08-27" number="799" score="5" word="peace">
+		<try>dream</try>
+		<try>stale</try>
+		<try>awake</try>
+		<try>chafe</try>
+		<try>peace</try>
+	</wordle>
+
+	<wordle date="2023-08-28" number="800" score="5" word="write">
+		<try>bland</try>
+		<try>crush</try>
+		<try>grove</try>
+		<try>prime</try>
+		<try>write</try>
+	</wordle>
+
+	<wordle date="2023-08-29" number="801" score="4" word="caper">
+		<try>clear</try>
+		<try>carer</try>
+		<try>cater</try>
+		<try>caper</try>
+	</wordle>
+
+	<wordle date="2023-08-30" number="802" score="2" word="audio">
+		<try>bleak</try>
+		<try>audio</try>
+	</wordle>
+
+	<wordle date="2023-08-31" number="803" score="4" word="bride">
+		<try>plain</try>
+		<try>sides</try>
+		<try>deity</try>
+		<try>bride</try>
+	</wordle>
+
+	<wordle date="2023-09-01" number="804" score="4" word="space">
+		<try>pound</try>
+		<try>trips</try>
+		<try>speak</try>
+		<try>space</try>
+	</wordle>
+
+	<wordle date="2023-09-02" number="805" score="4" word="onion">
+		<try>liver</try>
+		<try>stain</try>
+		<try>union</try>
+		<try>onion</try>
+	</wordle>
+
+	<wordle date="2023-09-03" number="806" score="4" word="await">
+		<try>brand</try>
+		<try>stamp</try>
+		<try>thack</try>
+		<try>await</try>
+	</wordle>
+
+	<wordle date="2023-09-04" number="807" score="4" word="giddy">
+		<try>fleas</try>
+		<try>drunk</try>
+		<try>toddy</try>
+		<try>giddy</try>
+	</wordle>
+
+	<wordle date="2023-09-05" number="808" score="4" word="birch">
+		<try>think</try>
+		<try>hitch</try>
+		<try>zilch</try>
+		<try>birch</try>
+	</wordle>
+
+	<wordle date="2023-09-06" number="809" score="4" word="gnash">
+		<try>clues</try>
+		<try>stray</try>
+		<try>basin</try>
+		<try>gnash</try>
+	</wordle>
+
+	<wordle date="2023-09-07" number="810" score="3" word="dwell">
+		<try>stain</try>
+		<try>bleed</try>
+		<try>dwell</try>
+	</wordle>
+
+	<wordle date="2023-09-08" number="811" score="4" word="rouse">
+		<try>bring</try>
+		<try>rally</try>
+		<try>reuse</try>
+		<try>rouse</try>
+	</wordle>
+
+	<wordle date="2023-09-09" number="812" score="4" word="lucky">
+		<try>pearl</try>
+		<try>slows</try>
+		<try>unlit</try>
+		<try>lucky</try>
+	</wordle>
+
+	<wordle date="2023-09-10" number="813" score="3" word="quote">
+		<try>every</try>
+		<try>seats</try>
+		<try>quote</try>
+	</wordle>
+
+	<wordle date="2023-09-11" number="814" score="2" word="older">
+		<try>goals</try>
+		<try>older</try>
+	</wordle>
+
+	<wordle date="2023-09-12" number="815" score="4" word="whisk">
+		<try>plead</try>
+		<try>youth</try>
+		<try>shirk</try>
+		<try>whisk</try>
+	</wordle>
+
+	<wordle date="2023-09-13" number="816" score="3" word="clear">
+		<try>titan</try>
+		<try>regal</try>
+		<try>clear</try>
+	</wordle>
+
+	<wordle date="2023-09-14" number="817" score="4" word="rayon">
+		<try>joker</try>
+		<try>orbit</try>
+		<try>radon</try>
+		<try>rayon</try>
+	</wordle>
+
+	<wordle date="2023-09-15" number="818" score="5" word="exert">
+		<try>triad</try>
+		<try>retry</try>
+		<try>stare</try>
+		<try>overt</try>
+		<try>exert</try>
+	</wordle>
+
+	<wordle date="2023-09-16" number="819" score="4" word="angel">
+		<try>cubic</try>
+		<try>arson</try>
+		<try>angle</try>
+		<try>angel</try>
+	</wordle>
+
+	<wordle date="2023-09-17" number="820" score="4" word="music">
+		<try>aware</try>
+		<try>point</try>
+		<try>limbs</try>
+		<try>music</try>
+	</wordle>
+
+	<wordle date="2023-09-18" number="821" score="4" word="frank">
+		<try>weary</try>
+		<try>track</try>
+		<try>prank</try>
+		<try>frank</try>
+	</wordle>
+
+	<wordle date="2023-09-19" number="822" score="5" word="close">
+		<try>crave</try>
+		<try>coupe</try>
+		<try>clone</try>
+		<try>clove</try>
+		<try>close</try>
+	</wordle>
+
+	<wordle date="2023-09-20" number="823" score="4" word="snare">
+		<try>stick</try>
+		<try>slash</try>
+		<try>spare</try>
+		<try>snare</try>
+	</wordle>
+
+	<wordle date="2023-09-21" number="824" score="4" word="stone">
+		<try>flash</try>
+		<try>strum</try>
+		<try>sting</try>
+		<try>stone</try>
+	</wordle>
+
+	<wordle date="2023-09-22" number="825" score="4" word="brush">
+		<try>eight</try>
+		<try>havoc</try>
+		<try>flush</try>
+		<try>brush</try>
+	</wordle>
+
+	<wordle date="2023-09-23" number="826" score="2" word="carol">
+		<try>pared</try>
+		<try>carol</try>
+	</wordle>
+
+	<wordle date="2023-09-24" number="827" score="3" word="right">
+		<try>crash</try>
+		<try>their</try>
+		<try>right</try>
+	</wordle>
+
+	<wordle date="2023-09-25" number="828" score="3" word="rocky">
+		<try>prank</try>
+		<try>risky</try>
+		<try>rocky</try>
+	</wordle>
+
+	<wordle date="2023-09-26" number="829" score="4" word="loyal">
+		<try>print</try>
+		<try>faces</try>
+		<try>alloy</try>
+		<try>loyal</try>
+	</wordle>
+
+	<wordle date="2023-09-27" number="830" score="3" word="smile">
+		<try>dream</try>
+		<try>plume</try>
+		<try>smile</try>
+	</wordle>
+
+	<wordle date="2023-09-28" number="831" score="3" word="coach">
+		<try>ivory</try>
+		<try>chaos</try>
+		<try>coach</try>
+	</wordle>
+
+	<wordle date="2023-09-29" number="832" score="4" word="azure">
+		<try>throw</try>
+		<try>crane</try>
+		<try>faire</try>
+		<try>azure</try>
+	</wordle>
+
+	<wordle date="2023-09-30" number="833" score="6" word="daddy">
+		<try>blush</try>
+		<try>poker</try>
+		<try>twang</try>
+		<try>acidy</try>
+		<try>faddy</try>
+		<try>daddy</try>
+	</wordle>
+
+	<wordle date="2023-10-01" number="834" score="3" word="beret">
+		<try>sweat</try>
+		<try>debit</try>
+		<try>beret</try>
+	</wordle>
+
+	<wordle date="2023-10-02" number="835" score="5" word="merry">
+		<try>hound</try>
+		<try>bream</try>
+		<try>meter</try>
+		<try>mercy</try>
+		<try>merry</try>
+	</wordle>
+
+	<wordle date="2023-10-03" number="836" score="4" word="while">
+		<try>freak</try>
+		<try>stove</try>
+		<try>glide</try>
+		<try>while</try>
+	</wordle>
+
+	<wordle date="2023-10-04" number="837" score="4" word="spurt">
+		<try>tilde</try>
+		<try>stack</try>
+		<try>short</try>
+		<try>spurt</try>
+	</wordle>
+
+	<wordle date="2023-10-05" number="838" score="5" word="bunch">
+		<try>drink</try>
+		<try>newly</try>
+		<try>angst</try>
+		<try>cumin</try>
+		<try>bunch</try>
+	</wordle>
+
+	<wordle date="2023-10-06" number="839" score="4" word="chime">
+		<try>audio</try>
+		<try>cling</try>
+		<try>chief</try>
+		<try>chime</try>
+	</wordle>
+
+	<wordle date="2023-10-07" number="840" score="5" word="viola">
+		<try>track</try>
+		<try>sandy</try>
+		<try>apple</try>
+		<try>villa</try>
+		<try>viola</try>
+	</wordle>
+
+	<wordle date="2023-10-08" number="841" score="4" word="binge">
+		<try>truth</try>
+		<try>plays</try>
+		<try>coven</try>
+		<try>binge</try>
+	</wordle>
+
+	<wordle date="2023-10-09" number="842" score="4" word="truth">
+		<try>lower</try>
+		<try>rains</try>
+		<try>truck</try>
+		<try>truth</try>
+	</wordle>
+
+	<wordle date="2023-10-10" number="843" score="3" word="snail">
+		<try>spine</try>
+		<try>satin</try>
+		<try>snail</try>
+	</wordle>
+
+	<wordle date="2023-10-11" number="844" score="3" word="skunk">
+		<try>daisy</try>
+		<try>speck</try>
+		<try>skunk</try>
+	</wordle>
+
+	<wordle date="2023-10-12" number="845" score="6" word="knelt">
+		<try>shine</try>
+		<try>never</try>
+		<try>coven</try>
+		<try>enemy</try>
+		<try>knead</try>
+		<try>knelt</try>
+	</wordle>
+
+	<wordle date="2023-10-13" number="846" score="4" word="uncle">
+		<try>rusty</try>
+		<try>mauve</try>
+		<try>undue</try>
+		<try>uncle</try>
+	</wordle>
+
+	<wordle date="2023-10-14" number="847" score="3" word="agent">
+		<try>break</try>
+		<try>adept</try>
+		<try>agent</try>
+	</wordle>
+
+	<wordle date="2023-10-15" number="848" score="3" word="leaky">
+		<try>winks</try>
+		<try>choke</try>
+		<try>leaky</try>
+	</wordle>
+
+	<wordle date="2023-10-16" number="849" score="4" word="graph">
+		<try>crabs</try>
+		<try>frame</try>
+		<try>train</try>
+		<try>graph</try>
+	</wordle>
+
+	<wordle date="2023-10-17" number="850" score="4" word="adult">
+		<try>octal</try>
+		<try>talks</try>
+		<try>alter</try>
+		<try>adult</try>
+	</wordle>
+
+	<wordle date="2023-10-18" number="851" score="5" word="mercy">
+		<try>spawn</try>
+		<try>glued</try>
+		<try>moire</try>
+		<try>meter</try>
+		<try>mercy</try>
+	</wordle>
+
+	<wordle date="2023-10-19" number="852" score="4" word="splat">
+		<try>bland</try>
+		<try>loyal</try>
+		<try>gulag</try>
+		<try>splat</try>
+	</wordle>
+
+	<wordle date="2023-10-20" number="853" score="3" word="occur">
+		<try>wines</try>
+		<try>clout</try>
+		<try>occur</try>
+	</wordle>
+
+	<wordle date="2023-10-21" number="854" score="4" word="smirk">
+		<try>water</try>
+		<try>groin</try>
+		<try>shirk</try>
+		<try>smirk</try>
+	</wordle>
+
+	<wordle date="2023-10-22" number="855" score="3" word="given">
+		<try>tramp</try>
+		<try>loves</try>
+		<try>given</try>
+	</wordle>
+
+	<wordle date="2023-10-23" number="856" score="3" word="tempo">
+		<try>right</try>
+		<try>token</try>
+		<try>tempo</try>
+	</wordle>
+
+	<wordle date="2023-10-24" number="857" score="3" word="cause">
+		<try>navel</try>
+		<try>parse</try>
+		<try>cause</try>
+	</wordle>
+
+	<wordle date="2023-10-25" number="858" score="5" word="retry">
+		<try>stand</try>
+		<try>tower</try>
+		<try>crept</try>
+		<try>berth</try>
+		<try>retry</try>
+	</wordle>
+
+	<wordle date="2023-10-26" number="859" score="4" word="pique">
+		<try>speak</try>
+		<try>trope</try>
+		<try>plume</try>
+		<try>pique</try>
+	</wordle>
+
+	<wordle date="2023-10-27" number="860" score="4" word="noble">
+		<try>obeys</try>
+		<try>probe</try>
+		<try>boule</try>
+		<try>noble</try>
+	</wordle>
+
+	<wordle date="2023-10-28" number="861" score="4" word="mason">
+		<try>erase</try>
+		<try>salty</try>
+		<try>basic</try>
+		<try>mason</try>
+	</wordle>
+
+	<wordle date="2023-10-29" number="862" score="2" word="phony">
+		<try>young</try>
+		<try>phony</try>
+	</wordle>
+
+	<wordle date="2023-10-30" number="863" score="2" word="grail">
+		<try>slant</try>
+		<try>grail</try>
+	</wordle>
+
+	<wordle date="2023-10-31" number="864" score="4" word="bleak">
+		<try>panic</try>
+		<try>asset</try>
+		<try>heard</try>
+		<try>bleak</try>
+	</wordle>
+
+	<wordle date="2023-11-01" number="865" score="3" word="noise">
+		<try>brash</try>
+		<try>pulse</try>
+		<try>noise</try>
+	</wordle>
+
+	<wordle date="2023-11-02" number="866" score="4" word="until">
+		<try>leaps</try>
+		<try>clout</try>
+		<try>truly</try>
+		<try>until</try>
+	</wordle>
+
+	<wordle date="2023-11-03" number="867" score="4" word="ardor">
+		<try>fired</try>
+		<try>drunk</try>
+		<try>grads</try>
+		<try>ardor</try>
+	</wordle>
+
+	<wordle date="2023-11-04" number="868" score="3" word="mania">
+		<try>image</try>
+		<try>manic</try>
+		<try>mania</try>
+	</wordle>
+
+	<wordle date="2023-11-05" number="869" score="3" word="flare">
+		<try>daily</try>
+		<try>alert</try>
+		<try>flare</try>
+	</wordle>
+
+	<wordle date="2023-11-06" number="870" score="3" word="trade">
+		<try>swear</try>
+		<try>pearl</try>
+		<try>trade</try>
+	</wordle>
+
+	<wordle date="2023-11-07" number="871" score="4" word="limit">
+		<try>about</try>
+		<try>reset</try>
+		<try>flint</try>
+		<try>limit</try>
+	</wordle>
+
+	<wordle date="2023-11-08" number="872" score="4" word="ninja">
+		<try>print</try>
+		<try>inlay</try>
+		<try>manic</try>
+		<try>ninja</try>
+	</wordle>
+
+	<wordle date="2023-11-09" number="873" score="6" word="glaze">
+		<try>radio</try>
+		<try>stalk</try>
+		<try>leave</try>
+		<try>blame</try>
+		<try>place</try>
+		<try>glaze</try>
+	</wordle>
+
+	<wordle date="2023-11-10" number="874" score="4" word="leash">
+		<try>savoy</try>
+		<try>asked</try>
+		<try>phase</try>
+		<try>leash</try>
+	</wordle>
+
+	<wordle date="2023-11-11" number="875" score="4" word="actor">
+		<try>weary</try>
+		<try>rapid</try>
+		<try>arson</try>
+		<try>actor</try>
+	</wordle>
+
+	<wordle date="2023-11-12" number="876" score="3" word="meant">
+		<try>snipe</try>
+		<try>agent</try>
+		<try>meant</try>
+	</wordle>
+
+	<wordle date="2023-11-13" number="877" score="3" word="green">
+		<try>evade</try>
+		<try>teens</try>
+		<try>green</try>
+	</wordle>
+
+	<wordle date="2023-11-14" number="878" score="5" word="sassy">
+		<try>freak</try>
+		<try>angst</try>
+		<try>clash</try>
+		<try>massa</try>
+		<try>sassy</try>
+	</wordle>
+
+	<wordle date="2023-11-15" number="879" score="4" word="sight">
+		<try>steak</try>
+		<try>sport</try>
+		<try>swift</try>
+		<try>sight</try>
+	</wordle>
+
+	<wordle date="2023-11-16" number="880" score="5" word="trust">
+		<try>snail</try>
+		<try>pushy</try>
+		<try>rebus</try>
+		<try>crust</try>
+		<try>trust</try>
+	</wordle>
+
+	<wordle date="2023-11-17" number="881" score="3" word="tardy">
+		<try>stray</try>
+		<try>party</try>
+		<try>tardy</try>
+	</wordle>
+
+	<wordle date="2023-11-18" number="882" score="4" word="think">
+		<try>specs</try>
+		<try>drill</try>
+		<try>twink</try>
+		<try>think</try>
+	</wordle>
+
+	<wordle date="2023-11-19" number="883" score="4" word="queue">
+		<try>links</try>
+		<try>youth</try>
+		<try>puree</try>
+		<try>queue</try>
+	</wordle>
+
+	<wordle date="2023-11-20" number="884" score="5" word="candy">
+		<try>fried</try>
+		<try>dashy</try>
+		<try>badly</try>
+		<try>gaudy</try>
+		<try>candy</try>
+	</wordle>
+
+	<wordle date="2023-11-21" number="885" score="2" word="piano">
+		<try>phone</try>
+		<try>piano</try>
+	</wordle>
+
+	<wordle date="2023-11-22" number="886" score="4" word="pixel">
+		<try>whale</try>
+		<try>lever</try>
+		<try>miles</try>
+		<try>pixel</try>
+	</wordle>
+
+	<wordle date="2023-11-23" number="887" score="3" word="queen">
+		<try>ticks</try>
+		<try>squad</try>
+		<try>queen</try>
+	</wordle>
+
+	<wordle date="2023-11-24" number="888" score="4" word="throw">
+		<try>eight</try>
+		<try>thumb</try>
+		<try>thack</try>
+		<try>throw</try>
+	</wordle>
+
+	<wordle date="2023-11-25" number="889" score="4" word="guide">
+		<try>stock</try>
+		<try>ready</try>
+		<try>glide</try>
+		<try>guide</try>
+	</wordle>
+
+	<wordle date="2023-11-26" number="890" score="4" word="solid">
+		<try>stuck</try>
+		<try>shore</try>
+		<try>salon</try>
+		<try>solid</try>
+	</wordle>
+
+	<wordle date="2023-11-27" number="891" score="5" word="tawny">
+		<try>novel</try>
+		<try>shiny</try>
+		<try>funny</try>
+		<try>carny</try>
+		<try>tawny</try>
+	</wordle>
+
+	<wordle date="2023-11-28" number="892" score="4" word="scope">
+		<try>blast</try>
+		<try>swing</try>
+		<try>spore</try>
+		<try>scope</try>
+	</wordle>
+
+	<wordle date="2023-11-29" number="893" score="4" word="sushi">
+		<try>merry</try>
+		<try>polka</try>
+		<try>swift</try>
+		<try>sushi</try>
+	</wordle>
+
+	<wordle date="2023-11-30" number="894" score="4" word="risen">
+		<try>blunt</try>
+		<try>nonce</try>
+		<try>infer</try>
+		<try>risen</try>
+	</wordle>
+
+	<wordle date="2023-12-01" number="895" score="4" word="taken">
+		<try>spark</try>
+		<try>koala</try>
+		<try>tacky</try>
+		<try>taken</try>
+	</wordle>
+
+	<wordle date="2023-12-02" number="896" score="4" word="genre">
+		<try>stoke</try>
+		<try>pride</try>
+		<try>blare</try>
+		<try>genre</try>
+	</wordle>
+
+	<wordle date="2023-12-03" number="897" score="5" word="adapt">
+		<try>drink</try>
+		<try>bleed</try>
+		<try>maddy</try>
+		<try>adopt</try>
+		<try>adapt</try>
+	</wordle>
+
+	<wordle date="2023-12-04" number="898" score="4" word="worst">
+		<try>poker</try>
+		<try>corny</try>
+		<try>torus</try>
+		<try>worst</try>
+	</wordle>
+
+	<wordle date="2023-12-05" number="899" score="5" word="young">
+		<try>steak</try>
+		<try>crowd</try>
+		<try>opium</try>
+		<try>bough</try>
+		<try>young</try>
+	</wordle>
+
+	<wordle date="2023-12-06" number="900" score="5" word="woman">
+		<try>young</try>
+		<try>sonic</try>
+		<try>noted</try>
+		<try>roman</try>
+		<try>woman</try>
+	</wordle>
+
+	<wordle date="2023-12-07" number="901" score="2" word="sleep">
+		<try>cleft</try>
+		<try>sleep</try>
+	</wordle>
+
+	<wordle date="2023-12-08" number="902" score="3" word="sharp">
+		<try>blast</try>
+		<try>swamp</try>
+		<try>sharp</try>
+	</wordle>
+
+	<wordle date="2023-12-09" number="903" score="5" word="shift">
+		<try>place</try>
+		<try>units</try>
+		<try>stiff</try>
+		<try>swift</try>
+		<try>shift</try>
+	</wordle>
+
+	<wordle date="2023-12-10" number="904" score="3" word="chain">
+		<try>plant</try>
+		<try>snack</try>
+		<try>chain</try>
+	</wordle>
+
+	<wordle date="2023-12-11" number="905" score="4" word="house">
+		<try>plane</try>
+		<try>drive</try>
+		<try>smote</try>
+		<try>house</try>
+	</wordle>
+
+	<wordle date="2023-12-12" number="906" score="4" word="these">
+		<try>arrow</try>
+		<try>plush</try>
+		<try>heist</try>
+		<try>these</try>
+	</wordle>
+
+	<wordle date="2023-12-13" number="907" score="4" word="spent">
+		<try>tread</try>
+		<try>steep</try>
+		<try>slept</try>
+		<try>spent</try>
+	</wordle>
+
+	<wordle date="2023-12-14" number="908" score="3" word="would">
+		<try>power</try>
+		<try>wonky</try>
+		<try>would</try>
+	</wordle>
+
+	<wordle date="2023-12-15" number="909" score="4" word="topic">
+		<try>grown</try>
+		<try>salvo</try>
+		<try>doped</try>
+		<try>topic</try>
+	</wordle>
+
+	<wordle date="2023-12-16" number="910" score="6" word="globe">
+		<try>crash</try>
+		<try>pound</try>
+		<try>jello</try>
+		<try>flote</try>
+		<try>glove</try>
+		<try>globe</try>
+	</wordle>
+
+	<wordle date="2023-12-17" number="911" score="4" word="bacon">
+		<try>stray</try>
+		<try>amend</try>
+		<try>chain</try>
+		<try>bacon</try>
+	</wordle>
+
+	<wordle date="2023-12-18" number="912" score="4" word="funny">
+		<try>drone</try>
+		<try>trunk</try>
+		<try>bunny</try>
+		<try>funny</try>
+	</wordle>
+
+	<wordle date="2023-12-19" number="913" score="4" word="table">
+		<try>wands</try>
+		<try>paver</try>
+		<try>tache</try>
+		<try>table</try>
+	</wordle>
+
+	<wordle date="2023-12-20" number="914" score="4" word="small">
+		<try>music</try>
+		<try>shame</try>
+		<try>smart</try>
+		<try>small</try>
+	</wordle>
+
+	<wordle date="2023-12-21" number="915" score="5" word="built">
+		<try>stone</try>
+		<try>truly</try>
+		<try>guilt</try>
+		<try>quilt</try>
+		<try>built</try>
+	</wordle>
+
+	<wordle date="2023-12-22" number="916" score="4" word="touch">
+		<try>crown</try>
+		<try>mocha</try>
+		<try>botch</try>
+		<try>touch</try>
+	</wordle>
+
+	<wordle date="2023-12-23" number="917" score="4" word="slope">
+		<try>trick</try>
+		<try>bound</try>
+		<try>shove</try>
+		<try>slope</try>
+	</wordle>
+
+	<wordle date="2023-12-24" number="918" score="3" word="grace">
+		<try>gifts</try>
+		<try>green</try>
+		<try>grace</try>
+	</wordle>
+
+	<wordle date="2023-12-25" number="919" score="4" word="evoke">
+		<try>plays</try>
+		<try>drown</try>
+		<try>emote</try>
+		<try>evoke</try>
+	</wordle>
+
+	<wordle date="2023-12-26" number="920" score="3" word="phone">
+		<try>rides</try>
+		<try>petal</try>
+		<try>phone</try>
+	</wordle>
+
+	<wordle date="2023-12-27" number="921" score="4" word="daisy">
+		<try>opera</try>
+		<try>chalk</try>
+		<try>sandy</try>
+		<try>daisy</try>
+	</wordle>
+
+	<wordle date="2023-12-28" number="922" score="4" word="learn">
+		<try>truck</try>
+		<try>rival</try>
+		<try>laser</try>
+		<try>learn</try>
+	</wordle>
+
+	<wordle date="2023-12-29" number="923" score="6" word="child">
+		<try>wrong</try>
+		<try>tubas</try>
+		<try>chimp</try>
+		<try>chill</try>
+		<try>chili</try>
+		<try>child</try>
+	</wordle>
+
+	<wordle date="2023-12-30" number="924" score="4" word="three">
+		<try>power</try>
+		<try>dares</try>
+		<try>beret</try>
+		<try>three</try>
+	</wordle>
+
+	<wordle date="2023-12-31" number="925" score="4" word="salty">
+		<try>tread</try>
+		<try>attic</try>
+		<try>jaunt</try>
+		<try>salty</try>
+	</wordle>
+
+</wordles>
