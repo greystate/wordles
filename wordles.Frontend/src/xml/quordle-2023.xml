@@ -1,0 +1,4102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles">
+
+	<quordle date="2023-01-01" number="342" scores="3 7 5 8" words="seize abase ethos valid">
+		<try>years</try>
+		<try>point</try>
+		<try>seize</try>
+		<try>chase</try>
+		<try>ethos</try>
+		<try>aioli</try>
+		<try>abase</try>
+		<try>valid</try>
+	</quordle>
+
+	<quordle date="2023-01-02" number="343" scores="4 6 3 9" words="surly touch sorry wreak">
+		<try>stone</try>
+		<try>solar</try>
+		<try>sorry</try>
+		<try>surly</try>
+		<try>mouth</try>
+		<try>touch</try>
+		<try>bread</try>
+		<try>freak</try>
+		<try>wreak</try>
+	</quordle>
+
+	<quordle date="2023-01-03" number="344" scores="6 5 8 7" words="harsh laden slyly ratio">
+		<try>avoid</try>
+		<try>types</try>
+		<try>human</try>
+		<try>pesky</try>
+		<try>laden</try>
+		<try>harsh</try>
+		<try>ratio</try>
+		<try>slyly</try>
+	</quordle>
+
+	<quordle date="2023-01-04" number="345" scores="5 6 8 3" words="harsh short kappa sober">
+		<try>randy</try>
+		<try>power</try>
+		<try>sober</try>
+		<try>camps</try>
+		<try>harsh</try>
+		<try>short</try>
+		<try>palpi</try>
+		<try>kappa</try>
+	</quordle>
+
+	<quordle date="2023-01-05" number="346" scores="5 7 8 2" words="suave pasty bylaw blink">
+		<try>brisk</try>
+		<try>blink</try>
+		<try>jumps</try>
+		<try>death</try>
+		<try>suave</try>
+		<try>pasta</try>
+		<try>pasty</try>
+		<try>bylaw</try>
+	</quordle>
+
+	<quordle date="2023-01-06" number="347" scores="3 7 0 5" words="nurse learn bitty crude">
+		<try>scone</try>
+		<try>unsee</try>
+		<try>nurse</try>
+		<try>milky</try>
+		<try>crude</try>
+		<try>renal</try>
+		<try>learn</try>
+		<try>piggy</try>
+		<try>witty</try>
+	</quordle>
+
+	<quordle date="2023-01-07" number="348" scores="7 8 0 4" words="candy privy ninth drier">
+		<try>spore</try>
+		<try>tiger</try>
+		<try>muddy</try>
+		<try>drier</try>
+		<try>pricy</try>
+		<try>caddy</try>
+		<try>candy</try>
+		<try>privy</try>
+		<try>binit</try>
+	</quordle>
+
+	<quordle date="2023-01-08" number="349" scores="7 5 6 8" words="share vapid ought heron">
+		<try>candy</try>
+		<try>darts</try>
+		<try>bland</try>
+		<try>mopes</try>
+		<try>vapid</try>
+		<try>ought</try>
+		<try>share</try>
+		<try>heron</try>
+	</quordle>
+
+	<quordle date="2023-01-09" number="350" scores="7 8 5 9" words="aider ripen vista wheel">
+		<try>block</try>
+		<try>scant</try>
+		<try>fresh</try>
+		<try>minus</try>
+		<try>vista</try>
+		<try>aired</try>
+		<try>aider</try>
+		<try>ripen</try>
+		<try>wheel</try>
+	</quordle>
+
+	<quordle date="2023-01-10" number="351" scores="4 0 8 9" words="taper moody chili swill">
+		<try>alien</try>
+		<try>panel</try>
+		<try>torus</try>
+		<try>taper</try>
+		<try>skill</try>
+		<try>shill</try>
+		<try>child</try>
+		<try>chili</try>
+		<try>swill</try>
+	</quordle>
+
+	<quordle date="2023-01-11" number="352" scores="6 9 5 8" words="plank shone artsy click">
+		<try>waits</try>
+		<try>opera</try>
+		<try>dumpy</try>
+		<try>prank</try>
+		<try>artsy</try>
+		<try>plank</try>
+		<try>flick</try>
+		<try>click</try>
+		<try>shone</try>
+	</quordle>
+
+	<quordle date="2023-01-12" number="353" scores="7 9 0 5" words="vocal press gusto decal">
+		<try>faces</try>
+		<try>offer</try>
+		<try>trend</try>
+		<try>decay</try>
+		<try>decal</try>
+		<try>local</try>
+		<try>vocal</try>
+		<try>stomp</try>
+		<try>press</try>
+	</quordle>
+
+	<quordle date="2023-01-13" number="354" scores="8 5 6 4" words="reedy voice curve start">
+		<try>psych</try>
+		<try>timer</try>
+		<try>stich</try>
+		<try>start</try>
+		<try>voice</try>
+		<try>curve</try>
+		<try>redly</try>
+		<try>reedy</try>
+	</quordle>
+
+	<quordle date="2023-01-14" number="355" scores="3 8 6 0" words="bushy worry patio shave">
+		<try>abyss</try>
+		<try>sybil</try>
+		<try>bushy</try>
+		<try>shake</try>
+		<try>panic</try>
+		<try>patio</try>
+		<try>moray</try>
+		<try>worry</try>
+		<try>shade</try>
+	</quordle>
+
+	<quordle date="2023-01-15" number="356" scores="7 6 8 4" words="crawl groin glide polka">
+		<try>flash</try>
+		<try>point</try>
+		<try>polar</try>
+		<try>polka</try>
+		<try>grail</try>
+		<try>groin</try>
+		<try>crawl</try>
+		<try>glide</try>
+	</quordle>
+
+	<quordle date="2023-01-16" number="357" scores="7 5 9 0" words="crank joker lasso tooth">
+		<try>bingo</try>
+		<try>means</try>
+		<try>dryer</try>
+		<try>prank</try>
+		<try>joker</try>
+		<try>frank</try>
+		<try>crank</try>
+		<try>salto</try>
+		<try>lasso</try>
+	</quordle>
+
+	<quordle date="2023-01-17" number="358" scores="4 8 9 3" words="stiff photo datum frisk">
+		<try>least</try>
+		<try>stock</try>
+		<try>frisk</try>
+		<try>stiff</try>
+		<try>manta</try>
+		<try>broth</try>
+		<try>hooty</try>
+		<try>photo</try>
+		<try>datum</try>
+	</quordle>
+
+	<quordle date="2023-01-18" number="359" scores="8 7 0 0" words="sheer drier rower cinch">
+		<try>dooms</try>
+		<try>chirp</try>
+		<try>drink</try>
+		<try>lordy</try>
+		<try>drift</try>
+		<try>shear</try>
+		<try>drier</try>
+		<try>sheer</try>
+		<try>bower</try>
+	</quordle>
+
+	<quordle date="2023-01-19" number="360" scores="7 8 6 3" words="crypt poppy poise flesh">
+		<try>force</try>
+		<try>crash</try>
+		<try>flesh</try>
+		<try>young</try>
+		<try>moose</try>
+		<try>poise</try>
+		<try>crypt</try>
+		<try>poppy</try>
+	</quordle>
+
+	<quordle date="2023-01-20" number="361" scores="9 4 6 5" words="annex track chafe movie">
+		<try>alter</try>
+		<try>merit</try>
+		<try>traps</try>
+		<try>track</try>
+		<try>movie</try>
+		<try>chafe</try>
+		<try>added</try>
+		<try>abbey</try>
+		<try>annex</try>
+	</quordle>
+
+	<quordle date="2023-01-21" number="362" scores="7 5 6 3" words="retry gleam blunt snide">
+		<try>lares</try>
+		<try>spore</try>
+		<try>snide</try>
+		<try>elate</try>
+		<try>gleam</try>
+		<try>blunt</try>
+		<try>retry</try>
+	</quordle>
+
+	<quordle date="2023-01-22" number="363" scores="5 8 7 9" words="swell cruel snake druid">
+		<try>slate</try>
+		<try>scare</try>
+		<try>shave</try>
+		<try>spade</try>
+		<try>swell</try>
+		<try>drink</try>
+		<try>snake</try>
+		<try>cruel</try>
+		<try>druid</try>
+	</quordle>
+
+	<quordle date="2023-01-23" number="364" scores="9 6 8 7" words="woken scale bluff fling">
+		<try>quest</try>
+		<try>frail</try>
+		<try>spare</try>
+		<try>snake</try>
+		<try>swale</try>
+		<try>scale</try>
+		<try>fling</try>
+		<try>bluff</try>
+		<try>woken</try>
+	</quordle>
+
+	<quordle date="2023-01-24" number="365" scores="5 6 9 8" words="cloth pluck waltz betel">
+		<try>trace</try>
+		<try>poked</try>
+		<try>octal</try>
+		<try>intel</try>
+		<try>cloth</try>
+		<try>pluck</try>
+		<try>salty</try>
+		<try>betel</try>
+		<try>waltz</try>
+	</quordle>
+
+	<quordle date="2023-01-25" number="366" scores="4 6 9 8" words="wound swore asset mango">
+		<try>whale</try>
+		<try>width</try>
+		<try>young</try>
+		<try>wound</try>
+		<try>owner</try>
+		<try>swore</try>
+		<try>mates</try>
+		<try>mango</try>
+		<try>asset</try>
+	</quordle>
+
+	<quordle date="2023-01-26" number="367" scores="7 6 5 4" words="nerve heady tulip strap">
+		<try>doubt</try>
+		<try>flare</try>
+		<try>spicy</try>
+		<try>strap</try>
+		<try>tulip</try>
+		<try>heady</try>
+		<try>nerve</try>
+	</quordle>
+
+	<quordle date="2023-01-27" number="368" scores="4 9 7 5" words="sugar kneed elder arose">
+		<try>tiger</try>
+		<try>power</try>
+		<try>cigar</try>
+		<try>sugar</try>
+		<try>arose</try>
+		<try>lever</try>
+		<try>elder</try>
+		<try>hyped</try>
+		<try>kneed</try>
+	</quordle>
+
+	<quordle date="2023-01-28" number="369" scores="6 4 8 5" words="newly pupil utter brine">
+		<try>tanks</try>
+		<try>power</try>
+		<try>pubic</try>
+		<try>pupil</try>
+		<try>brine</try>
+		<try>newly</try>
+		<try>truer</try>
+		<try>utter</try>
+	</quordle>
+
+	<quordle date="2023-01-29" number="370" scores="7 5 8 4" words="erode state wacky tasty">
+		<try>plays</try>
+		<try>stray</try>
+		<try>antsy</try>
+		<try>tasty</try>
+		<try>state</try>
+		<try>drove</try>
+		<try>erode</try>
+		<try>wacky</try>
+	</quordle>
+
+	<quordle date="2023-01-30" number="371" scores="6 3 7 8" words="grout spurt towel agate">
+		<try>stars</try>
+		<try>sport</try>
+		<try>spurt</try>
+		<try>trout</try>
+		<try>crout</try>
+		<try>grout</try>
+		<try>towel</try>
+		<try>agate</try>
+	</quordle>
+
+	<quordle date="2023-01-31" number="372" scores="9 3 6 5" words="verge short tripe stoic">
+		<try>stare</try>
+		<try>sport</try>
+		<try>short</try>
+		<try>stock</try>
+		<try>stoic</try>
+		<try>tripe</try>
+		<try>nudge</try>
+		<try>merge</try>
+		<try>verge</try>
+	</quordle>
+
+	<quordle date="2023-02-01" number="373" scores="8 0 5 0" words="thick ninth avian excel">
+		<try>music</try>
+		<try>cigar</try>
+		<try>incur</try>
+		<try>voice</try>
+		<try>avian</try>
+		<try>juicy</try>
+		<try>which</try>
+		<try>thick</try>
+		<try>filth</try>
+	</quordle>
+
+	<quordle date="2023-02-02" number="374" scores="7 8 6 9" words="winch havoc amuse depot">
+		<try>plank</try>
+		<try>spice</try>
+		<try>youth</try>
+		<try>cinch</try>
+		<try>abuse</try>
+		<try>amuse</try>
+		<try>winch</try>
+		<try>havoc</try>
+		<try>depot</try>
+	</quordle>
+
+	<quordle date="2023-02-03" number="375" scores="0 8 4 9" words="offer horde stein shear">
+		<try>goats</try>
+		<try>price</try>
+		<try>stear</try>
+		<try>stein</try>
+		<try>horse</try>
+		<try>smear</try>
+		<try>swear</try>
+		<try>horde</try>
+		<try>shear</try>
+	</quordle>
+
+	<quordle date="2023-02-04" number="376" scores="7 4 5 8" words="erase borne sling brood">
+		<try>power</try>
+		<try>rents</try>
+		<try>clear</try>
+		<try>borne</try>
+		<try>sling</try>
+		<try>broom</try>
+		<try>erase</try>
+		<try>brood</try>
+	</quordle>
+
+	<quordle date="2023-02-05" number="377" scores="8 0 3 4" words="honey pouty price prank">
+		<try>stank</try>
+		<try>crank</try>
+		<try>price</try>
+		<try>prank</try>
+		<try>gnome</try>
+		<try>honed</try>
+		<try>polly</try>
+		<try>honey</try>
+		<try>potty</try>
+	</quordle>
+
+	<quordle date="2023-02-06" number="378" scores="8 4 7 6" words="shone wrist chili canoe">
+		<try>flirt</try>
+		<try>print</try>
+		<try>spans</try>
+		<try>wrist</try>
+		<try>scone</try>
+		<try>canoe</try>
+		<try>chili</try>
+		<try>shone</try>
+	</quordle>
+
+	<quordle date="2023-02-07" number="379" scores="3 8 7 0" words="piney oxide nanny sight">
+		<try>grace</try>
+		<try>imply</try>
+		<try>piney</try>
+		<try>inane</try>
+		<try>fanny</try>
+		<try>tight</try>
+		<try>nanny</try>
+		<try>oxide</try>
+		<try>wight</try>
+	</quordle>
+
+	<quordle date="2023-02-08" number="380" scores="8 7 5 6" words="octet cameo strut money">
+		<try>great</try>
+		<try>short</try>
+		<try>depot</try>
+		<try>furry</try>
+		<try>strut</try>
+		<try>money</try>
+		<try>cameo</try>
+		<try>octet</try>
+	</quordle>
+
+	<quordle date="2023-02-09" number="381" scores="8 4 7 6" words="badly lunge gaudy gazer">
+		<try>miles</try>
+		<try>trace</try>
+		<try>punky</try>
+		<try>lunge</try>
+		<try>wager</try>
+		<try>gazer</try>
+		<try>gaudy</try>
+		<try>badly</try>
+	</quordle>
+
+	<quordle date="2023-02-10" number="382" scores="4 6 0 0" words="turbo stray frill clown">
+		<try>steel</try>
+		<try>strap</try>
+		<try>worst</try>
+		<try>turbo</try>
+		<try>wolly</try>
+		<try>stray</try>
+		<try>drill</try>
+		<try>grill</try>
+		<try>krill</try>
+	</quordle>
+
+	<quordle date="2023-02-11" number="383" scores="7 9 6 3" words="swami dogma sieve bound">
+		<try>brink</try>
+		<try>bland</try>
+		<try>bound</try>
+		<try>hypes</try>
+		<try>vista</try>
+		<try>sieve</try>
+		<try>swami</try>
+		<try>comma</try>
+		<try>dogma</try>
+	</quordle>
+
+	<quordle date="2023-02-12" number="384" scores="7 8 6 3" words="plump dryly basil tease">
+		<try>speed</try>
+		<try>rinse</try>
+		<try>tease</try>
+		<try>block</try>
+		<try>bails</try>
+		<try>basil</try>
+		<try>plump</try>
+		<try>dryly</try>
+	</quordle>
+
+	<quordle date="2023-02-13" number="385" scores="0 6 0 5" words="wooer state feral strip">
+		<try>crank</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>slate</try>
+		<try>strip</try>
+		<try>state</try>
+		<try>hover</try>
+		<try>roger</try>
+		<try>boxer</try>
+	</quordle>
+
+	<quordle date="2023-02-14" number="386" scores="5 6 7 8" words="among gulch halve outgo">
+		<try>space</try>
+		<try>adore</try>
+		<try>linty</try>
+		<try>flung</try>
+		<try>among</try>
+		<try>gulch</try>
+		<try>halve</try>
+		<try>outgo</try>
+	</quordle>
+
+	<quordle date="2023-02-15" number="387" scores="9 6 3 7" words="rebut shirt clash scamp">
+		<try>front</try>
+		<try>plush</try>
+		<try>clash</try>
+		<try>space</try>
+		<try>scalp</try>
+		<try>shirt</try>
+		<try>scamp</try>
+		<try>duvet</try>
+		<try>rebut</try>
+	</quordle>
+
+	<quordle date="2023-02-16" number="388" scores="7 5 3 4" words="cleat chunk snare turbo">
+		<try>trunk</try>
+		<try>strip</try>
+		<try>snare</try>
+		<try>turbo</try>
+		<try>chunk</try>
+		<try>cadet</try>
+		<try>cleat</try>
+	</quordle>
+
+	<quordle date="2023-02-17" number="389" scores="9 0 5 0" words="cliff freak mouth troop">
+		<try>trash</try>
+		<try>trunk</try>
+		<try>south</try>
+		<try>wimpy</try>
+		<try>mouth</try>
+		<try>glide</try>
+		<try>creak</try>
+		<try>break</try>
+		<try>cliff</try>
+	</quordle>
+
+	<quordle date="2023-02-18" number="390" scores="3 6 8 7" words="prose leach flute folio">
+		<try>reads</try>
+		<try>power</try>
+		<try>prose</try>
+		<try>thick</try>
+		<try>beach</try>
+		<try>leach</try>
+		<try>folio</try>
+		<try>flute</try>
+	</quordle>
+
+
+	<quordle date="2023-02-19" number="391" scores="5 6 3 9" words="cleat bless today conch">
+		<try>found</try>
+		<try>tears</try>
+		<try>today</try>
+		<try>climb</try>
+		<try>cleat</try>
+		<try>bless</try>
+		<try>convo</try>
+		<try>congo</try>
+		<try>conch</try>
+	</quordle>
+
+	<quordle date="2023-02-20" number="392" scores="3 6 7 0" words="loyal camel oddly quite">
+		<try>glory</try>
+		<try>folly</try>
+		<try>loyal</try>
+		<try>stein</try>
+		<try>cited</try>
+		<try>camel</try>
+		<try>oddly</try>
+		<try>evict</try>
+		<try>white</try>
+	</quordle>
+
+	<quordle date="2023-02-21" number="393" scores="7 6 4 3" words="exist flair tarot trust">
+		<try>blink</try>
+		<try>hurts</try>
+		<try>trust</try>
+		<try>tarot</try>
+		<try>feist</try>
+		<try>flair</try>
+		<try>exist</try>
+	</quordle>
+
+	<quordle date="2023-02-22" number="394" scores="8 4 0 9" words="amaze token manga boozy">
+		<try>point</try>
+		<try>lurks</try>
+		<try>tweak</try>
+		<try>token</try>
+		<try>faded</try>
+		<try>mangy</try>
+		<try>hobby</try>
+		<try>amaze</try>
+		<try>boozy</try>
+	</quordle>
+
+	<quordle date="2023-02-23" number="395" scores="8 9 7 6" words="draft jerky dozen blink">
+		<try>quest</try>
+		<try>power</try>
+		<try>honed</try>
+		<try>climb</try>
+		<try>bling</try>
+		<try>blink</try>
+		<try>dozen</try>
+		<try>draft</try>
+		<try>jerky</try>
+	</quordle>
+
+	<quordle date="2023-02-24" number="396" scores="4 7 0 9" words="rivet creak cache chill">
+		<try>drums</try>
+		<try>power</try>
+		<try>faint</try>
+		<try>rivet</try>
+		<try>graze</try>
+		<try>cream</try>
+		<try>creak</try>
+		<try>cable</try>
+		<try>chill</try>
+	</quordle>
+
+	<quordle date="2023-02-25" number="397" scores="9 6 4 7" words="conic omega cadet canny">
+		<try>block</try>
+		<try>tempo</try>
+		<try>dares</try>
+		<try>cadet</try>
+		<try>cough</try>
+		<try>omega</try>
+		<try>canny</try>
+		<try>conin</try>
+		<try>conic</try>
+	</quordle>
+
+	<quordle date="2023-02-26" number="398" scores="8 6 5 0" words="civic koala stint rarer">
+		<try>dodge</try>
+		<try>still</try>
+		<try>panty</try>
+		<try>clock</try>
+		<try>stint</try>
+		<try>koala</try>
+		<try>circa</try>
+		<try>civic</try>
+		<try>harem</try>
+	</quordle>
+
+	<quordle date="2023-02-27" number="399" scores="5 8 6 9" words="amber layer crude ditty">
+		<try>train</try>
+		<try>brush</try>
+		<try>crumb</try>
+		<try>power</try>
+		<try>amber</try>
+		<try>crude</try>
+		<try>rarer</try>
+		<try>layer</try>
+		<try>ditty</try>
+	</quordle>
+
+	<quordle date="2023-02-28" number="400" scores="6 3 7 8" words="shear organ mural couch">
+		<try>eagle</try>
+		<try>drops</try>
+		<try>organ</try>
+		<try>tower</try>
+		<try>smear</try>
+		<try>shear</try>
+		<try>mural</try>
+		<try>couch</try>
+	</quordle>
+
+	<quordle date="2023-03-01" number="401" scores="6 8 7 5" words="flair evoke otter wrist">
+		<try>blank</try>
+		<try>slash</try>
+		<try>youth</try>
+		<try>weird</try>
+		<try>wrist</try>
+		<try>flair</try>
+		<try>otter</try>
+		<try>evoke</try>
+	</quordle>
+
+	<quordle date="2023-03-02" number="402" scores="7 5 8 6" words="flyer hotly freed rally">
+		<try>plush</try>
+		<try>octal</try>
+		<try>drink</try>
+		<try>hotel</try>
+		<try>hotly</try>
+		<try>rally</try>
+		<try>flyer</try>
+		<try>freed</try>
+	</quordle>
+
+	<quordle date="2023-03-03" number="403" scores="0 3 8 7" words="slyly above ounce crawl">
+		<try>eagle</try>
+		<try>prone</try>
+		<try>above</try>
+		<try>frail</try>
+		<try>trawl</try>
+		<try>curly</try>
+		<try>crawl</try>
+		<try>ounce</try>
+		<try>shyly</try>
+	</quordle>
+
+	<quordle date="2023-03-04" number="404" scores="9 6 8 5" words="lager marry finch crept">
+		<try>music</try>
+		<try>trend</try>
+		<try>erect</try>
+		<try>hobby</try>
+		<try>crept</try>
+		<try>marry</try>
+		<try>winch</try>
+		<try>finch</try>
+		<try>lager</try>
+	</quordle>
+
+	<quordle date="2023-03-05" number="405" scores="5 0 9 6" words="grace lathe hence stone">
+		<try>skate</try>
+		<try>store</try>
+		<try>crane</try>
+		<try>brace</try>
+		<try>grace</try>
+		<try>stone</try>
+		<try>nonce</try>
+		<try>wince</try>
+		<try>hence</try>
+	</quordle>
+
+	<quordle date="2023-03-06" number="406" scores="9 7 5 8" words="annoy flush islet awake">
+		<try>grade</try>
+		<try>skate</try>
+		<try>flake</try>
+		<try>point</try>
+		<try>islet</try>
+		<try>munch</try>
+		<try>flush</try>
+		<try>awake</try>
+		<try>annoy</try>
+	</quordle>
+
+	<quordle date="2023-03-07" number="407" scores="6 4 7 5" words="atoll sauce brook crawl">
+		<try>money</try>
+		<try>parts</try>
+		<try>budge</try>
+		<try>sauce</try>
+		<try>crawl</try>
+		<try>atoll</try>
+		<try>brook</try>
+	</quordle>
+
+	<quordle date="2023-03-08" number="408" scores="5 8 9 4" words="juice sprig faith penne">
+		<try>queen</try>
+		<try>never</try>
+		<try>point</try>
+		<try>penne</try>
+		<try>juice</try>
+		<try>rapid</try>
+		<try>tails</try>
+		<try>sprig</try>
+		<try>faith</try>
+	</quordle>
+
+	<quordle date="2023-03-09" number="409" scores="3 5 7 9" words="molar marry optic droll">
+		<try>blank</try>
+		<try>power</try>
+		<try>molar</try>
+		<try>march</try>
+		<try>marry</try>
+		<try>scoop</try>
+		<try>optic</try>
+		<try>drool</try>
+		<try>droll</try>
+	</quordle>
+
+	<quordle date="2023-03-10" number="410" scores="7 5 8 6" words="enjoy spoof nasty dealt">
+		<try>jumps</try>
+		<try>tiger</try>
+		<try>octal</try>
+		<try>stash</try>
+		<try>spoof</try>
+		<try>dealt</try>
+		<try>enjoy</try>
+		<try>nasty</try>
+	</quordle>
+
+	<quordle date="2023-03-11" number="411" scores="0 6 8 7" words="bevel sonar exile renew">
+		<try>piled</try>
+		<try>young</try>
+		<try>stile</try>
+		<try>while</try>
+		<try>raver</try>
+		<try>sonar</try>
+		<try>renew</try>
+		<try>exile</try>
+		<try>level</try>
+	</quordle>
+
+	<quordle date="2023-03-12" number="412" scores="7 4 8 6" words="tenor boule elope showy">
+		<try>black</try>
+		<try>white</try>
+		<try>young</try>
+		<try>boule</try>
+		<try>clove</try>
+		<try>showy</try>
+		<try>tenor</try>
+		<try>elope</try>
+	</quordle>
+
+	<quordle date="2023-03-13" number="413" scores="4 9 5 7" words="chock maxim loopy erode">
+		<try>spark</try>
+		<try>crime</try>
+		<try>clock</try>
+		<try>chock</try>
+		<try>loopy</try>
+		<try>drone</try>
+		<try>erode</try>
+		<try>umami</try>
+		<try>maxim</try>
+	</quordle>
+
+	<quordle date="2023-03-14" number="414" scores="3 5 4 8" words="satin scoff crash smirk">
+		<try>panic</try>
+		<try>cabin</try>
+		<try>satin</try>
+		<try>crash</try>
+		<try>scoff</try>
+		<try>sired</try>
+		<try>swirl</try>
+		<try>smirk</try>
+	</quordle>
+
+	<quordle date="2023-03-15" number="415" scores="4 5 7 6" words="since usurp radio sworn">
+		<try>place</try>
+		<try>tarps</try>
+		<try>mourn</try>
+		<try>since</try>
+		<try>usurp</try>
+		<try>sworn</try>
+		<try>radio</try>
+	</quordle>
+
+	<quordle date="2023-03-16" number="416" scores="2 7 6 5" words="grunt oddly unwed avoid">
+		<try>train</try>
+		<try>grunt</try>
+		<try>mania</try>
+		<try>plows</try>
+		<try>avoid</try>
+		<try>unwed</try>
+		<try>oddly</try>
+	</quordle>
+
+	<quordle date="2023-03-17" number="417" scores="6 7 3 5" words="stuff debut force rupee">
+		<try>clock</try>
+		<try>tiger</try>
+		<try>force</try>
+		<try>unsee</try>
+		<try>rupee</try>
+		<try>stuff</try>
+		<try>debut</try>
+	</quordle>
+
+	<quordle date="2023-03-18" number="418" scores="6 4 5 8" words="clued stave crane empty">
+		<try>rings</try>
+		<try>power</try>
+		<try>talky</try>
+		<try>stave</try>
+		<try>crane</try>
+		<try>clued</try>
+		<try>petty</try>
+		<try>empty</try>
+	</quordle>
+
+	<quordle date="2023-03-19" number="419" scores="0 4 9 6" words="kneel cobra liner debug">
+		<try>grace</try>
+		<try>power</try>
+		<try>coral</try>
+		<try>cobra</try>
+		<try>dusty</try>
+		<try>debug</try>
+		<try>liver</try>
+		<try>liker</try>
+		<try>liner</try>
+	</quordle>
+
+	<quordle date="2023-03-20" number="420" scores="6 4 5 8" words="bison botch abhor glint">
+		<try>place</try>
+		<try>torch</try>
+		<try>baron</try>
+		<try>botch</try>
+		<try>abhor</try>
+		<try>bison</try>
+		<try>flint</try>
+		<try>glint</try>
+	</quordle>
+
+	<quordle date="2023-03-21" number="421" scores="4 8 5 7" words="wring scrap third noble">
+		<try>crack</try>
+		<try>would</try>
+		<try>girth</try>
+		<try>wring</try>
+		<try>third</try>
+		<try>nobly</try>
+		<try>noble</try>
+		<try>scrap</try>
+	</quordle>
+
+	<quordle date="2023-03-22" number="422" scores="6 9 8 7" words="fault adage sooth habit">
+		<try>third</try>
+		<try>filth</try>
+		<try>pesky</try>
+		<try>jumbo</try>
+		<try>clang</try>
+		<try>fault</try>
+		<try>havit</try>
+		<try>sooth</try>
+		<try>adage</try>
+	</quordle>
+
+	<quordle date="2023-03-23" number="423" scores="5 6 7 8" words="cross sauce doing usual">
+		<try>sever</try>
+		<try>antsy</try>
+		<try>biped</try>
+		<try>ghoul</try>
+		<try>cross</try>
+		<try>sauce</try>
+		<try>doing</try>
+		<try>usual</try>
+	</quordle>
+
+	<quordle date="2023-03-24" number="424" scores="5 6 4 7" words="couch apron broth tithe">
+		<try>rings</try>
+		<try>truth</try>
+		<try>power</try>
+		<try>broth</try>
+		<try>couch</try>
+		<try>apron</try>
+		<try>tithe</try>
+	</quordle>
+
+	<quordle date="2023-03-25" number="425" scores="9 8 3 7" words="awoke these lease ditto">
+		<try>lines</try>
+		<try>sever</try>
+		<try>lease</try>
+		<try>geese</try>
+		<try>obese</try>
+		<try>dumpy</try>
+		<try>ditto</try>
+		<try>these</try>
+		<try>awoke</try>
+	</quordle>
+
+	<quordle date="2023-03-26" number="426" scores="9 2 7 0" words="await drove moral reedy">
+		<try>sewer</try>
+		<try>drove</try>
+		<try>flint</try>
+		<try>rough</try>
+		<try>lorry</try>
+		<try>coral</try>
+		<try>moral</try>
+		<try>reddy</try>
+		<try>await</try>
+	</quordle>
+
+	<quordle date="2023-03-27" number="427" scores="4 6 7 8" words="ready revue below haste">
+		<try>blank</try>
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>ready</try>
+		<try>reuse</try>
+		<try>revue</try>
+		<try>below</try>
+		<try>haste</try>
+	</quordle>
+
+	<quordle date="2023-03-28" number="428" scores="9 7 6 5" words="sugar fibre ditty triad">
+		<try>point</try>
+		<try>tears</try>
+		<try>trial</try>
+		<try>ditto</try>
+		<try>triad</try>
+		<try>ditty</try>
+		<try>fibre</try>
+		<try>sonar</try>
+		<try>sugar</try>
+	</quordle>
+
+	<quordle date="2023-03-29" number="429" scores="2 5 8 7" words="moist brand faith admin">
+		<try>point</try>
+		<try>moist</try>
+		<try>blunt</try>
+		<try>triad</try>
+		<try>brand</try>
+		<try>waive</try>
+		<try>admin</try>
+		<try>faith</try>
+	</quordle>
+
+	<quordle date="2023-03-30" number="430" scores="7 4 8 6" words="alibi reach acrid quark">
+		<try>blank</try>
+		<try>spots</try>
+		<try>rhyme</try>
+		<try>reach</try>
+		<try>guide</try>
+		<try>quark</try>
+		<try>alibi</try>
+		<try>acrid</try>
+	</quordle>
+
+	<quordle date="2023-03-31" number="431" scores="5 9 4 8" words="choir tubal scour parry">
+		<try>reefs</try>
+		<try>power</try>
+		<try>volta</try>
+		<try>scour</try>
+		<try>choir</try>
+		<try>parma</try>
+		<try>parky</try>
+		<try>parry</try>
+		<try>tubal</try>
+	</quordle>
+
+	<quordle date="2023-04-01" number="432" scores="5 0 6 8" words="godly motor epoxy heart">
+		<try>eagle</try>
+		<try>opera</try>
+		<try>epoch</try>
+		<try>goals</try>
+		<try>godly</try>
+		<try>epoxy</try>
+		<try>heare</try>
+		<try>heart</try>
+		<try>rotor</try>
+	</quordle>
+
+	<quordle date="2023-04-02" number="433" scores="6 7 4 9" words="whose super shark fable">
+		<try>clock</try>
+		<try>spore</try>
+		<try>snark</try>
+		<try>shark</try>
+		<try>those</try>
+		<try>whose</try>
+		<try>super</try>
+		<try>blame</try>
+		<try>fable</try>
+	</quordle>
+
+	<quordle date="2023-04-03" number="434" scores="5 7 6 4" words="turbo whole light sprig">
+		<try>plain</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>sprig</try>
+		<try>turbo</try>
+		<try>light</try>
+		<try>whole</try>
+	</quordle>
+
+	<quordle date="2023-04-04" number="435" scores="6 8 9 5" words="ounce whine frock posit">
+		<try>ethic</try>
+		<try>dumpy</try>
+		<try>grass</try>
+		<try>split</try>
+		<try>posit</try>
+		<try>ounce</try>
+		<try>crock</try>
+		<try>whine</try>
+		<try>frock</try>
+	</quordle>
+
+	<quordle date="2023-04-05" number="436" scores="0 7 9 3" words="skull polar spree those">
+		<try>horse</try>
+		<try>chose</try>
+		<try>those</try>
+		<try>serve</try>
+		<try>siree</try>
+		<try>roman</try>
+		<try>polar</try>
+		<try>slyly</try>
+		<try>spree</try>
+	</quordle>
+
+	<quordle date="2023-04-06" number="437" scores="8 7 0 6" words="covey break awash stalk">
+		<try>drums</try>
+		<try>octal</try>
+		<try>salty</try>
+		<try>slate</try>
+		<try>coney</try>
+		<try>stalk</try>
+		<try>break</try>
+		<try>covey</try>
+		<try>flags</try>
+	</quordle>
+
+
+	<quordle date="2023-04-07" number="438" scores="7 6 8 4" words="rivet visor cease afoot">
+		<try>power</try>
+		<try>start</try>
+		<try>flung</try>
+		<try>afoot</try>
+		<try>misty</try>
+		<try>visor</try>
+		<try>rivet</try>
+		<try>cease</try>
+	</quordle>
+
+	<quordle date="2023-04-08" number="439" scores="4 5 6 7" words="cruel livid spied blend">
+		<try>panel</try>
+		<try>clown</try>
+		<try>drive</try>
+		<try>cruel</try>
+		<try>livid</try>
+		<try>spied</try>
+		<try>blend</try>
+	</quordle>
+
+	<quordle date="2023-04-09" number="440" scores="6 7 4 5" words="verge camel putty grass">
+		<try>train</try>
+		<try>brave</try>
+		<try>dumpy</try>
+		<try>putty</try>
+		<try>grass</try>
+		<try>verge</try>
+		<try>camel</try>
+	</quordle>
+
+	<quordle date="2023-04-10" number="441" scores="6 7 4 5" words="thumb chess syrup hotel">
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>syrup</try>
+		<try>hotel</try>
+		<try>thumb</try>
+		<try>chess</try>
+	</quordle>
+
+	<quordle date="2023-04-11" number="442" scores="0 6 9 7" words="chime drain whose boxer">
+		<try>slink</try>
+		<try>opera</try>
+		<try>twain</try>
+		<try>brain</try>
+		<try>bored</try>
+		<try>drain</try>
+		<try>boxer</try>
+		<try>meows</try>
+		<try>whose</try>
+	</quordle>
+
+	<quordle date="2023-04-12" number="443" scores="4 5 8 7" words="incur drunk coven there">
+		<try>coral</try>
+		<try>dumpy</try>
+		<try>sting</try>
+		<try>incur</try>
+		<try>drunk</try>
+		<try>heart</try>
+		<try>there</try>
+		<try>coven</try>
+	</quordle>
+
+	<quordle date="2023-04-13" number="444" scores="4 7 5 6" words="delve pixel minor cloak">
+		<try>beast</try>
+		<try>dumpy</try>
+		<try>hinge</try>
+		<try>delve</try>
+		<try>minor</try>
+		<try>cloak</try>
+		<try>pixel</try>
+	</quordle>
+
+	<quordle date="2023-04-14" number="445" scores="0 6 4 9" words="brown plaza drunk dodge">
+		<try>hotel</try>
+		<try>spank</try>
+		<try>drink</try>
+		<try>drunk</try>
+		<try>clamp</try>
+		<try>plaza</try>
+		<try>frown</try>
+		<try>doxed</try>
+		<try>dodge</try>
+	</quordle>
+
+	<quordle date="2023-04-15" number="446" scores="7 3 8 6" words="hazel beret false coven">
+		<try>bowls</try>
+		<try>birth</try>
+		<try>beret</try>
+		<try>dumpy</try>
+		<try>scale</try>
+		<try>coven</try>
+		<try>hazel</try>
+		<try>false</try>
+	</quordle>
+
+	<quordle date="2023-04-16" number="447" scores="5 3 8 6" words="slate bench quash foggy">
+		<try>beast</try>
+		<try>stare</try>
+		<try>bench</try>
+		<try>flash</try>
+		<try>slate</try>
+		<try>foggy</try>
+		<try>awash</try>
+		<try>quash</try>
+	</quordle>
+
+	<quordle date="2023-04-17" number="448" scores="7 6 3 4" words="assay slant nadir denim">
+		<try>ready</try>
+		<try>inlay</try>
+		<try>nadir</try>
+		<try>denim</try>
+		<try>plant</try>
+		<try>slant</try>
+		<try>assay</try>
+	</quordle>
+
+	<quordle date="2023-04-18" number="449" scores="4 5 8 6" words="molar probe drier borne">
+		<try>fable</try>
+		<try>slack</try>
+		<try>power</try>
+		<try>molar</try>
+		<try>probe</try>
+		<try>borne</try>
+		<try>dryer</try>
+		<try>drier</try>
+	</quordle>
+
+	<quordle date="2023-04-19" number="450" scores="4 5 7 6" words="purge opine lilac cheap">
+		<try>queen</try>
+		<try>roman</try>
+		<try>pithy</try>
+		<try>purge</try>
+		<try>opine</try>
+		<try>cheap</try>
+		<try>lilac</try>
+	</quordle>
+
+	<quordle date="2023-04-20" number="451" scores="8 6 5 4" words="jelly prong globe bloom">
+		<try>shade</try>
+		<try>power</try>
+		<try>proof</try>
+		<try>bloom</try>
+		<try>globe</try>
+		<try>prong</try>
+		<try>telly</try>
+		<try>jelly</try>
+	</quordle>
+
+	<quordle date="2023-04-21" number="452" scores="4 5 6 8" words="warty sever knave pubic">
+		<try>swell</try>
+		<try>twiny</try>
+		<try>spare</try>
+		<try>warty</try>
+		<try>sever</try>
+		<try>knave</try>
+		<try>hippo</try>
+		<try>pubic</try>
+	</quordle>
+
+	<quordle date="2023-04-22" number="453" scores="5 0 8 0" words="limit irony terra arbor">
+		<try>diets</try>
+		<try>soare</try>
+		<try>dumpy</try>
+		<try>timid</try>
+		<try>limit</try>
+		<try>tetra</try>
+		<try>arrow</try>
+		<try>terra</try>
+		<try>argon</try>
+	</quordle>
+
+	<quordle date="2023-04-23" number="454" scores="8 6 4 7" words="false lusty empty flesh">
+		<try>queen</try>
+		<try>trips</try>
+		<try>busty</try>
+		<try>empty</try>
+		<try>shell</try>
+		<try>lusty</try>
+		<try>flesh</try>
+		<try>false</try>
+	</quordle>
+
+	<quordle date="2023-04-24" number="455" scores="5 6 7 8" words="deuce beast noisy young">
+		<try>block</try>
+		<try>dumpy</try>
+		<try>intra</try>
+		<try>sweat</try>
+		<try>deuce</try>
+		<try>beast</try>
+		<try>noisy</try>
+		<try>young</try>
+	</quordle>
+
+	<quordle date="2023-04-25" number="456" scores="5 7 6 9" words="chest shrub credo below">
+		<try>stare</try>
+		<try>phony</try>
+		<try>shrug</try>
+		<try>whets</try>
+		<try>chest</try>
+		<try>credo</try>
+		<try>shrub</try>
+		<try>bowel</try>
+		<try>below</try>
+	</quordle>
+
+	<quordle date="2023-04-26" number="457" scores="4 5 9 7" words="parka spiny bushy chair">
+		<try>strap</try>
+		<try>dumpy</try>
+		<try>opera</try>
+		<try>parka</try>
+		<try>spiny</try>
+		<try>hussy</try>
+		<try>chair</try>
+		<try>lushy</try>
+		<try>bushy</try>
+	</quordle>
+
+	<quordle date="2023-04-27" number="458" scores="6 5 7 4" words="quasi plush chute soapy">
+		<try>logic</try>
+		<try>treat</try>
+		<try>swaps</try>
+		<try>soapy</try>
+		<try>plush</try>
+		<try>quasi</try>
+		<try>chute</try>
+	</quordle>
+
+	<quordle date="2023-04-28" number="459" scores="4 7 5 6" words="trite sleek altar voter">
+		<try>rinse</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>trite</try>
+		<try>altar</try>
+		<try>voter</try>
+		<try>sleek</try>
+	</quordle>
+
+	<quordle date="2023-04-29" number="460" scores="4 7 5 8" words="scour blush whine elide">
+		<try>spark</try>
+		<try>minty</try>
+		<try>drown</try>
+		<try>scour</try>
+		<try>whine</try>
+		<try>glide</try>
+		<try>blush</try>
+		<try>elide</try>
+	</quordle>
+
+	<quordle date="2023-04-30" number="461" scores="9 5 6 7" words="stout grout ralph rigor">
+		<try>black</try>
+		<try>white</try>
+		<try>dumpy</try>
+		<try>grogs</try>
+		<try>grout</try>
+		<try>ralph</try>
+		<try>rigor</try>
+		<try>snout</try>
+		<try>stout</try>
+	</quordle>
+
+	<quordle date="2023-05-01" number="462" scores="7 8 6 4" words="ethic alike birth slain">
+		<try>range</try>
+		<try>avian</try>
+		<try>stain</try>
+		<try>slain</try>
+		<try>alive</try>
+		<try>birth</try>
+		<try>ethic</try>
+		<try>alike</try>
+	</quordle>
+
+	<quordle date="2023-05-02" number="463" scores="9 7 5 0" words="cross moult stain tatty">
+		<try>speed</try>
+		<try>farcy</try>
+		<try>scrub</try>
+		<try>towns</try>
+		<try>stain</try>
+		<try>tally</try>
+		<try>moult</try>
+		<try>taggy</try>
+		<try>cross</try>
+	</quordle>
+
+	<quordle date="2023-05-03" number="464" scores="5 6 7 8" words="godly lager steel growl">
+		<try>tooth</try>
+		<try>power</try>
+		<try>dummy</try>
+		<try>sails</try>
+		<try>godly</try>
+		<try>lager</try>
+		<try>steel</try>
+		<try>growl</try>
+	</quordle>
+
+	<quordle date="2023-05-04" number="465" scores="7 5 8 6" words="baler scorn fetid paste">
+		<try>under</try>
+		<try>power</try>
+		<try>might</try>
+		<try>slyly</try>
+		<try>scorn</try>
+		<try>paste</try>
+		<try>baler</try>
+		<try>fetid</try>
+	</quordle>
+
+	<quordle date="2023-05-05" number="466" scores="7 8 6 4" words="limbo revue totem elbow">
+		<try>steak</try>
+		<try>power</try>
+		<try>below</try>
+		<try>elbow</try>
+		<try>munch</try>
+		<try>totem</try>
+		<try>limbo</try>
+		<try>revue</try>
+	</quordle>
+
+	<quordle date="2023-05-06" number="467" scores="4 9 5 6" words="scald tabby style tease">
+		<try>crazy</try>
+		<try>place</try>
+		<try>stage</try>
+		<try>scald</try>
+		<try>style</try>
+		<try>tease</try>
+		<try>tawny</try>
+		<try>tatty</try>
+		<try>tabby</try>
+	</quordle>
+
+	<quordle date="2023-05-07" number="468" scores="7 5 4 6" words="tooth skulk brisk slosh">
+		<try>jacks</try>
+		<try>super</try>
+		<try>snowy</try>
+		<try>brisk</try>
+		<try>skulk</try>
+		<try>slosh</try>
+		<try>tooth</try>
+	</quordle>
+
+	<quordle date="2023-05-08" number="469" scores="7 8 5 6" words="pushy gripe bloat asset">
+		<try>moped</try>
+		<try>spool</try>
+		<try>bungy</try>
+		<try>block</try>
+		<try>bloat</try>
+		<try>asset</try>
+		<try>pushy</try>
+		<try>gripe</try>
+	</quordle>
+
+	<quordle date="2023-05-09" number="470" scores="6 5 4 7" words="prose munch pivot condo">
+		<try>perch</try>
+		<try>match</try>
+		<try>point</try>
+		<try>pivot</try>
+		<try>munch</try>
+		<try>prose</try>
+		<try>condo</try>
+	</quordle>
+
+	<quordle date="2023-05-10" number="471" scores="4 8 0 7" words="print vicar gaffe plait">
+		<try>penny</try>
+		<try>point</try>
+		<try>paint</try>
+		<try>print</try>
+		<try>shuck</try>
+		<try>width</try>
+		<try>plait</try>
+		<try>vicar</try>
+		<try>gambe</try>
+	</quordle>
+
+	<quordle date="2023-05-11" number="472" scores="4 5 8 6" words="crypt dunce wheel noble">
+		<try>blank</try>
+		<try>dumpy</try>
+		<try>riser</try>
+		<try>crypt</try>
+		<try>dunce</try>
+		<try>noble</try>
+		<try>level</try>
+		<try>wheel</try>
+	</quordle>
+
+	<quordle date="2023-05-12" number="473" scores="2 3 7 4" words="honey cynic daunt chirp">
+		<try>horns</try>
+		<try>honey</try>
+		<try>cynic</try>
+		<try>chirp</try>
+		<try>flank</try>
+		<try>gaunt</try>
+		<try>daunt</try>
+	</quordle>
+
+	<quordle date="2023-05-13" number="474" scores="9 5 8 6" words="tract preen budge snare">
+		<try>train</try>
+		<try>claws</try>
+		<try>moped</try>
+		<try>track</try>
+		<try>preen</try>
+		<try>snare</try>
+		<try>buyer</try>
+		<try>budge</try>
+		<try>tract</try>
+	</quordle>
+
+	<quordle date="2023-05-14" number="475" scores="4 6 5 7" words="clone skunk swept sassy">
+		<try>music</try>
+		<try>votes</try>
+		<try>crawl</try>
+		<try>clone</try>
+		<try>swept</try>
+		<try>skunk</try>
+		<try>sassy</try>
+	</quordle>
+
+	<quordle date="2023-05-15" number="476" scores="4 8 7 5" words="ulcer apnea candy adult">
+		<try>bowls</try>
+		<try>tiger</try>
+		<try>dumpy</try>
+		<try>ulcer</try>
+		<try>adult</try>
+		<try>caddy</try>
+		<try>candy</try>
+		<try>apnea</try>
+	</quordle>
+
+	<quordle date="2023-05-16" number="477" scores="7 5 6 8" words="harry colon shear larva">
+		<try>baldy</try>
+		<try>power</try>
+		<try>stuck</try>
+		<try>minge</try>
+		<try>colon</try>
+		<try>shear</try>
+		<try>harry</try>
+		<try>larva</try>
+	</quordle>
+
+	<quordle date="2023-05-17" number="478" scores="6 8 5 7" words="skimp glean payee bravo">
+		<try>towns</try>
+		<try>based</try>
+		<try>humpy</try>
+		<try>frill</try>
+		<try>payee</try>
+		<try>skimp</try>
+		<try>bravo</try>
+		<try>glean</try>
+	</quordle>
+
+	<quordle date="2023-05-18" number="479" scores="7 5 3 6" words="ennui sprig later slunk">
+		<try>freak</try>
+		<try>tiger</try>
+		<try>later</try>
+		<try>ponds</try>
+		<try>sprig</try>
+		<try>slunk</try>
+		<try>ennui</try>
+	</quordle>
+
+	<quordle date="2023-05-19" number="480" scores="6 7 5 0" words="arbor medal trial woozy">
+		<try>brief</try>
+		<try>molds</try>
+		<try>orbit</try>
+		<try>trill</try>
+		<try>trial</try>
+		<try>arbor</try>
+		<try>medal</try>
+		<try>young</try>
+		<try>woopy</try>
+	</quordle>
+
+	<!-- Fix from here (this is #481) -->
+	<quordle date="2023-05-20" number="481" scores="8 6 4 5" words="lingo howdy grasp third">
+		<try>speed</try>
+		<try>tough</try>
+		<try>barmy</try>
+		<try>grasp</try>
+		<try>third</try>
+		<try>howdy</try>
+		<try>bingo</try>
+		<try>lingo</try>
+	</quordle>
+
+	<quordle date="2023-05-21" number="482" scores="8 9 4 6" words="devil evoke guise funny">
+		<try>sixth</try>
+		<try>power</try>
+		<try>bungy</try>
+		<try>guise</try>
+		<try>maced</try>
+		<try>funny</try>
+		<try>ideal</try>
+		<try>devil</try>
+		<try>evoke</try>
+	</quordle>
+
+	<quordle date="2023-05-22" number="483" scores="8 6 4 7" words="eagle slick solid taken">
+		<try>trust</try>
+		<try>howdy</try>
+		<try>seams</try>
+		<try>solid</try>
+		<try>sling</try>
+		<try>slick</try>
+		<try>taken</try>
+		<try>eagle</try>
+	</quordle>
+
+	<quordle date="2023-05-23" number="484" scores="4 5 7 6" words="wider await cross meaty">
+		<try>menus</try>
+		<try>power</try>
+		<try>twirl</try>
+		<try>wider</try>
+		<try>await</try>
+		<try>meaty</try>
+		<try>cross</try>
+	</quordle>
+
+	<quordle date="2023-05-24" number="485" scores="4 9 3 8" words="whiny lusty noise booth">
+		<try>young</try>
+		<try>erase</try>
+		<try>noise</try>
+		<try>whiny</try>
+		<try>tusky</try>
+		<try>dusty</try>
+		<try>tooth</try>
+		<try>booth</try>
+		<try>lusty</try>
+	</quordle>
+
+	<quordle date="2023-05-25" number="486" scores="5 4 6 8" words="alarm pause colon burly">
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>octal</try>
+		<try>pause</try>
+		<try>alarm</try>
+		<try>colon</try>
+		<try>lurry</try>
+		<try>burly</try>
+	</quordle>
+
+	<quordle date="2023-05-26" number="487" scores="5 8 7 9" words="loath mealy began reuse">
+		<try>power</try>
+		<try>modal</try>
+		<try>loans</try>
+		<try>fight</try>
+		<try>loath</try>
+		<try>vegan</try>
+		<try>began</try>
+		<try>mealy</try>
+		<try>reuse</try>
+	</quordle>
+
+	<quordle date="2023-05-27" number="488" scores="6 7 5 4" words="grass belch crowd shown">
+		<try>plain</try>
+		<try>greet</try>
+		<try>blown</try>
+		<try>shown</try>
+		<try>crowd</try>
+		<try>grass</try>
+		<try>belch</try>
+	</quordle>
+
+	<quordle date="2023-05-28" number="489" scores="7 5 6 4" words="gully risen chafe cheat">
+		<try>links</try>
+		<try>bison</try>
+		<try>cream</try>
+		<try>cheat</try>
+		<try>risen</try>
+		<try>chafe</try>
+		<try>gully</try>
+	</quordle>
+
+	<quordle date="2023-05-29" number="490" scores="4 8 6 7" words="annoy elect stale turbo">
+		<try>power</try>
+		<try>hunts</try>
+		<try>daily</try>
+		<try>annoy</try>
+		<try>tesla</try>
+		<try>stale</try>
+		<try>turbo</try>
+		<try>elect</try>
+	</quordle>
+
+	<quordle date="2023-05-30" number="491" scores="5 4 7 6" words="cadet ripen bread creed">
+		<try>straw</try>
+		<try>young</try>
+		<try>plied</try>
+		<try>ripen</try>
+		<try>cadet</try>
+		<try>creed</try>
+		<try>bread</try>
+	</quordle>
+
+	<quordle date="2023-05-31" number="492" scores="4 8 7 9" words="apron under alike fruit">
+		<try>limit</try>
+		<try>weird</try>
+		<try>ponds</try>
+		<try>apron</try>
+		<try>agile</try>
+		<try>alive</try>
+		<try>alike</try>
+		<try>under</try>
+		<try>fruit</try>
+	</quordle>
+
+	<quordle date="2023-06-01" number="493" scores="7 6 4 5" words="blast skull vaunt liege">
+		<try>liver</try>
+		<try>goals</try>
+		<try>punty</try>
+		<try>vaunt</try>
+		<try>liege</try>
+		<try>skull</try>
+		<try>blast</try>
+	</quordle>
+
+	<quordle date="2023-06-02" number="494" scores="7 4 8 5" words="flyer chime valid lumen">
+		<try>black</try>
+		<try>white</try>
+		<try>mourn</try>
+		<try>chime</try>
+		<try>lumen</try>
+		<try>slyer</try>
+		<try>flyer</try>
+		<try>valid</try>
+	</quordle>
+
+	<quordle date="2023-06-03" number="495" scores="8 7 5 4" words="booze askew reuse payee">
+		<try>tread</try>
+		<try>loins</try>
+		<try>jumpy</try>
+		<try>payee</try>
+		<try>reuse</try>
+		<try>saxes</try>
+		<try>askew</try>
+		<try>booze</try>
+	</quordle>
+
+	<quordle date="2023-06-04" number="496" scores="4 6 5 8" words="guilt birth quoth evade">
+		<try>great</try>
+		<try>dumpy</try>
+		<try>scowl</try>
+		<try>guilt</try>
+		<try>quoth</try>
+		<try>birth</try>
+		<try>faded</try>
+		<try>evade</try>
+	</quordle>
+
+	<quordle date="2023-06-05" number="497" scores="6 7 8 5" words="stung shape quail blurt">
+		<try>blame</try>
+		<try>blink</try>
+		<try>tight</try>
+		<try>cruds</try>
+		<try>blurt</try>
+		<try>stung</try>
+		<try>shape</try>
+		<try>quail</try>
+	</quordle>
+
+	<quordle date="2023-06-06" number="498" scores="3 6 7 8" words="brick tight showy ardor">
+		<try>swing</try>
+		<try>black</try>
+		<try>brick</try>
+		<try>muted</try>
+		<try>shows</try>
+		<try>tight</try>
+		<try>showy</try>
+		<try>ardor</try>
+	</quordle>
+
+	<quordle date="2023-06-07" number="499" scores="9 5 0 6" words="quell guise undue paler">
+		<try>blank</try>
+		<try>greet</try>
+		<try>jumps</try>
+		<try>avoid</try>
+		<try>guise</try>
+		<try>paler</try>
+		<try>deuce</try>
+		<try>uncle</try>
+		<try>quell</try>
+	</quordle>
+
+	<quordle date="2023-06-08" number="500" scores="3 4 5 7" words="trawl crude brave furry">
+		<try>thumb</try>
+		<try>tower</try>
+		<try>trawl</try>
+		<try>crude</try>
+		<try>brave</try>
+		<try>spurs</try>
+		<try>furry</try>
+	</quordle>
+
+	<quordle date="2023-06-09" number="501" scores="8 7 5 6" words="hazel react spoke chart">
+		<try>train</try>
+		<try>bowed</try>
+		<try>flush</try>
+		<try>smoke</try>
+		<try>spoke</try>
+		<try>chart</try>
+		<try>react</try>
+		<try>hazel</try>
+	</quordle>
+
+	<quordle date="2023-06-10" number="502" scores="8 7 5 6" words="wrung troll taker elate">
+		<try>blame</try>
+		<try>study</try>
+		<try>power</try>
+		<try>cater</try>
+		<try>taker</try>
+		<try>elate</try>
+		<try>troll</try>
+		<try>wrung</try>
+	</quordle>
+
+	<quordle date="2023-06-11" number="503" scores="7 6 0 9" words="quack scalp drier folly">
+		<try>beers</try>
+		<try>young</try>
+		<try>tidal</try>
+		<try>jolly</try>
+		<try>psalm</try>
+		<try>scalp</try>
+		<try>quack</try>
+		<try>fried</try>
+		<try>folly</try>
+	</quordle>
+
+	<quordle date="2023-06-12" number="504" scores="8 9 4 6" words="stamp boney trace clove">
+		<try>right</try>
+		<try>power</try>
+		<try>dance</try>
+		<try>trace</try>
+		<try>class</try>
+		<try>clove</try>
+		<try>money</try>
+		<try>stamp</try>
+		<try>boney</try>
+	</quordle>
+
+	<quordle date="2023-06-13" number="505" scores="0 9 5 0" words="lowly coral plank amiss">
+		<try>opera</try>
+		<try>loans</try>
+		<try>plant</try>
+		<try>dinky</try>
+		<try>plank</try>
+		<try>lobby</try>
+		<try>lolly</try>
+		<try>moral</try>
+		<try>coral</try>
+	</quordle>
+
+	<quordle date="2023-06-14" number="506" scores="9 6 7 8" words="libel savvy vault troll">
+		<try>black</try>
+		<try>steam</try>
+		<try>adore</try>
+		<try>white</try>
+		<try>punny</try>
+		<try>savvy</try>
+		<try>vault</try>
+		<try>troll</try>
+		<try>libel</try>
+	</quordle>
+
+	<quordle date="2023-06-15" number="507" scores="6 7 9 8" words="cobra corny mince chili">
+		<try>gauze</try>
+		<try>polka</try>
+		<try>drive</try>
+		<try>myths</try>
+		<try>coral</try>
+		<try>cobra</try>
+		<try>corny</try>
+		<try>chili</try>
+		<try>mince</try>
+	</quordle>
+
+	<quordle date="2023-06-16" number="508" scores="6 7 8 4" words="pasta rabid unfit curly">
+		<try>crave</try>
+		<try>shown</try>
+		<try>plumb</try>
+		<try>curly</try>
+		<try>tiger</try>
+		<try>pasta</try>
+		<try>rabid</try>
+		<try>unfit</try>
+	</quordle>
+
+	<quordle date="2023-06-17" number="509" scores="0 7 5 0" words="juror bused sappy vying">
+		<try>place</try>
+		<try>dumpy</try>
+		<try>happy</try>
+		<try>rudes</try>
+		<try>sappy</try>
+		<try>fused</try>
+		<try>bused</try>
+		<try>young</try>
+		<try>tying</try>
+	</quordle>
+
+	<quordle date="2023-06-18" number="510" scores="5 8 6 7" words="shorn friar three untie">
+		<try>paste</try>
+		<try>track</try>
+		<try>young</try>
+		<try>hides</try>
+		<try>shorn</try>
+		<try>three</try>
+		<try>untie</try>
+		<try>friar</try>
+	</quordle>
+
+	<quordle date="2023-06-19" number="511" scores="4 6 8 7" words="horde loser gusto prone">
+		<try>spark</try>
+		<try>denim</try>
+		<try>cloth</try>
+		<try>horde</try>
+		<try>roles</try>
+		<try>loser</try>
+		<try>prone</try>
+		<try>gusto</try>
+	</quordle>
+
+	<quordle date="2023-06-20" number="512" scores="3 4 7 6" words="duvet blast filmy cease">
+		<try>frost</try>
+		<try>faded</try>
+		<try>duvet</try>
+		<try>blast</try>
+		<try>phase</try>
+		<try>cease</try>
+		<try>filmy</try>
+	</quordle>
+
+	<quordle date="2023-06-21" number="513" scores="4 5 9 8" words="bride tilde lower revel">
+		<try>peach</try>
+		<try>crane</try>
+		<try>tribe</try>
+		<try>bride</try>
+		<try>tilde</try>
+		<try>lemur</try>
+		<try>loser</try>
+		<try>revel</try>
+		<try>lower</try>
+	</quordle>
+
+	<quordle date="2023-06-22" number="514" scores="8 5 7 6" words="amaze bingo mummy weird">
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>rinse</try>
+		<try>begin</try>
+		<try>bingo</try>
+		<try>weird</try>
+		<try>mummy</try>
+		<try>amaze</try>
+	</quordle>
+
+	<quordle date="2023-06-23" number="515" scores="6 7 8 5" words="field brine begun pitch">
+		<try>cream</try>
+		<try>lumps</try>
+		<try>picky</try>
+		<try>pinch</try>
+		<try>pitch</try>
+		<try>field</try>
+		<try>brine</try>
+		<try>begun</try>
+	</quordle>
+
+	<quordle date="2023-06-24" number="516" scores="9 5 8 4" words="bilge leapt gloat pleat">
+		<try>covet</try>
+		<try>dumpy</try>
+		<try>adept</try>
+		<try>pleat</try>
+		<try>leapt</try>
+		<try>float</try>
+		<try>bowel</try>
+		<try>gloat</try>
+		<try>bilge</try>
+	</quordle>
+
+	<quordle date="2023-06-25" number="517" scores="0 0 7 4" words="gaunt slang rouse unite">
+		<try>under</try>
+		<try>unsee</try>
+		<try>tunic</try>
+		<try>unite</try>
+		<try>nutty</try>
+		<try>reuse</try>
+		<try>rouse</try>
+		<try>blunt</try>
+		<try>haunt</try>
+	</quordle>
+
+	<quordle date="2023-06-26" number="518" scores="4 7 5 8" words="scare right irate orbit">
+		<try>claws</try>
+		<try>fraud</try>
+		<try>prime</try>
+		<try>scare</try>
+		<try>irate</try>
+		<try>going</try>
+		<try>right</try>
+		<try>orbit</try>
+	</quordle>
+
+	<quordle date="2023-06-27" number="519" scores="5 4 7 8" words="straw apply magma clued">
+		<try>jumpy</try>
+		<try>about</try>
+		<try>nerds</try>
+		<try>apply</try>
+		<try>straw</try>
+		<try>vague</try>
+		<try>magma</try>
+		<try>clued</try>
+	</quordle>
+
+	<quordle date="2023-06-28" number="520" scores="6 9 7 4" words="cedar rumba widow tithe">
+		<try>place</try>
+		<try>grunt</try>
+		<try>dishy</try>
+		<try>tithe</try>
+		<try>cared</try>
+		<try>cedar</try>
+		<try>widow</try>
+		<try>umbra</try>
+		<try>rumba</try>
+	</quordle>
+
+	<quordle date="2023-06-29" number="521" scores="6 4 8 5" words="issue mount ovoid saner">
+		<try>unset</try>
+		<try>pudge</try>
+		<try>moans</try>
+		<try>mount</try>
+		<try>saner</try>
+		<try>issue</try>
+		<try>dildo</try>
+		<try>ovoid</try>
+	</quordle>
+
+	<quordle date="2023-06-30" number="522" scores="7 4 6 5" words="woman bagel super arise">
+		<try>blank</try>
+		<try>sight</try>
+		<try>alias</try>
+		<try>bagel</try>
+		<try>arise</try>
+		<try>super</try>
+		<try>woman</try>
+	</quordle>
+
+	<quordle date="2023-07-01" number="523" scores="8 4 9 5" words="knead dally amaze ideal">
+		<try>daily</try>
+		<try>plaid</try>
+		<try>lidar</try>
+		<try>dally</try>
+		<try>ideal</try>
+		<try>stead</try>
+		<try>ahead</try>
+		<try>knead</try>
+		<try>amaze</try>
+	</quordle>
+
+	<quordle date="2023-07-02" number="524" scores="5 7 0 0" words="amiss showy lurch saucy">
+		<try>broom</try>
+		<try>steps</try>
+		<try>flamy</try>
+		<try>amass</try>
+		<try>amiss</try>
+		<try>snowy</try>
+		<try>showy</try>
+		<try>saggy</try>
+		<try>savvy</try>
+	</quordle>
+
+	<quordle date="2023-07-03" number="525" scores="8 7 6 4" words="druid enact apart hefty">
+		<try>hotel</try>
+		<try>haste</try>
+		<try>funny</try>
+		<try>hefty</try>
+		<try>wring</try>
+		<try>apart</try>
+		<try>enact</try>
+		<try>druid</try>
+	</quordle>
+
+	<quordle date="2023-07-04" number="526" scores="6 5 7 4" words="gummy squat sushi gaudy">
+		<try>train</try>
+		<try>avert</try>
+		<try>dumpy</try>
+		<try>gaudy</try>
+		<try>squat</try>
+		<try>gummy</try>
+		<try>sushi</try>
+	</quordle>
+
+	<quordle date="2023-07-05" number="527" scores="7 5 3 8" words="hilly alert sheet vodka">
+		<try>plate</try>
+		<try>shoes</try>
+		<try>sheet</try>
+		<try>crumb</try>
+		<try>alert</try>
+		<try>dying</try>
+		<try>hilly</try>
+		<try>vodka</try>
+	</quordle>
+
+	<quordle date="2023-07-06" number="528" scores="8 5 9 6" words="hunch lefty abbey recur">
+		<try>windy</try>
+		<try>dumpy</try>
+		<try>lunch</try>
+		<try>leafy</try>
+		<try>lefty</try>
+		<try>recur</try>
+		<try>bunch</try>
+		<try>hunch</try>
+		<try>abbey</try>
+	</quordle>
+
+	<quordle date="2023-07-07" number="529" scores="8 5 6 7" words="clout smear gaily angry">
+		<try>while</try>
+		<try>stray</try>
+		<try>ducks</try>
+		<try>spear</try>
+		<try>smear</try>
+		<try>gaily</try>
+		<try>angry</try>
+		<try>clout</try>
+	</quordle>
+
+	<quordle date="2023-07-08" number="530" scores="4 8 5 6" words="bagel spite maybe radio">
+		<try>power</try>
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>bagel</try>
+		<try>maybe</try>
+		<try>radio</try>
+		<try>piste</try>
+		<try>spite</try>
+	</quordle>
+
+	<quordle date="2023-07-09" number="531" scores="0 8 6 4" words="axion offer dread sadly">
+		<try>drink</try>
+		<try>tuple</try>
+		<try>washy</try>
+		<try>sadly</try>
+		<try>dream</try>
+		<try>dread</try>
+		<try>forge</try>
+		<try>offer</try>
+		<try>avion</try>
+	</quordle>
+
+	<quordle date="2023-07-10" number="532" scores="6 8 7 4" words="filet dully irate nosey">
+		<try>sever</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>nosey</try>
+		<try>while</try>
+		<try>filet</try>
+		<try>irate</try>
+		<try>dully</try>
+	</quordle>
+
+	<quordle date="2023-07-11" number="533" scores="6 5 7 8" words="model aisle limbo tulle">
+		<try>awake</try>
+		<try>alone</try>
+		<try>lower</try>
+		<try>moles</try>
+		<try>aisle</try>
+		<try>model</try>
+		<try>limbo</try>
+		<try>tulle</try>
+	</quordle>
+
+	<quordle date="2023-07-12" number="534" scores="6 7 5 8" words="voice manga froth bloat">
+		<try>swirl</try>
+		<try>liver</try>
+		<try>dumpy</try>
+		<try>track</try>
+		<try>froth</try>
+		<try>voice</try>
+		<try>manga</try>
+		<try>bloat</try>
+	</quordle>
+
+	<quordle date="2023-07-13" number="535" scores="7 6 3 5" words="baste query snail pearl">
+		<try>black</try>
+		<try>bails</try>
+		<try>snail</try>
+		<try>dumpy</try>
+		<try>pearl</try>
+		<try>query</try>
+		<try>baste</try>
+	</quordle>
+
+	<quordle date="2023-07-14" number="536" scores="6 5 3 8" words="libel cable wreak scope">
+		<try>water</try>
+		<try>weary</try>
+		<try>wreak</try>
+		<try>globe</try>
+		<try>cable</try>
+		<try>libel</try>
+		<try>scone</try>
+		<try>scope</try>
+	</quordle>
+
+	<quordle date="2023-07-15" number="537" scores="8 5 6 7" words="cycle false frill heavy">
+		<try>spork</try>
+		<try>great</try>
+		<try>means</try>
+		<try>eased</try>
+		<try>false</try>
+		<try>frill</try>
+		<try>heavy</try>
+		<try>cycle</try>
+	</quordle>
+
+	<quordle date="2023-07-16" number="538" scores="5 3 4 7" words="steam salty sloop truss">
+		<try>strip</try>
+		<try>octal</try>
+		<try>salty</try>
+		<try>sloop</try>
+		<try>steam</try>
+		<try>trust</try>
+		<try>truss</try>
+	</quordle>
+
+	<quordle date="2023-07-17" number="539" scores="8 7 5 6" words="lupus alive sally abled">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>valid</try>
+		<try>sally</try>
+		<try>abled</try>
+		<try>alive</try>
+		<try>lupus</try>
+	</quordle>
+
+	<quordle date="2023-07-18" number="540" scores="7 5 0 6" words="debut hoard silly upper">
+		<try>flash</try>
+		<try>tiger</try>
+		<try>power</try>
+		<try>roach</try>
+		<try>hoard</try>
+		<try>upper</try>
+		<try>debut</try>
+		<try>links</try>
+		<try>slimy</try>
+	</quordle>
+
+	<quordle date="2023-07-19" number="541" scores="7 8 5 6" words="worst kayak hence zebra">
+		<try>start</try>
+		<try>final</try>
+		<try>bumpy</try>
+		<try>wedge</try>
+		<try>hence</try>
+		<try>zebra</try>
+		<try>worst</try>
+		<try>kayak</try>
+	</quordle>
+
+	<quordle date="2023-07-20" number="542" scores="5 8 6 7" words="enter truly usual civil">
+		<try>scrum</try>
+		<try>power</try>
+		<try>light</try>
+		<try>bland</try>
+		<try>enter</try>
+		<try>usual</try>
+		<try>civil</try>
+		<try>truly</try>
+	</quordle>
+
+	<quordle date="2023-07-21" number="543" scores="6 5 8 4" words="round tepid liver irate">
+		<try>sport</try>
+		<try>dream</try>
+		<try>unite</try>
+		<try>irate</try>
+		<try>tepid</try>
+		<try>round</try>
+		<try>biker</try>
+		<try>liver</try>
+	</quordle>
+
+	<quordle date="2023-07-22" number="544" scores="6 7 9 4" words="befit jiffy arena touch">
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>octal</try>
+		<try>touch</try>
+		<try>fizzy</try>
+		<try>befit</try>
+		<try>jiffy</try>
+		<try>anger</try>
+		<try>arena</try>
+	</quordle>
+
+	<quordle date="2023-07-23" number="545" scores="5 8 7 6" words="entry giddy stamp vomit">
+		<try>trick</try>
+		<try>wades</try>
+		<try>youth</try>
+		<try>retry</try>
+		<try>entry</try>
+		<try>vomit</try>
+		<try>stamp</try>
+		<try>giddy</try>
+	</quordle>
+
+	<quordle date="2023-07-24" number="546" scores="8 4 6 5" words="stuff hippo liver blink">
+		<try>doubt</try>
+		<try>weary</try>
+		<try>pings</try>
+		<try>hippo</try>
+		<try>blink</try>
+		<try>liver</try>
+		<try>stums</try>
+		<try>stuff</try>
+	</quordle>
+
+	<quordle date="2023-07-25" number="547" scores="6 5 9 8" words="hairy rowdy quark limit">
+		<try>while</try>
+		<try>plaid</try>
+		<try>hairs</try>
+		<try>young</try>
+		<try>rowdy</try>
+		<try>hairy</try>
+		<try>civil</try>
+		<try>limit</try>
+		<try>quark</try>
+	</quordle>
+
+	<quordle date="2023-07-26" number="548" scores="7 5 6 4" words="index taker curve peach">
+		<try>mince</try>
+		<try>power</try>
+		<try>stung</try>
+		<try>peach</try>
+		<try>taker</try>
+		<try>curve</try>
+		<try>index</try>
+	</quordle>
+
+	<quordle date="2023-07-27" number="549" scores="9 7 6 8" words="evade spice float align">
+		<try>twist</try>
+		<try>funky</try>
+		<try>dares</try>
+		<try>seize</try>
+		<try>smile</try>
+		<try>float</try>
+		<try>spice</try>
+		<try>align</try>
+		<try>evade</try>
+	</quordle>
+
+	<quordle date="2023-07-28" number="550" scores="6 8 3 5" words="totem basal pulse couch">
+		<try>group</try>
+		<try>lease</try>
+		<try>pulse</try>
+		<try>mints</try>
+		<try>couch</try>
+		<try>totem</try>
+		<try>sally</try>
+		<try>basal</try>
+	</quordle>
+
+	<quordle date="2023-07-29" number="551" scores="4 5 3 6" words="value along alive least">
+		<try>brave</try>
+		<try>dawns</try>
+		<try>alive</try>
+		<try>value</try>
+		<try>along</try>
+		<try>least</try>
+	</quordle>
+
+	<quordle date="2023-07-30" number="552" scores="8 9 7 6" words="shawl write along demon">
+		<try>shade</try>
+		<try>shark</try>
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>shall</try>
+		<try>demon</try>
+		<try>along</try>
+		<try>shawl</try>
+		<try>write</try>
+	</quordle>
+
+	<quordle date="2023-07-31" number="553" scores="7 6 4 5" words="squat chose snort there">
+		<try>seven</try>
+		<try>types</try>
+		<try>bloat</try>
+		<try>snort</try>
+		<try>there</try>
+		<try>chose</try>
+		<try>squat</try>
+	</quordle>
+
+	<quordle date="2023-08-01" number="554" scores="9 5 3 7" words="annoy taper trial house">
+		<try>bliss</try>
+		<try>treat</try>
+		<try>trial</try>
+		<try>power</try>
+		<try>taper</try>
+		<try>moose</try>
+		<try>house</try>
+		<try>agony</try>
+		<try>annoy</try>
+	</quordle>
+
+	<quordle date="2023-08-02" number="555" scores="5 7 3 4" words="slump flute rumba reach">
+		<try>bumpy</try>
+		<try>roads</try>
+		<try>rumba</try>
+		<try>reach</try>
+		<try>slump</try>
+		<try>fluke</try>
+		<try>flute</try>
+	</quordle>
+
+	<quordle date="2023-08-03" number="556" scores="4 7 6 9" words="bigot ample laugh easel">
+		<try>party</try>
+		<try>winds</try>
+		<try>gumbo</try>
+		<try>bigot</try>
+		<try>faugh</try>
+		<try>laugh</try>
+		<try>ample</try>
+		<try>eales</try>
+		<try>easel</try>
+	</quordle>
+
+	<quordle date="2023-08-04" number="557" scores="6 4 8 7" words="shaky owing homer picky">
+		<try>splat</try>
+		<try>young</try>
+		<try>drive</try>
+		<try>owing</try>
+		<try>hippy</try>
+		<try>shaky</try>
+		<try>picky</try>
+		<try>homer</try>
+	</quordle>
+
+	<quordle date="2023-08-05" number="558" scores="2 4 7 5" words="spasm trawl lever birth">
+		<try>claim</try>
+		<try>spasm</try>
+		<try>three</try>
+		<try>trawl</try>
+		<try>birth</try>
+		<try>lover</try>
+		<try>lever</try>
+	</quordle>
+
+	<quordle date="2023-08-06" number="559" scores="8 5 9 6" words="quash moult stalk edict">
+		<try>pearl</try>
+		<try>tower</try>
+		<try>minds</try>
+		<try>buggy</try>
+		<try>moult</try>
+		<try>edict</try>
+		<try>stall</try>
+		<try>quash</try>
+		<try>stalk</try>
+	</quordle>
+
+	<quordle date="2023-08-07" number="560" scores="9 3 5 7" words="smite grind crawl fibre">
+		<try>bland</try>
+		<try>sound</try>
+		<try>grind</try>
+		<try>trawl</try>
+		<try>crawl</try>
+		<try>stiff</try>
+		<try>fibre</try>
+		<try>spite</try>
+		<try>smite</try>
+	</quordle>
+
+	<quordle date="2023-08-08" number="561" scores="5 4 7 9" words="crepe caddy drier tango">
+		<try>score</try>
+		<try>farce</try>
+		<try>crude</try>
+		<try>caddy</try>
+		<try>crepe</try>
+		<try>dried</try>
+		<try>drier</try>
+		<try>mango</try>
+		<try>tango</try>
+	</quordle>
+
+	<quordle date="2023-08-09" number="562" scores="8 5 7 3" words="feast aping limit girth">
+		<try>purge</try>
+		<try>hasty</try>
+		<try>girth</try>
+		<try>blond</try>
+		<try>aping</try>
+		<try>steam</try>
+		<try>limit</try>
+		<try>feast</try>
+	</quordle>
+
+	<quordle date="2023-08-10" number="563" scores="4 6 8 7" words="overt rally sense atoll">
+		<try>fever</try>
+		<try>night</try>
+		<try>opera</try>
+		<try>overt</try>
+		<try>sulky</try>
+		<try>rally</try>
+		<try>atoll</try>
+		<try>sense</try>
+	</quordle>
+
+	<quordle date="2023-08-11" number="564" scores="4 6 5 8" words="repel manor money zesty">
+		<try>overt</try>
+		<try>under</try>
+		<try>plays</try>
+		<try>repel</try>
+		<try>money</try>
+		<try>manor</try>
+		<try>testy</try>
+		<try>zesty</try>
+	</quordle>
+
+	<quordle date="2023-08-12" number="565" scores="5 7 6 4" words="apron stale guilt party">
+		<try>trick</try>
+		<try>power</try>
+		<try>bungy</try>
+		<try>party</try>
+		<try>apron</try>
+		<try>guilt</try>
+		<try>stale</try>
+	</quordle>
+
+	<quordle date="2023-08-13" number="566" scores="8 5 9 7" words="sauce deign hardy flung">
+		<try>blast</try>
+		<try>power</try>
+		<try>minds</try>
+		<try>denim</try>
+		<try>deign</try>
+		<try>clung</try>
+		<try>flung</try>
+		<try>sauce</try>
+		<try>hardy</try>
+	</quordle>
+
+	<quordle date="2023-08-14" number="567" scores="4 8 3 6" words="cargo patty barge melon">
+		<try>blink</try>
+		<try>bards</try>
+		<try>barge</try>
+		<try>cargo</try>
+		<try>lemon</try>
+		<try>melon</try>
+		<try>tatty</try>
+		<try>patty</try>
+	</quordle>
+
+	<quordle date="2023-08-15" number="568" scores="3 7 8 5" words="ionic daunt bribe north">
+		<try>index</try>
+		<try>poker</try>
+		<try>ionic</try>
+		<try>tilde</try>
+		<try>north</try>
+		<try>fairy</try>
+		<try>daunt</try>
+		<try>bribe</try>
+	</quordle>
+
+	<quordle date="2023-08-16" number="569" scores="5 8 6 2" words="boost quark adult angst">
+		<try>gangs</try>
+		<try>angst</try>
+		<try>first</try>
+		<try>power</try>
+		<try>boost</try>
+		<try>adult</try>
+		<try>urman</try>
+		<try>quark</try>
+	</quordle>
+
+	<quordle date="2023-08-17" number="570" scores="5 3 7 6" words="olden hasty adult olive">
+		<try>seven</try>
+		<try>third</try>
+		<try>hasty</try>
+		<try>plumb</try>
+		<try>olden</try>
+		<try>olive</try>
+		<try>adult</try>
+	</quordle>
+
+	<quordle date="2023-08-18" number="571" scores="3 7 4 9" words="expel rogue patch minty">
+		<try>exact</try>
+		<try>poker</try>
+		<try>expel</try>
+		<try>patch</try>
+		<try>worse</try>
+		<try>rouge</try>
+		<try>rogue</try>
+		<try>bitty</try>
+		<try>minty</try>
+	</quordle>
+
+	<quordle date="2023-08-19" number="572" scores="4 8 7 6" words="stiff quoth mucky wedge">
+		<try>sails</try>
+		<try>spire</try>
+		<try>bungy</try>
+		<try>stiff</try>
+		<try>dummy</try>
+		<try>wedge</try>
+		<try>mucky</try>
+		<try>quoth</try>
+	</quordle>
+
+	<quordle date="2023-08-20" number="573" scores="0 9 5 7" words="wimpy plunk foray shake">
+		<try>crank</try>
+		<try>youth</try>
+		<try>royal</try>
+		<try>flunk</try>
+		<try>foray</try>
+		<try>shaky</try>
+		<try>shake</try>
+		<try>piggy</try>
+		<try>plunk</try>
+	</quordle>
+
+	<quordle date="2023-08-21" number="574" scores="5 3 7 8" words="filth trace stony folio">
+		<try>blaze</try>
+		<try>truth</try>
+		<try>trace</try>
+		<try>swing</try>
+		<try>filth</try>
+		<try>stonk</try>
+		<try>stony</try>
+		<try>folio</try>
+	</quordle>
+
+	<quordle date="2023-08-22" number="575" scores="4 6 5 7" words="coast awoke cloth annex">
+		<try>dress</try>
+		<try>place</try>
+		<try>motif</try>
+		<try>coast</try>
+		<try>cloth</try>
+		<try>awoke</try>
+		<try>annex</try>
+	</quordle>
+
+	<quordle date="2023-08-23" number="576" scores="8 3 9 5" words="ditty barge canon golly">
+		<try>banks</try>
+		<try>power</try>
+		<try>barge</try>
+		<try>tummy</try>
+		<try>golly</try>
+		<try>iychy</try>
+		<try>ditzy</try>
+		<try>ditty</try>
+		<try>canon</try>
+	</quordle>
+
+	<quordle date="2023-08-24" number="577" scores="5 6 4 3" words="tawny jetty pesto prune">
+		<try>power</try>
+		<try>phone</try>
+		<try>prune</try>
+		<try>pesto</try>
+		<try>tawny</try>
+		<try>jetty</try>
+	</quordle>
+
+	<quordle date="2023-08-25" number="578" scores="6 7 4 9" words="champ clack pivot booth">
+		<try>speak</try>
+		<try>fight</try>
+		<try>drown</try>
+		<try>pivot</try>
+		<try>happy</try>
+		<try>champ</try>
+		<try>clack</try>
+		<try>broth</try>
+		<try>booth</try>
+	</quordle>
+
+	<quordle date="2023-08-26" number="579" scores="5 4 9 8" words="leash smear basal brief">
+		<try>choir</try>
+		<try>heave</try>
+		<try>stump</try>
+		<try>smear</try>
+		<try>leash</try>
+		<try>wired</try>
+		<try>grief</try>
+		<try>brief</try>
+		<try>basal</try>
+	</quordle>
+
+	<quordle date="2023-08-27" number="580" scores="8 6 7 4" words="vowel blunt stoke shady">
+		<try>dream</try>
+		<try>snafu</try>
+		<try>scald</try>
+		<try>shady</try>
+		<try>stove</try>
+		<try>blunt</try>
+		<try>stoke</try>
+		<try>vowel</try>
+	</quordle>
+
+	<quordle date="2023-08-28" number="581" scores="9 6 5 8" words="paint alloy forty fiber">
+		<try>freak</try>
+		<try>tower</try>
+		<try>forts</try>
+		<try>young</try>
+		<try>forty</try>
+		<try>alloy</try>
+		<try>fever</try>
+		<try>fiber</try>
+		<try>paint</try>
+	</quordle>
+
+	<quordle date="2023-08-29" number="582" scores="9 3 6 7" words="brass paste wider pixie">
+		<try>caper</try>
+		<try>prove</try>
+		<try>paste</try>
+		<try>grabs</try>
+		<try>mixer</try>
+		<try>wider</try>
+		<try>pixie</try>
+		<try>brays</try>
+		<try>brass</try>
+	</quordle>
+
+	<quordle date="2023-08-30" number="583" scores="6 9 0 0" words="mount sleet scamp savoy">
+		<try>quest</try>
+		<try>drunk</try>
+		<try>blunt</try>
+		<try>slept</try>
+		<try>soggy</try>
+		<try>mount</try>
+		<try>spams</try>
+		<try>swamp</try>
+		<try>sleet</try>
+	</quordle>
+
+	<quordle date="2023-08-31" number="584" scores="2 4 9 6" words="final voice hatch twang">
+		<try>brain</try>
+		<try>final</try>
+		<try>covet</try>
+		<try>voice</try>
+		<try>thank</try>
+		<try>twang</try>
+		<try>match</try>
+		<try>patch</try>
+		<try>hatch</try>
+	</quordle>
+
+	<quordle date="2023-09-01" number="585" scores="8 5 7 6" words="block sulky vocal ideal">
+		<try>fever</try>
+		<try>stand</try>
+		<try>dumpy</try>
+		<try>chill</try>
+		<try>sulky</try>
+		<try>ideal</try>
+		<try>vocal</try>
+		<try>block</try>
+	</quordle>
+
+	<quordle date="2023-09-02" number="586" scores="6 8 5 7" words="revue fight bingo serif">
+		<try>onion</try>
+		<try>dumpy</try>
+		<try>roast</try>
+		<try>bible</try>
+		<try>bingo</try>
+		<try>revue</try>
+		<try>serif</try>
+		<try>fight</try>
+	</quordle>
+
+	<!-- Missed #596 -->
+	<quordle date="2023-09-03" number="587" scores="0 0 0 0" words="? ? ? ?"/>
+
+	<quordle date="2023-09-04" number="588" scores="6 7 5 9" words="riper rower rumba fjord">
+		<try>power</try>
+		<try>tubas</try>
+		<try>devil</try>
+		<try>burka</try>
+		<try>rumba</try>
+		<try>riper</try>
+		<try>rower</try>
+		<try>chord</try>
+		<try>fjord</try>
+	</quordle>
+
+	<quordle date="2023-09-05" number="589" scores="4 5 6 7" words="dryly curvy torus mossy">
+		<try>drums</try>
+		<try>clues</try>
+		<try>curry</try>
+		<try>dryly</try>
+		<try>curvy</try>
+		<try>torus</try>
+		<try>mossy</try>
+	</quordle>
+
+	<quordle date="2023-09-06" number="590" scores="0 8 5 7" words="polka threw magic spurt">
+		<try>trash</try>
+		<try>dumpy</try>
+		<try>veins</try>
+		<try>cable</try>
+		<try>magic</try>
+		<try>there</try>
+		<try>spurt</try>
+		<try>threw</try>
+		<try>plaza</try>
+	</quordle>
+
+	<quordle date="2023-09-07" number="591" scores="5 8 4 7" words="joust river penny chalk">
+		<try>slain</try>
+		<try>power</try>
+		<try>muddy</try>
+		<try>penny</try>
+		<try>joust</try>
+		<try>biker</try>
+		<try>chalk</try>
+		<try>river</try>
+	</quordle>
+
+	<quordle date="2023-09-08" number="592" scores="8 5 6 7" words="sappy stall rayon civic">
+		<try>blunt</try>
+		<try>drove</try>
+		<try>piggy</try>
+		<try>crazy</try>
+		<try>stall</try>
+		<try>rayon</try>
+		<try>civic</try>
+		<try>sappy</try>
+	</quordle>
+
+	<quordle date="2023-09-09" number="593" scores="7 9 4 6" words="marry infer stale suite">
+		<try>stars</try>
+		<try>cling</try>
+		<try>poker</try>
+		<try>stale</try>
+		<try>muddy</try>
+		<try>suite</try>
+		<try>marry</try>
+		<try>river</try>
+		<try>infer</try>
+	</quordle>
+
+	<quordle date="2023-09-10" number="594" scores="4 7 6 8" words="train riper black scram">
+		<try>blast</try>
+		<try>knife</try>
+		<try>roped</try>
+		<try>train</try>
+		<try>racks</try>
+		<try>black</try>
+		<try>riper</try>
+		<try>scram</try>
+	</quordle>
+
+	<quordle date="2023-09-11" number="595" scores="8 6 5 7" words="recut greed cover meter ">
+		<try>loins</try>
+		<try>dream</try>
+		<try>bumpy</try>
+		<try>creed</try>
+		<try>cover</try>
+		<try>greed</try>
+		<try>meter</try>
+		<try>recut</try>
+	</quordle>
+
+	<quordle date="2023-09-12" number="596" scores="9 6 8 7" words="cynic gruel cacti tower">
+		<try>plant</try>
+		<try>atlas</try>
+		<try>bride</try>
+		<try>foggy</try>
+		<try>voter</try>
+		<try>gruel</try>
+		<try>tower</try>
+		<try>cacti</try>
+		<try>cynic</try>
+	</quordle>
+
+	<quordle date="2023-09-13" number="597" scores="6 4 8 9" words="guess micro droop elate">
+		<try>tonic</try>
+		<try>dumpy</try>
+		<try>share</try>
+		<try>micro</try>
+		<try>buses</try>
+		<try>guess</try>
+		<try>wrate</try>
+		<try>droop</try>
+		<try>elate</try>
+	</quordle>
+
+	<quordle date="2023-09-14" number="598" scores="5 7 4 8" words="chest river there emcee">
+		<try>strip</try>
+		<try>gears</try>
+		<try>youth</try>
+		<try>there</try>
+		<try>chest</try>
+		<try>rider</try>
+		<try>river</try>
+		<try>emcee</try>
+	</quordle>
+
+	<quordle date="2023-09-15" number="599" scores="9 0 7 6" words="fishy drake torus smote">
+		<try>gleam</try>
+		<try>power</try>
+		<try>manic</try>
+		<try>busty</try>
+		<try>tours</try>
+		<try>smote</try>
+		<try>torus</try>
+		<try>sissy</try>
+		<try>fishy</try>
+	</quordle>
+
+	<quordle date="2023-09-16" number="600" scores="7 6 5 4" words="flail altar yacht haunt">
+		<try>angle</try>
+		<try>droid</try>
+		<try>humps</try>
+		<try>haunt</try>
+		<try>yacht</try>
+		<try>altar</try>
+		<try>flail</try>
+	</quordle>
+
+	<quordle date="2023-09-17" number="601" scores="5 6 7 8" words="scrub dusty quoth uncle">
+		<try>money</try>
+		<try>brash</try>
+		<try>cloth</try>
+		<try>scrab</try>
+		<try>scrub</try>
+		<try>dusty</try>
+		<try>quoth</try>
+		<try>uncle</try>
+	</quordle>
+
+	<quordle date="2023-09-18" number="602" scores="6 7 4 5" words="swear lowly stand upset">
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>stand</try>
+		<try>upset</try>
+		<try>swear</try>
+		<try>lowly</try>
+	</quordle>
+
+	<quordle date="2023-09-19" number="603" scores="4 6 7 8" words="wacky layer fruit miner">
+		<try>group</try>
+		<try>stray</try>
+		<try>truck</try>
+		<try>wacky</try>
+		<try>mayor</try>
+		<try>layer</try>
+		<try>fruit</try>
+		<try>miner</try>
+	</quordle>
+
+	<quordle date="2023-09-20" number="604" scores="0 5 8 6" words="tamer snout bland sleep">
+		<try>place</try>
+		<try>elope</try>
+		<try>slant</try>
+		<try>snort</try>
+		<try>snout</try>
+		<try>sleep</try>
+		<try>flank</try>
+		<try>bland</try>
+		<try>water</try>
+	</quordle>
+
+	<quordle date="2023-09-21" number="605" scores="0 7 5 8" words="aware shone shade shelf">
+		<try>lives</try>
+		<try>trend</try>
+		<try>sugar</try>
+		<try>early</try>
+		<try>shade</try>
+		<try>shell</try>
+		<try>shone</try>
+		<try>shelf</try>
+		<try>awake</try> <!-- Mistyped this one; did know the answer -->
+	</quordle>
+
+	<quordle date="2023-09-22" number="606" scores="0 6 3 8" words="chili metro puree kiosk">
+		<try>flung</try>
+		<try>power</try>
+		<try>puree</try>
+		<try>beast</try>
+		<try>retro</try>
+		<try>metro</try>
+		<try>hilly</try>
+		<try>kiosk</try>
+		<try>child</try>
+	</quordle>
+
+	<quordle date="2023-09-23" number="607" scores="5 6 8 9" words="heard loath guest sigma">
+		<try>tanks</try>
+		<try>power</try>
+		<try>bread</try>
+		<try>chest</try>
+		<try>heard</try>
+		<try>loath</try>
+		<try>quest</try>
+		<try>guest</try>
+		<try>sigma</try>
+	</quordle>
+
+	<quordle date="2023-09-24" number="608" scores="5 3 7 6" words="lucky angry quiet lucid">
+		<try>night</try>
+		<try>poker</try>
+		<try>angry</try>
+		<try>bulky</try>
+		<try>lucky</try>
+		<try>lucid</try>
+		<try>quiet</try>
+	</quordle>
+
+	<quordle date="2023-09-25" number="609" scores="4 9 5 8" words="leash gazer guile kneed">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>leash</try>
+		<try>guile</try>
+		<try>grave</try>
+		<try>ended</try>
+		<try>kneed</try>
+		<try>gazer</try>
+	</quordle>
+
+	<quordle date="2023-09-26" number="610" scores="8 5 4 6" words="sedan chard chasm gusto">
+		<try>flesh</try>
+		<try>topic</try>
+		<try>grade</try>
+		<try>chasm</try>
+		<try>chard</try>
+		<try>gusto</try>
+		<try>sades</try>
+		<try>sedan</try>
+	</quordle>
+
+	<quordle date="2023-09-27" number="611" scores="8 6 0 5" words="noisy cleat eager carat">
+		<try>fling</try>
+		<try>great</try>
+		<try>argue</try>
+		<try>raged</try>
+		<try>carat</try>
+		<try>cleat</try>
+		<try>pager</try>
+		<try>noisy</try>
+		<try>wager</try>
+	</quordle>
+
+	<quordle date="2023-09-28" number="612" scores="5 8 0 4" words="saucy peach surer strip">
+		<try>boost</try>
+		<try>stray</try>
+		<try>panic</try>
+		<try>strip</try>
+		<try>saucy</try>
+		<try>space</try>
+		<try>peace</try>
+		<try>peach</try>
+		<try>surge</try>
+	</quordle>
+
+	<quordle date="2023-09-29" number="613" scores="9 4 6 0" words="parer clasp shard jerky">
+		<try>clash</try>
+		<try>class</try>
+		<try>poker</try>
+		<try>clasp</try>
+		<try>shark</try>
+		<try>shard</try>
+		<try>pager</try>
+		<try>murky</try>
+		<try>parer</try>
+	</quordle>
+
+	<quordle date="2023-09-30" number="614" scores="8 4 6 7" words="melee check shone glide">
+		<try>steal</try>
+		<try>relic</try>
+		<try>shove</try>
+		<try>check</try>
+		<try>belle</try>
+		<try>shone</try>
+		<try>glide</try>
+		<try>melee</try>
+	</quordle>
+
+	<quordle date="2023-10-01" number="615" scores="9 5 8 0" words="least array bowel matey">
+		<try>spray</try>
+		<try>foray</try>
+		<try>would</try>
+		<try>vowel</try>
+		<try>array</try>
+		<try>cagey</try>
+		<try>blase</try>
+		<try>bowel</try>
+		<try>least</try>
+	</quordle>
+
+	<quordle date="2023-10-02" number="616" scores="7 6 3 8" words="guava flora legal onion">
+		<try>parse</try>
+		<try>logic</try>
+		<try>legal</try>
+		<try>alarm</try>
+		<try>bingo</try>
+		<try>flora</try>
+		<try>guava</try>
+		<try>onion</try>
+	</quordle>
+
+	<quordle date="2023-10-03" number="617" scores="4 6 5 7" words="qualm caulk voila going">
+		<try>power</try>
+		<try>bitsy</try>
+		<try>claim</try>
+		<try>qualm</try>
+		<try>voila</try>
+		<try>caulk</try>
+		<try>going</try>
+	</quordle>
+
+	<quordle date="2023-10-04" number="618" scores="9 6 0 7" words="whiff creep blunt spell">
+		<try>sixth</try>
+		<try>third</try>
+		<try>scrap</try>
+		<try>soups</try>
+		<try>while</try>
+		<try>creep</try>
+		<try>spell</try>
+		<try>bluff</try>
+		<try>whiff</try>
+	</quordle>
+
+	<quordle date="2023-10-05" number="619" scores="8 7 4 5" words="straw tilde miner carve">
+		<try>frank</try>
+		<try>adore</try>
+		<try>siren</try>
+		<try>miner</try>
+		<try>carve</try>
+		<try>strap</try>
+		<try>tilde</try>
+		<try>straw</try>
+	</quordle>
+
+	<quordle date="2023-10-06" number="620" scores="6 4 9 7" words="sword refer guild nasal">
+		<try>round</try>
+		<try>chord</try>
+		<try>never</try>
+		<try>refer</try>
+		<try>nasty</try>
+		<try>sword</try>
+		<try>nasal</try>
+		<try>build</try>
+		<try>guild</try>
+	</quordle>
+
+	<quordle date="2023-10-07" number="621" scores="6 9 4 8" words="pagan aloof spiky while">
+		<try>quest</try>
+		<try>poker</try>
+		<try>spank</try>
+		<try>spiky</try>
+		<try>panda</try>
+		<try>pagan</try>
+		<try>allow</try>
+		<try>while</try>
+		<try>aloof</try>
+	</quordle>
+
+	<quordle date="2023-10-08" number="622" scores="5 6 8 7" words="ready abase puffy utile">
+		<try>spoil</try>
+		<try>tread</try>
+		<try>liter</try>
+		<try>burns</try>
+		<try>ready</try>
+		<try>abase</try>
+		<try>utile</try>
+		<try>puffy</try>
+	</quordle>
+
+	<quordle date="2023-10-09" number="623" scores="7 5 0 8" words="verge error goofy steak">
+		<try>sixth</try>
+		<try>opera</try>
+		<try>loser</try>
+		<try>decor</try>
+		<try>error</try>
+		<try>merge</try>
+		<try>verge</try>
+		<try>steak</try>
+		<try>foggy</try>
+	</quordle>
+
+	<quordle date="2023-10-10" number="624" scores="8 6 7 5" words="putty karma stiff plumb">
+		<try>slack</try>
+		<try>poker</try>
+		<try>undid</try>
+		<try>sight</try>
+		<try>plumb</try>
+		<try>karma</try>
+		<try>stiff</try>
+		<try>putty</try>
+	</quordle>
+
+	<quordle date="2023-10-11" number="625" scores="8 6 5 4" words="moody grimy sappy nurse">
+		<try>wakes</try>
+		<try>point</try>
+		<try>merge</try>
+		<try>nurse</try>
+		<try>sappy</try>
+		<try>grimy</try>
+		<try>molly</try>
+		<try>moody</try>
+	</quordle>
+
+	<quordle date="2023-10-12" number="626" scores="8 4 7 6" words="awful stole admin limit">
+		<try>glass</try>
+		<try>spell</try>
+		<try>rocky</try>
+		<try>stole</try>
+		<try>humid</try>
+		<try>limit</try>
+		<try>admin</try>
+		<try>awful</try>
+	</quordle>
+
+	<quordle date="2023-10-13" number="627" scores="9 7 0 3" words="grill seedy frond mural">
+		<try>prime</try>
+		<try>trial</try>
+		<try>mural</try>
+		<try>drill</try>
+		<try>honed</try>
+		<try>sends</try>
+		<try>seedy</try>
+		<try>brond</try>
+		<try>grill</try>
+	</quordle>
+
+	<quordle date="2023-10-14" number="628" scores="6 5 3 8" words="ralph habit strip wiser">
+		<try>songs</try>
+		<try>trail</try>
+		<try>strip</try>
+		<try>admit</try>
+		<try>habit</try>
+		<try>ralph</try>
+		<try>fries</try>
+		<try>wiser</try>
+	</quordle>
+
+	<quordle date="2023-10-15" number="629" scores="5 6 8 9" words="false flame hyper lurch">
+		<try>great</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>lease</try>
+		<try>false</try>
+		<try>flame</try>
+		<try>perry</try>
+		<try>hyper</try>
+		<try>lurch</try>
+	</quordle>
+
+	<quordle date="2023-10-16" number="630" scores="8 9 6 7" words="jazzy geese churn cacao">
+		<try>graph</try>
+		<try>mover</try>
+		<try>stink</try>
+		<try>bully</try>
+		<try>caddy</try>
+		<try>churn</try>
+		<try>cacao</try>
+		<try>jazzy</try>
+		<try>geese</try>
+	</quordle>
+
+	<quordle date="2023-10-17" number="631" scores="4 5 8 7" words="occur stomp aging orbit">
+		<try>rinse</try>
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>occur</try>
+		<try>stomp</try>
+		<try>again</try>
+		<try>orbit</try>
+		<try>aging</try>
+	</quordle>
+
+	<quordle date="2023-10-18" number="632" scores="5 8 4 6" words="whiny diode broil tawny">
+		<try>strip</try>
+		<try>octal</try>
+		<try>wheat</try>
+		<try>broil</try>
+		<try>whiny</try>
+		<try>tawny</try>
+		<try>emoji</try>
+		<try>diode</try>
+	</quordle>
+
+	<quordle date="2023-10-19" number="633" scores="5 6 8 7" words="bused truer argue singe">
+		<try>splat</try>
+		<try>joker</try>
+		<try>timer</try>
+		<try>beard</try>
+		<try>bused</try>
+		<try>truer</try>
+		<try>singe</try>
+		<try>argue</try>
+	</quordle>
+
+	<quordle date="2023-10-20" number="634" scores="0 5 7 0" words="puffy solar exult tabby">
+		<try>glace</try>
+		<try>poker</try>
+		<try>putty</try>
+		<try>pushy</try>
+		<try>solar</try>
+		<try>unset</try>
+		<try>exult</try>
+		<try>puddy</try>
+		<try>puppy</try>
+	</quordle>
+
+	<quordle date="2023-10-21" number="635" scores="5 9 4 0" words="snarl rayon fetid stave">
+		<try>flood</try>
+		<try>prior</try>
+		<try>sweat</try>
+		<try>fetid</try>
+		<try>snarl</try>
+		<try>state</try>
+		<try>manor</try>
+		<try>baron</try>
+		<try>rayon</try>
+	</quordle>
+
+	<quordle date="2023-10-22" number="636" scores="9 5 4 8" words="dozen polar frost cobra">
+		<try>words</try>
+		<try>poker</try>
+		<try>fungi</try>
+		<try>frost</try>
+		<try>polar</try>
+		<try>roach</try>
+		<try>boned</try>
+		<try>cobra</try>
+		<try>dozen</try>
+	</quordle>
+
+	<quordle date="2023-10-23" number="637" scores="6 5 8 9" words="bayou study quilt gummy">
+		<try>wrong</try>
+		<try>pushy</try>
+		<try>bulgy</try>
+		<try>octal</try>
+		<try>study</try>
+		<try>bayou</try>
+		<try>gully</try>
+		<try>quilt</try>
+		<try>gummy</try>
+	</quordle>
+
+	<quordle date="2023-10-24" number="638" scores="8 0 6 4" words="dread rarer stair crony">
+		<try>slack</try>
+		<try>trend</try>
+		<try>bread</try>
+		<try>crony</try>
+		<try>start</try>
+		<try>stair</try>
+		<try>eager</try>
+		<try>dread</try>
+		<try>waxer</try>
+	</quordle>
+
+	<quordle date="2023-10-25" number="639" scores="8 3 5 6" words="weedy blush guile thing">
+		<try>blast</try>
+		<try>hound</try>
+		<try>blush</try>
+		<try>think</try>
+		<try>guile</try>
+		<try>thing</try>
+		<try>peery</try>
+		<try>weedy</try>
+	</quordle>
+
+	<quordle date="2023-10-26" number="640" scores="9 6 8 5" words="crump eaten swoon baron">
+		<try>death</try>
+		<try>poker</try>
+		<try>minus</try>
+		<try>baggy</try>
+		<try>baron</try>
+		<try>eaten</try>
+		<try>salon</try>
+		<try>swoon</try>
+		<try>crump</try>
+	</quordle>
+
+	<quordle date="2023-10-27" number="641" scores="5 8 7 4" words="under quota grove joust">
+		<try>start</try>
+		<try>poker</try>
+		<try>baton</try>
+		<try>joust</try>
+		<try>under</try>
+		<try>whore</try>
+		<try>grove</try>
+		<try>quota</try>
+	</quordle>
+
+	<quordle date="2023-10-28" number="642" scores="5 6 8 9" words="pitch scale undid thigh">
+		<try>hound</try>
+		<try>price</try>
+		<try>pilch</try>
+		<try>smith</try>
+		<try>pitch</try>
+		<try>scale</try>
+		<try>unbid</try>
+		<try>undid</try>
+		<try>thigh</try>
+	</quordle>
+
+	<quordle date="2023-10-29" number="643" scores="8 0 7 4" words="agate felon hater threw">
+		<try>under</try>
+		<try>power</try>
+		<try>thing</try>
+		<try>threw</try>
+		<try>ether</try>
+		<try>leaky</try>
+		<try>hater</try>
+		<try>agate</try>
+		<try>melon</try>
+	</quordle>
+
+	<quordle date="2023-10-30" number="644" scores="7 5 3 4" words="chess easel gloom glean">
+		<try>grail</try>
+		<try>jokes</try>
+		<try>gloom</try>
+		<try>glean</try>
+		<try>easel</try>
+		<try>steps</try>
+		<try>chess</try>
+	</quordle>
+
+	<quordle date="2023-10-31" number="645" scores="8 7 9 0" words="shire shorn bongo laden">
+		<try>scrap</try>
+		<try>sorts</try>
+		<try>sword</try>
+		<try>young</try>
+		<try>smirk</try>
+		<try>snore</try>
+		<try>shorn</try>
+		<try>shire</try>
+		<try>bongo</try>
+	</quordle>
+
+	<quordle date="2023-11-01" number="646" scores="7 5 4 6" words="angst suite hippo clamp">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>hippo</try>
+		<try>suite</try>
+		<try>clamp</try>
+		<try>angst</try>
+	</quordle>
+
+	<quordle date="2023-11-02" number="647" scores="7 8 9 5" words="slime fancy pulse admit">
+		<try>spark</try>
+		<try>towed</try>
+		<try>bumpy</try>
+		<try>fight</try>
+		<try>admit</try>
+		<try>smile</try>
+		<try>slime</try>
+		<try>fancy</try>
+		<try>pulse</try>
+	</quordle>
+
+	<quordle date="2023-11-03" number="648" scores="7 4 5 6" words="buggy riper bluff snail">
+		<try>eight</try>
+		<try>yours</try>
+		<try>place</try>
+		<try>riper</try>
+		<try>bluff</try>
+		<try>snail</try>
+		<try>buggy</try>
+	</quordle>
+
+	<quordle date="2023-11-04" number="649" scores="6 4 7 9" words="gusto swift stake range">
+		<try>pound</try>
+		<try>white</try>
+		<try>twist</try>
+		<try>swift</try>
+		<try>ousts</try>
+		<try>gusto</try>
+		<try>stake</try>
+		<try>angle</try>
+		<try>range</try>
+	</quordle>
+
+	<quordle date="2023-11-05" number="650" scores="5 8 3 6" words="graph dirge polar speck">
+		<try>flyer</try>
+		<try>prone</try>
+		<try>polar</try>
+		<try>craps</try>
+		<try>graph</try>
+		<try>speck</try>
+		<try>merge</try>
+		<try>dirge</try>
+	</quordle>
+
+	<quordle date="2023-11-06" number="651" scores="7 8 6 5" words="perky month dress overt">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>otter</try>
+		<try>overt</try>
+		<try>dress</try>
+		<try>perky</try>
+		<try>month</try>
+	</quordle>
+
+	<quordle date="2023-11-07" number="652" scores="3 7 5 6" words="pesto smoky quasi utile">
+		<try>stage</try>
+		<try>youth</try>
+		<try>pesto</try>
+		<try>buoys</try>
+		<try>quasi</try>
+		<try>utile</try>
+		<try>smoky</try>
+	</quordle>
+
+	<quordle date="2023-11-08" number="653" scores="9 5 7 8" words="maybe nomad impel verge">
+		<try>cleft</try>
+		<try>eased</try>
+		<try>poker</try>
+		<try>gonad</try>
+		<try>nomad</try>
+		<try>rejig</try>
+		<try>impel</try>
+		<try>verge</try>
+		<try>maybe</try>
+	</quordle>
+
+	<quordle date="2023-11-09" number="654" scores="9 6 4 7" words="clink beach bevel elfin">
+		<try>blame</try>
+		<try>beams</try>
+		<try>power</try>
+		<try>bevel</try>
+		<try>tunic</try>
+		<try>beach</try>
+		<try>elfin</try>
+		<try>cling</try>
+		<try>clink</try>
+	</quordle>
+
+	<quordle date="2023-11-10" number="655" scores="8 5 4 7" words="folio agile stock purse">
+		<try>blast</try>
+		<try>steam</try>
+		<try>young</try>
+		<try>stock</try>
+		<try>agile</try>
+		<try>reuse</try>
+		<try>purse</try>
+		<try>folio</try>
+	</quordle>
+
+	<quordle date="2023-11-11" number="656" scores="6 7 4 5" words="below buddy bring robot">
+		<try>grows</try>
+		<try>point</try>
+		<try>claim</try>
+		<try>bring</try>
+		<try>robot</try>
+		<try>below</try>
+		<try>buddy</try>
+	</quordle>
+
+	<quordle date="2023-11-12" number="657" scores="5 6 3 7" words="chase loath rusty diode">
+		<try>spent</try>
+		<try>youth</try>
+		<try>rusty</try>
+		<try>maise</try>
+		<try>chase</try>
+		<try>loath</try>
+		<try>diode</try>
+	</quordle>
+
+	<quordle date="2023-11-13" number="658" scores="8 7 9 4" words="shell allow sheen prude">
+		<try>treat</try>
+		<try>power</try>
+		<try>pride</try>
+		<try>prude</try>
+		<try>sleek</try>
+		<try>smell</try>
+		<try>allow</try>
+		<try>shell</try>
+		<try>sheen</try>
+	</quordle>
+
+	<quordle date="2023-11-14" number="659" scores="8 7 4 9" words="chime pulpy taper olden">
+		<try>spots</try>
+		<try>weary</try>
+		<try>trape</try>
+		<try>taper</try>
+		<try>dumpy</try>
+		<try>lived</try>
+		<try>pulpy</try>
+		<try>chime</try>
+		<try>olden</try>
+	</quordle>
+
+	<quordle date="2023-11-15" number="660" scores="5 4 8 7" words="blend greed cumin flunk">
+		<try>opera</try>
+		<try>thugs</try>
+		<try>windy</try>
+		<try>greed</try>
+		<try>blend</try>
+		<try>clunk</try>
+		<try>flunk</try>
+		<try>cumin</try>
+	</quordle>
+
+	<quordle date="2023-11-16" number="661" scores="5 4 7 8" words="conch perch anvil hatch">
+		<try>films</try>
+		<try>power</try>
+		<try>uncle</try>
+		<try>perch</try>
+		<try>conch</try>
+		<try>batch</try>
+		<try>anvil</try>
+		<try>hatch</try>
+	</quordle>
+
+	<quordle date="2023-11-17" number="662" scores="6 4 7 5" words="beret score aorta sedan">
+		<try>dryer</try>
+		<try>whale</try>
+		<try>stomp</try>
+		<try>score</try>
+		<try>sedan</try>
+		<try>beret</try>
+		<try>aorta</try>
+	</quordle>
+
+	<quordle date="2023-11-18" number="663" scores="4 5 6 7" words="tying bacon urban guise">
+		<try>flush</try>
+		<try>poker</try>
+		<try>tawny</try>
+		<try>tying</try>
+		<try>bacon</try>
+		<try>urban</try>
+		<try>guise</try>
+	</quordle>
+
+	<quordle date="2023-11-19" number="664" scores="9 6 8 4" words="sooth irate angle badge">
+		<try>prove</try>
+		<try>bilge</try>
+		<try>budge</try>
+		<try>badge</try>
+		<try>glace</try>
+		<try>irate</try>
+		<try>shots</try>
+		<try>angle</try>
+		<try>sooth</try>
+	</quordle>
+
+	<quordle date="2023-11-20" number="665" scores="3 6 7 5" words="tuber egret gaily adept">
+		<try>trunk</try>
+		<try>turbo</try>
+		<try>tuber</try>
+		<try>amids</try>
+		<try>adept</try>
+		<try>egret</try>
+		<try>gaily</try>
+	</quordle>
+
+	<quordle date="2023-11-21" number="666" scores="4 7 6 5" words="touch triad fight reach">
+		<try>blank</try>
+		<try>flush</try>
+		<try>youth</try>
+		<try>touch</try>
+		<try>reach</try>
+		<try>fight</try>
+		<try>triad</try>
+	</quordle>
+
+	<quordle date="2023-11-22" number="667" scores="5 4 9 8" words="patio stern cocoa sloop">
+		<try>crane</try>
+		<try>pushy</try>
+		<try>siren</try>
+		<try>stern</try>
+		<try>patio</try>
+		<try>spook</try>
+		<try>swoop</try>
+		<try>sloop</try>
+		<try>cocoa</try>
+	</quordle>
+
+	<quordle date="2023-11-23" number="668" scores="8 7 6 5" words="proxy carry shear shade">
+		<try>crown</try>
+		<try>trope</try>
+		<try>proud</try>
+		<try>share</try>
+		<try>shade</try>
+		<try>shear</try>
+		<try>carry</try>
+		<try>proxy</try>
+	</quordle>
+
+	<quordle date="2023-11-24" number="669" scores="6 4 5 9" words="cutie twirl flush mummy">
+		<try>seven</try>
+		<try>youth</try>
+		<try>drill</try>
+		<try>twirl</try>
+		<try>flush</try>
+		<try>cutie</try>
+		<try>bumpy</try>
+		<try>gummy</try>
+		<try>mummy</try>
+	</quordle>
+
+	<quordle date="2023-11-25" number="670" scores="7 8 9 4" words="vouch decoy mirth twang">
+		<try>stays</try>
+		<try>power</try>
+		<try>guide</try>
+		<try>twang</try>
+		<try>couch</try>
+		<try>birth</try>
+		<try>vouch</try>
+		<try>decoy</try>
+		<try>mirth</try>
+	</quordle>
+
+	<quordle date="2023-11-26" number="671" scores="6 4 5 8" words="chord horse verse ahead">
+		<try>merry</try>
+		<try>perks</try>
+		<try>lowed</try>
+		<try>horse</try>
+		<try>verse</try>
+		<try>chord</try>
+		<try>theed</try>
+		<try>ahead</try>
+	</quordle>
+
+	<quordle date="2023-11-27" number="672" scores="8 7 5 4" words="aside dimly local clump">
+		<try>bulky</try>
+		<try>power</try>
+		<try>scaly</try>
+		<try>clump</try>
+		<try>local</try>
+		<try>fight</try>
+		<try>dimly</try>
+		<try>aside</try>
+	</quordle>
+
+	<!-- This is #673 -->
+	<quordle date="2023-11-28" number="673" scores="5 0 9 0" words="pesky piece baste brace">
+		<try>stomp</try>
+		<try>under</try>
+		<try>gaily</try>
+		<try>taste</try>
+		<try>pesky</try>
+		<try>pixie</try>
+		<try>haste</try>
+		<try>waste</try>
+		<try>baste</try>
+	</quordle>
+
+	<quordle date="2023-11-29" number="674" scores="7 5 6 4" words="omega koala above troll">
+		<try>inter</try>
+		<try>youth</try>
+		<try>blast</try>
+		<try>troll</try>
+		<try>koala</try>
+		<try>above</try>
+		<try>omega</try>
+	</quordle>
+
+	<quordle date="2023-11-30" number="675" scores="5 7 6 4" words="amble briar berth about">
+		<try>infer</try>
+		<try>blunt</try>
+		<try>poach</try>
+		<try>about</try>
+		<try>amble</try>
+		<try>berth</try>
+		<try>briar</try>
+	</quordle>
+
+	<quordle date="2023-12-01" number="676" scores="8 5 7 6" words="north puppy think pluck">
+		<try>amaze</try>
+		<try>power</try>
+		<try>pupil</try>
+		<try>yours</try>
+		<try>puppy</try>
+		<try>pluck</try>
+		<try>think</try>
+		<try>north</try>
+	</quordle>
+
+	<quordle date="2023-12-02" number="677" scores="7 5 4 6" words="depot modal panic gruff">
+		<try>opera</try>
+		<try>greet</try>
+		<try>minds</try>
+		<try>panic</try>
+		<try>modal</try>
+		<try>gruff</try>
+		<try>depot</try>
+	</quordle>
+
+	<quordle date="2023-12-03" number="678" scores="4 6 8 7" words="stick twice whoop waive">
+		<try>marks</try>
+		<try>poked</try>
+		<try>cling</try>
+		<try>stick</try>
+		<try>evict</try>
+		<try>twice</try>
+		<try>waive</try>
+		<try>whoop</try>
+	</quordle>
+
+	<quordle date="2023-12-04" number="679" scores="4 9 8 5" words="stomp kneed nanny buddy">
+		<try>house</try>
+		<try>triad</try>
+		<try>dumpy</try>
+		<try>stomp</try>
+		<try>buddy</try>
+		<try>canny</try>
+		<try>fanny</try>
+		<try>nanny</try>
+		<try>kneed</try>
+	</quordle>
+
+	<quordle date="2023-12-05" number="680" scores="6 3 7 4" words="prank shush cutie shell">
+		<try>house</try>
+		<try>plaid</try>
+		<try>shush</try>
+		<try>shell</try>
+		<try>untie</try>
+		<try>prank</try>
+		<try>cutie</try>
+	</quordle>
+
+	<quordle date="2023-12-06" number="681" scores="7 4 0 9" words="scoff tonic waver fizzy">
+		<try>crumb</try>
+		<try>sated</try>
+		<try>point</try>
+		<try>tonic</try>
+		<try>willy</try>
+		<try>wager</try>
+		<try>scoff</try>
+		<try>jiffy</try>
+		<try>fizzy</try>
+	</quordle>
+
+	<quordle date="2023-12-07" number="682" scores="8 7 3 6" words="snaky spoon suite spelt">
+		<try>lives</try>
+		<try>drunk</try>
+		<try>suite</try>
+		<try>steel</try>
+		<try>slept</try>
+		<try>spelt</try>
+		<try>spoon</try>
+		<try>snaky</try>
+	</quordle>
+
+	<quordle date="2023-12-08" number="683" scores="7 6 9 5" words="theft saint mushy talon">
+		<try>evade</try>
+		<try>poker</try>
+		<try>suite</try>
+		<try>nylon</try>
+		<try>talon</try>
+		<try>saint</try>
+		<try>theft</try>
+		<try>hushy</try>
+		<try>mushy</try>
+	</quordle>
+
+	<quordle date="2023-12-09" number="684" scores="6 8 4 5" words="poker whack hobby bagel">
+		<try>dream</try>
+		<try>youth</try>
+		<try>bling</try>
+		<try>hobby</try>
+		<try>bagel</try>
+		<try>poker</try>
+		<try>shack</try>
+		<try>whack</try>
+	</quordle>
+
+	<quordle date="2023-12-10" number="685" scores="9 6 8 0" words="godly thump plank civic">
+		<try>quack</try>
+		<try>power</try>
+		<try>prune</try>
+		<try>slump</try>
+		<try>child</try>
+		<try>thump</try>
+		<try>dolly</try>
+		<try>plank</try>
+		<try>godly</try>
+	</quordle>
+
+	<quordle date="2023-12-11" number="686" scores="4 5 6 7" words="basal baron haste mania">
+		<try>lints</try>
+		<try>dream</try>
+		<try>manic</try>
+		<try>basal</try>
+		<try>baron</try>
+		<try>haste</try>
+		<try>mania</try>
+	</quordle>
+
+	<quordle date="2023-12-12" number="687" scores="8 9 6 4" words="scrap ethos condo snort">
+		<try>devil</try>
+		<try>frats</try>
+		<try>young</try>
+		<try>snort</try>
+		<try>scrab</try>
+		<try>condo</try>
+		<try>motes</try>
+		<try>scrap</try>
+		<try>ethos</try>
+	</quordle>
+
+	<quordle date="2023-12-13" number="688" scores="6 7 5 4" words="melee golly heist place">
+		<try>power</try>
+		<try>death</try>
+		<try>cling</try>
+		<try>place</try>
+		<try>heist</try>
+		<try>melee</try>
+		<try>golly</try>
+	</quordle>
+
+	<quordle date="2023-12-14" number="689" scores="4 8 6 7" words="fewer rerun speak creep">
+		<try>owner</try>
+		<try>guide</try>
+		<try>bream</try>
+		<try>fewer</try>
+		<try>steak</try>
+		<try>speak</try>
+		<try>creep</try>
+		<try>rerun</try>
+	</quordle>
+
+	<quordle date="2023-12-15" number="690" scores="7 3 4 5" words="melon ghost sassy clear">
+		<try>stone</try>
+		<try>plyer</try>
+		<try>ghost</try>
+		<try>sassy</try>
+		<try>clear</try>
+		<try>melon</try>
+		<try>felon</try>
+	</quordle>
+
+	<quordle date="2023-12-16" number="691" scores="5 8 6 7" words="exult posse frank spiky">
+		<try>quits</try>
+		<try>elope</try>
+		<try>gravy</try>
+		<try>spicy</try>
+		<try>exult</try>
+		<try>frank</try>
+		<try>spiky</try>
+		<try>posse</try>
+	</quordle>
+
+	<quordle date="2023-12-17" number="692" scores="3 7 6 4" words="solar genie ennui place">
+		<try>bacon</try>
+		<try>plush</try>
+		<try>solar</try>
+		<try>place</try>
+		<try>tuned</try>
+		<try>ennui</try>
+		<try>genie</try>
+	</quordle>
+
+	<quordle date="2023-12-18" number="693" scores="7 5 4 6" words="flunk train skate sprig">
+		<try>slink</try>
+		<try>panic</try>
+		<try>stake</try>
+		<try>skate</try>
+		<try>train</try>
+		<try>sprig</try>
+		<try>flunk</try>
+	</quordle>
+
+	<quordle date="2023-12-19" number="694" scores="8 4 5 6" words="china trunk suave deter">
+		<try>start</try>
+		<try>power</try>
+		<try>drunk</try>
+		<try>trunk</try>
+		<try>suave</try>
+		<try>deter</try>
+		<try>ginny</try>
+		<try>china</try>
+	</quordle>
+
+	<quordle date="2023-12-20" number="695" scores="0 0 0 0" words="humph sower wagon edict">
+		<try>panic</try>
+		<try>opera</try>
+		<try>rover</try>
+		<try>canoe</try>
+		<try>itchy</try>
+		<try>baboo</try>
+		<try>loser</try>
+		<try>sober</try>
+		<try>sorer</try>
+	</quordle>
+
+	<quordle date="2023-12-21" number="696" scores="7 5 8 6" words="tense scalp quasi prawn">
+		<try>panic</try>
+		<try>carps</try>
+		<try>space</try>
+		<try>prank</try>
+		<try>scalp</try>
+		<try>prawn</try>
+		<try>tense</try>
+		<try>quasi</try>
+	</quordle>
+
+	<quordle date="2023-12-22" number="697" scores="8 5 4 6" words="fruit sweet meaty ember">
+		<try>shame</try>
+		<try>power</try>
+		<try>linty</try>
+		<try>meaty</try>
+		<try>sweet</try>
+		<try>ember</try>
+		<try>drift</try>
+		<try>fruit</try>
+	</quordle>
+
+	<!-- This is #698 -->
+	<quordle date="2023-12-23" number="698" scores="0 4 3 0" words="exult wheat scene cress">
+		<try>shave</try>
+		<try>cheat</try>
+		<try>scene</try>
+		<try>wheat</try>
+		<try>clefs</try>
+		<try>creds</try>
+		<try>legit</try>
+		<try>crees</try>
+		<try>crems</try>
+	</quordle>
+
+	<quordle date="2023-12-24" number="699" scores="6 8 5 9" words="furry skate share weedy">
+		<try>point</try>
+		<try>green</try>
+		<try>washy</try>
+		<try>hears</try>
+		<try>share</try>
+		<try>furry</try>
+		<try>slate</try>
+		<try>skate</try>
+		<try>weedy</try>
+	</quordle>
+
+	<quordle date="2023-12-25" number="700" scores="3 7 4 5" words="ranch haute leash wiser">
+		<try>thank</try>
+		<try>power</try>
+		<try>ranch</try>
+		<try>leash</try>
+		<try>wiser</try>
+		<try>bathe</try>
+		<try>haute</try>
+	</quordle>
+
+	<quordle date="2023-12-26" number="701" scores="6 5 8 7" words="tarot wring ombre chute">
+		<try>front</try>
+		<try>backs</try>
+		<try>robin</try>
+		<try>grind</try>
+		<try>wring</try>
+		<try>tarot</try>
+		<try>chute</try>
+		<try>ombre</try>
+	</quordle>
+
+	<quordle date="2023-12-27" number="702" scores="5 6 7 0" words="alive abhor brace corer">
+		<try>chalk</try>
+		<try>diets</try>
+		<try>mourn</try>
+		<try>cover</try>
+		<try>alive</try>
+		<try>abhor</try>
+		<try>brace</try>
+		<try>cower</try>
+		<try>coper</try>
+	</quordle>
+
+	<quordle date="2023-12-28" number="703" scores="7 8 6 0" words="clerk berth finer scaly">
+		<try>means</try>
+		<try>enter</try>
+		<try>rinse</try>
+		<try>dough</try>
+		<try>fleck</try>
+		<try>finer</try>
+		<try>clerk</try>
+		<try>berth</try>
+		<try>scalp</try>
+	</quordle>
+
+	<quordle date="2023-12-29" number="704" scores="4 6 5 7" words="agony flaky phone afoul">
+		<try>sting</try>
+		<try>plead</try>
+		<try>chore</try>
+		<try>agony</try>
+		<try>phone</try>
+		<try>flaky</try>
+		<try>afoul</try>
+	</quordle>
+
+	<quordle date="2023-12-30" number="705" scores="5 7 4 6" words="acute sally groan growl">
+		<try>poker</try>
+		<try>dashy</try>
+		<try>cumin</try>
+		<try>groan</try>
+		<try>acute</try>
+		<try>growl</try>
+		<try>sally</try>
+	</quordle>
+
+	<quordle date="2023-12-31" number="706" scores="5 8 0 9" words="toxic solve album graze">
+		<try>place</try>
+		<try>trunk</try>
+		<try>frame</try>
+		<try>grade</try>
+		<try>toxic</try>
+		<try>loose</try>
+		<try>grave</try>
+		<try>solve</try>
+		<try>graze</try>
+	</quordle>
+
+</wordles>
