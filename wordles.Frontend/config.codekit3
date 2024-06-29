@@ -760,6 +760,22 @@
       "oAP" : "\/build\/xml\/debugger.pathology",
       "oF" : 0
     },
+    "\/src\/xml\/quordle-2022.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/quordle-2022.xml",
+      "oF" : 0
+    },
+    "\/src\/xml\/quordle-2023.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/quordle-2023.xml",
+      "oF" : 0
+    },
     "\/src\/xml\/quordle-fixed1.xml" : {
       "cB" : 0,
       "ft" : 8192,
@@ -782,6 +798,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/build\/xml\/quordle.xml",
+      "oF" : 0
+    },
+    "\/src\/xml\/wordle-2022.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/wordle-2022.xml",
+      "oF" : 0
+    },
+    "\/src\/xml\/wordle-2023.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/wordle-2023.xml",
+      "oF" : 0
+    },
+    "\/src\/xml\/wordle-dk-2022.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/wordle-dk-2022.xml",
+      "oF" : 0
+    },
+    "\/src\/xml\/wordle-dk-2023.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/xml\/wordle-dk-2023.xml",
       "oF" : 0
     },
     "\/src\/xml\/wordle-dk.xml" : {
