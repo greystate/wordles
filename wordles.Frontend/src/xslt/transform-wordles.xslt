@@ -156,9 +156,9 @@
 	</xsl:template>
 
 	<xsl:template match="/w:wordles">
-		<xsl:variable name="official-wordles" select="w:wordles[lang('en')]/w:wordle" />
-		<xsl:variable name="danish-wordles" select="w:wordles[lang('da')]/w:wordle" />
-		<xsl:variable name="quordles" select="w:wordles[w:quordle]/w:quordle" />
+		<xsl:variable name="official-wordles" select=".//w:wordles[lang('en')]/w:wordle" />
+		<xsl:variable name="danish-wordles" select=".//w:wordles[lang('da')]/w:wordle" />
+		<xsl:variable name="quordles" select=".//w:wordles[w:quordle]/w:quordle" />
 
 		<h2>From the official Wordle</h2>
 		<xsl:call-template name="local-stats">
