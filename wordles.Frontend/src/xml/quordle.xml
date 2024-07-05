@@ -2019,4 +2019,71 @@
 		<try>sheik</try>
 	</quordle>
 
+	<quordle date="2024-06-30" number="887" scores="6 0 9 7" words="alibi hyena nerve known">
+		<try>wound</try>
+		<try>owner</try>
+		<try>limps</try>
+		<try>tacit</try>
+		<try>fabby</try>
+		<try>alibi</try>
+		<try>known</try>
+		<try>green</try>
+		<try>nerve</try>
+	</quordle>
+
+	<quordle date="2024-07-01" number="888" scores="6 7 8 5" words="incur minty limit synod">
+		<try>music</try>
+		<try>throw</try>
+		<try>plead</try>
+		<try>young</try>
+		<try>synod</try>
+		<try>incur</try>
+		<try>minty</try>
+		<try>limit</try>
+	</quordle>
+
+	<quordle date="2024-07-02" number="889" scores="5 7 8 6" words="yacht lodge belly covet">
+		<try>endow</try>
+		<try>poker</try>
+		<try>tasty</try>
+		<try>climb</try>
+		<try>yacht</try>
+		<try>covet</try>
+		<try>lodge</try>
+		<try>belly</try>
+	</quordle>
+
+	<quordle date="2024-07-03" number="890" scores="9 8 4 7" words="quote plump singe scowl">
+		<try>blunt</try>
+		<try>slush</try>
+		<try>grape</try>
+		<try>singe</try>
+		<try>clump</try>
+		<try>scold</try>
+		<try>scowl</try>
+		<try>plump</try>
+		<try>quote</try>
+	</quordle>
+
+	<quordle date="2024-07-04" number="891" scores="6 4 5 7" words="mirth bliss swung mauve">
+		<try>spice</try>
+		<try>orbit</try>
+		<try>laugh</try>
+		<try>bliss</try>
+		<try>swung</try>
+		<try>mirth</try>
+		<try>mauve</try>
+	</quordle>
+
+	<quordle date="2024-07-05" number="892" scores="5 8 6 7" words="soggy scrum tenor wight">
+		<try>tower</try>
+		<try>trope</try>
+		<try>slack</try>
+		<try>mingy</try>
+		<try>soggy</try>
+		<try>tenor</try>
+		<try>wight</try>
+		<try>scrum</try>
+	</quordle>
+
 </wordles>

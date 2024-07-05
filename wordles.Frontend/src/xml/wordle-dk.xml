@@ -1295,4 +1295,49 @@
 		<try>arkiv</try>
 	</wordle>
 
+	<wordle date="2024-06-30" number="904" score="4" word="brusk">
+		<try>skærm</try>
+		<try>kryds</try>
+		<try>arisk</try>
+		<try>brusk</try>
+	</wordle>
+
+	<wordle date="2024-07-01" number="905" score="5" word="sukat">
+		<try>mudre</try>
+		<try>lugts</try>
+		<try>tusch</try>
+		<try>kunst</try>
+		<try>sukat</try>
+	</wordle>
+
+	<wordle date="2024-07-02" number="906" score="3" word="polka">
+		<try>inder</try>
+		<try>fluks</try>
+		<try>polka</try>
+	</wordle>
+
+	<wordle date="2024-07-03" number="907" score="6" word="fyord">
+		<try>brunt</try>
+		<try>racer</try>
+		<try>sirup</try>
+		<try>omgår</try>
+		<try>fjord</try>
+		<try>fyord</try>
+	</wordle>
+
+	<wordle date="2024-07-04" number="908" score="4" word="astma">
+		<try>trone</try>
+		<try>stald</try>
+		<try>afstå</try>
+		<try>astma</try>
+	</wordle>
+
+	<wordle date="2024-07-05" number="909" score="5" word="murbi">
+		<try>opera</try>
+		<try>rundt</try>
+		<try>humør</try>
+		<try>durum</try>
+		<try>murbi</try>
+	</wordle>
+
 </wordles>

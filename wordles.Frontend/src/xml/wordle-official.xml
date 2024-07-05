@@ -1268,4 +1268,42 @@
 		<try>zebra</try>
 	</wordle>
 
+	<wordle date="2024-06-30" number="1107" score="3" word="buddy">
+		<try>minds</try>
+		<try>heady</try>
+		<try>buddy</try>
+	</wordle>
+
+	<wordle date="2024-07-01" number="1108" score="3" word="adage">
+		<try>swift</try>
+		<try>ready</try>
+		<try>adage</try>
+	</wordle>
+
+	<wordle date="2024-07-02" number="1109" score="2" word="inlay">
+		<try>fiend</try>
+		<try>inlay</try>
+	</wordle>
+
+	<wordle date="2024-07-03" number="1110" score="5" word="thigh">
+		<try>blown</try>
+		<try>carts</try>
+		<try>timed</try>
+		<try>typic</try>
+		<try>thigh</try>
+	</wordle>
+
+	<wordle date="2024-07-04" number="1111" score="4" word="debut">
+		<try>octal</try>
+		<try>point</try>
+		<try>rebut</try>
+		<try>debut</try>
+	</wordle>
+
+	<wordle date="2024-07-05" number="1112" score="3" word="crush">
+		<try>paved</try>
+		<try>blunt</try>
+		<try>crush</try>
+	</wordle>
+
 </wordles>
