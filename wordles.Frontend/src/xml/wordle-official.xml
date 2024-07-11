@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<xi:include href="wordle-2022.xml" parse="xml" />
-	<xi:include href="wordle-2023.xml" parse="xml" />
+	<xi:include href="wordle-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
 
 	<wordle date="2024-01-01" number="926" score="3" word="mural">
 		<try>stare</try>
@@ -1304,6 +1304,50 @@
 		<try>paved</try>
 		<try>blunt</try>
 		<try>crush</try>
+	</wordle>
+
+	<wordle date="2024-07-06" number="1113" score="4" word="scoff">
+		<try>ports</try>
+		<try>scowl</try>
+		<try>scone</try>
+		<try>scoff</try>
+	</wordle>
+
+	<wordle date="2024-07-07" number="1114" score="3" word="canon">
+		<try>place</try>
+		<try>panic</try>
+		<try>canon</try>
+	</wordle>
+
+	<wordle date="2024-07-08" number="1115" score="4" word="shape">
+		<try>train</try>
+		<try>glace</try>
+		<try>spade</try>
+		<try>shape</try>
+	</wordle>
+
+	<wordle date="2024-07-09" number="1116" score="5" word="blare">
+		<try>usage</try>
+		<try>crate</try>
+		<try>spare</try>
+		<try>aware</try>
+		<try>blare</try>
+	</wordle>
+
+	<wordle date="2024-07-10" number="1117" score="5" word="gaunt">
+		<try>datum</try>
+		<try>jaunt</try>
+		<try>taunt</try>
+		<try>haunt</try>
+		<try>gaunt</try>
+	</wordle>
+
+	<wordle date="2024-07-11" number="1118" score="5" word="cameo">
+		<try>sting</try>
+		<try>cheap</try>
+		<try>cared</try>
+		<try>camel</try>
+		<try>cameo</try>
 	</wordle>
 
 </wordles>

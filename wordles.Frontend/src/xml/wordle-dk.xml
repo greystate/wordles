@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wordles xml:lang="da" xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<xi:include href="wordle-dk-2022.xml" parse="xml" />
-	<xi:include href="wordle-dk-2023.xml" parse="xml" />
+	<xi:include href="wordle-dk-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-dk-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
 
 	<wordle date="2024-01-01" number="723" score="4" word="pilot">
 		<try>udsat</try>
@@ -1338,6 +1338,47 @@
 		<try>humør</try>
 		<try>durum</try>
 		<try>murbi</try>
+	</wordle>
+
+	<wordle date="2024-07-06" number="910" score="3" word="snavs">
+		<try>plads</try>
+		<try>krans</try>
+		<try>snavs</try>
+	</wordle>
+
+	<wordle date="2024-07-07" number="911" score="5" word="tusch">
+		<try>opera</try>
+		<try>skyld</try>
+		<try>tings</try>
+		<try>tubas</try>
+		<try>tusch</try>
+	</wordle>
+
+	<wordle date="2024-07-08" number="912" score="5" word="armod">
+		<try>slags</try>
+		<try>bande</try>
+		<try>afdæk</try>
+		<try>advar</try>
+		<try>armod</try>
+	</wordle>
+
+	<wordle date="2024-07-09" number="913" score="3" word="bundt">
+		<try>opera</try>
+		<try>tungt</try>
+		<try>bundt</try>
+	</wordle>
+
+	<wordle date="2024-07-10" number="914" score="4" word="bybud">
+		<try>nælde</try>
+		<try>dansk</try>
+		<try>biord</try>
+		<try>bybud</try>
+	</wordle>
+
+	<wordle date="2024-07-11" number="915" score="3" word="samba">
+		<try>opera</try>
+		<try>skala</try>
+		<try>samba</try>
 	</wordle>
 
 </wordles>
