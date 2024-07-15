@@ -1381,4 +1381,37 @@
 		<try>samba</try>
 	</wordle>
 
+	<wordle date="2024-07-12" number="916" score="5" word="senat">
+		<try>skole</try>
+		<try>super</try>
+		<try>skema</try>
+		<try>sedan</try>
+		<try>senat</try>
+	</wordle>
+
+	<wordle date="2024-07-13" number="917" score="6" word="hverv">
+		<try>poker</try>
+		<try>fjern</try>
+		<try>abers</try>
+		<try>yvere</try>
+		<try>hvert</try>
+		<try>hverv</try>
+	</wordle>
+
+	<wordle date="2024-07-14" number="918" score="5" word="nisse">
+		<try>opera</try>
+		<try>denim</try>
+		<try>tiden</try>
+		<try>gisne</try>
+		<try>nisse</try>
+	</wordle>
+
+	<wordle date="2024-07-15" number="919" score="5" word="balje">
+		<try>lader</try>
+		<try>malke</try>
+		<try>halte</try>
+		<try>valse</try>
+		<try>balje</try>
+	</wordle>
+
 </wordles>

@@ -1350,4 +1350,33 @@
 		<try>cameo</try>
 	</wordle>
 
+	<wordle date="2024-07-12" number="1119" score="6" word="jiffy">
+		<try>block</try>
+		<try>meats</try>
+		<try>wring</try>
+		<try>divvy</try>
+		<try>fizzy</try>
+		<try>jiffy</try>
+	</wordle>
+
+	<wordle date="2024-07-13" number="1120" score="3" word="enact">
+		<try>about</try>
+		<try>sweat</try>
+		<try>enact</try>
+	</wordle>
+
+	<wordle date="2024-07-14" number="1121" score="5" word="video">
+		<try>reaps</try>
+		<try>intel</try>
+		<try>mined</try>
+		<try>divey</try>
+		<try>video</try>
+	</wordle>
+
+	<wordle date="2024-07-15" number="1122" score="3" word="swoon">
+		<try>weary</try>
+		<try>plows</try>
+		<try>swoon</try>
+	</wordle>
+
 </wordles>

@@ -2154,4 +2154,43 @@
 		<try>alloy</try>
 	</quordle>
 
+	<quordle date="2024-07-12" number="899" scores="6 9 5 8" words="cheer squib cleft oddly">
+		<try>trash</try>
+		<try>power</try>
+		<try>limit</try>
+		<try>funny</try>
+		<try>cleft</try>
+		<try>cheer</try>
+		<try>golly</try>
+		<try>oddly</try>
+		<try>squib</try>
+	</quordle>
+
+	<quordle date="2024-07-13" number="900" scores="5 6 9 8" words="growl whelp curvy aptly">
+		<try>slack</try>
+		<try>opium</try>
+		<try>nerve</try>
+		<try>great</try>
+		<try>growl</try>
+		<try>whelp</try>
+		<try>curve</try>
+		<try>aptly</try>
+		<try>curvy</try>
+	</quordle>
+
+	<!-- Missed #901 -->
+	<quordle date="2024-07-14" number="901" scores="0 0 0 0" words="? ? ? ?" />
+
+	<quordle date="2024-07-15" number="902" scores="6 9 3 4" words="quash brass utter alert">
+		<try>steam</try>
+		<try>under</try>
+		<try>utter</try>
+		<try>alert</try>
+		<try>harsh</try>
+		<try>quash</try>
+		<try>crass</try>
+		<try>grass</try>
+		<try>brass</try>
+	</quordle>
+
 </wordles>
