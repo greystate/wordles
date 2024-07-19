@@ -1379,4 +1379,31 @@
 		<try>swoon</try>
 	</wordle>
 
+	<wordle date="2024-07-16" number="1123" score="4" word="decoy">
+		<try>enema</try>
+		<try>repos</try>
+		<try>detox</try>
+		<try>decoy</try>
+	</wordle>
+
+	<wordle date="2024-07-17" number="1124" score="5" word="quite">
+		<try>slept</try>
+		<try>teary</try>
+		<try>white</try>
+		<try>unite</try>
+		<try>quite</try>
+	</wordle>
+
+	<wordle date="2024-07-18" number="1125" score="4" word="nerdy">
+		<try>spare</try>
+		<try>tried</try>
+		<try>demur</try>
+		<try>nerdy</try>
+	</wordle>
+
+	<wordle date="2024-07-19" number="1126" score="2" word="refer">
+		<try>flags</try>
+		<try>refer</try>
+	</wordle>
+
 </wordles>

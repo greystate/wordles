@@ -1414,4 +1414,34 @@
 		<try>balje</try>
 	</wordle>
 
+	<wordle date="2024-07-16" number="920" score="3" word="afbud">
+		<try>loppe</try>
+		<try>udtag</try>
+		<try>afbud</try>
+	</wordle>
+
+	<wordle date="2024-07-17" number="921" score="5" word="afbød">
+		<try>super</try>
+		<try>datid</try>
+		<try>aflad</try>
+		<try>afbud</try>
+		<try>afbød</try>
+	</wordle>
+
+	<wordle date="2024-07-18" number="922" score="4" word="afbøj">
+		<try>luske</try>
+		<try>robot</try>
+		<try>afbød</try>
+		<try>afbøj</try>
+	</wordle>
+
+	<wordle date="2024-07-19" number="923" score="5" word="dukat">
+		<try>opera</try>
+		<try>altid</try>
+		<try>tands</try>
+		<try>udsat</try>
+		<try>dukat</try>
+	</wordle>
+
+
 </wordles>

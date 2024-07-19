@@ -2193,4 +2193,49 @@
 		<try>brass</try>
 	</quordle>
 
+	<quordle date="2024-07-16" number="903" scores="8 0 6 4" words="stoic homer store steal">
+		<try>waste</try>
+		<try>steam</try>
+		<try>style</try>
+		<try>steal</try>
+		<try>demon</try>
+		<try>store</try>
+		<try>stock</try>
+		<try>stoic</try>
+		<try>romeo</try>
+	</quordle>
+
+	<quordle date="2024-07-17" number="904" scores="5 7 4 6" words="syrup amiss otter botch">
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>octal</try>
+		<try>otter</try>
+		<try>syrup</try>
+		<try>botch</try>
+		<try>amiss</try>
+	</quordle>
+
+	<quordle date="2024-07-18" number="905" scores="8 3 4 7" words="shale blink chock poppy">
+		<try>front</try>
+		<try>backs</try>
+		<try>blink</try>
+		<try>chock</try>
+		<try>shall</try>
+		<try>dodge</try>
+		<try>poppy</try>
+		<try>shale</try>
+	</quordle>
+
+	<quordle date="2024-07-19" number="906" scores="5 9 6 3" words="cinch woken bicep inlay">
+		<try>print</try>
+		<try>loads</try>
+		<try>inlay</try>
+		<try>bough</try>
+		<try>cinch</try>
+		<try>bicep</try>
+		<try>women</try>
+		<try>woven</try>
+		<try>woken</try>
+	</quordle>
+
 </wordles>
