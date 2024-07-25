@@ -1406,4 +1406,47 @@
 		<try>refer</try>
 	</wordle>
 
+	<wordle date="2024-07-20" number="1127" score="4" word="shaft">
+		<try>cells</try>
+		<try>straw</try>
+		<try>satin</try>
+		<try>shaft</try>
+	</wordle>
+
+	<wordle date="2024-07-21" number="1128" score="6" word="speck">
+		<try>risky</try>
+		<try>flask</try>
+		<try>stock</try>
+		<try>shuck</try>
+		<try>sneck</try>
+		<try>speck</try>
+	</wordle>
+
+	<wordle date="2024-07-22" number="1129" score="3" word="cadet">
+		<try>raise</try>
+		<try>tamed</try>
+		<try>cadet</try>
+	</wordle>
+
+	<wordle date="2024-07-23" number="1130" score="5" word="prong">
+		<try>posed</try>
+		<try>piano</try>
+		<try>plonk</try>
+		<try>phony</try>
+		<try>prong</try>
+	</wordle>
+
+	<wordle date="2024-07-24" number="1131" score="3" word="forte">
+		<try>trace</try>
+		<try>retie</try>
+		<try>forte</try>
+	</wordle>
+
+	<wordle date="2024-07-25" number="1132" score="4" word="porch">
+		<try>young</try>
+		<try>poker</try>
+		<try>ports</try>
+		<try>porch</try>
+	</wordle>
+
 </wordles>

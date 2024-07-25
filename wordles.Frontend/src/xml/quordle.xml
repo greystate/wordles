@@ -2238,4 +2238,66 @@
 		<try>woken</try>
 	</quordle>
 
+	<quordle date="2024-07-20" number="907" scores="5 4 8 7" words="waist think prose bathe">
+		<try>shaft</try>
+		<try>under</try>
+		<try>thing</try>
+		<try>think</try>
+		<try>waist</try>
+		<try>lathe</try>
+		<try>bathe</try>
+		<try>prose</try>
+	</quordle>
+
+	<quordle date="2024-07-21" number="908" scores="6 4 5 3" words="liver peril jewel prowl">
+		<try>thing</try>
+		<try>power</try>
+		<try>prowl</try>
+		<try>peril</try>
+		<try>jewel</try>
+		<try>liver</try>
+	</quordle>
+
+	<quordle date="2024-07-22" number="909" scores="4 5 7 6" words="grain again brick aptly">
+		<try>crazy</try>
+		<try>opens</try>
+		<try>guilt</try>
+		<try>grain</try>
+		<try>again</try>
+		<try>aptly</try>
+		<try>brick</try>
+	</quordle>
+
+	<quordle date="2024-07-23" number="910" scores="3 8 4 7" words="cliff sixty faith graph">
+		<try>flash</try>
+		<try>cleft</try>
+		<try>cliff</try>
+		<try>faith</try>
+		<try>dumpy</try>
+		<try>witty</try>
+		<try>graph</try>
+		<try>sixty</try>
+	</quordle>
+
+	<quordle date="2024-07-24" number="911" scores="6 5 3 4" words="fussy primo those heard">
+		<try>fresh</try>
+		<try>octal</try>
+		<try>those</try>
+		<try>heard</try>
+		<try>primo</try>
+		<try>fussy</try>
+	</quordle>
+
+	<quordle date="2024-07-25" number="912" scores="5 7 8 9" words="blurb pence phase skimp">
+		<try>queen</try>
+		<try>stray</try>
+		<try>longs</try>
+		<try>flour</try>
+		<try>blurb</try>
+		<try>hence</try>
+		<try>pence</try>
+		<try>phase</try>
+		<try>skimp</try>
+	</quordle>
+
 </wordles>

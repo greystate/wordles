@@ -1443,5 +1443,49 @@
 		<try>dukat</try>
 	</wordle>
 
+	<wordle date="2024-07-20" number="924" score="4" word="numse">
+		<try>opera</try>
+		<try>kunde</try>
+		<try>bugne</try>
+		<try>numse</try>
+	</wordle>
+
+	<wordle date="2024-07-21" number="925" score="5" word="fluor">
+		<try>trone</try>
+		<try>rolig</try>
+		<try>orlov</try>
+		<try>alvor</try>
+		<try>fluor</try>
+	</wordle>
+
+	<wordle date="2024-07-22" number="926" score="3" word="idiom">
+		<try>trold</try>
+		<try>noden</try>
+		<try>idiom</try>
+	</wordle>
+
+	<wordle date="2024-07-23" number="927" score="5" word="notar">
+		<try>plade</try>
+		<try>magts</try>
+		<try>antik</try>
+		<try>notat</try>
+		<try>notar</try>
+	</wordle>
+
+	<wordle date="2024-07-24" number="928" score="6" word="oasis">
+		<try>stærk</try>
+		<try>usete</try>
+		<try>hagls</try>
+		<try>bands</try>
+		<try>famøs</try>
+		<try>oasis</try>
+	</wordle>
+
+	<wordle date="2024-07-25" number="929" score="4" word="prins">
+		<try>opera</try>
+		<try>præst</try>
+		<try>pryds</try>
+		<try>prins</try>
+	</wordle>
 
 </wordles>
