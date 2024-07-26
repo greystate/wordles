@@ -2300,4 +2300,15 @@
 		<try>skimp</try>
 	</quordle>
 
+	<quordle date="2024-07-26" number="913" scores="4 8 7 6" words="nutty tatty shush thigh">
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>rinse</try>
+		<try>nutty</try>
+		<try>batty</try>
+		<try>thigh</try>
+		<try>shush</try>
+		<try>tatty</try>
+	</quordle>
+
 </wordles>

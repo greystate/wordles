@@ -1488,4 +1488,11 @@
 		<try>prins</try>
 	</wordle>
 
+	<wordle date="2024-07-26" number="930" score="4" word="afdæk">
+		<try>opera</try>
+		<try>antal</try>
+		<try>afgik</try>
+		<try>afdæk</try>
+	</wordle>
+
 </wordles>
