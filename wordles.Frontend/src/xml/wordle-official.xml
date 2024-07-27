@@ -1456,4 +1456,12 @@
 		<try>awash</try>
 	</wordle>
 
+	<wordle date="2024-07-27" number="1134" score="5" word="juice">
+		<try>rusty</try>
+		<try>audio</try>
+		<try>guile</try>
+		<try>quine</try>
+		<try>juice</try>
+	</wordle>
+
 </wordles>
