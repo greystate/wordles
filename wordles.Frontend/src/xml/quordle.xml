@@ -2323,4 +2323,49 @@
 		<try>mouth</try>
 	</quordle>
 
+	<quordle date="2024-07-28" number="915" scores="9 5 8 4" words="gauge easel girth later">
+		<try>train</try>
+		<try>poles</try>
+		<try>mucky</try>
+		<try>later</try>
+		<try>easel</try>
+		<try>birth</try>
+		<try>gauze</try>
+		<try>girth</try>
+		<try>gauge</try>
+	</quordle>
+
+	<quordle date="2024-07-29" number="916" scores="8 6 0 7" words="quiet order leave toddy">
+		<try>tunas</try>
+		<try>opera</try>
+		<try>micky</try>
+		<try>jiggy</try>
+		<try>dread</try>
+		<try>order</try>
+		<try>toddy</try>
+		<try>quiet</try>
+		<try>fable</try>
+	</quordle>
+
+	<quordle date="2024-07-30" number="917" scores="5 7 6 8" words="tawny index shook salve">
+		<try>speed</try>
+		<try>moldy</try>
+		<try>trace</try>
+		<try>sales</try>
+		<try>tawny</try>
+		<try>shook</try>
+		<try>index</try>
+		<try>salve</try>
+	</quordle>
+
+	<quordle date="2024-07-31" number="918" scores="4 6 5 7" words="nosey sheik phone skier">
+		<try>opera</try>
+		<try>clubs</try>
+		<try>minty</try>
+		<try>nosey</try>
+		<try>phone</try>
+		<try>sheik</try>
+		<try>skier</try>
+	</quordle>
+
 </wordles>

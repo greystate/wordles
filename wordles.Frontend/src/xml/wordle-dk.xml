@@ -1503,4 +1503,32 @@
 		<try>afdød</try>
 	</wordle>
 
+	<wordle date="2024-07-28" number="932" score="6" word="affat">
+		<try>plads</try>
+		<try>naver</try>
+		<try>aktiv</try>
+		<try>afstå</try>
+		<try>afmat</try>
+		<try>affat</try>
+	</wordle>
+
+	<wordle date="2024-07-29" number="933" score="4" word="affed">
+		<try>start</try>
+		<try>affør</try>
+		<try>affej</try>
+		<try>affed</try>
+	</wordle>
+
+	<wordle date="2024-07-30" number="934" score="3" word="sprut">
+		<try>sorte</try>
+		<try>sprit</try>
+		<try>sprut</try>
+	</wordle>
+
+	<wordle date="2024-07-31" number="935" score="3" word="penge">
+		<try>spræt</try>
+		<try>polak</try>
+		<try>penge</try>
+	</wordle>
+
 </wordles>

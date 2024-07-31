@@ -1464,4 +1464,34 @@
 		<try>juice</try>
 	</wordle>
 
+	<wordle date="2024-07-28" number="1135" score="5" word="smock">
+		<try>bland</try>
+		<try>power</try>
+		<try>shout</try>
+		<try>smoky</try>
+		<try>smock</try>
+	</wordle>
+
+	<wordle date="2024-07-29" number="1136" score="4" word="super">
+		<try>first</try>
+		<try>solar</try>
+		<try>sewer</try>
+		<try>super</try>
+	</wordle>
+
+	<wordle date="2024-07-30" number="1137" score="4" word="feral">
+		<try>flush</try>
+		<try>foley</try>
+		<try>field</try>
+		<try>feral</try>
+	</wordle>
+
+	<wordle date="2024-07-31" number="1138" score="5" word="penne">
+		<try>unset</try>
+		<try>venom</try>
+		<try>penal</try>
+		<try>penny</try>
+		<try>penne</try>
+	</wordle>
+
 </wordles>
