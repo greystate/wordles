@@ -1494,4 +1494,21 @@
 		<try>penne</try>
 	</wordle>
 
+	<wordle date="2024-08-01" number="1139" score="5" word="chalk">
+		<try>tooth</try>
+		<try>happy</try>
+		<try>shark</try>
+		<try>whack</try>
+		<try>chalk</try>
+	</wordle>
+
+	<wordle date="2024-08-02" number="1140" score="6" word="flake">
+		<try>thyme</try>
+		<try>leave</try>
+		<try>scale</try>
+		<try>blade</try>
+		<try>plane</try>
+		<try>flake</try>
+	</wordle>
+
 </wordles>

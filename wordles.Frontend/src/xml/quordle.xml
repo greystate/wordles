@@ -2368,4 +2368,25 @@
 		<try>skier</try>
 	</quordle>
 
+	<quordle date="2024-08-01" number="919" scores="4 7 6 5" words="suing craft stuff spike">
+		<try>dream</try>
+		<try>funky</try>
+		<try>bliss</try>
+		<try>suing</try>
+		<try>spike</try>
+		<try>stuff</try>
+		<try>craft</try>
+	</quordle>
+
+	<quordle date="2024-08-02" number="920" scores="8 4 5 7" words="tight honey retry spout">
+		<try>clown</try>
+		<try>thyme</try>
+		<try>drags</try>
+		<try>honey</try>
+		<try>retry</try>
+		<try>stoop</try>
+		<try>spout</try>
+		<try>tight</try>
+	</quordle>
+
 </wordles>

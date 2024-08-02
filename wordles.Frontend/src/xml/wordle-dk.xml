@@ -1531,4 +1531,18 @@
 		<try>penge</try>
 	</wordle>
 
+	<wordle date="2024-08-01" number="936" score="3" word="skakt">
+		<try>skaft</try>
+		<try>skabt</try>
+		<try>skakt</try>
+	</wordle>
+
+	<wordle date="2024-08-02" number="937" score="5" word="point">
+		<try>salte</try>
+		<try>trægt</try>
+		<try>motiv</try>
+		<try>joint</try>
+		<try>point</try>
+	</wordle>
+
 </wordles>
