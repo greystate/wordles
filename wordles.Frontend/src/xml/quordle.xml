@@ -2389,4 +2389,48 @@
 		<try>tight</try>
 	</quordle>
 
+	<quordle date="2024-08-03" number="921" scores="8 9 5 7" words="unmet eject maple lucky">
+		<try>blank</try>
+		<try>power</try>
+		<try>style</try>
+		<try>apple</try>
+		<try>maple</try>
+		<try>hulky</try>
+		<try>lucky</try>
+		<try>unmet</try>
+		<try>eject</try>
+	</quordle>
+
+	<quordle date="2024-08-04" number="922" scores="9 5 7 8" words="muddy scarf decal surly">
+		<try>white</try>
+		<try>black</try>
+		<try>funds</try>
+		<try>grope</try>
+		<try>scarf</try>
+		<try>laced</try>
+		<try>decal</try>
+		<try>surly</try>
+		<try>muddy</try>
+	</quordle>
+
+	<quordle date="2024-08-05" number="923" scores="5 7 6 4" words="chuck villa jiffy flake">
+		<try>trope</try>
+		<try>cumin</try>
+		<try>flash</try>
+		<try>flake</try>
+		<try>chuck</try>
+		<try>jiffy</try>
+		<try>villa</try>
+	</quordle>
+
+	<quordle date="2024-08-06" number="924" scores="6 4 5 7" words="awful blast wring scold">
+		<try>blink</try>
+		<try>power</try>
+		<try>stays</try>
+		<try>blast</try>
+		<try>wring</try>
+		<try>awful</try>
+		<try>scold</try>
+	</quordle>
+
 </wordles>

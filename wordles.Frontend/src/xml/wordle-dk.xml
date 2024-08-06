@@ -1545,4 +1545,31 @@
 		<try>point</try>
 	</wordle>
 
+	<wordle date="2024-08-03" number="938" score="3" word="spark">
+		<try>poker</try>
+		<try>skræp</try>
+		<try>spark</try>
+	</wordle>
+
+	<wordle date="2024-08-04" number="939" score="4" word="vrang">
+		<try>opera</try>
+		<try>arisk</try>
+		<try>travl</try>
+		<try>vrang</try>
+	</wordle>
+
+	<wordle date="2024-08-05" number="940" score="4" word="sømil">
+		<try>pragt</try>
+		<try>skole</try>
+		<try>slump</try>
+		<try>sømil</try>
+	</wordle>
+
+	<wordle date="2024-08-06" number="941" score="4" word="anode">
+		<try>opera</try>
+		<try>boaen</try>
+		<try>favne</try>
+		<try>anode</try>
+	</wordle>
+
 </wordles>

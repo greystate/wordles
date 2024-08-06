@@ -1511,4 +1511,32 @@
 		<try>flake</try>
 	</wordle>
 
+	<wordle date="2024-08-03" number="1141" score="4" word="scale">
+		<try>basin</try>
+		<try>stalk</try>
+		<try>small</try>
+		<try>scale</try>
+	</wordle>
+
+	<wordle date="2024-08-04" number="1142" score="4" word="lower">
+		<try>point</try>
+		<try>mower</try>
+		<try>tower</try>
+		<try>lower</try>
+	</wordle>
+
+	<wordle date="2024-08-05" number="1143" score="5" word="ensue">
+		<try>topic</try>
+		<try>sawed</try>
+		<try>germs</try>
+		<try>flesh</try>
+		<try>ensue</try>
+	</wordle>
+
+	<wordle date="2024-08-06" number="1144" score="3" word="anvil">
+		<try>rains</try>
+		<try>final</try>
+		<try>anvil</try>
+	</wordle>
+
 </wordles>
