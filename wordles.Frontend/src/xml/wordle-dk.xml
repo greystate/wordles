@@ -1572,4 +1572,21 @@
 		<try>anode</try>
 	</wordle>
 
+	<wordle date="2024-08-07" number="942" score="6" word="stavn">
+		<try>blæst</try>
+		<try>stork</try>
+		<try>stade</try>
+		<try>stamp</try>
+		<try>stans</try>
+		<try>stavn</try>
+	</wordle>
+
+	<wordle date="2024-08-08" number="943" score="5" word="ørken">
+		<try>under</try>
+		<try>poren</try>
+		<try>risen</try>
+		<try>æraen</try>
+		<try>ørken</try>
+	</wordle>
+
 </wordles>

@@ -1539,4 +1539,17 @@
 		<try>anvil</try>
 	</wordle>
 
+	<wordle date="2024-08-07" number="1145" score="3" word="macaw">
+		<try>words</try>
+		<try>awake</try>
+		<try>macaw</try>
+	</wordle>
+
+	<wordle date="2024-08-08" number="1146" score="4" word="saucy">
+		<try>tough</try>
+		<try>skull</try>
+		<try>sauce</try>
+		<try>saucy</try>
+	</wordle>
+
 </wordles>

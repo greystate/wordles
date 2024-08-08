@@ -2433,4 +2433,27 @@
 		<try>scold</try>
 	</quordle>
 
+	<quordle date="2024-08-07" number="925" scores="9 6 7 8" words="goner peach swung usher">
+		<try>flick</try>
+		<try>power</try>
+		<try>stays</try>
+		<try>peace</try>
+		<try>bunch</try>
+		<try>peach</try>
+		<try>swung</try>
+		<try>usher</try>
+		<try>goner</try>
+	</quordle>
+
+	<quordle date="2024-08-08" number="926" scores="5 6 7 8" words="gusto sprig solid swore">
+		<try>wants</try>
+		<try>bumpy</try>
+		<try>chill</try>
+		<try>joker</try>
+		<try>gusto</try>
+		<try>sprig</try>
+		<try>solid</try>
+		<try>swore</try>
+	</quordle>
+
 </wordles>
