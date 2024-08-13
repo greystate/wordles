@@ -1589,4 +1589,41 @@
 		<try>ørken</try>
 	</wordle>
 
+	<wordle date="2024-08-09" number="944" score="4" word="blitz">
+		<try>prust</try>
+		<try>tager</try>
+		<try>motiv</try>
+		<try>blitz</try>
+	</wordle>
+
+	<wordle date="2024-08-10" number="945" score="3" word="spelt">
+		<try>drage</try>
+		<try>polen</try>
+		<try>spelt</try>
+	</wordle>
+
+	<wordle date="2024-08-11" number="946" score="5" word="dådyr">
+		<try>opera</try>
+		<try>røsts</try>
+		<try>fyrig</try>
+		<try>brysk</try>
+		<try>dådyr</try>
+	</wordle>
+
+	<wordle date="2024-08-12" number="947" score="5" word="ebola">
+		<try>punds</try>
+		<try>efter</try>
+		<try>emsig</try>
+		<try>elgko</try>
+		<try>ebola</try>
+	</wordle>
+
+	<wordle date="2024-08-13" number="948" score="5" word="areal">
+		<try>album</try>
+		<try>anlæg</try>
+		<try>afkøl</try>
+		<try>antal</try>
+		<try>areal</try>
+	</wordle>
+
 </wordles>

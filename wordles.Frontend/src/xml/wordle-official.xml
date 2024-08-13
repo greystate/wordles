@@ -1552,4 +1552,40 @@
 		<try>saucy</try>
 	</wordle>
 
+	<wordle date="2024-08-09" number="1147" score="3" word="ounce">
+		<try>crave</try>
+		<try>spice</try>
+		<try>ounce</try>
+	</wordle>
+
+	<wordle date="2024-08-10" number="1148" score="4" word="medic">
+		<try>shark</try>
+		<try>clown</try>
+		<try>pubic</try>
+		<try>medic</try>
+	</wordle>
+
+	<wordle date="2024-08-11" number="1149" score="4" word="scone">
+		<try>trunk</try>
+		<try>spans</try>
+		<try>shiny</try>
+		<try>scone</try>
+	</wordle>
+
+	<wordle date="2024-08-12" number="1150" score="6" word="skiff">
+		<try>ready</try>
+		<try>pouch</try>
+		<try>stink</try>
+		<try>skill</try>
+		<try>skims</try>
+		<try>skiff</try>
+	</wordle>
+
+	<wordle date="2024-08-13" number="1151" score="4" word="neigh">
+		<try>clash</try>
+		<try>worth</try>
+		<try>heugh</try>
+		<try>neigh</try>
+	</wordle>
+
 </wordles>
