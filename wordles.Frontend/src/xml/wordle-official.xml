@@ -1588,4 +1588,17 @@
 		<try>neigh</try>
 	</wordle>
 
+	<wordle date="2024-08-14" number="1152" score="4" word="shore">
+		<try>lower</try>
+		<try>heron</try>
+		<try>chore</try>
+		<try>shore</try>
+	</wordle>
+
+	<wordle date="2024-08-15" number="1153" score="3" word="acorn">
+		<try>sweat</try>
+		<try>adorn</try>
+		<try>acorn</try>
+	</wordle>
+
 </wordles>

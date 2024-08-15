@@ -2512,4 +2512,27 @@
 		<try>amble</try>
 	</quordle>
 
+	<quordle date="2024-08-14" number="932" scores="8 7 5 3" words="tenor cleft usher creep">
+		<try>queen</try>
+		<try>poker</try>
+		<try>creep</try>
+		<try>check</try>
+		<try>usher</try>
+		<try>cleat</try>
+		<try>cleft</try>
+		<try>tenor</try>
+	</quordle>
+
+	<quordle date="2024-08-15" number="933" scores="9 4 6 7" words="stint trail decal brain">
+		<try>white</try>
+		<try>poker</try>
+		<try>leads</try>
+		<try>trail</try>
+		<try>medal</try>
+		<try>decal</try>
+		<try>brain</try>
+		<try>sting</try>
+		<try>stint</try>
+	</quordle>
+
 </wordles>
