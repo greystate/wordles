@@ -2535,4 +2535,37 @@
 		<try>stint</try>
 	</quordle>
 
+	<quordle date="2024-08-16" number="934" scores="5 6 8 7" words="brick cable inbox floss">
+		<try>freak</try>
+		<try>power</try>
+		<try>giddy</try>
+		<try>tusks</try>
+		<try>brick</try>
+		<try>cable</try>
+		<try>floss</try>
+		<try>inbox</try>
+	</quordle>
+
+	<quordle date="2024-08-17" number="935" scores="8 6 7 5" words="humus front funny dryly">
+		<try>strip</try>
+		<try>lower</try>
+		<try>fancy</try>
+		<try>burly</try>
+		<try>dryly</try>
+		<try>front</try>
+		<try>funny</try>
+		<try>humus</try>
+	</quordle>
+
+	<quordle date="2024-08-18" number="936" scores="4 6 8 7" words="depth juicy gawky inlay">
+		<try>block</try>
+		<try>meats</try>
+		<try>panic</try>
+		<try>depth</try>
+		<try>align</try>
+		<try>juicy</try>
+		<try>inlay</try>
+		<try>gawky</try>
+	</quordle>
+
 </wordles>

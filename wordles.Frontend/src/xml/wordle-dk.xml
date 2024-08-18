@@ -1638,4 +1638,23 @@
 		<try>bande</try>
 	</wordle>
 
+	<wordle date="2024-08-16" number="951" score="5" word="søulk">
+		<try>opera</try>
+		<try>mildt</try>
+		<try>slæng</try>
+		<try>skulk</try>
+		<try>søulk</try>
+	</wordle>
+
+	<wordle date="2024-08-17" number="952" score="3" word="tjald">
+		<try>plads</try>
+		<try>stald</try>
+		<try>tjald</try>
+	</wordle>
+
+	<wordle date="2024-08-18" number="953" score="2" word="stump">
+		<try>brudt</try>
+		<try>stump</try>
+	</wordle>
+
 </wordles>

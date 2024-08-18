@@ -1601,4 +1601,26 @@
 		<try>acorn</try>
 	</wordle>
 
+	<wordle date="2024-08-16" number="1154" score="4" word="brace">
+		<try>noise</try>
+		<try>grape</try>
+		<try>trade</try>
+		<try>brace</try>
+	</wordle>
+
+	<wordle date="2024-08-17" number="1155" score="4" word="storm">
+		<try>bread</try>
+		<try>rough</try>
+		<try>minor</try>
+		<try>storm</try>
+	</wordle>
+
+	<wordle date="2024-08-18" number="1156" score="5" word="lanky">
+		<try>groin</try>
+		<try>knead</try>
+		<try>thank</try>
+		<try>janky</try>
+		<try>lanky</try>
+	</wordle>
+
 </wordles>
