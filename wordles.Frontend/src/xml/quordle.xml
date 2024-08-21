@@ -2568,4 +2568,38 @@
 		<try>gawky</try>
 	</quordle>
 
+	<quordle date="2024-08-19" number="937" scores="6 9 8 4" words="given sniff stool antic">
+		<try>topic</try>
+		<try>saver</try>
+		<try>stony</try>
+		<try>antic</try>
+		<try>stout</try>
+		<try>given</try>
+		<try>stood</try>
+		<try>stool</try>
+		<try>sniff</try>
+	</quordle>
+
+	<quordle date="2024-08-20" number="938" scores="5 4 7 6" words="chief snort ounce milky">
+		<try>poker</try>
+		<try>dashy</try>
+		<try>glint</try>
+		<try>snort</try>
+		<try>chief</try>
+		<try>milky</try>
+		<try>ounce</try>
+	</quordle>
+
+	<quordle date="2024-08-21" number="939" scores="4 5 7 9" words="aloft snuck lapse comic">
+		<try>tread</try>
+		<try>scowl</try>
+		<try>funky</try>
+		<try>aloft</try>
+		<try>snuck</try>
+		<try>lease</try>
+		<try>lapse</try>
+		<try>combi</try>
+		<try>comic</try>
+	</quordle>
+
 </wordles>

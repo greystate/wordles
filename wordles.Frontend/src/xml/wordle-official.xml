@@ -1623,4 +1623,26 @@
 		<try>lanky</try>
 	</wordle>
 
+	<wordle date="2024-08-19" number="1157" score="4" word="meter">
+		<try>spray</try>
+		<try>rider</try>
+		<try>cuter</try>
+		<try>meter</try>
+	</wordle>
+
+	<wordle date="2024-08-20" number="1158" score="5" word="delay">
+		<try>loins</try>
+		<try>alert</try>
+		<try>plage</try>
+		<try>decal</try>
+		<try>delay</try>
+	</wordle>
+
+	<wordle date="2024-08-21" number="1159" score="4" word="mulch">
+		<try>major</try>
+		<try>misty</try>
+		<try>melee</try>
+		<try>mulch</try>
+	</wordle>
+
 </wordles>
