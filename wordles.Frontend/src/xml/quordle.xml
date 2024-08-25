@@ -2602,4 +2602,51 @@
 		<try>comic</try>
 	</quordle>
 
+	<quordle date="2024-08-22" number="940" scores="5 0 7 8" words="beard payer brown truck">
+		<try>spent</try>
+		<try>radix</try>
+		<try>bough</try>
+		<try>bread</try>
+		<try>beard</try>
+		<try>parer</try>
+		<try>brown</try>
+		<try>truck</try>
+		<try>paper</try>
+	</quordle>
+
+	<quordle date="2024-08-23" number="941" scores="8 5 7 6" words="laugh satyr cache clone">
+		<try>blunt</try>
+		<try>power</try>
+		<try>evade</try>
+		<try>skims</try>
+		<try>satyr</try>
+		<try>clone</try>
+		<try>cache</try>
+		<try>laugh</try>
+	</quordle>
+
+	<quordle date="2024-08-24" number="942" scores="8 9 6 7" words="event apnea swath irony">
+		<try>titan</try>
+		<try>poker</try>
+		<try>slugs</try>
+		<try>cache</try>
+		<try>shaft</try>
+		<try>swath</try>
+		<try>irony</try>
+		<try>event</try>
+		<try>apnea</try>
+	</quordle>
+
+	<quordle date="2024-08-25" number="943" scores="4 8 6 9" words="aptly lever stork widow">
+		<try>trade</try>
+		<try>clues</try>
+		<try>noisy</try>
+		<try>aptly</try>
+		<try>storm</try>
+		<try>stork</try>
+		<try>ovoid</try>
+		<try>lever</try>
+		<try>widow</try>
+	</quordle>
+
 </wordles>

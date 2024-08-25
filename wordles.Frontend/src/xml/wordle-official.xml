@@ -1645,4 +1645,32 @@
 		<try>mulch</try>
 	</wordle>
 
+	<wordle date="2024-08-22" number="1160" score="4" word="brute">
+		<try>evict</try>
+		<try>tread</try>
+		<try>wrote</try>
+		<try>brute</try>
+	</wordle>
+
+	<wordle date="2024-08-23" number="1161" score="5" word="leech">
+		<try>sonar</try>
+		<try>limed</try>
+		<try>lefty</try>
+		<try>leugh</try>
+		<try>leech</try>
+	</wordle>
+
+	<wordle date="2024-08-24" number="1162" score="4" word="filet">
+		<try>quilt</try>
+		<try>split</try>
+		<try>inlet</try>
+		<try>filet</try>
+	</wordle>
+
+	<wordle date="2024-08-25" number="1163" score="3" word="skate">
+		<try>spade</try>
+		<try>stale</try>
+		<try>skate</try>
+	</wordle>
+
 </wordles>

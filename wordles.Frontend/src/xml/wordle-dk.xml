@@ -1679,4 +1679,33 @@
 		<try>affat</try>
 	</wordle>
 
+	<wordle date="2024-08-22" number="957" score="4" word="immer">
+		<try>skalp</try>
+		<try>moder</try>
+		<try>timer</try>
+		<try>immer</try>
+	</wordle>
+
+	<wordle date="2024-08-23" number="958" score="0" word="jakke">
+		<try>opera</try>
+		<try>lampe</try>
+		<try>vakte</try>
+		<try>sakse</try>
+		<try>nakke</try>
+		<try>bakke</try>
+	</wordle>
+
+	<wordle date="2024-08-24" number="959" score="4" word="kvart">
+		<try>poste</try>
+		<try>trang</try>
+		<try>klart</try>
+		<try>kvart</try>
+	</wordle>
+
+	<wordle date="2024-08-25" number="960" score="3" word="otium">
+		<try>blære</try>
+		<try>point</try>
+		<try>otium</try>
+	</wordle>
+
 </wordles>
