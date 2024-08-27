@@ -1673,4 +1673,18 @@
 		<try>skate</try>
 	</wordle>
 
+	<wordle date="2024-08-26" number="1164" score="4" word="stake">
+		<try>place</try>
+		<try>trade</try>
+		<try>skate</try>
+		<try>stake</try>
+	</wordle>
+
+	<wordle date="2024-08-27" number="1165" score="4" word="crown">
+		<try>stale</try>
+		<try>dumpy</try>
+		<try>frock</try>
+		<try>crown</try>
+	</wordle>
+
 </wordles>

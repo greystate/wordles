@@ -1708,4 +1708,19 @@
 		<try>otium</try>
 	</wordle>
 
+	<wordle date="2024-08-26" number="961" score="3" word="pedal">
+		<try>spand</try>
+		<try>padle</try>
+		<try>pedal</try>
+	</wordle>
+
+	<wordle date="2024-08-27" number="962" score="6" word="sinus">
+		<try>tanke</try>
+		<try>binær</try>
+		<try>vinyl</try>
+		<try>pinds</try>
+		<try>minus</try>
+		<try>sinus</try>
+	</wordle>
+
 </wordles>

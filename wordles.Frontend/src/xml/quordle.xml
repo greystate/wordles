@@ -2649,4 +2649,26 @@
 		<try>widow</try>
 	</quordle>
 
+	<quordle date="2024-08-26" number="944" scores="8 6 7 5" words="never chunk aunty croup">
+		<try>space</try>
+		<try>lower</try>
+		<try>dumpy</try>
+		<try>fight</try>
+		<try>croup</try>
+		<try>chunk</try>
+		<try>aunty</try>
+		<try>never</try>
+	</quordle>
+
+	<quordle date="2024-08-27" number="945" scores="7 5 3 8" words="abyss daily agony musky">
+		<try>event</try>
+		<try>apply</try>
+		<try>agony</try>
+		<try>madly</try>
+		<try>daily</try>
+		<try>mushy</try>
+		<try>abyss</try>
+		<try>musky</try>
+	</quordle>
+
 </wordles>
