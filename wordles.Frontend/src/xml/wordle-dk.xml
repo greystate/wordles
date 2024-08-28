@@ -1723,4 +1723,10 @@
 		<try>sinus</try>
 	</wordle>
 
+	<wordle date="2024-08-28" number="963" score="3" word="årsag">
+		<try>sandt</try>
+		<try>brase</try>
+		<try>årsag</try>
+	</wordle>
+
 </wordles>

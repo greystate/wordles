@@ -1687,4 +1687,11 @@
 		<try>crown</try>
 	</wordle>
 
+	<wordle date="2024-08-28" number="1166" score="4" word="lithe">
+		<try>strip</try>
+		<try>thing</try>
+		<try>firth</try>
+		<try>lithe</try>
+	</wordle>
+
 </wordles>
