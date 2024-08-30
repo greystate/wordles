@@ -1694,4 +1694,19 @@
 		<try>lithe</try>
 	</wordle>
 
+	<wordle date="2024-08-29" number="1167" score="5" word="flunk">
+		<try>quest</try>
+		<try>guano</try>
+		<try>pruny</try>
+		<try>clunk</try>
+		<try>flunk</try>
+	</wordle>
+
+	<wordle date="2024-08-30" number="1168" score="4" word="knave">
+		<try>laden</try>
+		<try>nears</try>
+		<try>inane</try>
+		<try>knave</try>
+	</wordle>
+
 </wordles>

@@ -2683,4 +2683,25 @@
 		<try>viola</try>
 	</quordle>
 
+	<quordle date="2024-08-29" number="947" scores="8 6 5 7" words="decay druid avoid kneed">
+		<try>quest</try>
+		<try>power</try>
+		<try>livid</try>
+		<try>ovoid</try>
+		<try>avoid</try>
+		<try>druid</try>
+		<try>kneed</try>
+		<try>decay</try>
+	</quordle>
+
+	<quordle date="2024-08-30" number="948" scores="6 3 7 5" words="arise older issue erupt">
+		<try>blast</try>
+		<try>power</try>
+		<try>older</try>
+		<try>cumin</try>
+		<try>erupt</try>
+		<try>arise</try>
+		<try>issue</try>
+	</quordle>
+
 </wordles>
