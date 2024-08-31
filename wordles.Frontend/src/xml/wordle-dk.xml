@@ -1744,4 +1744,13 @@
 		<try>petit</try>
 	</wordle>
 
+	<wordle date="2024-08-31" number="966" score="6" word="kirke">
+		<try>brænd</try>
+		<try>revse</try>
+		<try>hamre</try>
+		<try>tørke</try>
+		<try>lirke</try>
+		<try>kirke</try>
+	</wordle>
+
 </wordles>

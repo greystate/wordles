@@ -1709,4 +1709,11 @@
 		<try>knave</try>
 	</wordle>
 
+	<wordle date="2024-08-31" number="1169" score="4" word="spout">
+		<try>panic</try>
+		<try>slope</try>
+		<try>sport</try>
+		<try>spout</try>
+	</wordle>
+
 </wordles>
