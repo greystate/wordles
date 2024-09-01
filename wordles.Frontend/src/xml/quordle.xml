@@ -2716,4 +2716,14 @@
 		<try>tibia</try>
 	</quordle>
 
+	<quordle date="2024-09-01" number="950" scores="4 6 7 5" words="rabbi crawl guppy brand">
+		<try>plots</try>
+		<try>incur</try>
+		<try>maybe</try>
+		<try>rabbi</try>
+		<try>brand</try>
+		<try>crawl</try>
+		<try>guppy</try>
+	</quordle>
+
 </wordles>

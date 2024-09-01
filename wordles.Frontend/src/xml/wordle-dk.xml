@@ -1753,4 +1753,13 @@
 		<try>kirke</try>
 	</wordle>
 
+	<wordle date="2024-09-01" number="967" score="0" word="niece">
+		<try>stork</try>
+		<try>plade</try>
+		<try>vinge</try>
+		<try>finne</try>
+		<try>niøje</try>
+		<try>niche</try>
+	</wordle>
+
 </wordles>

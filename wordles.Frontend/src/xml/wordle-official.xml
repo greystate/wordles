@@ -1716,4 +1716,11 @@
 		<try>spout</try>
 	</wordle>
 
+	<wordle date="2024-09-01" number="1170" score="4" word="mushy">
+		<try>scrap</try>
+		<try>emits</try>
+		<try>musky</try>
+		<try>mushy</try>
+	</wordle>
+
 </wordles>
