@@ -1723,4 +1723,19 @@
 		<try>mushy</try>
 	</wordle>
 
+	<wordle date="2024-09-02" number="1171" score="5" word="camel">
+		<try>wrath</try>
+		<try>above</try>
+		<try>speak</try>
+		<try>maned</try>
+		<try>camel</try>
+	</wordle>
+
+	<wordle date="2024-09-03" number="1172" score="4" word="faint">
+		<try>words</try>
+		<try>plate</try>
+		<try>taunt</try>
+		<try>faint</try>
+	</wordle>
+
 </wordles>

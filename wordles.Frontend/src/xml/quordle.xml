@@ -2726,4 +2726,25 @@
 		<try>guppy</try>
 	</quordle>
 
+	<quordle date="2024-09-02" number="951" scores="6 7 4 5" words="habit lodge plain drift">
+		<try>dumpy</try>
+		<try>octal</try>
+		<try>rinse</try>
+		<try>plain</try>
+		<try>drift</try>
+		<try>habit</try>
+		<try>lodge</try>
+	</quordle>
+
+	<quordle date="2024-09-03" number="952" scores="4 5 7 8" words="atoll anger ocean sweep">
+		<try>saint</try>
+		<try>queer</try>
+		<try>dolly</try>
+		<try>atoll</try>
+		<try>anger</try>
+		<try>sheep</try>
+		<try>ocean</try>
+		<try>sweep</try>
+	</quordle>
+
 </wordles>

@@ -1762,4 +1762,16 @@
 		<try>niche</try>
 	</wordle>
 
+	<wordle date="2024-09-02" number="968" score="4" word="salat">
+		<try>opera</try>
+		<try>salig</try>
+		<try>salut</try>
+		<try>salat</try>
+	</wordle>
+
+	<wordle date="2024-09-03" number="969" score="2" word="klejn">
+		<try>klovn</try>
+		<try>klejn</try>
+	</wordle>
+
 </wordles>
