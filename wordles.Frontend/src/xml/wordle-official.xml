@@ -1738,4 +1738,12 @@
 		<try>faint</try>
 	</wordle>
 
+	<wordle date="2024-09-04" number="1173" score="5" word="stern">
+		<try>droid</try>
+		<try>rules</try>
+		<try>earst</try>
+		<try>stare</try>
+		<try>stern</try>
+	</wordle>
+
 </wordles>

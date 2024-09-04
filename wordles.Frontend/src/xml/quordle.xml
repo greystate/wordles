@@ -2747,4 +2747,15 @@
 		<try>sweep</try>
 	</quordle>
 
+	<quordle date="2024-09-04" number="953" scores="4 3 8 7" words="point witty gaffe abuse">
+		<try>worst</try>
+		<try>patch</try>
+		<try>witty</try>
+		<try>point</try>
+		<try>glade</try>
+		<try>gauze</try>
+		<try>abuse</try>
+		<try>gaffe</try>
+	</quordle>
+
 </wordles>

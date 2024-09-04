@@ -1774,4 +1774,10 @@
 		<try>klejn</try>
 	</wordle>
 
+	<wordle date="2024-09-04" number="970" score="3" word="total">
+		<try>slump</try>
+		<try>logik</try>
+		<try>total</try>
+	</wordle>
+
 </wordles>
