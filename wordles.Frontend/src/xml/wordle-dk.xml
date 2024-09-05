@@ -1780,4 +1780,10 @@
 		<try>total</try>
 	</wordle>
 
+	<wordle date="2024-09-05" number="971" score="3" word="melis">
+		<try>pinde</try>
+		<try>bevis</try>
+		<try>melis</try>
+	</wordle>
+
 </wordles>

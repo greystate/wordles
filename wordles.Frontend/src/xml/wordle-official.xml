@@ -1746,4 +1746,11 @@
 		<try>stern</try>
 	</wordle>
 
+	<wordle date="2024-09-05" number="1174" score="4" word="widen">
+		<try>fried</try>
+		<try>aides</try>
+		<try>bidet</try>
+		<try>widen</try>
+	</wordle>
+
 </wordles>

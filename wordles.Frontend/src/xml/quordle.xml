@@ -2758,4 +2758,16 @@
 		<try>gaffe</try>
 	</quordle>
 
+	<quordle date="2024-09-05" number="954" scores="5 9 7 6" words="snide egret among shiny">
+		<try>spied</try>
+		<try>slide</try>
+		<try>mount</try>
+		<try>fairy</try>
+		<try>snide</try>
+		<try>shiny</try>
+		<try>among</try>
+		<try>greet</try>
+		<try>egret</try>
+	</quordle>
+
 </wordles>
