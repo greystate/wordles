@@ -1786,4 +1786,22 @@
 		<try>melis</try>
 	</wordle>
 
+	<wordle date="2024-09-06" number="972" score="6" word="kvilt">
+		<try>plast</try>
+		<try>fyldt</try>
+		<try>limet</try>
+		<try>agilt</try>
+		<try>quilt</try>
+		<try>kvilt</try>
+	</wordle>
+
+	<wordle date="2024-09-07" number="973" score="6" word="mobil">
+		<try>unger</try>
+		<try>flovt</try>
+		<try>lasso</try>
+		<try>filme</try>
+		<try>sømil</try>
+		<try>mobil</try>
+	</wordle>
+
 </wordles>

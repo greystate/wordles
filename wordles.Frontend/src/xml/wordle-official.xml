@@ -1753,4 +1753,18 @@
 		<try>widen</try>
 	</wordle>
 
+	<wordle date="2024-09-06" number="1175" score="4" word="rerun">
+		<try>front</try>
+		<try>nears</try>
+		<try>reign</try>
+		<try>rerun</try>
+	</wordle>
+
+	<wordle date="2024-09-07" number="1176" score="4" word="owner">
+		<try>young</try>
+		<try>clown</try>
+		<try>owned</try>
+		<try>owner</try>
+	</wordle>
+
 </wordles>
