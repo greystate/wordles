@@ -2792,4 +2792,25 @@
 		<try>lasso</try>
 	</quordle>
 
+	<quordle date="2024-09-08" number="957" scores="5 7 4 6" words="tease agate pride plate">
+		<try>spawn</try>
+		<try>tiger</try>
+		<try>could</try>
+		<try>pride</try>
+		<try>tease</try>
+		<try>plate</try>
+		<try>agate</try>
+	</quordle>
+
+	<quordle date="2024-09-09" number="958" scores="5 8 6 7" words="chirp beady theta minus">
+		<try>favor</try>
+		<try>wiped</try>
+		<try>stuck</try>
+		<try>price</try>
+		<try>chirp</try>
+		<try>theta</try>
+		<try>minus</try>
+		<try>beady</try>
+	</quordle>
+
 </wordles>

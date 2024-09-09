@@ -1767,4 +1767,15 @@
 		<try>owner</try>
 	</wordle>
 
+	<wordle date="2024-09-08" number="1177" score="3" word="drawn">
+		<try>bland</try>
+		<try>drain</try>
+		<try>drawn</try>
+	</wordle>
+
+	<wordle date="2024-09-09" number="1178" score="2" word="debit">
+		<try>birth</try>
+		<try>debit</try>
+	</wordle>
+
 </wordles>

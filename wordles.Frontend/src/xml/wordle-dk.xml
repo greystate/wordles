@@ -1804,4 +1804,18 @@
 		<try>mobil</try>
 	</wordle>
 
+	<wordle date="2024-09-08" number="974" score="4" word="opiat">
+		<try>mudre</try>
+		<try>plask</try>
+		<try>optag</try>
+		<try>opiat</try>
+	</wordle>
+
+	<wordle date="2024-09-09" number="975" score="4" word="papir">
+		<try>lader</try>
+		<try>favør</try>
+		<try>tapir</try>
+		<try>papir</try>
+	</wordle>
+
 </wordles>
