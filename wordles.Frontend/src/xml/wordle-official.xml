@@ -1778,4 +1778,25 @@
 		<try>debit</try>
 	</wordle>
 
+	<wordle date="2024-09-10" number="1179" score="5" word="rebel">
+		<try>freak</try>
+		<try>reset</try>
+		<try>refer</try>
+		<try>renew</try>
+		<try>rebel</try>
+	</wordle>
+
+	<wordle date="2024-09-11" number="1180" score="4" word="aisle">
+		<try>black</try>
+		<try>atoll</try>
+		<try>agile</try>
+		<try>aisle</try>
+	</wordle>
+
+	<wordle date="2024-09-12" number="1181" score="3" word="brass">
+		<try>plows</try>
+		<try>cries</try>
+		<try>brass</try>
+	</wordle>
+
 </wordles>

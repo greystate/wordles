@@ -2813,4 +2813,39 @@
 		<try>beady</try>
 	</quordle>
 
+	<quordle date="2024-09-10" number="959" scores="5 8 4 7" words="plumb seize early asset">
+		<try>spark</try>
+		<try>devil</try>
+		<try>bungy</try>
+		<try>early</try>
+		<try>plumb</try>
+		<try>fitch</try>
+		<try>asset</try>
+		<try>seize</try>
+	</quordle>
+
+	<quordle date="2024-09-11" number="960" scores="0 0 6 9" words="rough cacti savoy odder">
+		<try>clang</try>
+		<try>strum</try>
+		<try>biped</try>
+		<try>sassy</try>
+		<try>savvy</try>
+		<try>savoy</try>
+		<try>rodeo</try>
+		<try>order</try>
+		<try>odder</try>
+	</quordle>
+
+	<quordle date="2024-09-12" number="961" scores="4 9 6 7" words="arbor stark leave goofy">
+		<try>power</try>
+		<try>sting</try>
+		<try>fraud</try>
+		<try>arbor</try>
+		<try>clave</try>
+		<try>leave</try>
+		<try>goofy</try>
+		<try>start</try>
+		<try>stark</try>
+	</quordle>
+
 </wordles>

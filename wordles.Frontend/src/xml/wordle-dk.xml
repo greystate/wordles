@@ -1818,4 +1818,25 @@
 		<try>papir</try>
 	</wordle>
 
+	<wordle date="2024-09-10" number="976" score="3" word="sprog">
+		<try>bland</try>
+		<try>ports</try>
+		<try>sprog</try>
+	</wordle>
+
+	<wordle date="2024-09-11" number="977" score="5" word="kysse">
+		<try>stræk</try>
+		<try>kokos</try>
+		<try>kimse</try>
+		<try>klase</try>
+		<try>kysse</try>
+	</wordle>
+
+	<wordle date="2024-09-12" number="978" score="4" word="lotus">
+		<try>opera</try>
+		<try>skort</try>
+		<try>tolds</try>
+		<try>lotus</try>
+	</wordle>
+
 </wordles>
