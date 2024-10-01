@@ -2848,4 +2848,204 @@
 		<try>stark</try>
 	</quordle>
 
+	<quordle date="2024-09-13" number="962" scores="4 6 9 7" words="leant organ filly plait">
+		<try>blast</try>
+		<try>power</try>
+		<try>dingy</try>
+		<try>leant</try>
+		<try>groan</try>
+		<try>organ</try>
+		<try>plait</try>
+		<try>filmy</try>
+		<try>filly</try>
+	</quordle>
+
+	<quordle date="2024-09-14" number="963" scores="5 6 7 4" words="essay genre wimpy chute">
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>chute</try>
+		<try>essay</try>
+		<try>genre</try>
+		<try>wimpy</try>
+	</quordle>
+
+	<quordle date="2024-09-15" number="964" scores="7 5 6 8" words="villa smoke bulky thrum">
+		<try>plows</try>
+		<try>under</try>
+		<try>tacky</try>
+		<try>fibre</try>
+		<try>smoke</try>
+		<try>bulky</try>
+		<try>villa</try>
+		<try>thrum</try>
+	</quordle>
+	
+	<!-- No evidence of #965 -->
+	<quordle date="2024-09-16" number="965" scores="0 0 0 0" words="? ? ? ?" />
+	
+	<quordle date="2024-09-17" number="966" scores="4 7 5 6" words="ethos count print three">
+		<try>freak</try>
+		<try>plows</try>
+		<try>thumb</try>
+		<try>ethos</try>
+		<try>print</try>
+		<try>three</try>
+		<try>count</try>
+	</quordle>
+
+	<quordle date="2024-09-18" number="967" scores="5 8 7 6" words="cedar venom might medic">
+		<try>trash</try>
+		<try>polka</try>
+		<try>budge</try>
+		<try>civic</try>
+		<try>cedar</try>
+		<try>medic</try>
+		<try>might</try>
+		<try>venom</try>
+	</quordle>
+	
+	<quordle date="2024-09-19" number="968" scores="8 4 6 5" words="marry owing dicey lucky">
+		<try>stark</try>
+		<try>wield</try>
+		<try>wound</try>
+		<try>owing</try>
+		<try>lucky</try>
+		<try>dicey</try>
+		<try>parry</try>
+		<try>marry</try>
+	</quordle>
+
+	<quordle date="2024-09-20" number="969" scores="7 8 6 4" words="elide ditto shawl bonus">
+		<try>quest</try>
+		<try>prowl</try>
+		<try>candy</try>
+		<try>bonus</try>
+		<try>fight</try>
+		<try>shawl</try>
+		<try>elide</try>
+		<try>ditto</try>
+	</quordle>
+	
+	<quordle date="2024-09-21" number="970" scores="5 4 6 7" words="vital frail spear eerie">
+		<try>power</try>
+		<try>bland</try>
+		<try>might</try>
+		<try>frail</try>
+		<try>vital</try>
+		<try>spear</try>
+		<try>eerie</try>
+	</quordle>
+	
+	<quordle date="2024-09-22" number="971" scores="8 4 7 5" words="zesty meaty alive drawn">
+		<try>teach</try>
+		<try>dumpy</try>
+		<try>bring</try>
+		<try>meaty</try>
+		<try>drawn</try>
+		<try>festy</try>
+		<try>alive</try>
+		<try>zesty</try>
+	</quordle>
+	
+	<quordle date="2024-09-23" number="972" scores="5 7 8 6" words="guilt stern annex field">
+		<try>trope</try>
+		<try>dashy</try>
+		<try>quick</try>
+		<try>built</try>
+		<try>guilt</try>
+		<try>field</try>
+		<try>stern</try>
+		<try>annex</try>
+	</quordle>
+
+	<quordle date="2024-09-24" number="973" scores="4 8 5 6" words="space inner spawn begat">
+		<try>slept</try>
+		<try>drain</try>
+		<try>cough</try>
+		<try>space</try>
+		<try>spawn</try>
+		<try>begat</try>
+		<try>finer</try>
+		<try>inner</try>
+	</quordle>
+	
+	<quordle date="2024-09-25" number="974" scores="8 0 9 4" words="umbra daddy glaze prank">
+		<try>youth</try>
+		<try>pings</try>
+		<try>bread</try>
+		<try>prank</try>
+		<try>flame</try>
+		<try>glace</try>
+		<try>rumba</try>
+		<try>umbra</try>
+		<try>glaze</try>
+	</quordle>
+
+	<quordle date="2024-09-26" number="975" scores="6 7 4 8" words="stage vogue clump heath">
+		<try>scold</try>
+		<try>thumb</try>
+		<try>pearl</try>
+		<try>clump</try>
+		<try>wingy</try>
+		<try>stage</try>
+		<try>vogue</try>
+		<try>heath</try>
+	</quordle>
+	
+	<quordle date="2024-09-27" number="976" scores="4 6 9 7" words="guest chasm roost basal">
+		<try>opera</try>
+		<try>study</try>
+		<try>fight</try>
+		<try>guest</try>
+		<try>clash</try>
+		<try>chasm</try>
+		<try>basal</try>
+		<try>worst</try>
+		<try>roost</try>
+	</quordle>
+ 
+ 	<quordle date="2024-09-28" number="977" scores="5 7 4 8" words="bushy civic snout equip">
+		 <try>brain</try>
+		 <try>pouch</try>
+		 <try>sweet</try>
+		 <try>snout</try>
+		 <try>bushy</try>
+		 <try>mimic</try>
+		 <try>civic</try>
+		 <try>equip</try>
+	 </quordle>
+	 
+	 <quordle date="2024-09-29" number="978" scores="4 5 7 6" words="serif borne write sleek">
+		 <try>short</try>
+		 <try>glide</try>
+		 <try>funky</try>
+		 <try>serif</try>
+		 <try>borne</try>
+		 <try>sleek</try>
+		 <try>write</try>
+	 </quordle>
+	 
+	 <quordle date="2024-09-30" number="979" scores="5 7 4 6" words="crush tardy teach stump">
+		 <try>spoke</try>
+		 <try>brawl</try>
+		 <try>tunic</try>
+		 <try>teach</try>
+		 <try>crush</try>
+		 <try>stump</try>
+		 <try>tardy</try>
+	 </quordle>
+	 
+	 <quordle date="2024-10-01" number="980" scores="7 8 5 9" words="frill madly grant nylon">
+		 <try>spawn</try>
+		 <try>rough</try>
+		 <try>timed</try>
+		 <try>frack</try>
+		 <try>grant</try>
+		 <try>madam</try>
+		 <try>frill</try>
+		 <try>madly</try>
+		 <try>nylon</try>
+	 </quordle>
+
 </wordles>

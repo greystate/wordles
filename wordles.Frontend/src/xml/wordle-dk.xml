@@ -1839,4 +1839,139 @@
 		<try>lotus</try>
 	</wordle>
 
+	<wordle date="2024-09-13" number="979" score="4" word="minut">
+		<try>vaske</try>
+		<try>trægt</try>
+		<try>mildt</try>
+		<try>minut</try>
+	</wordle>
+
+	<wordle date="2024-09-14" number="980" score="5" word="lymfe">
+		<try>drink</try>
+		<try>sagte</try>
+		<try>flæbe</try>
+		<try>luffe</try>
+		<try>lymfe</try>
+	</wordle>
+
+	<wordle date="2024-09-15" number="981" score="6" word="pande">
+		<try>skyld</try>
+		<try>dreje</try>
+		<try>hunde</try>
+		<try>vinde</try>
+		<try>bande</try>
+		<try>pande</try>
+	</wordle>
+	
+	<!-- No evidence of #982 -->
+	<wordle date="2024-09-16" number="982" score="0" word="?" />
+
+	<wordle date="2024-09-17" number="983" score="3" word="unode">
+		<try>opera</try>
+		<try>moden</try>
+		<try>unode</try>
+	</wordle>
+
+	<wordle date="2024-09-18" number="984" score="4" word="tapir">
+		<try>huske</try>
+		<try>flora</try>
+		<try>tramp</try>
+		<try>tapir</try>
+	</wordle>
+
+	<wordle date="2024-09-19" number="985" score="5" word="mokka">
+		<try>harem</try>
+		<try>smalt</try>
+		<try>anmod</try>
+		<try>komma</try>
+		<try>harem</try>
+	</wordle>
+
+	<wordle date="2024-09-20" number="986" score="4" word="natur">
+		<try>slæde</try>
+		<try>point</try>
+		<try>tyran</try>
+		<try>natur</try>
+	</wordle>
+
+	<wordle date="2024-09-21" number="987" score="4" word="perle">
+		<try>kaffe</try>
+		<try>tudse</try>
+		<try>penge</try>
+		<try>perle</try>
+	</wordle>
+
+	<wordle date="2024-09-22" number="988" score="4" word="røsti">
+		<try>tramp</try>
+		<try>ærten</try>
+		<try>sorts</try>
+		<try>røsti</try>
+	</wordle>
+	
+	<wordle date="2024-09-23" number="989" score="4" word="svane">
+		<try>poker</try>
+		<try>spade</try>
+		<try>snage</try>
+		<try>svane</try>
+	</wordle>
+	
+	<wordle date="2024-09-24" number="990" score="3" word="møbel">
+		<try>spand</try>
+		<try>trevl</try>
+		<try>møbel</try>
+	</wordle>
+
+	<wordle date="2024-09-25" number="991" score="4" word="remse">
+		<try>opera</try>
+		<try>retur</try>
+		<try>remis</try>
+		<try>remse</try>
+	</wordle>
+
+	<wordle date="2024-09-26" number="992" score="3" word="netop">
+		<try>drink</try>
+		<try>melon</try>
+		<try>netop</try>
+	</wordle>
+
+	<wordle date="2024-09-27" number="993" score="4" word="opera">
+		<try>malke</try>
+		<try>afset</try>
+		<try>behag</try>
+		<try>opera</try>
+	</wordle>
+
+	<wordle date="2024-09-28" number="994" score="0" word="nøgen">
+		<try>svane</try>
+		<try>inder</try>
+		<try>typen</try>
+		<try>julen</try>
+		<try>bøgen</try>
+		<try>høgen</try>
+	</wordle>
+
+	<wordle date="2024-09-29" number="995" score="4" word="retro">
+		<try>tryne</try>
+		<try>poter</try>
+		<try>metro</try>
+		<try>retro</try>
+	</wordle>
+
+	<wordle date="2024-09-30" number="996" score="5" word="sjusk">
+		<try>træde</try>
+		<try>polka</try>
+		<try>skibs</try>
+		<try>synsk</try>
+		<try>sjusk</try>
+	</wordle>
+	
+	<wordle date="2024-10-01" number="997" score="6" word="værge">
+		<try>flirt</try>
+		<try>ruden</try>
+		<try>korde</try>
+		<try>harme</try>
+		<try>sørge</try>
+		<try>værge</try>
+	</wordle>
+
 </wordles>

@@ -1799,4 +1799,133 @@
 		<try>brass</try>
 	</wordle>
 
+	<wordle date="2024-09-13" number="1182" score="4" word="harsh">
+		<try>field</try>
+		<try>crank</try>
+		<try>ramps</try>
+		<try>harsh</try>
+	</wordle>
+
+	<wordle date="2024-09-14" number="1183" score="3" word="broad">
+		<try>flank</try>
+		<try>tread</try>
+		<try>broad</try>
+	</wordle>
+
+	<wordle date="2024-09-15" number="1184" score="4" word="recur">
+		<try>stink</try>
+		<try>pouch</try>
+		<try>cured</try>
+		<try>recur</try>
+	</wordle>
+
+	<wordle date="2024-09-16" number="1185" score="4" word="honey">
+		<try>train</try>
+		<try>snuck</try>
+		<try>bendy</try>
+		<try>honey</try>
+	</wordle>
+	
+	<wordle date="2024-09-17" number="1186" score="3" word="beaut">
+		<try>young</try>
+		<try>build</try>
+		<try>beaut</try>
+	</wordle>
+
+	<wordle date="2024-09-18" number="1187" score="5" word="fully">
+		<try>ratio</try>
+		<try>welds</try>
+		<try>gulch</try>
+		<try>bulky</try>
+		<try>fully</try>
+	</wordle>
+
+	<wordle date="2024-09-19" number="1188" score="3" word="press">
+		<try>drain</try>
+		<try>prose</try>
+		<try>press</try>
+	</wordle>
+
+	<wordle date="2024-09-20" number="1189" score="3" word="smoke">
+		<try>bread</try>
+		<try>stone</try>
+		<try>smoke</try>
+	</wordle>
+
+	<wordle date="2024-09-21" number="1190" score="3" word="seven">
+		<try>scone</try>
+		<try>stern</try>
+		<try>seven</try>
+	</wordle>
+
+	<wordle date="2024-09-22" number="1191" score="5" word="teach">
+		<try>bench</try>
+		<try>peach</try>
+		<try>reach</try>
+		<try>leach</try>
+		<try>teach</try>
+	</wordle>
+
+	<wordle date="2024-09-23" number="1192" score="4" word="steam">
+		<try>space</try>
+		<try>steal</try>
+		<try>steak</try>
+		<try>steam</try>
+	</wordle>
+
+	<wordle date="2024-09-24" number="1193" score="3" word="handy">
+		<try>scour</try>
+		<try>medal</try>
+		<try>handy</try>
+	</wordle>
+
+	<wordle date="2024-09-25" number="1194" score="4" word="torch">
+		<try>strap</try>
+		<try>dirty</try>
+		<try>beret</try>
+		<try>torch</try>
+	</wordle>
+
+	<wordle date="2024-09-26" number="1195" score="4" word="thank">
+		<try>misty</try>
+		<try>trade</try>
+		<try>twang</try>
+		<try>thank</try>
+	</wordle>
+
+	<wordle date="2024-09-27" number="1196" score="4" word="faith">
+		<try>react</try>
+		<try>tawny</try>
+		<try>salto</try>
+		<try>faith</try>
+	</wordle>
+
+	<wordle date="2024-09-28" number="1197" score="3" word="brain">
+		<try>track</try>
+		<try>brand</try>
+		<try>brain</try>
+	</wordle>
+
+	<wordle date="2024-09-29" number="1198" score="5" word="rider">
+		<try>place</try>
+		<try>exert</try>
+		<try>bored</try>
+		<try>wider</try>
+		<try>rider</try>
+	</wordle>
+
+	<wordle date="2024-09-30" number="1199" score="4" word="cloud">
+		<try>stain</try>
+		<try>poker</try>
+		<try>blood</try>
+		<try>cloud</try>
+	</wordle>
+	
+	<wordle date="2024-10-01" number="1200" score="4" word="modem">
+		<try>stack</try>
+		<try>power</try>
+		<try>model</try>
+		<try>modem</try>
+	</wordle>
+
 </wordles>
