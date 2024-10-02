@@ -3047,5 +3047,15 @@
 		 <try>madly</try>
 		 <try>nylon</try>
 	 </quordle>
+	 
+	 <quordle date="2024-10-02" number="981" scores="7 6 4 5" words="argue crane token print">
+		 <try>plank</try>
+		 <try>mover</try>
+		 <try>twigs</try>
+		 <try>token</try>
+		 <try>print</try>
+		 <try>crane</try>
+		 <try>argue</try>
+	 </quordle>
 
 </wordles>

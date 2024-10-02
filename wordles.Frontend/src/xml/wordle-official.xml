@@ -1927,5 +1927,12 @@
 		<try>model</try>
 		<try>modem</try>
 	</wordle>
+	
+	<wordle date="2024-10-02" number="1201" score="4" word="shell">
+		<try>blurs</try>
+		<try>salty</try>
+		<try>smile</try>
+		<try>shell</try>
+	</wordle>
 
 </wordles>

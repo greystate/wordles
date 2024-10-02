@@ -1973,5 +1973,12 @@
 		<try>sørge</try>
 		<try>værge</try>
 	</wordle>
+	
+	<wordle date="2024-10-02" number="998" score="4" word="primo">
+		<try>opera</try>
+		<try>sprog</try>
+		<try>polær</try>
+		<try>primo</try>
+	</wordle>
 
 </wordles>
