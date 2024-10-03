@@ -1980,5 +1980,13 @@
 		<try>polær</try>
 		<try>primo</try>
 	</wordle>
+	
+	<wordle date="2024-10-03" number="999" score="5" word="omega">
+		<try>poker</try>
+		<try>stole</try>
+		<try>beton</try>
+		<try>omend</try>
+		<try>omega</try>
+	</wordle>
 
 </wordles>

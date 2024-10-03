@@ -1934,5 +1934,13 @@
 		<try>smile</try>
 		<try>shell</try>
 	</wordle>
+	
+	<wordle date="2024-10-03" number="1202" score="5" word="wagon">
+		<try>track</try>
+		<try>valid</try>
+		<try>pause</try>
+		<try>banjo</try>
+		<try>wagon</try>
+	</wordle>
 
 </wordles>

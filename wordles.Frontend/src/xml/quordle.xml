@@ -3004,58 +3004,70 @@
 		<try>worst</try>
 		<try>roost</try>
 	</quordle>
- 
- 	<quordle date="2024-09-28" number="977" scores="5 7 4 8" words="bushy civic snout equip">
-		 <try>brain</try>
-		 <try>pouch</try>
-		 <try>sweet</try>
-		 <try>snout</try>
-		 <try>bushy</try>
-		 <try>mimic</try>
-		 <try>civic</try>
-		 <try>equip</try>
-	 </quordle>
+
+	<quordle date="2024-09-28" number="977" scores="5 7 4 8" words="bushy civic snout equip">
+		<try>brain</try>
+		<try>pouch</try>
+		<try>sweet</try>
+		<try>snout</try>
+		<try>bushy</try>
+		<try>mimic</try>
+		<try>civic</try>
+		<try>equip</try>
+	</quordle>
+
+	<quordle date="2024-09-29" number="978" scores="4 5 7 6" words="serif borne write sleek">
+		<try>short</try>
+		<try>glide</try>
+		<try>funky</try>
+		<try>serif</try>
+		<try>borne</try>
+		<try>sleek</try>
+		<try>write</try>
+	</quordle>
+
+	<quordle date="2024-09-30" number="979" scores="5 7 4 6" words="crush tardy teach stump">
+		<try>spoke</try>
+		<try>brawl</try>
+		<try>tunic</try>
+		<try>teach</try>
+		<try>crush</try>
+		<try>stump</try>
+		<try>tardy</try>
+	</quordle>
+	
+	<quordle date="2024-10-01" number="980" scores="7 8 5 9" words="frill madly grant nylon">
+		<try>spawn</try>
+		<try>rough</try>
+		<try>timed</try>
+		<try>frack</try>
+		<try>grant</try>
+		<try>madam</try>
+		<try>frill</try>
+		<try>madly</try>
+		<try>nylon</try>
+	</quordle>
 	 
-	 <quordle date="2024-09-29" number="978" scores="4 5 7 6" words="serif borne write sleek">
-		 <try>short</try>
-		 <try>glide</try>
-		 <try>funky</try>
-		 <try>serif</try>
-		 <try>borne</try>
-		 <try>sleek</try>
-		 <try>write</try>
-	 </quordle>
-	 
-	 <quordle date="2024-09-30" number="979" scores="5 7 4 6" words="crush tardy teach stump">
-		 <try>spoke</try>
-		 <try>brawl</try>
-		 <try>tunic</try>
-		 <try>teach</try>
-		 <try>crush</try>
-		 <try>stump</try>
-		 <try>tardy</try>
-	 </quordle>
-	 
-	 <quordle date="2024-10-01" number="980" scores="7 8 5 9" words="frill madly grant nylon">
-		 <try>spawn</try>
-		 <try>rough</try>
-		 <try>timed</try>
-		 <try>frack</try>
-		 <try>grant</try>
-		 <try>madam</try>
-		 <try>frill</try>
-		 <try>madly</try>
-		 <try>nylon</try>
-	 </quordle>
-	 
-	 <quordle date="2024-10-02" number="981" scores="7 6 4 5" words="argue crane token print">
-		 <try>plank</try>
-		 <try>mover</try>
-		 <try>twigs</try>
-		 <try>token</try>
-		 <try>print</try>
-		 <try>crane</try>
-		 <try>argue</try>
-	 </quordle>
+	<quordle date="2024-10-02" number="981" scores="7 6 4 5" words="argue crane token print">
+		<try>plank</try>
+		<try>mover</try>
+		<try>twigs</try>
+		<try>token</try>
+		<try>print</try>
+		<try>crane</try>
+		<try>argue</try>
+	</quordle>
+
+	<quordle date="2024-10-03" number="982" scores="9 6 7 8" words="tenth remit curve toast">
+		<try>banjo</try>
+		<try>milds</try>
+		<try>greet</try>
+		<try>yucky</try>
+		<try>curer</try>
+		<try>remit</try>
+		<try>curve</try>
+		<try>toast</try>
+		<try>tenth</try>
+	</quordle>
 
 </wordles>
