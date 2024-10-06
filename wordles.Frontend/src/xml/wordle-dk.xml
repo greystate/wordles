@@ -1862,7 +1862,7 @@
 		<try>bande</try>
 		<try>pande</try>
 	</wordle>
-	
+
 	<!-- No evidence of #982 -->
 	<wordle date="2024-09-16" number="982" score="0" word="?" />
 
@@ -1907,14 +1907,14 @@
 		<try>sorts</try>
 		<try>røsti</try>
 	</wordle>
-	
+
 	<wordle date="2024-09-23" number="989" score="4" word="svane">
 		<try>poker</try>
 		<try>spade</try>
 		<try>snage</try>
 		<try>svane</try>
 	</wordle>
-	
+
 	<wordle date="2024-09-24" number="990" score="3" word="møbel">
 		<try>spand</try>
 		<try>trevl</try>
@@ -1964,7 +1964,7 @@
 		<try>synsk</try>
 		<try>sjusk</try>
 	</wordle>
-	
+
 	<wordle date="2024-10-01" number="997" score="6" word="værge">
 		<try>flirt</try>
 		<try>ruden</try>
@@ -1973,20 +1973,40 @@
 		<try>sørge</try>
 		<try>værge</try>
 	</wordle>
-	
+
 	<wordle date="2024-10-02" number="998" score="4" word="primo">
 		<try>opera</try>
 		<try>sprog</try>
 		<try>polær</try>
 		<try>primo</try>
 	</wordle>
-	
+
 	<wordle date="2024-10-03" number="999" score="5" word="omega">
 		<try>poker</try>
 		<try>stole</try>
 		<try>beton</try>
 		<try>omend</try>
 		<try>omega</try>
+	</wordle>
+
+	<wordle date="2024-10-04" number="1000" score="3" word="peber">
+		<try>opera</try>
+		<try>piber</try>
+		<try>peber</try>
+	</wordle>
+
+	<wordle date="2024-10-05" number="1001" score="4" word="votum">
+		<try>trope</try>
+		<try>holdt</try>
+		<try>motiv</try>
+		<try>votum</try>
+	</wordle>
+
+	<wordle date="2024-10-06" number="1002" score="4" word="salsa">
+		<try>trofæ</try>
+		<try>sadel</try>
+		<try>salig</try>
+		<try>salsa</try>
 	</wordle>
 
 </wordles>

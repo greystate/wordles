@@ -2880,10 +2880,10 @@
 		<try>villa</try>
 		<try>thrum</try>
 	</quordle>
-	
+
 	<!-- No evidence of #965 -->
 	<quordle date="2024-09-16" number="965" scores="0 0 0 0" words="? ? ? ?" />
-	
+
 	<quordle date="2024-09-17" number="966" scores="4 7 5 6" words="ethos count print three">
 		<try>freak</try>
 		<try>plows</try>
@@ -2904,7 +2904,7 @@
 		<try>might</try>
 		<try>venom</try>
 	</quordle>
-	
+
 	<quordle date="2024-09-19" number="968" scores="8 4 6 5" words="marry owing dicey lucky">
 		<try>stark</try>
 		<try>wield</try>
@@ -2926,7 +2926,7 @@
 		<try>elide</try>
 		<try>ditto</try>
 	</quordle>
-	
+
 	<quordle date="2024-09-21" number="970" scores="5 4 6 7" words="vital frail spear eerie">
 		<try>power</try>
 		<try>bland</try>
@@ -2936,7 +2936,7 @@
 		<try>spear</try>
 		<try>eerie</try>
 	</quordle>
-	
+
 	<quordle date="2024-09-22" number="971" scores="8 4 7 5" words="zesty meaty alive drawn">
 		<try>teach</try>
 		<try>dumpy</try>
@@ -2947,7 +2947,7 @@
 		<try>alive</try>
 		<try>zesty</try>
 	</quordle>
-	
+
 	<quordle date="2024-09-23" number="972" scores="5 7 8 6" words="guilt stern annex field">
 		<try>trope</try>
 		<try>dashy</try>
@@ -2969,7 +2969,7 @@
 		<try>finer</try>
 		<try>inner</try>
 	</quordle>
-	
+
 	<quordle date="2024-09-25" number="974" scores="8 0 9 4" words="umbra daddy glaze prank">
 		<try>youth</try>
 		<try>pings</try>
@@ -2992,7 +2992,7 @@
 		<try>vogue</try>
 		<try>heath</try>
 	</quordle>
-	
+
 	<quordle date="2024-09-27" number="976" scores="4 6 9 7" words="guest chasm roost basal">
 		<try>opera</try>
 		<try>study</try>
@@ -3035,7 +3035,7 @@
 		<try>stump</try>
 		<try>tardy</try>
 	</quordle>
-	
+
 	<quordle date="2024-10-01" number="980" scores="7 8 5 9" words="frill madly grant nylon">
 		<try>spawn</try>
 		<try>rough</try>
@@ -3047,7 +3047,7 @@
 		<try>madly</try>
 		<try>nylon</try>
 	</quordle>
-	 
+
 	<quordle date="2024-10-02" number="981" scores="7 6 4 5" words="argue crane token print">
 		<try>plank</try>
 		<try>mover</try>
@@ -3068,6 +3068,37 @@
 		<try>curve</try>
 		<try>toast</try>
 		<try>tenth</try>
+	</quordle>
+
+	<quordle date="2024-10-04" number="983" scores="4 7 5 6" words="elfin grail patio recap">
+		<try>clash</try>
+		<try>fruit</try>
+		<try>poked</try>
+		<try>elfin</try>
+		<try>patio</try>
+		<try>recap</try>
+		<try>grail</try>
+	</quordle>
+
+	<quordle date="2024-10-05" number="984" scores="7 5 6 4" words="elect croak frisk jaunt">
+		<try>brand</try>
+		<try>pokes</try>
+		<try>might</try>
+		<try>jaunt</try>
+		<try>croak</try>
+		<try>frisk</try>
+		<try>elect</try>
+	</quordle>
+
+	<quordle date="2024-10-06" number="985" scores="8 4 6 5" words="fudge tenor begat rouse">
+		<try>place</try>
+		<try>month</try>
+		<try>first</try>
+		<try>tenor</try>
+		<try>rouse</try>
+		<try>begat</try>
+		<try>fugue</try>
+		<try>fudge</try>
 	</quordle>
 
 </wordles>

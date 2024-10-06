@@ -1825,7 +1825,7 @@
 		<try>bendy</try>
 		<try>honey</try>
 	</wordle>
-	
+
 	<wordle date="2024-09-17" number="1186" score="3" word="beaut">
 		<try>young</try>
 		<try>build</try>
@@ -1920,27 +1920,49 @@
 		<try>blood</try>
 		<try>cloud</try>
 	</wordle>
-	
+
 	<wordle date="2024-10-01" number="1200" score="4" word="modem">
 		<try>stack</try>
 		<try>power</try>
 		<try>model</try>
 		<try>modem</try>
 	</wordle>
-	
+
 	<wordle date="2024-10-02" number="1201" score="4" word="shell">
 		<try>blurs</try>
 		<try>salty</try>
 		<try>smile</try>
 		<try>shell</try>
 	</wordle>
-	
+
 	<wordle date="2024-10-03" number="1202" score="5" word="wagon">
 		<try>track</try>
 		<try>valid</try>
 		<try>pause</try>
 		<try>banjo</try>
 		<try>wagon</try>
+	</wordle>
+
+	<wordle date="2024-10-04" number="1203" score="4" word="title">
+		<try>death</try>
+		<try>treck</try>
+		<try>towed</try>
+		<try>title</try>
+	</wordle>
+
+	<wordle date="2024-10-05" number="1204" score="5" word="miner">
+		<try>flock</try>
+		<try>dawns</try>
+		<try>bruin</try>
+		<try>inner</try>
+		<try>miner</try>
+	</wordle>
+
+	<wordle date="2024-10-06" number="1205" score="4" word="lager">
+		<try>flora</try>
+		<try>rally</try>
+		<try>later</try>
+		<try>lager</try>
 	</wordle>
 
 </wordles>
