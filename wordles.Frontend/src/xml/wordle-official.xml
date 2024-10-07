@@ -1965,4 +1965,11 @@
 		<try>lager</try>
 	</wordle>
 
+	<wordle date="2024-10-07" number="1206" score="4" word="flour">
+		<try>tweak</try>
+		<try>lungs</try>
+		<try>clump</try>
+		<try>flour</try>
+	</wordle>
+
 </wordles>

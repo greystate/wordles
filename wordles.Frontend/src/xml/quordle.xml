@@ -3101,4 +3101,15 @@
 		<try>fudge</try>
 	</quordle>
 
+	<quordle date="2024-10-07" number="986" scores="5 6 7 8" words="caulk halve aping heath">
+		<try>watch</try>
+		<try>polar</try>
+		<try>dumpy</try>
+		<try>skins</try>
+		<try>caulk</try>
+		<try>halve</try>
+		<try>aping</try>
+		<try>heath</try>
+	</quordle>
+
 </wordles>
