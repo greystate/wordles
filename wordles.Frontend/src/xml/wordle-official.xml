@@ -1972,4 +1972,12 @@
 		<try>flour</try>
 	</wordle>
 
+	<wordle date="2024-10-08" number="1207" score="5" word="joint">
+		<try>spork</try>
+		<try>olden</try>
+		<try>loony</try>
+		<try>mount</try>
+		<try>joint</try>
+	</wordle>
+
 </wordles>

@@ -3112,4 +3112,15 @@
 		<try>heath</try>
 	</quordle>
 
+	<quordle date="2024-10-08" number="987" scores="6 7 4 8" words="trout hater barge dozen">
+		<try>cased</try>
+		<try>grunt</try>
+		<try>filmy</try>
+		<try>barge</try>
+		<try>water</try>
+		<try>trout</try>
+		<try>hater</try>
+		<try>dozen</try>
+	</quordle>
+
 </wordles>

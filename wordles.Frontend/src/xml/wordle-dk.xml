@@ -2015,4 +2015,11 @@
 		<try>pivot</try>
 	</wordle>
 
+	<wordle date="2024-10-08" number="1004" score="4" word="sitar">
+		<try>svamp</try>
+		<try>salig</try>
+		<try>sirat</try>
+		<try>sitar</try>
+	</wordle>
+
 </wordles>
