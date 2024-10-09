@@ -1980,4 +1980,12 @@
 		<try>joint</try>
 	</wordle>
 
+	<wordle date="2024-10-09" number="1208" score="5" word="mommy">
+		<try>fresh</try>
+		<try>tawny</try>
+		<try>moldy</try>
+		<try>moppy</try>
+		<try>mommy</try>
+	</wordle>
+
 </wordles>

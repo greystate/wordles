@@ -2022,4 +2022,10 @@
 		<try>sitar</try>
 	</wordle>
 
+	<wordle date="2024-10-09" number="1005" score="3" word="polar">
+		<try>klang</try>
+		<try>larve</try>
+		<try>polar</try>
+	</wordle>
+
 </wordles>

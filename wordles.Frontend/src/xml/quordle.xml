@@ -3123,4 +3123,14 @@
 		<try>dozen</try>
 	</quordle>
 
+	<quordle date="2024-10-09" number="988" scores="6 7 4 5" words="trial husky downy trade">
+		<try>flake</try>
+		<try>drown</try>
+		<try>stump</try>
+		<try>downy</try>
+		<try>trade</try>
+		<try>trial</try>
+		<try>husky</try>
+	</quordle>
+
 </wordles>
