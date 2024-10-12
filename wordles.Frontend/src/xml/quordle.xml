@@ -3133,4 +3133,39 @@
 		<try>husky</try>
 	</quordle>
 
+	<quordle date="2024-10-10" number="989" scores="8 4 7 6" words="until marsh metal windy">
+		<try>spark</try>
+		<try>while</try>
+		<try>comby</try>
+		<try>marsh</try>
+		<try>medal</try>
+		<try>windy</try>
+		<try>metal</try>
+		<try>until</try>
+	</quordle>
+
+	<quordle date="2024-10-11" number="990" scores="7 8 5 9" words="rinse anime pushy zebra">
+		<try>flick</try>
+		<try>demon</try>
+		<try>thugs</try>
+		<try>happy</try>
+		<try>pushy</try>
+		<try>sinew</try>
+		<try>rinse</try>
+		<try>anime</try>
+		<try>zebra</try>
+	</quordle>
+
+	<quordle date="2024-10-12" number="991" scores="5 9 7 8" words="saucy undue egret hello">
+		<try>clash</try>
+		<try>tower</try>
+		<try>mingy</try>
+		<try>budge</try>
+		<try>saucy</try>
+		<try>greet</try>
+		<try>egret</try>
+		<try>hello</try>
+		<try>undue</try>
+	</quordle>
+
 </wordles>

@@ -2028,4 +2028,26 @@
 		<try>polar</try>
 	</wordle>
 
+	<wordle date="2024-10-10" number="1006" score="3" word="splid">
+		<try>opera</try>
+		<try>spild</try>
+		<try>splid</try>
+	</wordle>
+
+	<wordle date="2024-10-11" number="1007" score="0" word="tuner">
+		<try>opera</try>
+		<try>remis</try>
+		<try>dyret</try>
+		<try>køter</try>
+		<try>tæger</try>
+		<try>tåler</try>
+	</wordle>
+
+	<wordle date="2024-10-12" number="1008" score="4" word="salme">
+		<try>hallo</try>
+		<try>kalve</try>
+		<try>palme</try>
+		<try>salme</try>
+	</wordle>
+
 </wordles>

@@ -1988,4 +1988,25 @@
 		<try>mommy</try>
 	</wordle>
 
+	<wordle date="2024-10-10" number="1209" score="3" word="carve">
+		<try>ferns</try>
+		<try>cared</try>
+		<try>carve</try>
+	</wordle>
+
+	<wordle date="2024-10-11" number="1210" score="6" word="gusty">
+		<try>hills</try>
+		<try>storm</try>
+		<try>asset</try>
+		<try>dusty</try>
+		<try>busty</try>
+		<try>gusty</try>
+	</wordle>
+
+	<wordle date="2024-10-12" number="1211" score="3" word="stain">
+		<try>drown</try>
+		<try>alien</try>
+		<try>stain</try>
+	</wordle>
+
 </wordles>
