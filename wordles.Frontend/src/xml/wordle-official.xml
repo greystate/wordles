@@ -2009,4 +2009,34 @@
 		<try>stain</try>
 	</wordle>
 
+	<wordle date="2024-10-13" number="1212" score="3" word="prone">
+		<try>trunk</try>
+		<try>drone</try>
+		<try>prone</try>
+	</wordle>
+
+	<wordle date="2024-10-14" number="1213" score="4" word="gamut">
+		<try>trace</try>
+		<try>antsy</try>
+		<try>fault</try>
+		<try>gamut</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 179 😭 -->
+
+	<wordle date="2024-10-15" number="1214" score="0" word="corer">
+		<try>tough</try>
+		<try>rosed</try>
+		<try>power</try>
+		<try>cover</try>
+		<try>coyer</try>
+		<try>comer</try>
+	</wordle>
+
+	<wordle date="2024-10-16" number="1215" score="3" word="grant">
+		<try>trash</try>
+		<try>crate</try>
+		<try>grant</try>
+	</wordle>
+
 </wordles>

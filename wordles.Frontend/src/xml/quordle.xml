@@ -3168,4 +3168,48 @@
 		<try>undue</try>
 	</quordle>
 
+	<quordle date="2024-10-13" number="992" scores="5 6 7 4" words="unfit nymph thumb puree">
+		<try>squat</try>
+		<try>power</try>
+		<try>dying</try>
+		<try>puree</try>
+		<try>unfit</try>
+		<try>nymph</try>
+		<try>thumb</try>
+	</quordle>
+
+	<quordle date="2024-10-14" number="993" scores="5 7 8 0" words="rogue story emcee aunty">
+		<try>grant</try>
+		<try>modes</try>
+		<try>winch</try>
+		<try>rouge</try>
+		<try>rogue</try>
+		<try>stork</try>
+		<try>story</try>
+		<try>emcee</try>
+		<try>punty</try>
+	</quordle>
+
+	<quordle date="2024-10-15" number="994" scores="8 6 7 4" words="umbra brief gravy torus">
+		<try>pound</try>
+		<try>fight</try>
+		<try>leaks</try>
+		<try>torus</try>
+		<try>music</try>
+		<try>brief</try>
+		<try>gravy</try>
+		<try>umbra</try>
+	</quordle>
+
+	<quordle date="2024-10-16" number="995" scores="7 5 8 6" words="eerie smirk hunch embed">
+		<try>trash</try>
+		<try>flunk</try>
+		<try>mowed</try>
+		<try>biggy</try>
+		<try>smirk</try>
+		<try>embed</try>
+		<try>eerie</try>
+		<try>hunch</try>
+	</quordle>
+
 </wordles>
