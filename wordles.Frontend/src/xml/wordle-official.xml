@@ -2039,4 +2039,19 @@
 		<try>grant</try>
 	</wordle>
 
+	<wordle date="2024-10-17" number="1216" score="4" word="halve">
+		<try>under</try>
+		<try>seams</try>
+		<try>bathe</try>
+		<try>halve</try>
+	</wordle>
+
+	<wordle date="2024-10-18" number="1217" score="5" word="stint">
+		<try>space</try>
+		<try>story</try>
+		<try>stung</try>
+		<try>stink</try>
+		<try>stint</try>
+	</wordle>
+
 </wordles>

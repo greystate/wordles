@@ -2075,4 +2075,19 @@
 		<try>jeton</try>
 	</wordle>
 
+	<wordle date="2024-10-17" number="1013" score="3" word="skank">
+		<try>logre</try>
+		<try>stamp</try>
+		<try>skank</try>
+	</wordle>
+
+	<wordle date="2024-10-18" number="1014" score="6" word="mynte">
+		<try>pilke</try>
+		<try>stage</try>
+		<try>træne</try>
+		<try>nytte</try>
+		<try>pynte</try>
+		<try>mynte</try>
+	</wordle>
+
 </wordles>

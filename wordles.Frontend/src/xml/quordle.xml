@@ -3212,4 +3212,25 @@
 		<try>hunch</try>
 	</quordle>
 
+	<quordle date="2024-10-17" number="996" scores="4 5 6 8" words="build birth lurch sassy">
+		<try>bathe</try>
+		<try>pucks</try>
+		<try>valid</try>
+		<try>build</try>
+		<try>birth</try>
+		<try>lurch</try>
+		<try>saggy</try>
+		<try>sassy</try>
+	</quordle>
+
+	<quordle date="2024-10-18" number="997" scores="7 4 5 6" words="pupil mocha egret natal">
+		<try>space</try>
+		<try>young</try>
+		<try>birth</try>
+		<try>mocha</try>
+		<try>egret</try>
+		<try>natal</try>
+		<try>pupil</try>
+	</quordle>
+
 </wordles>
