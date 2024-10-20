@@ -2054,4 +2054,17 @@
 		<try>stint</try>
 	</wordle>
 
+	<wordle date="2024-10-19" number="1218" score="4" word="fiber">
+		<try>slant</try>
+		<try>prove</try>
+		<try>rebid</try>
+		<try>fiber</try>
+	</wordle>
+
+	<wordle date="2024-10-20" number="1219" score="3" word="dicey">
+		<try>track</try>
+		<try>cushy</try>
+		<try>dicey</try>
+	</wordle>
+
 </wordles>

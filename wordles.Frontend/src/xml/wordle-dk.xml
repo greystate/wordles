@@ -2090,4 +2090,17 @@
 		<try>mynte</try>
 	</wordle>
 
+	<wordle date="2024-10-19" number="1015" score="4" word="styrt">
+		<try>skole</try>
+		<try>spand</try>
+		<try>stryg</try>
+		<try>styrt</try>
+	</wordle>
+
+	<wordle date="2024-10-20" number="1016" score="3" word="koran">
+		<try>fodre</try>
+		<try>roman</try>
+		<try>koran</try>
+	</wordle>
+
 </wordles>

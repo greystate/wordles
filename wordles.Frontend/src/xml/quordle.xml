@@ -3233,4 +3233,27 @@
 		<try>pupil</try>
 	</quordle>
 
+	<quordle date="2024-10-19" number="998" scores="4 5 6 8" words="gusty broke enjoy hazel">
+		<try>slang</try>
+		<try>youth</try>
+		<try>bride</try>
+		<try>gusty</try>
+		<try>broke</try>
+		<try>enjoy</try>
+		<try>wheal</try>
+		<try>hazel</try>
+	</quordle>
+
+	<quordle date="2024-10-20" number="999" scores="8 9 6 5" words="coral whose heist soapy">
+		<try>taken</try>
+		<try>drums</try>
+		<try>fight</try>
+		<try>slopy</try>
+		<try>soapy</try>
+		<try>heist</try>
+		<try>chose</try>
+		<try>coral</try>
+		<try>whose</try>
+	</quordle>
+
 </wordles>
