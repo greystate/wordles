@@ -2067,4 +2067,18 @@
 		<try>dicey</try>
 	</wordle>
 
+	<wordle date="2024-10-21" number="1220" score="5" word="spoon">
+		<try>splay</try>
+		<try>spore</try>
+		<try>spoof</try>
+		<try>spook</try>
+		<try>spoon</try>
+	</wordle>
+
+	<wordle date="2024-10-22" number="1221" score="3" word="shout">
+		<try>sprig</try>
+		<try>scout</try>
+		<try>shout</try>
+	</wordle>
+
 </wordles>

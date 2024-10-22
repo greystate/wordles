@@ -3256,4 +3256,26 @@
 		<try>whose</try>
 	</quordle>
 
+	<quordle date="2024-10-21" number="1000" scores="5 7 6 4" words="tread ninth grief unset">
+		<try>sweat</try>
+		<try>porgy</try>
+		<try>cumin</try>
+		<try>unset</try>
+		<try>tread</try>
+		<try>grief</try>
+		<try>ninth</try>
+	</quordle>
+
+	<quordle date="2024-10-22" number="1001" scores="4 5 7 9" words="adore smith afoot lucid">
+		<try>trash</try>
+		<try>money</try>
+		<try>guide</try>
+		<try>adore</try>
+		<try>smith</try>
+		<try>atoll</try>
+		<try>afoot</try>
+		<try>ludic</try>
+		<try>lucid</try>
+	</quordle>
+
 </wordles>

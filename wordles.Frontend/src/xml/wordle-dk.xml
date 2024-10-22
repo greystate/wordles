@@ -2103,4 +2103,19 @@
 		<try>koran</try>
 	</wordle>
 
+	<wordle date="2024-10-21" number="1017" score="3" word="sværm">
+		<try>svært</try>
+		<try>sværd</try>
+		<try>sværm</try>
+	</wordle>
+
+	<wordle date="2024-10-22" number="1018" score="6" word="affej">
+		<try>opera</try>
+		<try>alene</try>
+		<try>afset</try>
+		<try>afled</try>
+		<try>afveg</try>
+		<try>affej</try>
+	</wordle>
+
 </wordles>
