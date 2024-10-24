@@ -2081,4 +2081,20 @@
 		<try>shout</try>
 	</wordle>
 
+	<wordle date="2024-10-23" number="1222" score="5" word="goofy">
+		<try>blink</try>
+		<try>dream</try>
+		<try>joust</try>
+		<try>poofy</try>
+		<try>goofy</try>
+	</wordle>
+
+	<wordle date="2024-10-24" number="1223" score="5" word="bossy">
+		<try>force</try>
+		<try>point</try>
+		<try>molds</try>
+		<try>sough</try>
+		<try>bossy</try>
+	</wordle>
+
 </wordles>
