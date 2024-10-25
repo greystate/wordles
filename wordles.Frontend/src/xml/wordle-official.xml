@@ -2097,4 +2097,10 @@
 		<try>bossy</try>
 	</wordle>
 
+	<wordle date="2024-10-25" number="1224" score="3" word="frown">
+		<try>bring</try>
+		<try>arson</try>
+		<try>frown</try>
+	</wordle>
+
 </wordles>

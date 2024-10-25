@@ -2131,4 +2131,13 @@
 		<try>fagot</try>
 	</wordle>
 
+	<wordle date="2024-10-25" number="1021" score="0" word="garde">
+		<try>vater</try>
+		<try>ramle</try>
+		<try>karse</try>
+		<try>parre</try>
+		<try>farce</try>
+		<try>barde</try>
+	</wordle>
+
 </wordles>
