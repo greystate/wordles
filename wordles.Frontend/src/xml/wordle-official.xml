@@ -2103,4 +2103,18 @@
 		<try>frown</try>
 	</wordle>
 
+	<wordle date="2024-10-26" number="1225" score="5" word="wreak">
+		<try>loins</try>
+		<try>adept</try>
+		<try>break</try>
+		<try>freak</try>
+		<try>wreak</try>
+	</wordle>
+
+	<wordle date="2024-10-27" number="1226" score="3" word="sandy">
+		<try>shark</try>
+		<try>salty</try>
+		<try>sandy</try>
+	</wordle>
+
 </wordles>
