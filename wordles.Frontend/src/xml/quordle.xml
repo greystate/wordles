@@ -3335,4 +3335,27 @@
 		<try>sower</try>
 	</quordle>
 
+	<quordle date="2024-10-28" number="1007" scores="9 5 8 4" words="macaw liege gouge cargo">
+		<try>blast</try>
+		<try>pored</try>
+		<try>chink</try>
+		<try>cargo</try>
+		<try>liege</try>
+		<try>faffy</try>
+		<try>vouge</try>
+		<try>gouge</try>
+		<try>macaw</try>
+	</quordle>
+
+	<quordle date="2024-10-29" number="1008" scores="6 8 4 5" words="cliff burnt snaky polyp">
+		<try>clash</try>
+		<try>poker</try>
+		<try>minty</try>
+		<try>snaky</try>
+		<try>polyp</try>
+		<try>cliff</try>
+		<try>brunt</try>
+		<try>burnt</try>
+	</quordle>
+
 </wordles>

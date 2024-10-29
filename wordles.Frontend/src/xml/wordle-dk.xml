@@ -2156,4 +2156,19 @@
 		<try>lille</try>
 	</wordle>
 
+	<wordle date="2024-10-28" number="1024" score="5" word="mumie">
+		<try>træne</try>
+		<try>pudse</try>
+		<try>hulke</try>
+		<try>muffe</try>
+		<try>mumie</try>
+	</wordle>
+
+	<wordle date="2024-10-29" number="1025" score="4" word="finte">
+		<try>daler</try>
+		<try>svige</try>
+		<try>tippe</try>
+		<try>finte</try>
+	</wordle>
+
 </wordles>

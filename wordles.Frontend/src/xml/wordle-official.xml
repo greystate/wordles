@@ -2117,4 +2117,18 @@
 		<try>sandy</try>
 	</wordle>
 
+	<wordle date="2024-10-28" number="1227" score="6" word="bawdy">
+		<try>bleak</try>
+		<try>brain</try>
+		<try>batch</try>
+		<try>bagsy</try>
+		<try>baddy</try>
+		<try>bawdy</try>
+	</wordle>
+
+	<wordle date="2024-10-29" number="1228" score="2" word="tunic">
+		<try>train</try>
+		<try>tunic</try>
+	</wordle>
+
 </wordles>
