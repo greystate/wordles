@@ -3358,4 +3358,26 @@
 		<try>burnt</try>
 	</quordle>
 
+	<quordle date="2024-10-30" number="1009" scores="6 7 5 8" words="sloop brine brood fluid">
+		<try>bikes</try>
+		<try>clout</try>
+		<try>marry</try>
+		<try>bride</try>
+		<try>brood</try>
+		<try>sloop</try>
+		<try>brine</try>
+		<try>fluid</try>
+	</quordle>
+
+	<quordle date="2024-10-31" number="1010" scores="7 6 8 5" words="twine rigid belch amend">
+		<try>slang</try>
+		<try>poker</try>
+		<try>build</try>
+		<try>mythy</try>
+		<try>amend</try>
+		<try>rigid</try>
+		<try>twine</try>
+		<try>belch</try>
+	</quordle>
+
 </wordles>

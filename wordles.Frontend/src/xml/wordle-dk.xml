@@ -2171,4 +2171,19 @@
 		<try>finte</try>
 	</wordle>
 
+	<wordle date="2024-10-30" number="1026" score="3" word="pyton">
+		<try>rosin</try>
+		<try>beton</try>
+		<try>pyton</try>
+	</wordle>
+
+	<wordle date="2024-10-31" number="1027" score="6" word="glans">
+		<try>forbi</try>
+		<try>daset</try>
+		<try>astma</try>
+		<try>plask</try>
+		<try>slang</try>
+		<try>glans</try>
+	</wordle>
+
 </wordles>

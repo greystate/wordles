@@ -2131,4 +2131,18 @@
 		<try>tunic</try>
 	</wordle>
 
+	<wordle date="2024-10-30" number="1229" score="4" word="easel">
+		<try>drink</try>
+		<try>feast</try>
+		<try>saves</try>
+		<try>easel</try>
+	</wordle>
+
+	<wordle date="2024-10-31" number="1230" score="4" word="weird">
+		<try>slick</try>
+		<try>thigh</try>
+		<try>prime</try>
+		<try>weird</try>
+	</wordle>
+
 </wordles>
