@@ -2186,4 +2186,22 @@
 		<try>glans</try>
 	</wordle>
 
+	<wordle date="2024-11-01" number="1028" score="6" word="fiske">
+		<try>store</try>
+		<try>klase</try>
+		<try>mæske</try>
+		<try>ønske</try>
+		<try>piske</try>
+		<try>fiske</try>
+	</wordle>
+
+	<wordle date="2024-11-02" number="1029" score="6" word="gedde">
+		<try>papir</try>
+		<try>gæste</try>
+		<try>gumle</try>
+		<try>gokke</try>
+		<try>genne</try>
+		<try>gedde</try>
+	</wordle>
+
 </wordles>

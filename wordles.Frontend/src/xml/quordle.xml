@@ -3380,4 +3380,28 @@
 		<try>belch</try>
 	</quordle>
 
+	<quordle date="2024-11-01" number="1011" scores="6 7 8 9" words="fifty gulch recut tweet">
+		<try>flunk</try>
+		<try>opera</try>
+		<try>might</try>
+		<try>cyber</try>
+		<try>sweet</try>
+		<try>fifty</try>
+		<try>gulch</try>
+		<try>recut</try>
+		<try>tweet</try>
+	</quordle>
+
+	<quordle date="2024-11-02" number="1012" scores="8 5 0 7" words="swung floor parer crust">
+		<try>stain</try>
+		<try>poker</try>
+		<try>buddy</try>
+		<try>floss</try>
+		<try>floor</try>
+		<try>trust</try>
+		<try>crust</try>
+		<try>swung</try>
+		<try>paper</try>
+	</quordle>
+
 </wordles>
