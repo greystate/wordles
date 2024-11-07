@@ -2160,4 +2160,42 @@
 		<try>snoop</try>
 	</wordle>
 
+	<wordle date="2024-11-03" number="1233" score="4" word="blaze">
+		<try>trash</try>
+		<try>mealy</try>
+		<try>place</try>
+		<try>blaze</try>
+	</wordle>
+
+	<wordle date="2024-11-04" number="1234" score="4" word="vinyl">
+		<try>stain</try>
+		<try>niche</try>
+		<try>bingy</try>
+		<try>vinyl</try>
+	</wordle>
+
+	<wordle date="2024-11-05" number="1235" score="5" word="octet">
+		<try>knife</try>
+		<try>extra</try>
+		<try>muted</try>
+		<try>votes</try>
+		<try>octet</try>
+	</wordle>
+
+	<wordle date="2024-11-06" number="1236" score="6" word="truly">
+		<try>voted</try>
+		<try>stain</try>
+		<try>trump</try>
+		<try>truth</try>
+		<try>truck</try>
+		<try>truly</try>
+	</wordle>
+
+	<wordle date="2024-11-07" number="1237" score="4" word="event">
+		<try>fancy</try>
+		<try>stung</try>
+		<try>trend</try>
+		<try>event</try>
+	</wordle>
+
 </wordles>

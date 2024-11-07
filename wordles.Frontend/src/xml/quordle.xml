@@ -3404,4 +3404,59 @@
 		<try>paper</try>
 	</quordle>
 
+	<quordle date="2024-11-03" number="1013" scores="8 7 5 6" words="quirk heart elbow known">
+		<try>eject</try>
+		<try>young</try>
+		<try>plaid</try>
+		<try>ruins</try>
+		<try>elbow</try>
+		<try>known</try>
+		<try>heart</try>
+		<try>quirk</try>
+	</quordle>
+
+	<quordle date="2024-11-04" number="1014" scores="6 5 8 7" words="chill tacky graph plaza">
+		<try>vinyl</try>
+		<try>poker</try>
+		<try>dashy</try>
+		<try>thumb</try>
+		<try>tacky</try>
+		<try>chill</try>
+		<try>plaza</try>
+		<try>graph</try>
+	</quordle>
+
+	<quordle date="2024-11-05" number="1015" scores="8 7 5 6" words="beget amuse stony lousy">
+		<try>flash</try>
+		<try>power</try>
+		<try>bingy</try>
+		<try>ducts</try>
+		<try>stony</try>
+		<try>lousy</try>
+		<try>amuse</try>
+		<try>beget</try>
+	</quordle>
+
+	<quordle date="2024-11-06" number="1016" scores="9 7 6 8" words="sassy druid threw slosh">
+		<try>sling</try>
+		<try>humpy</try>
+		<try>bored</try>
+		<try>tacit</try>
+		<try>three</try>
+		<try>threw</try>
+		<try>druid</try>
+		<try>slosh</try>
+		<try>sassy</try>
+	</quordle>
+
+	<quordle date="2024-11-07" number="1017" scores="5 4 7 6" words="repay synod loath pithy">
+		<try>quest</try>
+		<try>polar</try>
+		<try>dingy</try>
+		<try>synod</try>
+		<try>repay</try>
+		<try>pithy</try>
+		<try>loath</try>
+	</quordle>
+
 </wordles>
