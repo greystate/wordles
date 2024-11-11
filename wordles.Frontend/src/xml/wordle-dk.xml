@@ -2243,4 +2243,36 @@
 		<try>affød</try>
 	</wordle>
 
+	<wordle date="2024-11-08" number="1035" score="5" word="affør">
+		<try>trold</try>
+		<try>ringe</try>
+		<try>marks</try>
+		<try>afbud</try>
+		<try>affør</try>
+	</wordle>
+
+	<wordle date="2024-11-09" number="1036" score="6" word="afgas">
+		<try>opera</try>
+		<try>altid</try>
+		<try>ansøg</try>
+		<try>afgud</try>
+		<try>afgav</try>
+		<try>afgas</try>
+	</wordle>
+
+	<wordle date="2024-11-10" number="1037" score="5" word="model">
+		<try>polka</try>
+		<try>lomme</try>
+		<try>molen</try>
+		<try>motel</try>
+		<try>model</try>
+	</wordle>
+
+	<wordle date="2024-11-11" number="1038" score="4" word="tukan">
+		<try>opera</try>
+		<try>klamt</try>
+		<try>aktør</try>
+		<try>tukan</try>
+	</wordle>
+
 </wordles>

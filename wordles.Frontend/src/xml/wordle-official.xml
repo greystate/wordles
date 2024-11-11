@@ -2198,4 +2198,32 @@
 		<try>event</try>
 	</wordle>
 
+	<wordle date="2024-11-08" number="1238" score="4" word="ready">
+		<try>house</try>
+		<try>extra</try>
+		<try>bread</try>
+		<try>ready</try>
+	</wordle>
+
+	<wordle date="2024-11-09" number="1239" score="3" word="swell">
+		<try>smart</try>
+		<try>spoke</try>
+		<try>swell</try>
+	</wordle>
+
+	<wordle date="2024-11-10" number="1240" score="5" word="inner">
+		<try>maker</try>
+		<try>power</try>
+		<try>inter</try>
+		<try>infer</try>
+		<try>inner</try>
+	</wordle>
+
+	<wordle date="2024-11-11" number="1241" score="4" word="stoic">
+		<try>flame</try>
+		<try>pound</try>
+		<try>choir</try>
+		<try>stoic</try>
+	</wordle>
+
 </wordles>

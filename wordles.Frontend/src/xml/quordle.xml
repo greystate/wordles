@@ -3459,4 +3459,51 @@
 		<try>loath</try>
 	</quordle>
 
+	<quordle date="2024-11-08" number="1018" scores="5 9 6 7" words="delay naval molar swarm">
+		<try>blush</try>
+		<try>point</try>
+		<try>array</try>
+		<try>wedge</try>
+		<try>delay</try>
+		<try>molar</try>
+		<try>swarm</try>
+		<try>canal</try>
+		<try>naval</try>
+	</quordle>
+
+	<quordle date="2024-11-09" number="1019" scores="8 5 0 6" words="flume there atoll saner">
+		<try>drain</try>
+		<try>slept</try>
+		<try>young</try>
+		<try>snare</try>
+		<try>there</try>
+		<try>saner</try>
+		<try>fluke</try>
+		<try>flume</try>
+		<try>octal</try>
+	</quordle>
+
+	<quordle date="2024-11-10" number="1020" scores="6 5 7 8" words="groin fault ferry suite">
+		<try>blend</try>
+		<try>fight</try>
+		<try>swarm</try>
+		<try>young</try>
+		<try>fault</try>
+		<try>groin</try>
+		<try>ferry</try>
+		<try>suite</try>
+	</quordle>
+
+	<quordle date="2024-11-11" number="1021" scores="9 8 5 6" words="copse regal grunt goody">
+		<try>blame</try>
+		<try>stoic</try>
+		<try>funky</try>
+		<try>grovy</try>
+		<try>grunt</try>
+		<try>goody</try>
+		<try>large</try>
+		<try>regal</try>
+		<try>copse</try>
+	</quordle>
+
 </wordles>
