@@ -2226,4 +2226,51 @@
 		<try>stoic</try>
 	</wordle>
 
+	<wordle date="2024-11-12" number="1242" score="2" word="flown">
+		<try>slain</try>
+		<try>flown</try>
+	</wordle>
+
+	<wordle date="2024-11-13" number="1243" score="6" word="primp">
+		<try>clash</try>
+		<try>point</try>
+		<try>prime</try>
+		<try>primy</try>
+		<try>primi</try>
+		<try>primp</try>
+	</wordle>
+
+	<wordle date="2024-11-14" number="1244" score="5" word="uvula">
+		<try>larky</try>
+		<try>altos</try>
+		<try>pedal</try>
+		<try>villa</try>
+		<try>uvula</try>
+	</wordle>
+
+	<wordle date="2024-11-15" number="1245" score="4" word="tacky">
+		<try>venom</try>
+		<try>curbs</try>
+		<try>picky</try>
+		<try>tacky</try>
+	</wordle>
+
+	<wordle date="2024-11-16" number="1246" score="4" word="visor">
+		<try>weary</try>
+		<try>sprig</try>
+		<try>riots</try>
+		<try>visor</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 32 😭 -->
+
+	<wordle date="2024-11-17" number="1247" score="0" word="tally">
+		<try>baton</try>
+		<try>faith</try>
+		<try>tames</try>
+		<try>tardy</try>
+		<try>talky</try>
+		<try>talcy</try>
+	</wordle>
+
 </wordles>

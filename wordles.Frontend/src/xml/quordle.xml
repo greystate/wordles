@@ -3506,4 +3506,72 @@
 		<try>copse</try>
 	</quordle>
 
+	<quordle date="2024-11-12" number="1022" scores="7 6 3 9" words="chord attic olive eight">
+		<try>flown</try>
+		<try>pride</try>
+		<try>olive</try>
+		<try>doors</try>
+		<try>batty</try>
+		<try>attic</try>
+		<try>chord</try>
+		<try>heigh</try>
+		<try>eight</try>
+	</quordle>
+
+	<quordle date="2024-11-13" number="1023" scores="8 6 5 7" words="yearn elbow surge piney">
+		<try>cards</try>
+		<try>mount</try>
+		<try>bible</try>
+		<try>purse</try>
+		<try>surge</try>
+		<try>elbow</try>
+		<try>piney</try>
+		<try>yearn</try>
+	</quordle>
+
+	<quordle date="2024-11-14" number="1024" scores="8 7 5 4" words="exalt taste crony clout">
+		<try>tread</try>
+		<try>phony</try>
+		<try>cumin</try>
+		<try>clout</try>
+		<try>crony</try>
+		<try>tease</try>
+		<try>taste</try>
+		<try>exalt</try>
+	</quordle>
+
+	<quordle date="2024-11-15" number="1025" scores="8 6 4 5" words="purer truss torch forum">
+		<try>world</try>
+		<try>games</try>
+		<try>cubit</try>
+		<try>torch</try>
+		<try>forum</try>
+		<try>truss</try>
+		<try>puree</try>
+		<try>purer</try>
+	</quordle>
+
+	<quordle date="2024-11-16" number="1026" scores="5 6 8 7" words="notch bench bused found">
+		<try>opera</try>
+		<try>linty</try>
+		<try>muggs</try>
+		<try>chunk</try>
+		<try>notch</try>
+		<try>bench</try>
+		<try>found</try>
+		<try>bused</try>
+	</quordle>
+
+	<quordle date="2024-11-17" number="1027" scores="9 6 5 4" words="state brawn swore urban">
+		<try>house</try>
+		<try>prawn</try>
+		<try>dimly</try>
+		<try>urban</try>
+		<try>swore</try>
+		<try>brawn</try>
+		<try>stage</try>
+		<try>stake</try>
+		<try>state</try>
+	</quordle>
+
 </wordles>

@@ -2275,4 +2275,48 @@
 		<try>tukan</try>
 	</wordle>
 
+	<wordle date="2024-11-12" number="1039" score="5" word="liste">
+		<try>prøve</try>
+		<try>glide</try>
+		<try>smile</try>
+		<try>hilse</try>
+		<try>liste</try>
+	</wordle>
+
+	<wordle date="2024-11-13" number="1040" score="6" word="mejse">
+		<try>glade</try>
+		<try>forme</try>
+		<try>mønte</try>
+		<try>mæske</try>
+		<try>misse</try>
+		<try>mejse</try>
+	</wordle>
+
+	<wordle date="2024-11-14" number="1041" score="3" word="sigma">
+		<try>frisk</try>
+		<try>sigte</try>
+		<try>sigma</try>
+	</wordle>
+
+	<wordle date="2024-11-15" number="1042" score="5" word="bombe">
+		<try>huset</try>
+		<try>fyrre</try>
+		<try>konge</try>
+		<try>domme</try>
+		<try>bombe</try>
+	</wordle>
+
+	<wordle date="2024-11-16" number="1043" score="4" word="zenit">
+		<try>finde</try>
+		<try>menig</try>
+		<try>senil</try>
+		<try>zenit</try>
+	</wordle>
+
+	<wordle date="2024-11-17" number="1044" score="3" word="lyske">
+		<try>blade</try>
+		<try>liste</try>
+		<try>lyske</try>
+	</wordle>
+
 </wordles>
