@@ -2319,4 +2319,28 @@
 		<try>lyske</try>
 	</wordle>
 
+	<wordle date="2024-11-18" number="1045" score="3" word="knark">
+		<try>opera</try>
+		<try>skarn</try>
+		<try>knark</try>
+	</wordle>
+
+	<wordle date="2024-11-19" number="1046" score="4" word="avler">
+		<try>læber</try>
+		<try>køler</try>
+		<try>maler</try>
+		<try>avler</try>
+	</wordle>
+
+	<wordle date="2024-11-20" number="1047" score="1" word="minde">
+		<try>minde</try>
+	</wordle>
+
+	<wordle date="2024-11-21" number="1048" score="4" word="humle">
+		<try>brage</try>
+		<try>skule</try>
+		<try>fumle</try>
+		<try>humle</try>
+	</wordle>
+
 </wordles>

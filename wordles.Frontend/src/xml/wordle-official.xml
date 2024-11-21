@@ -2273,4 +2273,29 @@
 		<try>talcy</try>
 	</wordle>
 
+	<wordle date="2024-11-18" number="1248" score="2" word="frail">
+		<try>plain</try>
+		<try>frail</try>
+	</wordle>
+
+	<wordle date="2024-11-19" number="1249" score="3" word="going">
+		<try>grace</try>
+		<try>glows</try>
+		<try>going</try>
+	</wordle>
+
+	<wordle date="2024-11-20" number="1250" score="5" word="niche">
+		<try>blank</try>
+		<try>nerdy</try>
+		<try>notes</try>
+		<try>niece</try>
+		<try>niche</try>
+	</wordle>
+
+	<wordle date="2024-11-21" number="1251" score="3" word="spine">
+		<try>trash</try>
+		<try>slope</try>
+		<try>spine</try>
+	</wordle>
+
 </wordles>

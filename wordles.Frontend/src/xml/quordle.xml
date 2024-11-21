@@ -3574,4 +3574,46 @@
 		<try>state</try>
 	</quordle>
 
+	<quordle date="2024-11-18" number="1028" scores="4 5 6 8" words="ascot brink weird homer">
+		<try>flush</try>
+		<try>point</try>
+		<try>wrack</try>
+		<try>ascot</try>
+		<try>brink</try>
+		<try>weird</try>
+		<try>hover</try>
+		<try>homer</try>
+	</quordle>
+
+	<quordle date="2024-11-19" number="1029" scores="6 5 3 7" words="ninja pence paint foist">
+		<try>clash</try>
+		<try>point</try>
+		<try>paint</try>
+		<try>moist</try>
+		<try>pence</try>
+		<try>ninja</try>
+		<try>foist</try>
+	</quordle>
+
+	<quordle date="2024-11-20" number="1030" scores="6 5 8 7" words="minty topaz brush lapel">
+		<try>flows</try>
+		<try>cumin</try>
+		<try>great</try>
+		<try>typed</try>
+		<try>topaz</try>
+		<try>minty</try>
+		<try>lapel</try>
+		<try>brush</try>
+	</quordle>
+
+	<quordle date="2024-11-21" number="1031" scores="5 6 7 4" words="rabbi eager cough brash">
+		<try>spine</try>
+		<try>youth</try>
+		<try>brags</try>
+		<try>brash</try>
+		<try>rabbi</try>
+		<try>eager</try>
+		<try>cough</try>
+	</quordle>
+
 </wordles>
