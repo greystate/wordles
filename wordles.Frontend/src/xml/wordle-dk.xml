@@ -2343,4 +2343,48 @@
 		<try>humle</try>
 	</wordle>
 
+	<wordle date="2024-11-22" number="1049" score="4" word="svale">
+		<try>opera</try>
+		<try>taske</try>
+		<try>slave</try>
+		<try>svale</try>
+	</wordle>
+
+	<wordle date="2024-11-23" number="1050" score="4" word="svend">
+		<try>flade</try>
+		<try>denim</try>
+		<try>trend</try>
+		<try>svend</try>
+	</wordle>
+
+	<wordle date="2024-11-24" number="1051" score="5" word="søvej">
+		<try>fladt</try>
+		<try>poser</try>
+		<try>muges</try>
+		<try>skien</try>
+		<try>søvej</try>
+	</wordle>
+
+	<wordle date="2024-11-25" number="1052" score="6" word="tiske">
+		<try>laves</try>
+		<try>skære</try>
+		<try>diske</try>
+		<try>piske</try>
+		<try>fiske</try>
+		<try>tiske</try>
+	</wordle>
+
+	<wordle date="2024-11-26" number="1053" score="4" word="tiøre">
+		<try>præst</try>
+		<try>karte</try>
+		<try>tømre</try>
+		<try>tiøre</try>
+	</wordle>
+
+	<wordle date="2024-11-27" number="1054" score="3" word="blist">
+		<try>prosa</try>
+		<try>flise</try>
+		<try>blist</try>
+	</wordle>
+
 </wordles>

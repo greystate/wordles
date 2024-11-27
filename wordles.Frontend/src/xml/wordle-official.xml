@@ -2298,4 +2298,47 @@
 		<try>spine</try>
 	</wordle>
 
+	<wordle date="2024-11-22" number="1252" score="3" word="pearl">
+		<try>space</try>
+		<try>peaty</try>
+		<try>pearl</try>
+	</wordle>
+
+	<wordle date="2024-11-23" number="1253" score="6" word="jelly">
+		<try>clown</try>
+		<try>later</try>
+		<try>shelf</try>
+		<try>deely</try>
+		<try>belly</try>
+		<try>jelly</try>
+	</wordle>
+
+	<wordle date="2024-11-24" number="1254" score="4" word="twist">
+		<try>mince</try>
+		<try>trail</try>
+		<try>thigh</try>
+		<try>twist</try>
+	</wordle>
+
+	<wordle date="2024-11-25" number="1255" score="4" word="brown">
+		<try>trial</try>
+		<try>prune</try>
+		<try>crown</try>
+		<try>brown</try>
+	</wordle>
+
+	<wordle date="2024-11-26" number="1256" score="4" word="witch">
+		<try>speak</try>
+		<try>groin</try>
+		<try>width</try>
+		<try>witch</try>
+	</wordle>
+
+	<wordle date="2024-11-27" number="1257" score="4" word="slang">
+		<try>bound</try>
+		<try>flank</try>
+		<try>plane</try>
+		<try>slang</try>
+	</wordle>
+
 </wordles>
