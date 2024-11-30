@@ -3682,4 +3682,37 @@
 		<try>inept</try>
 	</quordle>
 
+	<quordle date="2024-11-28" number="1038" scores="4 5 6 7" words="grade worry noise daisy">
+		<try>crash</try>
+		<try>point</try>
+		<try>ledgy</try>
+		<try>grade</try>
+		<try>worry</try>
+		<try>noise</try>
+		<try>daisy</try>
+	</quordle>
+
+	<quordle date="2024-11-29" number="1039" scores="9 8 7 6" words="joist drool dusky glide">
+		<try>clash</try>
+		<try>power</try>
+		<try>tying</try>
+		<try>muddy</try>
+		<try>foist</try>
+		<try>glide</try>
+		<try>dusky</try>
+		<try>drool</try>
+		<try>joist</try>
+	</quordle>
+
+	<quordle date="2024-11-30" number="1040" scores="8 5 6 7" words="mamma snuck crypt tarot">
+		<try>freak</try>
+		<try>point</try>
+		<try>bulgy</try>
+		<try>machs</try>
+		<try>snuck</try>
+		<try>crypt</try>
+		<try>tarot</try>
+		<try>mamma</try>
+	</quordle>
+
 </wordles>

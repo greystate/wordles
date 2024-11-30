@@ -2387,4 +2387,28 @@
 		<try>blist</try>
 	</wordle>
 
+	<wordle date="2024-11-28" number="1055" score="5" word="mufti">
+		<try>plade</try>
+		<try>grumt</try>
+		<try>motiv</try>
+		<try>minut</try>
+		<try>mufti</try>
+	</wordle>
+
+	<wordle date="2024-11-29" number="1056" score="5" word="hymne">
+		<try>skidt</try>
+		<try>peber</try>
+		<try>alene</try>
+		<try>hyæne</try>
+		<try>hymne</try>
+	</wordle>
+
+	<wordle date="2024-11-30" number="1057" score="5" word="hyrde">
+		<try>plant</try>
+		<try>sover</try>
+		<try>mudre</try>
+		<try>dræbe</try>
+		<try>hyrde</try>
+	</wordle>
+
 </wordles>

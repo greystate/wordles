@@ -2341,4 +2341,25 @@
 		<try>slang</try>
 	</wordle>
 
+	<wordle date="2024-11-28" number="1258" score="3" word="chock">
+		<try>grail</try>
+		<try>pokes</try>
+		<try>chock</try>
+	</wordle>
+
+	<wordle date="2024-11-29" number="1259" score="4" word="hippo">
+		<try>plain</try>
+		<try>spire</try>
+		<try>picky</try>
+		<try>hippo</try>
+	</wordle>
+
+	<wordle date="2024-11-30" number="1260" score="5" word="dogma">
+		<try>flake</try>
+		<try>avoid</try>
+		<try>rando</try>
+		<try>today</try>
+		<try>dogma</try>
+	</wordle>
+
 </wordles>
