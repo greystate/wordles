@@ -2411,4 +2411,43 @@
 		<try>hyrde</try>
 	</wordle>
 
+	<wordle date="2024-12-01" number="1058" score="3" word="ideal">
+		<try>trick</try>
+		<try>higes</try>
+		<try>ideal</try>
+	</wordle>
+
+	<wordle date="2024-12-02" number="1059" score="6" word="jubel">
+		<try>grønt</try>
+		<try>spids</try>
+		<try>malke</try>
+		<try>elver</try>
+		<try>hybel</try>
+		<try>jubel</try>
+	</wordle>
+
+	<wordle date="2024-12-03" number="1060" score="6" word="jæger">
+		<try>forsk</try>
+		<try>daler</try>
+		<try>typer</try>
+		<try>måber</try>
+		<try>higer</try>
+		<try>jæger</try>
+	</wordle>
+
+	<wordle date="2024-12-04" number="1061" score="4" word="kadet">
+		<try>blade</try>
+		<try>daner</try>
+		<try>mades</try>
+		<try>kadet</try>
+	</wordle>
+
+	<wordle date="2024-12-05" number="1062" score="5" word="karpe">
+		<try>torsk</try>
+		<try>mørke</try>
+		<try>kærne</try>
+		<try>kurre</try>
+		<try>karpe</try>
+	</wordle>
+
 </wordles>

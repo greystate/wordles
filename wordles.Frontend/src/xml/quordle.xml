@@ -3715,4 +3715,60 @@
 		<try>mamma</try>
 	</quordle>
 
+	<quordle date="2024-12-01" number="1041" scores="8 4 7 5" words="naive circa stead micro">
+		<try>slant</try>
+		<try>cumin</try>
+		<try>power</try>
+		<try>circa</try>
+		<try>micro</try>
+		<try>steak</try>
+		<try>stead</try>
+		<try>naive</try>
+	</quordle>
+
+	<quordle date="2024-12-02" number="1042" scores="5 6 9 7" words="trope hover sauna shape">
+		<try>tread</try>
+		<try>plows</try>
+		<try>cumin</try>
+		<try>buyer</try>
+		<try>trope</try>
+		<try>hover</try>
+		<try>shape</try>
+		<try>snafu</try>
+		<try>sauna</try>
+	</quordle>
+
+	<quordle date="2024-12-03" number="1043" scores="5 6 7 8" words="fudge thick crank stash">
+		<try>mount</try>
+		<try>pared</try>
+		<try>thigh</try>
+		<try>fully</try>
+		<try>fudge</try>
+		<try>thick</try>
+		<try>crank</try>
+		<try>stash</try>
+	</quordle>
+
+	<quordle date="2024-12-04" number="1044" scores="8 7 5 9" words="judge giver gnash cloak">
+		<try>blaze</try>
+		<try>ruins</try>
+		<try>poker</try>
+		<try>thyme</try>
+		<try>gnash</try>
+		<try>fudge</try>
+		<try>giver</try>
+		<try>judge</try>
+		<try>cloak</try>
+	</quordle>
+
+	<quordle date="2024-12-05" number="1045" scores="5 4 7 6" words="aging bicep clove spill">
+		<try>turns</try>
+		<try>paged</try>
+		<try>limbo</try>
+		<try>bicep</try>
+		<try>aging</try>
+		<try>spill</try>
+		<try>clove</try>
+	</quordle>
+
 </wordles>

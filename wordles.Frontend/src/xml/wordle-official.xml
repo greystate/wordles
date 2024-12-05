@@ -2362,4 +2362,40 @@
 		<try>dogma</try>
 	</wordle>
 
+	<wordle date="2024-12-01" number="1261" score="4" word="mauve">
+		<try>young</try>
+		<try>plumb</try>
+		<try>amuse</try>
+		<try>mauve</try>
+	</wordle>
+
+	<wordle date="2024-12-02" number="1262" score="6" word="guile">
+		<try>stair</try>
+		<try>widen</try>
+		<try>impel</try>
+		<try>chile</try>
+		<try>exile</try>
+		<try>guile</try>
+	</wordle>
+
+	<wordle date="2024-12-03" number="1263" score="4" word="shaky">
+		<try>greys</try>
+		<try>splay</try>
+		<try>sassy</try>
+		<try>shaky</try>
+	</wordle>
+
+	<wordle date="2024-12-04" number="1264" score="3" word="crypt">
+		<try>plant</try>
+		<try>swept</try>
+		<try>crypt</try>
+	</wordle>
+
+	<wordle date="2024-12-05" number="1265" score="4" word="endow">
+		<try>spare</try>
+		<try>foley</try>
+		<try>bento</try>
+		<try>endow</try>
+	</wordle>
+
 </wordles>
