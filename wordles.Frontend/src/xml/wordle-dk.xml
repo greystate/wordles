@@ -2450,4 +2450,11 @@
 		<try>karpe</try>
 	</wordle>
 
+	<wordle date="2024-12-06" number="1063" score="4" word="klage">
+		<try>opera</try>
+		<try>flade</try>
+		<try>glane</try>
+		<try>klage</try>
+	</wordle>
+
 </wordles>

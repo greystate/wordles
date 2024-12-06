@@ -2398,4 +2398,11 @@
 		<try>endow</try>
 	</wordle>
 
+	<wordle date="2024-12-06" number="1266" score="4" word="shove">
+		<try>speak</try>
+		<try>scone</try>
+		<try>shove</try>
+		<try>shove</try>
+	</wordle>
+
 </wordles>
