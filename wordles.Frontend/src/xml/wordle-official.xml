@@ -2405,4 +2405,21 @@
 		<try>shove</try>
 	</wordle>
 
+	<!--  ⬆️ Streak of 19 😭 -->
+
+	<wordle date="2024-12-07" number="1267" score="0" word="hilly">
+		<try>plain</try>
+		<try>limbo</try>
+		<try>silky</try>
+		<try>dilly</try>
+		<try>filly</try>
+		<try>willy</try>
+	</wordle>
+
+	<wordle date="2024-12-08" number="1268" score="3" word="hyena">
+		<try>spray</try>
+		<try>layed</try>
+		<try>hyena</try>
+	</wordle>
+
 </wordles>

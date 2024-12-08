@@ -2457,4 +2457,17 @@
 		<try>klage</try>
 	</wordle>
 
+	<wordle date="2024-12-07" number="1064" score="3" word="strop">
+		<try>opera</try>
+		<try>porøs</try>
+		<try>strop</try>
+	</wordle>
+
+	<wordle date="2024-12-08" number="1065" score="4" word="klynk">
+		<try>trane</try>
+		<try>kluns</try>
+		<try>klyng</try>
+		<try>klynk</try>
+	</wordle>
+
 </wordles>
