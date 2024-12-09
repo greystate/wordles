@@ -2470,4 +2470,12 @@
 		<try>klynk</try>
 	</wordle>
 
+	<wordle date="2024-12-09" number="1066" score="5" word="myose">
+		<try>bredt</try>
+		<try>sanke</try>
+		<try>hilse</try>
+		<try>vovse</try>
+		<try>myose</try>
+	</wordle>
+
 </wordles>

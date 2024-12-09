@@ -2422,4 +2422,11 @@
 		<try>hyena</try>
 	</wordle>
 
+	<wordle date="2024-12-09" number="1269" score="4" word="flung">
+		<try>clash</try>
+		<try>blown</try>
+		<try>fling</try>
+		<try>flung</try>
+	</wordle>
+
 </wordles>
