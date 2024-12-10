@@ -2478,4 +2478,12 @@
 		<try>myose</try>
 	</wordle>
 
+	<wordle date="2024-12-10" number="1067" score="5" word="malle">
+		<try>mands</try>
+		<try>mager</try>
+		<try>mappe</try>
+		<try>malke</try>
+		<try>malle</try>
+	</wordle>
+
 </wordles>

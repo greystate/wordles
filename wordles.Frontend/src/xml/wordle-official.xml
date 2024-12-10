@@ -2429,4 +2429,11 @@
 		<try>flung</try>
 	</wordle>
 
+	<wordle date="2024-12-10" number="1270" score="4" word="patio">
+		<try>dashy</try>
+		<try>fault</try>
+		<try>taper</try>
+		<try>patio</try>
+	</wordle>
+
 </wordles>
