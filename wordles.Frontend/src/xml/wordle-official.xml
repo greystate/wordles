@@ -2436,4 +2436,41 @@
 		<try>patio</try>
 	</wordle>
 
+	<wordle date="2024-12-11" number="1271" score="4" word="plumb">
+		<try>least</try>
+		<try>mould</try>
+		<try>clump</try>
+		<try>plumb</try>
+	</wordle>
+
+	<wordle date="2024-12-12" number="1272" score="6" word="vying">
+		<try>blown</try>
+		<try>niche</try>
+		<try>intra</try>
+		<try>spiny</try>
+		<try>dying</try>
+		<try>vying</try>
+	</wordle>
+
+	<wordle date="2024-12-13" number="1273" score="5" word="boxer">
+		<try>equal</try>
+		<try>pends</try>
+		<try>cheer</try>
+		<try>biker</try>
+		<try>boxer</try>
+	</wordle>
+
+	<wordle date="2024-12-14" number="1274" score="3" word="drool">
+		<try>block</try>
+		<try>troll</try>
+		<try>drool</try>
+	</wordle>
+
+	<wordle date="2024-12-15" number="1275" score="4" word="funky">
+		<try>glare</try>
+		<try>point</try>
+		<try>bunch</try>
+		<try>funky</try>
+	</wordle>
+
 </wordles>

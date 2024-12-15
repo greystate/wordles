@@ -3825,4 +3825,63 @@
 		<try>guide</try>
 	</quordle>
 
+	<quordle date="2024-12-11" number="1051" scores="4 5 7 8" words="briar nasal shard fluff">
+		<try>blurt</try>
+		<try>washy</try>
+		<try>prime</try>
+		<try>briar</try>
+		<try>nasal</try>
+		<try>shark</try>
+		<try>shard</try>
+		<try>fluff</try>
+	</quordle>
+
+	<quordle date="2024-12-12" number="1052" scores="5 9 6 8" words="milky crier stork drier">
+		<try>flash</try>
+		<try>power</try>
+		<try>cumin</try>
+		<try>ticky</try>
+		<try>milky</try>
+		<try>stork</try>
+		<try>cider</try>
+		<try>drier</try>
+		<try>crier</try>
+	</quordle>
+
+	<quordle date="2024-12-13" number="1053" scores="9 7 5 4" words="erect rebar moist idiom">
+		<try>flush</try>
+		<try>point</try>
+		<try>dream</try>
+		<try>idiom</try>
+		<try>moist</try>
+		<try>byway</try>
+		<try>rebar</try>
+		<try>greet</try>
+		<try>erect</try>
+	</quordle>
+
+	<quordle date="2024-12-14" number="1054" scores="8 4 9 0" words="spiel onset tiger ditto">
+		<try>flunk</try>
+		<try>yeast</try>
+		<try>ovoid</try>
+		<try>onset</try>
+		<try>isles</try>
+		<try>timer</try>
+		<try>plies</try>
+		<try>spiel</try>
+		<try>tiger</try>
+	</quordle>
+
+	<quordle date="2024-12-15" number="1055" scores="8 0 6 7" words="drove stilt linen giant">
+		<try>flock</try>
+		<try>great</try>
+		<try>minus</try>
+		<try>hyped</try>
+		<try>erode</try>
+		<try>linen</try>
+		<try>giant</try>
+		<try>drove</try>
+		<try>blist</try>
+	</quordle>
+
 </wordles>

@@ -2486,4 +2486,37 @@
 		<try>malle</try>
 	</wordle>
 
+	<wordle date="2024-12-11" number="1068" score="3" word="modig">
+		<try>plast</try>
+		<try>moder</try>
+		<try>modig</try>
+	</wordle>
+
+	<wordle date="2024-12-12" number="1069" score="4" word="uheld">
+		<try>opera</try>
+		<try>flest</try>
+		<try>luede</try>
+		<try>uheld</try>
+	</wordle>
+
+	<wordle date="2024-12-13" number="1070" score="3" word="trang">
+		<try>plads</try>
+		<try>fragt</try>
+		<try>trang</try>
+	</wordle>
+
+	<wordle date="2024-12-14" number="1071" score="5" word="paria">
+		<try>grøft</try>
+		<try>rasle</try>
+		<try>narko</try>
+		<try>varia</try>
+		<try>paria</try>
+	</wordle>
+
+	<wordle date="2024-12-15" number="1072" score="3" word="krage">
+		<try>blank</try>
+		<try>skarv</try>
+		<try>krage</try>
+	</wordle>
+
 </wordles>
