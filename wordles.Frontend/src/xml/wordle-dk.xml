@@ -2519,4 +2519,30 @@
 		<try>krage</try>
 	</wordle>
 
+	<wordle date="2024-12-16" number="1073" score="3" word="porøs">
+		<try>trave</try>
+		<try>rings</try>
+		<try>porøs</try>
+	</wordle>
+
+	<wordle date="2024-12-17" number="1074" score="3" word="sting">
+		<try>opera</try>
+		<try>tings</try>
+		<try>sting</try>
+	</wordle>
+
+	<wordle date="2024-12-18" number="1075" score="3" word="yndig">
+		<try>blank</try>
+		<try>nutid</try>
+		<try>yndig</try>
+	</wordle>
+
+	<wordle date="2024-12-19" number="1076" score="4" word="kazoo">
+		<try>lokal</try>
+		<try>okapi</try>
+		<try>banko</try>
+		<try>kazoo</try>
+	</wordle>
+
+
 </wordles>

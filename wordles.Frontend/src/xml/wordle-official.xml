@@ -2473,4 +2473,31 @@
 		<try>funky</try>
 	</wordle>
 
+	<wordle date="2024-12-16" number="1276" score="5" word="boast">
+		<try>fling</try>
+		<try>erase</try>
+		<try>spasm</try>
+		<try>abash</try>
+		<try>boast</try>
+	</wordle>
+
+	<wordle date="2024-12-17" number="1277" score="3" word="scowl">
+		<try>clash</try>
+		<try>scold</try>
+		<try>scowl</try>
+	</wordle>
+
+	<wordle date="2024-12-18" number="1278" score="3" word="hefty">
+		<try>youth</try>
+		<try>hasty</try>
+		<try>hefty</try>
+	</wordle>
+
+	<wordle date="2024-12-19" number="1279" score="4" word="stray">
+		<try>blows</try>
+		<try>spank</try>
+		<try>sauce</try>
+		<try>stray</try>
+	</wordle>
+
 </wordles>

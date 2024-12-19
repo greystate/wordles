@@ -3884,4 +3884,48 @@
 		<try>blist</try>
 	</quordle>
 
+	<quordle date="2024-12-16" number="1056" scores="7 6 4 5" words="hydro cream chide slime">
+		<try>throw</try>
+		<try>place</try>
+		<try>dunks</try>
+		<try>chide</try>
+		<try>slime</try>
+		<try>cream</try>
+		<try>hydro</try>
+	</quordle>
+
+	<quordle date="2024-12-17" number="1057" scores="5 6 4 8" words="doing enjoy snaky ample">
+		<try>plunk</try>
+		<try>tread</try>
+		<try>sighs</try>
+		<try>snaky</try>
+		<try>doing</try>
+		<try>enjoy</try>
+		<try>apple</try>
+		<try>ample</try>
+	</quordle>
+
+	<quordle date="2024-12-18" number="1058" scores="5 8 4 7" words="lithe birth humid robot">
+		<try>quint</try>
+		<try>polka</try>
+		<try>dress</try>
+		<try>humid</try>
+		<try>lithe</try>
+		<try>girth</try>
+		<try>robot</try>
+		<try>birth</try>
+	</quordle>
+
+	<quordle date="2024-12-19" number="1059" scores="9 5 6 7" words="jewel gnome tramp idler">
+		<try>train</try>
+		<try>obeys</try>
+		<try>plume</try>
+		<try>riley</try>
+		<try>gnome</try>
+		<try>tramp</try>
+		<try>idler</try>
+		<try>level</try>
+		<try>jewel</try>
+	</quordle>
+
 </wordles>
