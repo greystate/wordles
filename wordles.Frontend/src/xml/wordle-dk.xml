@@ -2544,5 +2544,80 @@
 		<try>kazoo</try>
 	</wordle>
 
+	<wordle date="2024-12-20" number="1077" score="4" word="afgiv">
+		<try>opera</try>
+		<try>salat</try>
+		<try>afbød</try>
+		<try>afgiv</try>
+	</wordle>
+
+	<wordle date="2024-12-21" number="1078" score="3" word="bonde">
+		<try>klode</try>
+		<try>fonde</try>
+		<try>bonde</try>
+	</wordle>
+
+	<wordle date="2024-12-22" number="1079" score="2" word="skarp">
+		<try>blade</try>
+		<try>skarp</try>
+	</wordle>
+
+	<wordle date="2024-12-23" number="1080" score="4" word="aften">
+		<try>opera</try>
+		<try>blade</try>
+		<try>kanen</try>
+		<try>aften</try>
+	</wordle>
+
+	<wordle date="2024-12-24" number="1081" score="5" word="plæne">
+		<try>opera</try>
+		<try>pedel</try>
+		<try>pusle</try>
+		<try>pløje</try>
+		<try>plæne</try>
+	</wordle>
+
+	<wordle date="2024-12-25" number="1082" score="3" word="prima">
+		<try>gaver</try>
+		<try>prams</try>
+		<try>prima</try>
+	</wordle>
+
+	<wordle date="2024-12-26" number="1083" score="3" word="ideel">
+		<try>blind</try>
+		<try>lider</try>
+		<try>ideel</try>
+	</wordle>
+
+	<wordle date="2024-12-27" number="1084" score="6" word="skærv">
+		<try>plade</try>
+		<try>rings</try>
+		<try>styrk</try>
+		<try>skærf</try>
+		<try>skærm</try>
+		<try>skærv</try>
+	</wordle>
+
+	<wordle date="2024-12-28" number="1085" score="3" word="print">
+		<try>blade</try>
+		<try>skærm</try>
+		<try>print</try>
+	</wordle>
+
+	<wordle date="2024-12-29" number="1086" score="6" word="sfære">
+		<try>opera</try>
+		<try>tørre</try>
+		<try>mudre</try>
+		<try>skære</try>
+		<try>svære</try>
+		<try>sfære</try>
+	</wordle>
+
+	<wordle date="2024-12-30" number="1087" score="4" word="brand">
+		<try>lunge</try>
+		<try>satin</try>
+		<try>ankom</try>
+		<try>brand</try>
+	</wordle>
 
 </wordles>

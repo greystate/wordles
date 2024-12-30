@@ -2500,4 +2500,81 @@
 		<try>stray</try>
 	</wordle>
 
+	<wordle date="2024-12-20" number="1280" score="3" word="flash">
+		<try>slick</try>
+		<try>blast</try>
+		<try>flash</try>
+	</wordle>
+
+	<wordle date="2024-12-21" number="1281" score="5" word="blade">
+		<try>wicks</try>
+		<try>paned</try>
+		<try>deary</try>
+		<try>glade</try>
+		<try>blade</try>
+	</wordle>
+
+	<wordle date="2024-12-22" number="1282" score="5" word="brawn">
+		<try>dream</try>
+		<try>arson</try>
+		<try>train</try>
+		<try>prawn</try>
+		<try>brawn</try>
+	</wordle>
+
+	<wordle date="2024-12-23" number="1283" score="4" word="sauna">
+		<try>banks</try>
+		<try>nasty</try>
+		<try>salon</try>
+		<try>sauna</try>
+	</wordle>
+
+	<wordle date="2024-12-24" number="1284" score="3" word="eagle">
+		<try>gifts</try>
+		<try>agree</try>
+		<try>eagle</try>
+	</wordle>
+
+	<wordle date="2024-12-25" number="1285" score="4" word="share">
+		<try>clown</try>
+		<try>stare</try>
+		<try>spare</try>
+		<try>share</try>
+	</wordle>
+
+	<wordle date="2024-12-26" number="1286" score="5" word="affix">
+		<try>trial</try>
+		<try>panic</try>
+		<try>avoid</try>
+		<try>again</try>
+		<try>affix</try>
+	</wordle>
+
+	<wordle date="2024-12-27" number="1287" score="3" word="grain">
+		<try>trail</try>
+		<try>drain</try>
+		<try>grain</try>
+	</wordle>
+
+	<wordle date="2024-12-28" number="1288" score="4" word="decry">
+		<try>tweak</try>
+		<try>medic</try>
+		<try>decor</try>
+		<try>decry</try>
+	</wordle>
+
+	<wordle date="2024-12-29" number="1289" score="6" word="mambo">
+		<try>scare</try>
+		<try>avoid</try>
+		<try>boaty</try>
+		<try>kabob</try>
+		<try>jambo</try>
+		<try>mambo</try>
+	</wordle>
+
+	<wordle date="2024-12-30" number="1290" score="2" word="stare">
+		<try>trope</try>
+		<try>stare</try>
+	</wordle>
+
 </wordles>

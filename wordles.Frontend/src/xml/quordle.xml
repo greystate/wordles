@@ -3928,4 +3928,130 @@
 		<try>jewel</try>
 	</quordle>
 
+	<quordle date="2024-12-20" number="1060" scores="5 6 7 8" words="penal eagle dilly quite">
+		<try>squid</try>
+		<try>heart</try>
+		<try>clown</try>
+		<try>guild</try>
+		<try>penal</try>
+		<try>eagle</try>
+		<try>dilly</try>
+		<try>quite</try>
+	</quordle>
+
+	<quordle date="2024-12-21" number="1061" scores="9 6 0 7" words="strip budge sappy shelf">
+		<try>saute</try>
+		<try>prowl</try>
+		<try>mingy</try>
+		<try>shell</try>
+		<try>fudge</try>
+		<try>budge</try>
+		<try>shelf</try>
+		<try>sprit</try>
+		<try>strip</try>
+	</quordle>
+
+	<quordle date="2024-12-22" number="1062" scores="4 5 7 8" words="doubt slurp paper civil">
+		<try>clash</try>
+		<try>point</try>
+		<try>rugby</try>
+		<try>doubt</try>
+		<try>slurp</try>
+		<try>parer</try>
+		<try>paper</try>
+		<try>civil</try>
+	</quordle>
+
+	<quordle date="2024-12-23" number="1063" scores="6 9 0 5" words="snake savvy elbow tweed">
+		<try>intro</try>
+		<try>hedge</try>
+		<try>lacks</try>
+		<try>yummy</try>
+		<try>tweed</try>
+		<try>snake</try>
+		<try>sassy</try>
+		<try>vowel</try>
+		<try>savvy</try>
+	</quordle>
+
+	<quordle date="2024-12-24" number="1064" scores="4 7 6 9" words="tipsy scale flyer valve">
+		<try>flags</try>
+		<try>power</try>
+		<try>think</try>
+		<try>tipsy</try>
+		<try>lease</try>
+		<try>flyer</try>
+		<try>scale</try>
+		<try>value</try>
+		<try>valve</try>
+	</quordle>
+
+	<quordle date="2024-12-25" number="1065" scores="7 6 5 4" words="liver crier shore murky">
+		<try>spare</try>
+		<try>corny</try>
+		<try>might</try>
+		<try>murky</try>
+		<try>shore</try>
+		<try>crier</try>
+		<try>liver</try>
+	</quordle>
+
+	<quordle date="2024-12-26" number="1066" scores="9 5 6 7" words="tatty overt flour swept">
+		<try>zebra</try>
+		<try>poker</try>
+		<try>minus</try>
+		<try>tread</try>
+		<try>overt</try>
+		<try>flour</try>
+		<try>swept</try>
+		<try>taggy</try>
+		<try>tatty</try>
+	</quordle>
+
+	<quordle date="2024-12-27" number="1067" scores="4 5 7 8" words="brawl lying organ crony">
+		<try>spark</try>
+		<try>blunt</try>
+		<try>chill</try>
+		<try>brawl</try>
+		<try>lying</try>
+		<try>argon</try>
+		<try>organ</try>
+		<try>crony</try>
+	</quordle>
+
+	<quordle date="2024-12-28" number="1068" scores="6 7 9 8" words="bunch labor tripe bunny">
+		<try>power</try>
+		<try>flash</try>
+		<try>cumin</try>
+		<try>hunch</try>
+		<try>bigot</try>
+		<try>bunch</try>
+		<try>labor</try>
+		<try>bunny</try>
+		<try>tripe</try>
+	</quordle>
+
+	<quordle date="2024-12-29" number="1069" scores="9 4 8 6" words="purer splat rabid emcee">
+		<try>cumin</try>
+		<try>porks</try>
+		<try>gleam</try>
+		<try>splat</try>
+		<try>puree</try>
+		<try>emcee</try>
+		<try>braid</try>
+		<try>rabid</try>
+		<try>purer</try>
+	</quordle>
+
+	<quordle date="2024-12-30" number="1070" scores="8 4 5 7" words="toddy groin grown verve">
+		<try>place</try>
+		<try>young</try>
+		<try>mirth</try>
+		<try>groin</try>
+		<try>grown</try>
+		<try>serve</try>
+		<try>verve</try>
+		<try>toddy</try>
+	</quordle>
+
 </wordles>
