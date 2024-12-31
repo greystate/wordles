@@ -1,4 +1,4 @@
-<wordles xmlns="http://xmlns.greystate.dk/2022/wordles">
+<wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles">
 
 	<wordle date="2023-01-01" number="561" score="3" word="whine">
 		<try>years</try>
