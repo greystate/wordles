@@ -5,4 +5,12 @@
 	<xi:include href="wordle-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
 	<xi:include href="wordle-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
 
+	<wordle date="2025-01-01" number="1292" score="5" word="nerve">
+		<try>sweat</try>
+		<try>denim</try>
+		<try>felon</try>
+		<try>never</try>
+		<try>nerve</try>
+	</wordle>
+
 </wordles>

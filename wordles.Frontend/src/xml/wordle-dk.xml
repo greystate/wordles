@@ -5,4 +5,11 @@
 	<xi:include href="wordle-dk-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
 	<xi:include href="wordle-dk-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
 
+	<wordle date="2025-01-01" number="1089" score="4" word="start">
+		<try>klang</try>
+		<try>svare</try>
+		<try>smart</try>
+		<try>start</try>
+	</wordle>
+
 </wordles>
