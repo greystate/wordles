@@ -5,7 +5,6 @@
 	<xi:include href="quordle-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:quordle)" parse="xml" />
 	<xi:include href="quordle-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:quordle)" parse="xml" />
 
-	<!-- #1072 -->
 	<quordle date="2025-01-01" number="1072" scores="9 4 8 6" words="cling suite worry tonic">
 		<try>feast</try>
 		<try>cumin</try>
