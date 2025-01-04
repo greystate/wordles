@@ -17,4 +17,38 @@
 		<try>cling</try>
 	</quordle>
 
+	<quordle date="2025-01-02" number="1073" scores="6 7 4 5" words="unify swore depot intro">
+		<try>flash</try>
+		<try>point</try>
+		<try>cured</try>
+		<try>depot</try>
+		<try>intro</try>
+		<try>unify</try>
+		<try>swore</try>
+	</quordle>
+
+	<quordle date="2025-01-03" number="1074" scores="6 5 8 9" words="perky quark navel sheen">
+		<try>flank</try>
+		<try>power</try>
+		<try>budge</try>
+		<try>perks</try>
+		<try>quark</try>
+		<try>perky</try>
+		<try>laten</try>
+		<try>navel</try>
+		<try>sheen</try>
+	</quordle>
+
+	<quordle date="2025-01-04" number="1075" scores="9 5 6 8" words="corer crate quasi exist">
+		<try>blunt</try>
+		<try>force</try>
+		<try>maids</try>
+		<try>corey</try>
+		<try>crate</try>
+		<try>quasi</try>
+		<try>heist</try>
+		<try>exist</try>
+		<try>corer</try>
+	</quordle>
+
 </wordles>

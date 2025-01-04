@@ -13,4 +13,26 @@
 		<try>nerve</try>
 	</wordle>
 
+	<wordle date="2025-01-02" number="1293" score="5" word="chose">
+		<try>quart</try>
+		<try>poked</try>
+		<try>glove</try>
+		<try>shone</try>
+		<try>chose</try>
+	</wordle>
+
+	<wordle date="2025-01-03" number="1294" score="4" word="cheap">
+		<try>mango</try>
+		<try>avert</try>
+		<try>speak</try>
+		<try>cheap</try>
+	</wordle>
+
+	<wordle date="2025-01-04" number="1295" score="4" word="relax">
+		<try>blues</try>
+		<try>leapt</try>
+		<try>delay</try>
+		<try>relax</try>
+	</wordle>
+
 </wordles>

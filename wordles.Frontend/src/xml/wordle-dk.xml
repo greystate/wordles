@@ -12,4 +12,29 @@
 		<try>start</try>
 	</wordle>
 
+	<wordle date="2025-01-02" number="1090" score="6" word="tumpe">
+		<try>fiske</try>
+		<try>dræne</try>
+		<try>mølle</try>
+		<try>bagte</try>
+		<try>tomme</try>
+		<try>tumpe</try>
+	</wordle>
+
+	<wordle date="2025-01-03" number="1091" score="4" word="basis">
+		<try>glimt</try>
+		<try>pinde</try>
+		<try>skibs</try>
+		<try>basis</try>
+	</wordle>
+
+	<wordle date="2025-01-04" number="1092" score="6" word="ådsel">
+		<try>klovn</try>
+		<try>lampe</try>
+		<try>huler</try>
+		<try>bibel</try>
+		<try>ødsel</try>
+		<try>ådsel</try>
+	</wordle>
+
 </wordles>
