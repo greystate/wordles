@@ -37,4 +37,12 @@
 		<try>ådsel</try>
 	</wordle>
 
+	<wordle date="2025-01-05" number="1093" score="5" word="brist">
+		<try>prøve</try>
+		<try>grams</try>
+		<try>frisk</try>
+		<try>trist</try>
+		<try>brist</try>
+	</wordle>
+
 </wordles>

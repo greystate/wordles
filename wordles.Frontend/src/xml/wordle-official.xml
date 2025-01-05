@@ -35,4 +35,10 @@
 		<try>relax</try>
 	</wordle>
 
+	<wordle date="2025-01-05" number="1296" score="3" word="cyber">
+		<try>track</try>
+		<try>color</try>
+		<try>cyber</try>
+	</wordle>
+
 </wordles>

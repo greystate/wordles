@@ -51,4 +51,16 @@
 		<try>corer</try>
 	</quordle>
 
+	<quordle date="2025-01-05" number="1076" scores="9 0 7 8" words="borax judge cadet salon">
+		<try>clash</try>
+		<try>point</try>
+		<try>dream</try>
+		<try>buggy</try>
+		<try>borak</try>
+		<try>fudge</try>
+		<try>cadet</try>
+		<try>salon</try>
+		<try>borax</try>
+	</quordle>
+
 </wordles>
