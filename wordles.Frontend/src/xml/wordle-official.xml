@@ -41,4 +41,10 @@
 		<try>cyber</try>
 	</wordle>
 
+	<wordle date="2025-01-06" number="1297" score="3" word="sprig">
+		<try>bigot</try>
+		<try>guide</try>
+		<try>sprig</try>
+	</wordle>
+
 </wordles>

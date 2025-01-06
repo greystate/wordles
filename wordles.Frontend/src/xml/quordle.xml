@@ -63,4 +63,16 @@
 		<try>borax</try>
 	</quordle>
 
+	<quordle date="2025-01-06" number="1077" scores="5 9 7 8" words="pivot wooly grunt groom">
+		<try>flash</try>
+		<try>point</try>
+		<try>cumin</try>
+		<try>wedge</try>
+		<try>pivot</try>
+		<try>worry</try>
+		<try>grunt</try>
+		<try>groom</try>
+		<try>wooly</try>
+	</quordle>
+
 </wordles>
