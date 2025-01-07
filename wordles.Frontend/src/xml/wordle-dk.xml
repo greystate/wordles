@@ -52,4 +52,11 @@
 		<try>yngel</try>
 	</wordle>
 
+	<wordle date="2025-01-07" number="1095" score="4" word="vedgå">
+		<try>sorte</try>
+		<try>enken</try>
+		<try>pedal</try>
+		<try>vedgå</try>
+	</wordle>
+
 </wordles>

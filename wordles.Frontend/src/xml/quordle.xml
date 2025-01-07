@@ -75,4 +75,16 @@
 		<try>wooly</try>
 	</quordle>
 
+	<quordle date="2025-01-07" number="1078" scores="7 6 5 9" words="creed filet route taper">
+		<try>black</try>
+		<try>white</try>
+		<try>fjord</try>
+		<try>smugs</try>
+		<try>filet</try>
+		<try>route</try>
+		<try>creed</try>
+		<try>pater</try>
+		<try>taper</try>
+	</quordle>
+
 </wordles>

@@ -47,4 +47,10 @@
 		<try>sprig</try>
 	</wordle>
 
+	<wordle date="2025-01-07" number="1298" score="3" word="atlas">
+		<try>place</try>
+		<try>salad</try>
+		<try>atlas</try>
+	</wordle>
+
 </wordles>
