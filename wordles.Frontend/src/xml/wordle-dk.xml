@@ -59,4 +59,40 @@
 		<try>vedgå</try>
 	</wordle>
 
+	<wordle date="2025-01-08" number="1096" score="5" word="tværs">
+		<try>huske</try>
+		<try>sandt</try>
+		<try>filts</try>
+		<try>tørvs</try>
+		<try>tværs</try>
+	</wordle>
+
+	<wordle date="2025-01-09" number="1097" score="4" word="snusk">
+		<try>fiske</try>
+		<try>skært</try>
+		<try>spank</try>
+		<try>snusk</try>
+	</wordle>
+
+	<wordle date="2025-01-10" number="1098" score="4" word="afgav">
+		<try>skade</try>
+		<try>farin</try>
+		<try>aftog</try>
+		<try>afgav</try>
+	</wordle>
+
+	<wordle date="2025-01-11" number="1099" score="4" word="porre">
+		<try>plads</try>
+		<try>print</try>
+		<try>poker</try>
+		<try>porre</try>
+	</wordle>
+
+	<wordle date="2025-01-12" number="1100" score="4" word="dingo">
+		<try>sport</try>
+		<try>ovale</try>
+		<try>bingo</try>
+		<try>dingo</try>
+	</wordle>
+
 </wordles>

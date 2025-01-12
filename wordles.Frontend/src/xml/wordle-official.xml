@@ -53,4 +53,47 @@
 		<try>atlas</try>
 	</wordle>
 
+	<wordle date="2025-01-08" number="1299" score="4" word="draft">
+		<try>shape</try>
+		<try>track</try>
+		<try>grant</try>
+		<try>draft</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 32 😭 -->
+
+	<wordle date="2025-01-09" number="1300" score="0" word="wafer">
+		<try>phase</try>
+		<try>eager</try>
+		<try>later</try>
+		<try>maker</try>
+		<try>caber</try>
+		<try>fader</try>
+	</wordle>
+
+	<wordle date="2025-01-10" number="1301" score="0" word="crawl">
+		<try>mould</try>
+		<try>larks</try>
+		<try>alert</try>
+		<try>polar</try>
+		<try>frail</try>
+		<try>brawl</try>
+	</wordle>
+
+	<wordle date="2025-01-11" number="1302" score="4" word="dingy">
+		<try>crash</try>
+		<try>point</try>
+		<try>windy</try>
+		<try>dingy</try>
+	</wordle>
+
+	<wordle date="2025-01-12" number="1303" score="6" word="total">
+		<try>movie</try>
+		<try>rough</try>
+		<try>lofty</try>
+		<try>jolts</try>
+		<try>tonal</try>
+		<try>total</try>
+	</wordle>
+
 </wordles>
