@@ -95,4 +95,19 @@
 		<try>dingo</try>
 	</wordle>
 
+	<wordle date="2025-01-13" number="1101" score="4" word="flise">
+		<try>udsat</try>
+		<try>spole</try>
+		<try>linse</try>
+		<try>flise</try>
+	</wordle>
+
+	<wordle date="2025-01-14" number="1102" score="5" word="iland">
+		<try>opera</try>
+		<try>afsæt</try>
+		<try>bland</try>
+		<try>uland</try>
+		<try>iland</try>
+	</wordle>
+
 </wordles>

@@ -144,4 +144,25 @@
 		<try>felon</try>
 	</quordle>
 
+	<quordle date="2025-01-13" number="1084" scores="5 4 8 7" words="eying giddy cheap petal">
+		<try>flank</try>
+		<try>house</try>
+		<try>dirty</try>
+		<try>giddy</try>
+		<try>eying</try>
+		<try>pleat</try>
+		<try>petal</try>
+		<try>cheap</try>
+	</quordle>
+
+	<quordle date="2025-01-14" number="1085" scores="5 4 7 6" words="swarm scrap onion belch">
+		<try>antsy</try>
+		<try>cried</try>
+		<try>plumb</try>
+		<try>scrap</try>
+		<try>swarm</try>
+		<try>belch</try>
+		<try>onion</try>
+	</quordle>
+
 </wordles>

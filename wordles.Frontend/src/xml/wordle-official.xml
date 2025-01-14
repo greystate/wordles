@@ -96,4 +96,15 @@
 		<try>total</try>
 	</wordle>
 
+	<wordle date="2025-01-13" number="1304" score="2" word="cloak">
+		<try>track</try>
+		<try>cloak</try>
+	</wordle>
+
+	<wordle date="2025-01-14" number="1305" score="3" word="fancy">
+		<try>prone</try>
+		<try>antsy</try>
+		<try>fancy</try>
+	</wordle>
+
 </wordles>
