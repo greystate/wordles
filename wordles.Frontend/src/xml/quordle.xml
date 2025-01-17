@@ -165,4 +165,37 @@
 		<try>onion</try>
 	</quordle>
 
+	<quordle date="2025-01-15" number="1086" scores="6 0 7 0" words="risen plate rural envoy">
+		<try>daisy</try>
+		<try>chain</try>
+		<try>growl</try>
+		<try>muter</try>
+		<try>aural</try>
+		<try>risen</try>
+		<try>rural</try>
+		<try>elate</try>
+		<try>ebony</try>
+	</quordle>
+
+	<quordle date="2025-01-16" number="1087" scores="4 5 7 8" words="party blunt tweed plant">
+		<try>spurt</try>
+		<try>doily</try>
+		<try>vegan</try>
+		<try>party</try>
+		<try>blunt</try>
+		<try>theed</try>
+		<try>tweed</try>
+		<try>plant</try>
+	</quordle>
+
+	<quordle date="2025-01-17" number="1088" scores="4 5 6 7" words="catch weary swoon lathe">
+		<try>power</try>
+		<try>clash</try>
+		<try>minty</try>
+		<try>catch</try>
+		<try>weary</try>
+		<try>swoon</try>
+		<try>lathe</try>
+	</quordle>
+
 </wordles>

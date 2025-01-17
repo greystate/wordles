@@ -110,4 +110,24 @@
 		<try>iland</try>
 	</wordle>
 
+	<wordle date="2025-01-15" number="1103" score="4" word="koben">
+		<try>trygl</try>
+		<try>asken</try>
+		<try>kåben</try>
+		<try>koben</try>
+	</wordle>
+
+	<wordle date="2025-01-16" number="1104" score="3" word="lunte">
+		<try>flæng</try>
+		<try>lanse</try>
+		<try>lunte</try>
+	</wordle>
+
+	<wordle date="2025-01-17" number="1105" score="4" word="bybus">
+		<try>undre</try>
+		<try>sukat</try>
+		<try>bonus</try>
+		<try>bybus</try>
+	</wordle>
+
 </wordles>

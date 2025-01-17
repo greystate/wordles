@@ -107,4 +107,27 @@
 		<try>fancy</try>
 	</wordle>
 
+	<wordle date="2025-01-15" number="1306" score="5" word="knack">
+		<try>daily</try>
+		<try>avert</try>
+		<try>poach</try>
+		<try>snack</try>
+		<try>knack</try>
+	</wordle>
+
+	<wordle date="2025-01-16" number="1307" score="4" word="flint">
+		<try>exist</try>
+		<try>paint</try>
+		<try>glint</try>
+		<try>flint</try>
+	</wordle>
+
+	<wordle date="2025-01-17" number="1308" score="5" word="prose">
+		<try>write</try>
+		<try>graze</try>
+		<try>prone</try>
+		<try>prove</try>
+		<try>prose</try>
+	</wordle>
+
 </wordles>
