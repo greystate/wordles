@@ -130,4 +130,11 @@
 		<try>bybus</try>
 	</wordle>
 
+	<wordle date="2025-01-18" number="1106" score="4" word="tøsne">
+		<try>opera</try>
+		<try>ønske</try>
+		<try>løsne</try>
+		<try>tøsne</try>
+	</wordle>
+
 </wordles>

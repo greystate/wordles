@@ -198,4 +198,16 @@
 		<try>lathe</try>
 	</quordle>
 
+	<quordle date="2025-01-18" number="1089" scores="4 6 5 9" words="blare itchy bicep piper">
+		<try>dream</try>
+		<try>stuck</try>
+		<try>globe</try>
+		<try>blare</try>
+		<try>bicep</try>
+		<try>itchy</try>
+		<try>viper</try>
+		<try>wiper</try>
+		<try>piper</try>
+	</quordle>
+
 </wordles>

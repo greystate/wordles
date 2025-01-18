@@ -130,4 +130,10 @@
 		<try>prose</try>
 	</wordle>
 
+	<wordle date="2025-01-18" number="1309" score="3" word="silly">
+		<try>wraps</try>
+		<try>smile</try>
+		<try>silly</try>
+	</wordle>
+
 </wordles>
