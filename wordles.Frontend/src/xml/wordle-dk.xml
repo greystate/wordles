@@ -137,4 +137,42 @@
 		<try>tøsne</try>
 	</wordle>
 
+	<wordle date="2025-01-19" number="1107" score="5" word="doula">
+		<try>bjørn</try>
+		<try>sadle</try>
+		<try>ifald</try>
+		<try>adels</try>
+		<try>doula</try>
+	</wordle>
+
+	<wordle date="2025-01-20" number="1108" score="5" word="joker">
+		<try>skare</try>
+		<try>karet</try>
+		<try>orker</try>
+		<try>poker</try>
+		<try>joker</try>
+	</wordle>
+
+	<wordle date="2025-01-21" number="1109" score="4" word="flirt">
+		<try>klump</try>
+		<try>slags</try>
+		<try>fløde</try>
+		<try>flirt</try>
+	</wordle>
+
+	<wordle date="2025-01-22" number="1110" score="5" word="lygte">
+		<try>brunt</try>
+		<try>tales</try>
+		<try>ledte</try>
+		<try>lægte</try>
+		<try>lygte</try>
+	</wordle>
+
+	<wordle date="2025-01-23" number="1111" score="4" word="komet">
+		<try>orden</try>
+		<try>loger</try>
+		<try>motet</try>
+		<try>komet</try>
+	</wordle>
+
 </wordles>

@@ -210,4 +210,62 @@
 		<try>piper</try>
 	</quordle>
 
+	<quordle date="2025-01-19" number="1090" scores="6 5 7 9" words="wrest rinse scour canny">
+		<try>plows</try>
+		<try>bunty</try>
+		<try>grave</try>
+		<try>chick</try>
+		<try>rinse</try>
+		<try>wrest</try>
+		<try>scour</try>
+		<try>candy</try>
+		<try>canny</try>
+	</quordle>
+
+	<quordle date="2025-01-20" number="1091" scores="8 6 9 7" words="sixty thong tatty robin">
+		<try>point</try>
+		<try>freak</try>
+		<try>clubs</try>
+		<try>giddy</try>
+		<try>misty</try>
+		<try>thong</try>
+		<try>robin</try>
+		<try>sixty</try>
+		<try>tatty</try>
+	</quordle>
+
+	<quordle date="2025-01-21" number="1092" scores="4 0 5 6" words="chart vigor print spawn">
+		<try>blade</try>
+		<try>point</try>
+		<try>scurf</try>
+		<try>chart</try>
+		<try>print</try>
+		<try>spawn</try>
+		<try>irony</try>
+		<try>groin</try>
+		<try>rigor</try>
+	</quordle>
+
+	<quordle date="2025-01-22" number="1093" scores="4 5 7 8" words="slant trunk woozy eaten">
+		<try>reach</try>
+		<try>point</try>
+		<try>dumbs</try>
+		<try>slant</try>
+		<try>trunk</try>
+		<try>foggy</try>
+		<try>woozy</try>
+		<try>eaten</try>
+	</quordle>
+
+	<quordle date="2025-01-23" number="1094" scores="4 7 8 5" words="rugby sassy worry banal">
+		<try>plain</try>
+		<try>servo</try>
+		<try>fudgy</try>
+		<try>rugby</try>
+		<try>banal</try>
+		<try>wormy</try>
+		<try>sassy</try>
+		<try>worry</try>
+	</quordle>
+
 </wordles>

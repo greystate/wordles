@@ -136,4 +136,35 @@
 		<try>silly</try>
 	</wordle>
 
+	<wordle date="2025-01-19" number="1310" score="4" word="rower">
+		<try>tower</try>
+		<try>dower</try>
+		<try>mower</try>
+		<try>rower</try>
+	</wordle>
+
+	<wordle date="2025-01-20" number="1311" score="3" word="squid">
+		<try>comes</try>
+		<try>squad</try>
+		<try>squid</try>
+	</wordle>
+
+	<wordle date="2025-01-21" number="1312" score="3" word="icing">
+		<try>lynch</try>
+		<try>acing</try>
+		<try>icing</try>
+	</wordle>
+
+	<wordle date="2025-01-22" number="1313" score="2" word="reach">
+		<try>heart</try>
+		<try>reach</try>
+	</wordle>
+
+	<wordle date="2025-01-23" number="1314" score="4" word="upper">
+		<try>print</try>
+		<try>scrap</try>
+		<try>rumpy</try>
+		<try>upper</try>
+	</wordle>
+
 </wordles>
