@@ -268,4 +268,61 @@
 		<try>worry</try>
 	</quordle>
 
+	<quordle date="2025-01-24" number="1095" scores="4 5 7 6" words="grind stock serve touch">
+		<try>frail</try>
+		<try>poked</try>
+		<try>stung</try>
+		<try>grind</try>
+		<try>stock</try>
+		<try>touch</try>
+		<try>serve</try>
+	</quordle>
+
+	<quordle date="2025-01-25" number="1096" scores="8 6 5 9" words="giver groom gusto maker">
+		<try>octal</try>
+		<try>rinse</try>
+		<try>dumpy</try>
+		<try>fight</try>
+		<try>gusto</try>
+		<try>groom</try>
+		<try>giber</try>
+		<try>giver</try>
+		<try>maker</try>
+	</quordle>
+
+	<quordle date="2025-01-26" number="1097" scores="7 8 9 5" words="water orbit bride touch">
+		<try>point</try>
+		<try>realm</try>
+		<try>sucky</try>
+		<try>argue</try>
+		<try>touch</try>
+		<try>eater</try>
+		<try>water</try>
+		<try>orbit</try>
+		<try>bride</try>
+	</quordle>
+
+	<quordle date="2025-01-27" number="1098" scores="6 7 8 9" words="angel globe mayor brave">
+		<try>plain</try>
+		<try>mouth</try>
+		<try>wedgy</try>
+		<try>break</try>
+		<try>angle</try>
+		<try>angel</try>
+		<try>globe</try>
+		<try>mayor</try>
+		<try>brave</try>
+	</quordle>
+
+	<quordle date="2025-01-28" number="1099" scores="6 2 8 5" words="token daisy inane plied">
+		<try>power</try>
+		<try>daisy</try>
+		<try>fight</try>
+		<try>totem</try>
+		<try>plied</try>
+		<try>token</try>
+		<try>xenia</try>
+		<try>inane</try>
+	</quordle>
+
 </wordles>

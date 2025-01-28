@@ -175,4 +175,43 @@
 		<try>komet</try>
 	</wordle>
 
+	<wordle date="2025-01-24" number="1112" score="5" word="bælte">
+		<try>opera</try>
+		<try>skede</try>
+		<try>mugne</try>
+		<try>bille</try>
+		<try>bælte</try>
+	</wordle>
+
+	<wordle date="2025-01-25" number="1113" score="4" word="hoppe">
+		<try>flink</try>
+		<try>taber</try>
+		<try>sumpe</try>
+		<try>hoppe</try>
+	</wordle>
+
+	<wordle date="2025-01-26" number="1114" score="6" word="fange">
+		<try>polka</try>
+		<try>angre</try>
+		<try>gange</try>
+		<try>mange</try>
+		<try>bange</try>
+		<try>fange</try>
+	</wordle>
+
+	<wordle date="2025-01-27" number="1115" score="5" word="flora">
+		<try>skrig</try>
+		<try>rydde</try>
+		<try>travl</try>
+		<try>anfør</try>
+		<try>flora</try>
+	</wordle>
+
+	<wordle date="2025-01-28" number="1116" score="4" word="juice">
+		<try>flade</try>
+		<try>pinse</try>
+		<try>grime</try>
+		<try>juice</try>
+	</wordle>
+
 </wordles>
