@@ -2,7 +2,7 @@
   "codekit.folder" : "wordles.Frontend",
   "com.CodeKitApp.Nova.codekitFolder" : "\/Users\/chriz\/Development\/src\/wordles\/wordles.Frontend",
   "index.ignored_file_patterns" : [
-    "build"
+    "build\/*"
   ],
   "workspace.art_style" : 0,
   "workspace.color" : 13,
