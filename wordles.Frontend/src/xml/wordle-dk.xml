@@ -214,4 +214,24 @@
 		<try>juice</try>
 	</wordle>
 
+	<wordle date="2025-01-29" number="1117" score="4" word="kugle">
+		<try>dråbe</try>
+		<try>stole</try>
+		<try>hagle</try>
+		<try>kugle</try>
+	</wordle>
+
+	<wordle date="2025-01-30" number="1118" score="4" word="lænke">
+		<try>hunde</try>
+		<try>vante</try>
+		<try>længe</try>
+		<try>lænke</try>
+	</wordle>
+
+	<wordle date="2025-01-31" number="1119" score="3" word="flugt">
+		<try>opera</try>
+		<try>stumt</try>
+		<try>flugt</try>
+	</wordle>
+
 </wordles>

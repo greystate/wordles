@@ -204,4 +204,26 @@
 		<try>fever</try>
 	</wordle>
 
+	<wordle date="2025-01-29" number="1320" score="6" word="udder">
+		<try>beard</try>
+		<try>dream</try>
+		<try>horde</try>
+		<try>cider</try>
+		<try>elder</try>
+		<try>udder</try>
+	</wordle>
+
+	<wordle date="2025-01-30" number="1321" score="3" word="false">
+		<try>banks</try>
+		<try>salty</try>
+		<try>false</try>
+	</wordle>
+
+	<wordle date="2025-01-31" number="1322" score="4" word="toast">
+		<try>thumb</try>
+		<try>trial</try>
+		<try>tasty</try>
+		<try>toast</try>
+	</wordle>
+
 </wordles>

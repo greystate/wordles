@@ -325,4 +325,38 @@
 		<try>inane</try>
 	</quordle>
 
+	<quordle date="2025-01-29" number="1100" scores="5 6 7 8" words="crown scene agile crank">
+		<try>smart</try>
+		<try>poker</try>
+		<try>cling</try>
+		<try>hubby</try>
+		<try>crown</try>
+		<try>scene</try>
+		<try>agile</try>
+		<try>crank</try>
+	</quordle>
+
+	<quordle date="2025-01-30" number="1101" scores="8 4 7 6" words="weedy chirp stale sugar">
+		<try>point</try>
+		<try>rudes</try>
+		<try>batch</try>
+		<try>chirp</try>
+		<try>state</try>
+		<try>sugar</try>
+		<try>stale</try>
+		<try>weedy</try>
+	</quordle>
+
+	<quordle date="2025-01-31" number="1102" scores="0 6 4 5" words="parer synod brawn banjo">
+		<try>point</try>
+		<try>flash</try>
+		<try>breed</try>
+		<try>brawn</try>
+		<try>banjo</try>
+		<try>synod</try>
+		<try>pager</try>
+		<try>paver</try>
+		<try>paper</try>
+	</quordle>
+
 </wordles>
