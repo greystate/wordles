@@ -226,4 +226,12 @@
 		<try>toast</try>
 	</wordle>
 
+	<wordle date="2025-02-01" number="1323" score="5" word="rivet">
+		<try>growl</try>
+		<try>raids</try>
+		<try>river</try>
+		<try>riven</try>
+		<try>rivet</try>
+	</wordle>
+
 </wordles>

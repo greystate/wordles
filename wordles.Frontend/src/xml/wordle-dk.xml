@@ -234,4 +234,13 @@
 		<try>flugt</try>
 	</wordle>
 
+	<wordle date="2025-02-01" number="1120" score="6" word="bæver">
+		<try>krage</try>
+		<try>retur</try>
+		<try>poder</try>
+		<try>biler</try>
+		<try>bøjer</try>
+		<try>bæver</try>
+	</wordle>
+
 </wordles>
