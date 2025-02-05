@@ -369,4 +369,51 @@
 		<try>frank</try>
 	</quordle>
 
+	<quordle date="2025-02-02" number="1104" scores="5 8 6 0" words="lousy penne chump salve">
+		<try>bound</try>
+		<try>great</try>
+		<try>chips</try>
+		<try>mousy</try>
+		<try>lousy</try>
+		<try>chump</try>
+		<try>easel</try>
+		<try>penne</try>
+		<try>salle</try>
+	</quordle>
+
+	<quordle date="2025-02-03" number="1105" scores="5 6 7 8" words="sleet tense seize scamp">
+		<try>dream</try>
+		<try>point</try>
+		<try>sulky</try>
+		<try>swamp</try>
+		<try>sleet</try>
+		<try>tense</try>
+		<try>seize</try>
+		<try>scamp</try>
+	</quordle>
+
+	<quordle date="2025-02-04" number="1106" scores="4 5 8 0" words="birth drawn milky joist">
+		<try>worth</try>
+		<try>caged</try>
+		<try>blank</try>
+		<try>birth</try>
+		<try>drawn</try>
+		<try>silky</try>
+		<try>moist</try>
+		<try>milky</try>
+		<try>foist</try>
+	</quordle>
+
+	<quordle date="2025-02-05" number="1107" scores="7 9 0 6" words="sixth verve blurb cacti">
+		<try>frisk</try>
+		<try>poker</try>
+		<try>lunch</try>
+		<try>baldy</try>
+		<try>blurt</try>
+		<try>cacti</try>
+		<try>sixth</try>
+		<try>reeve</try>
+		<try>verve</try>
+	</quordle>
+
 </wordles>

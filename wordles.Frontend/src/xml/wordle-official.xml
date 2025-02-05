@@ -234,4 +234,31 @@
 		<try>rivet</try>
 	</wordle>
 
+	<wordle date="2025-02-02" number="1324" score="3" word="chore">
+		<try>bound</try>
+		<try>spore</try>
+		<try>chore</try>
+	</wordle>
+
+	<wordle date="2025-02-03" number="1325" score="4" word="revue">
+		<try>bulky</try>
+		<try>minus</try>
+		<try>argue</try>
+		<try>revue</try>
+	</wordle>
+
+	<wordle date="2025-02-04" number="1326" score="4" word="tooth">
+		<try>plain</try>
+		<try>mouth</try>
+		<try>worth</try>
+		<try>tooth</try>
+	</wordle>
+
+	<wordle date="2025-02-05" number="1327" score="4" word="pedal">
+		<try>inter</try>
+		<try>ample</try>
+		<try>plead</try>
+		<try>pedal</try>
+	</wordle>
+
 </wordles>

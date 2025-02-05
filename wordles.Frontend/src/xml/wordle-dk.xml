@@ -243,4 +243,32 @@
 		<try>bæver</try>
 	</wordle>
 
+	<wordle date="2025-02-02" number="1121" score="3" word="urtid">
+		<try>opera</try>
+		<try>brudt</try>
+		<try>urtid</try>
+	</wordle>
+
+	<wordle date="2025-02-03" number="1122" score="5" word="fatwa">
+		<try>drink</try>
+		<try>sagte</try>
+		<try>tavle</try>
+		<try>fatal</try>
+		<try>fatwa</try>
+	</wordle>
+
+	<wordle date="2025-02-04" number="1123" score="3" word="kulde">
+		<try>tændt</try>
+		<try>balde</try>
+		<try>kulde</try>
+	</wordle>
+
+	<wordle date="2025-02-05" number="1124" score="5" word="macho">
+		<try>bølje</try>
+		<try>tragt</try>
+		<try>banko</try>
+		<try>radio</try>
+		<try>macho</try>
+	</wordle>
+
 </wordles>
