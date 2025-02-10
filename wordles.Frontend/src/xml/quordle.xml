@@ -416,4 +416,61 @@
 		<try>verve</try>
 	</quordle>
 
+	<quordle date="2025-02-06" number="1108" scores="8 7 5 4" words="madam scamp fauna track">
+		<try>great</try>
+		<try>ponds</try>
+		<try>flick</try>
+		<try>track</try>
+		<try>fauna</try>
+		<try>chaps</try>
+		<try>scamp</try>
+		<try>madam</try>
+	</quordle>
+
+	<quordle date="2025-02-07" number="1109" scores="3 0 7 9" words="petal abase among corer">
+		<try>pinch</try>
+		<try>later</try>
+		<try>petal</try>
+		<try>sound</try>
+		<try>cover</try>
+		<try>exams</try>
+		<try>among</try>
+		<try>cower</try>
+		<try>corer</try>
+	</quordle>
+
+	<quordle date="2025-02-08" number="1110" scores="9 8 6 5" words="afoot alike humus towel">
+		<try>power</try>
+		<try>dashy</try>
+		<try>cumin</try>
+		<try>boats</try>
+		<try>towel</try>
+		<try>humus</try>
+		<try>alive</try>
+		<try>alike</try>
+		<try>afoot</try>
+	</quordle>
+
+	<quordle date="2025-02-09" number="1111" scores="4 5 6 7" words="tapir shake token seven">
+		<try>point</try>
+		<try>laser</try>
+		<try>ducky</try>
+		<try>tapir</try>
+		<try>shake</try>
+		<try>token</try>
+		<try>seven</try>
+	</quordle>
+
+	<quordle date="2025-02-10" number="1112" scores="8 7 6 9" words="twixt fresh guise tabby">
+		<try>point</try>
+		<try>black</try>
+		<try>mused</try>
+		<try>straw</try>
+		<try>whift</try>
+		<try>guise</try>
+		<try>fresh</try>
+		<try>twixt</try>
+		<try>tabby</try>
+	</quordle>
+
 </wordles>

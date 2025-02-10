@@ -271,4 +271,41 @@
 		<try>macho</try>
 	</wordle>
 
+	<wordle date="2025-02-06" number="1125" score="3" word="minør">
+		<try>stræb</try>
+		<try>dyner</try>
+		<try>minør</try>
+	</wordle>
+
+	<wordle date="2025-02-07" number="1126" score="6" word="bønne">
+		<try>opera</try>
+		<try>endnu</try>
+		<try>henne</try>
+		<try>nynne</try>
+		<try>finne</try>
+		<try>bønne</try>
+	</wordle>
+
+	<wordle date="2025-02-08" number="1127" score="3" word="anråb">
+		<try>blæst</try>
+		<try>indbo</try>
+		<try>anråb</try>
+	</wordle>
+
+	<wordle date="2025-02-09" number="1128" score="4" word="figen">
+		<try>under</try>
+		<try>tågen</try>
+		<try>lagen</try>
+		<try>figen</try>
+	</wordle>
+
+	<wordle date="2025-02-10" number="1129" score="6" word="forel">
+		<try>brage</try>
+		<try>syren</try>
+		<try>tæret</try>
+		<try>murer</try>
+		<try>morel</try>
+		<try>forel</try>
+	</wordle>
+
 </wordles>

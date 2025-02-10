@@ -261,4 +261,37 @@
 		<try>pedal</try>
 	</wordle>
 
+	<wordle date="2025-02-06" number="1328" score="4" word="pupil">
+		<try>champ</try>
+		<try>poker</try>
+		<try>punty</try>
+		<try>pupil</try>
+	</wordle>
+
+	<wordle date="2025-02-07" number="1329" score="3" word="swath">
+		<try>reply</try>
+		<try>thing</try>
+		<try>swath</try>
+	</wordle>
+
+	<wordle date="2025-02-08" number="1330" score="3" word="steep">
+		<try>grain</try>
+		<try>pesto</try>
+		<try>steep</try>
+	</wordle>
+
+	<wordle date="2025-02-09" number="1331" score="3" word="bonus">
+		<try>barge</try>
+		<try>binds</try>
+		<try>bonus</try>
+	</wordle>
+
+	<wordle date="2025-02-10" number="1332" score="5" word="goody">
+		<try>cleft</try>
+		<try>swing</try>
+		<try>baggy</try>
+		<try>dodgy</try>
+		<try>goody</try>
+	</wordle>
+
 </wordles>
