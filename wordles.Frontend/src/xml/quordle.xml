@@ -473,4 +473,15 @@
 		<try>tabby</try>
 	</quordle>
 
+	<quordle date="2025-02-11" number="1113" scores="6 8 5 3" words="heavy circa pesky scion">
+		<try>pains</try>
+		<try>lower</try>
+		<try>scion</try>
+		<try>meaty</try>
+		<try>pesky</try>
+		<try>heavy</try>
+		<try>craig</try>
+		<try>circa</try>
+	</quordle>
+
 </wordles>

@@ -308,4 +308,10 @@
 		<try>forel</try>
 	</wordle>
 
+	<wordle date="2025-02-11" number="1130" score="3" word="juvel">
+		<try>tunge</try>
+		<try>fuser</try>
+		<try>juvel</try>
+	</wordle>
+
 </wordles>

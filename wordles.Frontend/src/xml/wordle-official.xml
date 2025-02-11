@@ -294,4 +294,11 @@
 		<try>goody</try>
 	</wordle>
 
+	<wordle date="2025-02-11" number="1333" score="4" word="score">
+		<try>blank</try>
+		<try>fudge</try>
+		<try>store</try>
+		<try>score</try>
+	</wordle>
+
 </wordles>
