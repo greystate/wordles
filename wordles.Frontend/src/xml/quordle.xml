@@ -484,4 +484,38 @@
 		<try>circa</try>
 	</quordle>
 
+	<quordle date="2025-02-12" number="1114" scores="6 7 8 9" words="shook grade polar seedy">
+		<try>score</try>
+		<try>train</try>
+		<try>plumb</try>
+		<try>showy</try>
+		<try>drake</try>
+		<try>shook</try>
+		<try>grade</try>
+		<try>polar</try>
+		<try>seedy</try>
+	</quordle>
+
+	<quordle date="2025-02-13" number="1115" scores="5 6 7 8" words="scalp dwell ample trunk">
+		<try>blank</try>
+		<try>drums</try>
+		<try>false</try>
+		<try>wight</try>
+		<try>scalp</try>
+		<try>dwell</try>
+		<try>ample</try>
+		<try>trunk</try>
+	</quordle>
+
+	<quordle date="2025-02-14" number="1116" scores="5 6 4 8" words="media elude thumb widow">
+		<try>toads</try>
+		<try>brine</try>
+		<try>pluck</try>
+		<try>thumb</try>
+		<try>media</try>
+		<try>elude</try>
+		<try>video</try>
+		<try>widow</try>
+	</quordle>
+
 </wordles>

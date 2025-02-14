@@ -301,4 +301,23 @@
 		<try>score</try>
 	</wordle>
 
+	<wordle date="2025-02-12" number="1334" score="2" word="rapid">
+		<try>plain</try>
+		<try>rapid</try>
+	</wordle>
+
+	<wordle date="2025-02-13" number="1335" score="4" word="rumba">
+		<try>storm</try>
+		<try>murky</try>
+		<try>fumer</try>
+		<try>rumba</try>
+	</wordle>
+
+	<wordle date="2025-02-14" number="1336" score="4" word="ditty">
+		<try>thing</try>
+		<try>strip</try>
+		<try>ditto</try>
+		<try>ditty</try>
+	</wordle>
+
 </wordles>

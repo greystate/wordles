@@ -314,4 +314,25 @@
 		<try>juvel</try>
 	</wordle>
 
+	<wordle date="2025-02-12" number="1131" score="4" word="kumme">
+		<try>prosa</try>
+		<try>lindt</try>
+		<try>hæmme</try>
+		<try>kumme</try>
+	</wordle>
+
+	<wordle date="2025-02-13" number="1132" score="3" word="mappe">
+		<try>tramp</try>
+		<try>lampe</try>
+		<try>mappe</try>
+	</wordle>
+
+	<wordle date="2025-02-14" number="1133" score="5" word="bøjle">
+		<try>opera</try>
+		<try>timen</try>
+		<try>luske</try>
+		<try>bølle</try>
+		<try>bøjle</try>
+	</wordle>
+
 </wordles>
