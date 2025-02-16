@@ -335,4 +335,18 @@
 		<try>bøjle</try>
 	</wordle>
 
+	<wordle date="2025-02-15" number="1134" score="4" word="debat">
+		<try>opera</try>
+		<try>stade</try>
+		<try>badet</try>
+		<try>debat</try>
+	</wordle>
+
+	<wordle date="2025-02-16" number="1135" score="4" word="frost">
+		<try>plast</try>
+		<try>først</try>
+		<try>frist</try>
+		<try>frost</try>
+	</wordle>
+
 </wordles>

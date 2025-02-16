@@ -320,4 +320,20 @@
 		<try>ditty</try>
 	</wordle>
 
+	<wordle date="2025-02-15" number="1337" score="5" word="crook">
+		<try>clove</try>
+		<try>croak</try>
+		<try>crock</try>
+		<try>cronk</try>
+		<try>crook</try>
+	</wordle>
+
+	<wordle date="2025-02-16" number="1338" score="5" word="suave">
+		<try>drift</try>
+		<try>paces</try>
+		<try>lease</try>
+		<try>shame</try>
+		<try>suave</try>
+	</wordle>
+
 </wordles>
