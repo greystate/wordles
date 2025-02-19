@@ -336,4 +336,25 @@
 		<try>suave</try>
 	</wordle>
 
+	<wordle date="2025-02-17" number="1339" score="4" word="trail">
+		<try>trash</try>
+		<try>tramp</try>
+		<try>trace</try>
+		<try>trail</try>
+	</wordle>
+
+	<wordle date="2025-02-18" number="1340" score="4" word="indie">
+		<try>tread</try>
+		<try>debug</try>
+		<try>elide</try>
+		<try>indie</try>
+	</wordle>
+
+	<wordle date="2025-02-19" number="1341" score="4" word="madly">
+		<try>tapes</try>
+		<try>rainy</try>
+		<try>hacky</try>
+		<try>madly</try>
+	</wordle>
+
 </wordles>

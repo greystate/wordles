@@ -541,4 +541,37 @@
 		<try>fiery</try>
 	</quordle>
 
+	<quordle date="2025-02-17" number="1119" scores="4 7 5 6" words="sadly wafer lithe idiom">
+		<try>round</try>
+		<try>might</try>
+		<try>slave</try>
+		<try>sadly</try>
+		<try>lithe</try>
+		<try>idiom</try>
+		<try>wafer</try>
+	</quordle>
+
+	<quordle date="2025-02-18" number="1120" scores="6 7 8 9" words="tamer scrub brick drift">
+		<try>wrong</try>
+		<try>scale</try>
+		<try>pithy</try>
+		<try>rated</try>
+		<try>scrum</try>
+		<try>tamer</try>
+		<try>scrub</try>
+		<try>brick</try>
+		<try>drift</try>
+	</quordle>
+
+	<quordle date="2025-02-19" number="1121" scores="7 6 8 5" words="abate trove venue drape">
+		<try>power</try>
+		<try>grabs</try>
+		<try>dinky</try>
+		<try>thumb</try>
+		<try>drape</try>
+		<try>trove</try>
+		<try>abate</try>
+		<try>venue</try>
+	</quordle>
+
 </wordles>

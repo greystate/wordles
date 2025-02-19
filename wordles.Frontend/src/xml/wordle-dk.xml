@@ -349,4 +349,28 @@
 		<try>frost</try>
 	</wordle>
 
+	<wordle date="2025-02-17" number="1136" score="4" word="kaffe">
+		<try>hunds</try>
+		<try>plane</try>
+		<try>kamre</try>
+		<try>kaffe</try>
+	</wordle>
+
+	<wordle date="2025-02-18" number="1137" score="5" word="kvæld">
+		<try>flink</try>
+		<try>lakaj</try>
+		<try>kolos</try>
+		<try>kabel</try>
+		<try>kvæld</try>
+	</wordle>
+
+	<wordle date="2025-02-19" number="1138" score="0" word="masai">
+		<try>opera</try>
+		<try>adlyd</try>
+		<try>stats</try>
+		<try>fugas</try>
+		<try>ishav</try>
+		<try>bisam</try>
+	</wordle>
+
 </wordles>
