@@ -373,4 +373,17 @@
 		<try>bisam</try>
 	</wordle>
 
+	<wordle date="2025-02-20" number="1139" score="3" word="filet">
+		<try>boder</try>
+		<try>ganes</try>
+		<try>filet</try>
+	</wordle>
+
+	<wordle date="2025-02-21" number="1140" score="4" word="junta">
+		<try>blade</try>
+		<try>afstå</try>
+		<try>parti</try>
+		<try>junta</try>
+	</wordle>
+
 </wordles>

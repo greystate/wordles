@@ -357,4 +357,15 @@
 		<try>madly</try>
 	</wordle>
 
+	<wordle date="2025-02-20" number="1342" score="3" word="roach">
+		<try>wreck</try>
+		<try>ranch</try>
+		<try>roach</try>
+	</wordle>
+
+	<wordle date="2025-02-21" number="1343" score="2" word="clove">
+		<try>price</try>
+		<try>clove</try>
+	</wordle>
+
 </wordles>

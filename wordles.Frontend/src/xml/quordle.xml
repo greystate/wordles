@@ -574,4 +574,28 @@
 		<try>venue</try>
 	</quordle>
 
+	<quordle date="2025-02-20" number="1122" scores="9 8 6 7" words="hasty drape ficus craze">
+		<try>power</try>
+		<try>grabs</try>
+		<try>minty</try>
+		<try>elude</try>
+		<try>crave</try>
+		<try>ficus</try>
+		<try>craze</try>
+		<try>drape</try>
+		<try>hasty</try>
+	</quordle>
+
+	<quordle date="2025-02-21" number="1123" scores="5 9 7 8" words="stiff prize scowl donut">
+		<try>drift</try>
+		<try>washy</try>
+		<try>pluck</try>
+		<try>ovens</try>
+		<try>stiff</try>
+		<try>prime</try>
+		<try>scowl</try>
+		<try>donut</try>
+		<try>prize</try>
+	</quordle>
+
 </wordles>
