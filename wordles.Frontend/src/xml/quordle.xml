@@ -598,4 +598,16 @@
 		<try>prize</try>
 	</quordle>
 
+	<quordle date="2025-02-22" number="1124" scores="6 7 0 9" words="ether sonic vaunt rouse">
+		<try>dream</try>
+		<try>goths</try>
+		<try>funky</try>
+		<try>split</try>
+		<try>there</try>
+		<try>ether</try>
+		<try>sonic</try>
+		<try>jaunt</try>
+		<try>rouse</try>
+	</quordle>
+
 </wordles>

@@ -368,4 +368,11 @@
 		<try>clove</try>
 	</wordle>
 
+	<wordle date="2025-02-22" number="1344" score="4" word="cream">
+		<try>pride</try>
+		<try>freak</try>
+		<try>great</try>
+		<try>cream</try>
+	</wordle>
+
 </wordles>

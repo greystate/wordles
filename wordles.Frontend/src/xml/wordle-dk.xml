@@ -386,4 +386,12 @@
 		<try>junta</try>
 	</wordle>
 
+	<wordle date="2025-02-22" number="1141" score="5" word="byste">
+		<try>blødt</try>
+		<try>butik</try>
+		<try>borte</try>
+		<try>bagte</try>
+		<try>byste</try>
+	</wordle>
+
 </wordles>
