@@ -610,4 +610,25 @@
 		<try>rouse</try>
 	</quordle>
 
+	<quordle date="2025-02-23" number="1125" scores="4 6 7 8" words="rabid relic scram basis">
+		<try>brain</try>
+		<try>pokes</try>
+		<try>washy</try>
+		<try>rabid</try>
+		<try>refit</try>
+		<try>relic</try>
+		<try>scram</try>
+		<try>basis</try>
+	</quordle>
+
+	<quordle date="2025-02-24" number="1126" scores="4 5 6 7" words="leash lever totem creme">
+		<try>place</try>
+		<try>thing</try>
+		<try>mousy</try>
+		<try>leash</try>
+		<try>lever</try>
+		<try>totem</try>
+		<try>creme</try>
+	</quordle>
+
 </wordles>

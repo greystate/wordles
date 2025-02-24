@@ -375,4 +375,20 @@
 		<try>cream</try>
 	</wordle>
 
+	<wordle date="2025-02-23" number="1345" score="6" word="otter">
+		<try>mound</try>
+		<try>abort</try>
+		<try>trios</try>
+		<try>recto</try>
+		<try>ofter</try>
+		<try>otter</try>
+	</wordle>
+
+	<wordle date="2025-02-24" number="1346" score="4" word="gland">
+		<try>savor</try>
+		<try>place</try>
+		<try>blank</try>
+		<try>gland</try>
+	</wordle>
+
 </wordles>

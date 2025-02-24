@@ -394,4 +394,16 @@
 		<try>byste</try>
 	</wordle>
 
+	<wordle date="2025-02-23" number="1142" score="4" word="delle">
+		<try>bring</try>
+		<try>taske</try>
+		<try>fulde</try>
+		<try>delle</try>
+	</wordle>
+
+	<wordle date="2025-02-24" number="1143" score="2" word="finke">
+		<try>drøne</try>
+		<try>finke</try>
+	</wordle>
+
 </wordles>
