@@ -631,4 +631,37 @@
 		<try>creme</try>
 	</quordle>
 
+	<quordle date="2025-02-25" number="1127" scores="4 6 7 8" words="twist tweak meant clear">
+		<try>world</try>
+		<try>spice</try>
+		<try>using</try>
+		<try>twist</try>
+		<try>tweet</try>
+		<try>tweak</try>
+		<try>meant</try>
+		<try>clear</try>
+	</quordle>
+
+	<quordle date="2025-02-26" number="1128" scores="4 5 6 8" words="lover spied vapor meter">
+		<try>poker</try>
+		<try>dashy</try>
+		<try>liver</try>
+		<try>lover</try>
+		<try>spied</try>
+		<try>vapor</try>
+		<try>cuter</try>
+		<try>meter</try>
+	</quordle>
+
+	<quordle date="2025-02-27" number="1129" scores="6 7 8 5" words="thief chair ether grime">
+		<try>poker</try>
+		<try>dashy</try>
+		<try>awful</try>
+		<try>binge</try>
+		<try>grime</try>
+		<try>thief</try>
+		<try>chair</try>
+		<try>ether</try>
+	</quordle>
+
 </wordles>

@@ -391,4 +391,27 @@
 		<try>gland</try>
 	</wordle>
 
+	<wordle date="2025-02-25" number="1347" score="5" word="dryer">
+		<try>zebra</try>
+		<try>voter</try>
+		<try>diner</try>
+		<try>defer</try>
+		<try>dryer</try>
+	</wordle>
+
+	<wordle date="2025-02-26" number="1348" score="4" word="award">
+		<try>young</try>
+		<try>stare</try>
+		<try>wharf</try>
+		<try>award</try>
+	</wordle>
+
+	<wordle date="2025-02-27" number="1349" score="5" word="lodge">
+		<try>short</try>
+		<try>amino</try>
+		<try>poled</try>
+		<try>yodle</try>
+		<try>lodge</try>
+	</wordle>
+
 </wordles>

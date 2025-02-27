@@ -406,4 +406,28 @@
 		<try>finke</try>
 	</wordle>
 
+	<wordle date="2025-02-25" number="1144" score="0" word="gange">
+		<try>panik</try>
+		<try>sandt</try>
+		<try>bange</try>
+		<try>mange</try>
+		<try>lange</try>
+		<try>vange</try>
+	</wordle>
+
+	<wordle date="2025-02-26" number="1145" score="4" word="kalot">
+		<try>poste</try>
+		<try>trold</try>
+		<try>omtal</try>
+		<try>kalot</try>
+	</wordle>
+
+	<wordle date="2025-02-27" number="1146" score="5" word="labil">
+		<try>opera</try>
+		<try>afsæt</try>
+		<try>banal</try>
+		<try>habil</try>
+		<try>labil</try>
+	</wordle>
+
 </wordles>
