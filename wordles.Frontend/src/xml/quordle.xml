@@ -664,4 +664,16 @@
 		<try>ether</try>
 	</quordle>
 
+	<quordle date="2025-02-28" number="1130" scores="6 9 7 8" words="pasta razor plumb drool">
+		<try>thing</try>
+		<try>about</try>
+		<try>cycle</try>
+		<try>swarm</try>
+		<try>vasts</try>
+		<try>pasta</try>
+		<try>plumb</try>
+		<try>drool</try>
+		<try>razor</try>
+	</quordle>
+
 </wordles>

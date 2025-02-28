@@ -430,4 +430,12 @@
 		<try>labil</try>
 	</wordle>
 
+	<wordle date="2025-02-28" number="1147" score="5" word="bytur">
+		<try>klamt</try>
+		<try>træge</try>
+		<try>strip</try>
+		<try>rotor</try>
+		<try>bytur</try>
+	</wordle>
+
 </wordles>

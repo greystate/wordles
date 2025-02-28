@@ -414,4 +414,11 @@
 		<try>lodge</try>
 	</wordle>
 
+	<wordle date="2025-02-28" number="1350" score="4" word="fuzzy">
+		<try>flake</try>
+		<try>fours</try>
+		<try>fudgy</try>
+		<try>fuzzy</try>
+	</wordle>
+
 </wordles>
