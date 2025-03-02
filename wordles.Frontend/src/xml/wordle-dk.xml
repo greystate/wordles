@@ -445,4 +445,9 @@
 		<try>delta</try>
 	</wordle>
 
+	<wordle date="2025-03-02" number="1149" score="2" word="glose">
+		<try>glade</try>
+		<try>glose</try>
+	</wordle>
+
 </wordles>
