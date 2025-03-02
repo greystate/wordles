@@ -438,4 +438,11 @@
 		<try>bytur</try>
 	</wordle>
 
+	<wordle date="2025-03-01" number="1148" score="4" word="delta">
+		<try>opera</try>
+		<try>skema</try>
+		<try>endda</try>
+		<try>delta</try>
+	</wordle>
+
 </wordles>

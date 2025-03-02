@@ -676,4 +676,28 @@
 		<try>razor</try>
 	</quordle>
 
+	<quordle date="2025-03-01" number="1131" scores="8 7 6 9" words="dense boney kitty smear">
+		<try>birds</try>
+		<try>hover</try>
+		<try>pluck</try>
+		<try>water</try>
+		<try>bogey</try>
+		<try>kitty</try>
+		<try>boney</try>
+		<try>dense</try>
+		<try>smear</try>
+	</quordle>
+
+	<quordle date="2025-03-02" number="1132" scores="4 8 6 9" words="tunic gloss debug large">
+		<try>plain</try>
+		<try>overt</try>
+		<try>ducky</try>
+		<try>tunic</try>
+		<try>blows</try>
+		<try>debug</try>
+		<try>slogs</try>
+		<try>gloss</try>
+		<try>large</try>
+	</quordle>
+
 </wordles>

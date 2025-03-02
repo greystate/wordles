@@ -421,4 +421,17 @@
 		<try>fuzzy</try>
 	</wordle>
 
+	<wordle date="2025-03-01" number="1351" score="3" word="hover">
+		<try>watch</try>
+		<try>heron</try>
+		<try>hover</try>
+	</wordle>
+
+	<wordle date="2025-03-02" number="1352" score="4" word="deity">
+		<try>proud</try>
+		<try>delve</try>
+		<try>death</try>
+		<try>deity</try>
+	</wordle>
+
 </wordles>
