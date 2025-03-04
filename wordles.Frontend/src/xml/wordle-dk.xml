@@ -450,4 +450,18 @@
 		<try>glose</try>
 	</wordle>
 
+	<wordle date="2025-03-03" number="1150" score="4" word="klink">
+		<try>plask</try>
+		<try>flink</try>
+		<try>blink</try>
+		<try>klink</try>
+	</wordle>
+
+	<wordle date="2025-03-04" number="1151" score="4" word="lanse">
+		<try>flade</try>
+		<try>galpe</try>
+		<try>larme</try>
+		<try>lanse</try>
+	</wordle>
+
 </wordles>

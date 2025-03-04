@@ -434,4 +434,18 @@
 		<try>deity</try>
 	</wordle>
 
+	<wordle date="2025-03-03" number="1353" score="3" word="spear">
+		<try>power</try>
+		<try>super</try>
+		<try>spear</try>
+	</wordle>
+
+	<wordle date="2025-03-04" number="1354" score="5" word="check">
+		<try>ghost</try>
+		<try>chain</try>
+		<try>chuff</try>
+		<try>chewy</try>
+		<try>check</try>
+	</wordle>
+
 </wordles>
