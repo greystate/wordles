@@ -723,4 +723,60 @@
 		<try>etude</try>
 	</quordle>
 
+	<quordle date="2025-03-05" number="1135" scores="5 6 7 8" words="plead twang major risky">
+		<try>plunk</try>
+		<try>wares</try>
+		<try>fight</try>
+		<try>moody</try>
+		<try>plead</try>
+		<try>twang</try>
+		<try>major</try>
+		<try>risky</try>
+	</quordle>
+
+	<quordle date="2025-03-06" number="1136" scores="4 5 8 7" words="trice eight belch riper">
+		<try>trace</try>
+		<try>point</try>
+		<try>mushy</try>
+		<try>trice</try>
+		<try>eight</try>
+		<try>riped</try>
+		<try>riper</try>
+		<try>belch</try>
+	</quordle>
+
+	<quordle date="2025-03-07" number="1137" scores="4 5 8 7" words="glean shiny decry manga">
+		<try>power</try>
+		<try>giant</try>
+		<try>sulky</try>
+		<try>glean</try>
+		<try>shiny</try>
+		<try>ferry</try>
+		<try>manga</try>
+		<try>decry</try>
+	</quordle>
+
+	<quordle date="2025-03-08" number="1138" scores="7 8 5 6" words="watch lapse wrest hefty">
+		<try>great</try>
+		<try>cumin</try>
+		<try>thack</try>
+		<try>hatch</try>
+		<try>wrest</try>
+		<try>hefty</try>
+		<try>watch</try>
+		<try>lapse</try>
+	</quordle>
+
+	<quordle date="2025-03-09" number="1139" scores="6 8 7 9" words="skill ideal where rehab">
+		<try>stain</try>
+		<try>poler</try>
+		<try>fudgy</try>
+		<try>which</try>
+		<try>slims</try>
+		<try>skill</try>
+		<try>where</try>
+		<try>ideal</try>
+		<try>rehab</try>
+	</quordle>
+
 </wordles>

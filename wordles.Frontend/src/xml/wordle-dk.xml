@@ -464,4 +464,38 @@
 		<try>lanse</try>
 	</wordle>
 
+	<wordle date="2025-03-05" number="1152" score="3" word="moppe">
+		<try>skræl</try>
+		<try>tynde</try>
+		<try>moppe</try>
+	</wordle>
+
+	<wordle date="2025-03-06" number="1153" score="3" word="flade">
+		<try>plade</try>
+		<try>glade</try>
+		<try>flade</try>
+	</wordle>
+
+	<wordle date="2025-03-07" number="1154" score="5" word="derby">
+		<try>hunde</try>
+		<try>desto</try>
+		<try>derpå</try>
+		<try>deraf</try>
+		<try>derby</try>
+	</wordle>
+
+	<wordle date="2025-03-08" number="1155" score="5" word="flair">
+		<try>opera</try>
+		<try>rakte</try>
+		<try>urban</try>
+		<try>afriv</try>
+		<try>flair</try>
+	</wordle>
+
+	<wordle date="2025-03-09" number="1156" score="3" word="græsk">
+		<try>grelt</try>
+		<try>grisk</try>
+		<try>græsk</try>
+	</wordle>
+
 </wordles>

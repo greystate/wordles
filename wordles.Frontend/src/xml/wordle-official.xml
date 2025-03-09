@@ -448,4 +448,38 @@
 		<try>check</try>
 	</wordle>
 
+	<wordle date="2025-03-05" number="1355" score="4" word="scrum">
+		<try>snack</try>
+		<try>scent</try>
+		<try>scind</try>
+		<try>scrum</try>
+	</wordle>
+
+	<wordle date="2025-03-06" number="1356" score="3" word="alert">
+		<try>trace</try>
+		<try>rated</try>
+		<try>alert</try>
+	</wordle>
+
+	<wordle date="2025-03-07" number="1357" score="4" word="troop">
+		<try>pride</try>
+		<try>traps</try>
+		<try>trump</try>
+		<try>troop</try>
+	</wordle>
+
+	<wordle date="2025-03-08" number="1358" score="4" word="navel">
+		<try>slack</try>
+		<try>large</try>
+		<try>valet</try>
+		<try>navel</try>
+	</wordle>
+
+	 <wordle date="2025-03-09" number="1359" score="4" word="greed">
+		 <try>bloat</try>
+		 <try>shred</try>
+		 <try>fried</try>
+		 <try>greed</try>
+	 </wordle>
+
 </wordles>
