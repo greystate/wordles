@@ -779,4 +779,27 @@
 		<try>rehab</try>
 	</quordle>
 
+	<quordle date="2025-03-10" number="1140" scores="5 9 8 7" words="avail these titan gauge">
+		<try>fruit</try>
+		<try>jokes</try>
+		<try>lawny</try>
+		<try>plaid</try>
+		<try>avail</try>
+		<try>gauze</try>
+		<try>gauge</try>
+		<try>titan</try>
+		<try>these</try>
+	</quordle>
+
+	<quordle date="2025-03-11" number="1141" scores="6 7 8 4" words="lingo juice sharp revel">
+		<try>event</try>
+		<try>swarm</try>
+		<try>lough</try>
+		<try>revel</try>
+		<try>shark</try>
+		<try>lingo</try>
+		<try>juice</try>
+		<try>sharp</try>
+	</quordle>
+
 </wordles>

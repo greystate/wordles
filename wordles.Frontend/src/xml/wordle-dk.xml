@@ -498,4 +498,18 @@
 		<try>græsk</try>
 	</wordle>
 
+	<wordle date="2025-03-10" number="1157" score="3" word="knude">
+		<try>opera</try>
+		<try>kline</try>
+		<try>knude</try>
+	</wordle>
+
+	<wordle date="2025-03-11" number="1158" score="5" word="lunge">
+		<try>grimt</try>
+		<try>algen</try>
+		<try>snegl</try>
+		<try>længe</try>
+		<try>lunge</try>
+	</wordle>
+
 </wordles>

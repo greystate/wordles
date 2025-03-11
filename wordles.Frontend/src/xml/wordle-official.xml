@@ -482,4 +482,18 @@
 		 <try>greed</try>
 	 </wordle>
 
+	 <wordle date="2025-03-10" number="1360" score="5" word="spite">
+		 <try>fares</try>
+		 <try>close</try>
+		 <try>swipe</try>
+		 <try>spike</try>
+		 <try>spite</try>
+	 </wordle>
+
+	 <wordle date="2025-03-11" number="1361" score="3" word="track">
+		 <try>loser</try>
+		 <try>ranty</try>
+		 <try>track</try>
+	 </wordle>
+
 </wordles>
