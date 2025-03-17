@@ -802,4 +802,71 @@
 		<try>sharp</try>
 	</quordle>
 
+	<quordle date="2025-03-12" number="1142" scores="4 5 6 7" words="awash pushy ralph proof">
+		<try>power</try>
+		<try>tunas</try>
+		<try>filch</try>
+		<try>awash</try>
+		<try>pushy</try>
+		<try>ralph</try>
+		<try>proof</try>
+	</quordle>
+
+	<quordle date="2025-03-13" number="1143" scores="9 0 8 4" words="amiss metal teary short">
+		<try>hover</try>
+		<try>pling</try>
+		<try>casts</try>
+		<try>short</try>
+		<try>thumb</try>
+		<try>amids</try>
+		<try>amias</try>
+		<try>teary</try>
+		<try>amiss</try>
+	</quordle>
+
+	<quordle date="2025-03-14" number="1144" scores="9 5 6 8" words="belie spear growl adobe">
+		<try>lower</try>
+		<try>seals</try>
+		<try>minty</try>
+		<try>cupid</try>
+		<try>spear</try>
+		<try>growl</try>
+		<try>helix</try>
+		<try>adobe</try>
+		<try>belie</try>
+	</quordle>
+
+	<quordle date="2025-03-15" number="1145" scores="6 7 5 8" words="speed clash risky grate">
+		<try>truck</try>
+		<try>point</try>
+		<try>based</try>
+		<try>wimpy</try>
+		<try>risky</try>
+		<try>speed</try>
+		<try>clash</try>
+		<try>grate</try>
+	</quordle>
+
+	<quordle date="2025-03-16" number="1146" scores="5 8 7 6" words="input rumba elude blank">
+		<try>under</try>
+		<try>tacos</try>
+		<try>fight</try>
+		<try>belly</try>
+		<try>input</try>
+		<try>blank</try>
+		<try>elude</try>
+		<try>rumba</try>
+	</quordle>
+
+	<quordle date="2025-03-17" number="1147" scores="8 5 6 7" words="infer flint chump sheer">
+		<try>clown</try>
+		<try>prime</try>
+		<try>ghast</try>
+		<try>inner</try>
+		<try>flint</try>
+		<try>chump</try>
+		<try>sheer</try>
+		<try>infer</try>
+	</quordle>
+
 </wordles>

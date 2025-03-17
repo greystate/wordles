@@ -512,4 +512,49 @@
 		<try>lunge</try>
 	</wordle>
 
+	<wordle date="2025-03-12" number="1159" score="4" word="nakke">
+		<try>pryds</try>
+		<try>lægte</try>
+		<try>banke</try>
+		<try>nakke</try>
+	</wordle>
+
+	<wordle date="2025-03-13" number="1160" score="6" word="bæger">
+		<try>spark</try>
+		<try>ruden</try>
+		<try>ilter</try>
+		<try>møder</try>
+		<try>byder</try>
+		<try>bæger</try>
+	</wordle>
+
+	<wordle date="2025-03-14" number="1161" score="5" word="afgud">
+		<try>plads</try>
+		<try>maden</try>
+		<try>afbød</try>
+		<try>afryd</try>
+		<try>afgud</try>
+	</wordle>
+
+	<wordle date="2025-03-15" number="1162" score="5" word="afgør">
+		<try>drage</try>
+		<try>garns</try>
+		<try>cigar</try>
+		<try>afgår</try>
+		<try>afgør</try>
+	</wordle>
+
+	<wordle date="2025-03-16" number="1163" score="5" word="væsen">
+		<try>rumba</try>
+		<try>klode</try>
+		<try>sålen</try>
+		<try>visen</try>
+		<try>væsen</try>
+	</wordle>
+
+	<wordle date="2025-03-17" number="1164" score="2" word="barsk">
+		<try>adræt</try>
+		<try>barsk</try>
+	</wordle>
+
 </wordles>
