@@ -869,4 +869,50 @@
 		<try>infer</try>
 	</quordle>
 
+	<quordle date="2025-03-18" number="1148" scores="8 7 5 6" words="navel treat copse slink">
+		<try>point</try>
+		<try>scale</try>
+		<try>drums</try>
+		<try>great</try>
+		<try>copse</try>
+		<try>slink</try>
+		<try>treat</try>
+		<try>navel</try>
+	</quordle>
+
+	<quordle date="2025-03-19" number="1149" scores="6 7 9 4" words="flame carat spawn tunic">
+		<try>trues</try>
+		<try>modal</try>
+		<try>pinky</try>
+		<try>tunic</try>
+		<try>blame</try>
+		<try>flame</try>
+		<try>carat</try>
+		<try>spang</try>
+		<try>spawn</try>
+	</quordle>
+
+	<quordle date="2025-03-20" number="1150" scores="8 6 7 9" words="riper still wafer notch">
+		<try>power</try>
+		<try>light</try>
+		<try>viper</try>
+		<try>thumb</try>
+		<try>hasty</try>
+		<try>still</try>
+		<try>wafer</try>
+		<try>riper</try>
+		<try>notch</try>
+	</quordle>
+
+	<quordle date="2025-03-21" number="1151" scores="7 6 5 8" words="ditty valor tower amiss">
+		<try>stain</try>
+		<try>power</try>
+		<try>fight</try>
+		<try>cloud</try>
+		<try>tower</try>
+		<try>valor</try>
+		<try>ditty</try>
+		<try>amiss</try>
+	</quordle>
+
 </wordles>

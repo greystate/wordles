@@ -557,4 +557,34 @@
 		<try>barsk</try>
 	</wordle>
 
+	<wordle date="2025-03-18" number="1165" score="5" word="ødsel">
+		<try>bæver</try>
+		<try>dalen</try>
+		<try>model</try>
+		<try>ådsel</try>
+		<try>ødsel</try>
+	</wordle>
+
+	<wordle date="2025-03-19" number="1166" score="5" word="album">
+		<try>streg</try>
+		<try>plank</try>
+		<try>flora</try>
+		<try>altan</try>
+		<try>album</try>
+	</wordle>
+
+	<wordle date="2025-03-20" number="1167" score="4" word="jætte">
+		<try>drage</try>
+		<try>poste</try>
+		<try>føjte</try>
+		<try>jætte</try>
+	</wordle>
+
+	<wordle date="2025-03-21" number="1168" score="4" word="dansk">
+		<try>point</try>
+		<try>nøler</try>
+		<try>sangs</try>
+		<try>dansk</try>
+	</wordle>
+
 </wordles>

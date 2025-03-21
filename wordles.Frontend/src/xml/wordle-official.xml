@@ -538,4 +538,32 @@
 		<try>lasso</try>
 	</wordle>
 
+	<wordle date="2025-03-18" number="1368" score="4" word="timer">
+		<try>drags</try>
+		<try>route</try>
+		<try>biter</try>
+		<try>timer</try>
+	</wordle>
+
+	<wordle date="2025-03-19" number="1369" score="3" word="spark">
+		<try>works</try>
+		<try>shark</try>
+		<try>spark</try>
+	</wordle>
+
+	<wordle date="2025-03-20" number="1370" score="4" word="baste">
+		<try>march</try>
+		<try>famed</try>
+		<try>sable</try>
+		<try>baste</try>
+	</wordle>
+
+	<wordle date="2025-03-21" number="1371" score="5" word="nudge">
+		<try>fruit</try>
+		<try>punch</try>
+		<try>nulls</try>
+		<try>nuked</try>
+		<try>nudge</try>
+	</wordle>
+
 </wordles>
