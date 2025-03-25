@@ -587,4 +587,36 @@
 		<try>dansk</try>
 	</wordle>
 
+	<wordle date="2025-03-22" number="1169" score="4" word="alger">
+		<try>opera</try>
+		<try>ramle</try>
+		<try>alter</try>
+		<try>alger</try>
+	</wordle>
+
+	<wordle date="2025-03-23" number="1170" score="6" word="bisol">
+		<try>stage</try>
+		<try>hølæs</try>
+		<try>ådsel</try>
+		<try>issyl</try>
+		<try>rosin</try>
+		<try>bisol</try>
+	</wordle>
+
+	<wordle date="2025-03-24" number="1171" score="5" word="afgår">
+		<try>opera</try>
+		<try>skrab</try>
+		<try>tragt</try>
+		<try>afgør</try>
+		<try>afgår</try>
+	</wordle>
+
+	<wordle date="2025-03-25" number="1172" score="5" word="afgik">
+		<try>opera</try>
+		<try>ansøg</try>
+		<try>agilt</try>
+		<try>afvig</try>
+		<try>afgik</try>
+	</wordle>
+
 </wordles>

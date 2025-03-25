@@ -566,4 +566,32 @@
 		<try>nudge</try>
 	</wordle>
 
+	<wordle date="2025-03-22" number="1372" score="4" word="amble">
+		<try>clash</try>
+		<try>alert</try>
+		<try>angle</try>
+		<try>amble</try>
+	</wordle>
+
+	<wordle date="2025-03-23" number="1373" score="4" word="dopey">
+		<try>eagle</try>
+		<try>poets</try>
+		<try>hoped</try>
+		<try>dopey</try>
+	</wordle>
+
+	<wordle date="2025-03-24" number="1374" score="4" word="angle">
+		<try>paint</try>
+		<try>sedan</try>
+		<try>annex</try>
+		<try>angle</try>
+	</wordle>
+
+	<wordle date="2025-03-25" number="1375" score="4" word="shelf">
+		<try>caper</try>
+		<try>glide</try>
+		<try>lemon</try>
+		<try>shelf</try>
+	</wordle>
+
 </wordles>

@@ -915,4 +915,47 @@
 		<try>amiss</try>
 	</quordle>
 
+	<quordle date="2025-03-22" number="1152" scores="7 6 8 4" words="picky brace booze surly">
+		<try>lower</try>
+		<try>dashy</try>
+		<try>cumin</try>
+		<try>surly</try>
+		<try>react</try>
+		<try>brace</try>
+		<try>picky</try>
+		<try>booze</try>
+	</quordle>
+
+	<quordle date="2025-03-23" number="1153" scores="4 5 6 7" words="alley gamut geese radii">
+		<try>flier</try>
+		<try>ghost</try>
+		<try>candy</try>
+		<try>alley</try>
+		<try>gamut</try>
+		<try>geese</try>
+		<try>radii</try>
+	</quordle>
+
+	<quordle date="2025-03-24" number="1154" scores="5 6 4 7" words="flout smash razor small">
+		<try>point</try>
+		<try>laugh</try>
+		<try>ferry</try>
+		<try>razor</try>
+		<try>flout</try>
+		<try>smash</try>
+		<try>small</try>
+	</quordle>
+
+	<quordle date="2025-03-25" number="1155" scores="0 9 7 5" words="sneer watch flora stain">
+		<try>laugh</try>
+		<try>medic</try>
+		<try>stops</try>
+		<try>batch</try>
+		<try>stain</try>
+		<try>aloof</try>
+		<try>flora</try>
+		<try>hatch</try>
+		<try>watch</try>
+	</quordle>
+
 </wordles>
