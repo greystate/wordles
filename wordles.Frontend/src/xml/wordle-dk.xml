@@ -619,4 +619,17 @@
 		<try>afgik</try>
 	</wordle>
 
+	<wordle date="2025-03-26" number="1173" score="4" word="hurra">
+		<try>opera</try>
+		<try>agora</try>
+		<try>tiara</try>
+		<try>hurra</try>
+	</wordle>
+
+	<wordle date="2025-03-27" number="1174" score="3" word="strid">
+		<try>klage</try>
+		<try>point</try>
+		<try>strid</try>
+	</wordle>
+
 </wordles>

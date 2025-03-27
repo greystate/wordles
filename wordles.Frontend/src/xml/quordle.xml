@@ -958,4 +958,26 @@
 		<try>watch</try>
 	</quordle>
 
+	<quordle date="2025-03-26" number="1156" scores="8 6 5 4" words="lefty noose noise triad">
+		<try>point</try>
+		<try>taken</try>
+		<try>blurs</try>
+		<try>triad</try>
+		<try>noise</try>
+		<try>noose</try>
+		<try>melty</try>
+		<try>lefty</try>
+	</quordle>
+
+	<quordle date="2025-03-27" number="1157" scores="4 7 8 6" words="crone apnea light awoke">
+		<try>strip</try>
+		<try>beach</try>
+		<try>young</try>
+		<try>crone</try>
+		<try>paned</try>
+		<try>awoke</try>
+		<try>apnea</try>
+		<try>light</try>
+	</quordle>
+
 </wordles>

@@ -594,4 +594,18 @@
 		<try>shelf</try>
 	</wordle>
 
+	<wordle date="2025-03-26" number="1376" score="4" word="elbow">
+		<try>drags</try>
+		<try>point</try>
+		<try>below</try>
+		<try>elbow</try>
+	</wordle>
+
+	<wordle date="2025-03-27" number="1377" score="4" word="sheet">
+		<try>young</try>
+		<try>swear</try>
+		<try>steep</try>
+		<try>sheet</try>
+	</wordle>
+
 </wordles>
