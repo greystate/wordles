@@ -632,4 +632,54 @@
 		<try>strid</try>
 	</wordle>
 
+	<wordle date="2025-03-28" number="1175" score="5" word="oplag">
+		<try>brønd</try>
+		<try>klase</try>
+		<try>fatal</try>
+		<try>bilag</try>
+		<try>oplag</try>
+	</wordle>
+
+	<wordle date="2025-03-29" number="1176" score="4" word="ranke">
+		<try>præst</try>
+		<try>radio</try>
+		<try>ravne</try>
+		<try>ranke</try>
+	</wordle>
+
+	<wordle date="2025-03-30" number="1177" score="3" word="tomme">
+		<try>opera</try>
+		<try>skole</try>
+		<try>tomme</try>
+	</wordle>
+
+	<wordle date="2025-03-31" number="1178" score="3" word="optur">
+		<try>trope</try>
+		<try>porto</try>
+		<try>optur</try>
+	</wordle>
+
+	<wordle date="2025-04-01" number="1179" score="5" word="svælg">
+		<try>krone</try>
+		<try>plads</try>
+		<try>stiml</try>
+		<try>sulfo</try>
+		<try>svælg</try>
+	</wordle>
+
+	<wordle date="2025-04-02" number="1180" score="3" word="angst">
+		<try>opera</try>
+		<try>hagls</try>
+		<try>angst</try>
+	</wordle>
+
+	<wordle date="2025-04-03" number="1181" score="0" word="celle">
+		<try>tramp</try>
+		<try>undes</try>
+		<try>elgko</try>
+		<try>bøjle</try>
+		<try>ville</try>
+		<try>helle</try>
+	</wordle>
+
 </wordles>

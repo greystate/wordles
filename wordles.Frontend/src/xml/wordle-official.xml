@@ -608,4 +608,53 @@
 		<try>sheet</try>
 	</wordle>
 
+	<wordle date="2025-03-28" number="1378" score="5" word="verse">
+		<try>flask</try>
+		<try>crush</try>
+		<try>worst</try>
+		<try>perse</try>
+		<try>verse</try>
+	</wordle>
+
+	<wordle date="2025-03-29" number="1379" score="3" word="sorry">
+		<try>roads</try>
+		<try>sober</try>
+		<try>sorry</try>
+	</wordle>
+
+	<wordle date="2025-03-30" number="1380" score="4" word="quota">
+		<try>trade</try>
+		<try>patsy</try>
+		<try>atoll</try>
+		<try>quota</try>
+	</wordle>
+
+	<wordle date="2025-03-31" number="1381" score="4" word="booty">
+		<try>trays</try>
+		<try>deity</try>
+		<try>pouty</try>
+		<try>booty</try>
+	</wordle>
+
+	<wordle date="2025-04-01" number="1382" score="4" word="jewel">
+		<try>fried</try>
+		<try>sheen</try>
+		<try>bevel</try>
+		<try>jewel</try>
+	</wordle>
+
+	<wordle date="2025-04-02" number="1383" score="3" word="curse">
+		<try>pouch</try>
+		<try>cumin</try>
+		<try>curse</try>
+	</wordle>
+
+	<wordle date="2025-04-03" number="1384" score="5" word="shear">
+		<try>plays</try>
+		<try>sabre</try>
+		<try>seria</try>
+		<try>swear</try>
+		<try>shear</try>
+	</wordle>
+
 </wordles>

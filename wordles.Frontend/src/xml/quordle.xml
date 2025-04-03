@@ -980,4 +980,84 @@
 		<try>light</try>
 	</quordle>
 
+	<quordle date="2025-03-28" number="1158" scores="5 8 6 4" words="terse mushy prove frond">
+		<try>stray</try>
+		<try>clone</try>
+		<try>fluid</try>
+		<try>frond</try>
+		<try>terse</try>
+		<try>prove</try>
+		<try>husky</try>
+		<try>mushy</try>
+	</quordle>
+
+	<quordle date="2025-03-29" number="1159" scores="6 8 3 9" words="later oddly cumin agree">
+		<try>point</try>
+		<try>taken</try>
+		<try>cumin</try>
+		<try>showy</try>
+		<try>rated</try>
+		<try>later</try>
+		<try>dolly</try>
+		<try>oddly</try>
+		<try>agree</try>
+	</quordle>
+
+	<quordle date="2025-03-30" number="1160" scores="4 6 7 9" words="crime drink clove truer">
+		<try>great</try>
+		<try>cumin</try>
+		<try>ploys</try>
+		<try>crime</try>
+		<try>brink</try>
+		<try>drink</try>
+		<try>clove</try>
+		<try>truth</try>
+		<try>truer</try>
+	</quordle>
+
+	<quordle date="2025-03-31" number="1161" scores="5 6 7 9" words="recut moody where brace">
+		<try>flash</try>
+		<try>cumin</try>
+		<try>poker</try>
+		<try>teddy</try>
+		<try>recut</try>
+		<try>moody</try>
+		<try>where</try>
+		<try>craze</try>
+		<try>brace</try>
+	</quordle>
+
+	<quordle date="2025-04-01" number="1162" scores="7 8 6 0" words="humus balmy worry erect">
+		<try>storm</try>
+		<try>plaid</try>
+		<try>cough</try>
+		<try>mushy</try>
+		<try>fewer</try>
+		<try>worry</try>
+		<try>humus</try>
+		<try>balmy</try>
+		<try>treck</try>
+	</quordle>
+
+	<quordle date="2025-04-02" number="1163" scores="5 6 7 8" words="index queen incur stole">
+		<try>quasi</try>
+		<try>rents</try>
+		<try>flood</try>
+		<try>mined</try>
+		<try>index</try>
+		<try>queen</try>
+		<try>incur</try>
+		<try>stole</try>
+	</quordle>
+
+	<quordle date="2025-04-03" number="1164" scores="4 6 5 7" words="ascot jetty drunk jolly">
+		<try>power</try>
+		<try>baths</try>
+		<try>cumin</try>
+		<try>ascot</try>
+		<try>drunk</try>
+		<try>jetty</try>
+		<try>jolly</try>
+	</quordle>
+
 </wordles>
