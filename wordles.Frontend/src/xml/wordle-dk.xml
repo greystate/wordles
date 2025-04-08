@@ -682,4 +682,40 @@
 		<try>helle</try>
 	</wordle>
 
+	<wordle date="2025-04-04" number="1182" score="5" word="cæsar">
+		<try>kofte</try>
+		<try>spørg</try>
+		<try>basar</try>
+		<try>husar</try>
+		<try>cæsar</try>
+	</wordle>
+
+	<wordle date="2025-04-05" number="1183" score="5" word="dadel">
+		<try>plade</try>
+		<try>alder</try>
+		<try>ladet</try>
+		<try>sadel</try>
+		<try>dadel</try>
+	</wordle>
+
+	<wordle date="2025-04-06" number="1184" score="2" word="gotik">
+		<try>trugs</try>
+		<try>gotik</try>
+	</wordle>
+
+	<wordle date="2025-04-07" number="1185" score="4" word="husar">
+		<try>trone</try>
+		<try>cirka</try>
+		<try>radar</try>
+		<try>husar</try>
+	</wordle>
+
+	<wordle date="2025-04-08" number="1186" score="5" word="tutor">
+		<try>opera</try>
+		<try>rosin</try>
+		<try>trold</try>
+		<try>tumor</try>
+		<try>tutor</try>
+	</wordle>
+
 </wordles>

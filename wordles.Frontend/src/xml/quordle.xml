@@ -1060,4 +1060,61 @@
 		<try>jolly</try>
 	</quordle>
 
+	<quordle date="2025-04-04" number="1165" scores="5 6 7 8" words="oaken loopy curio butte">
+		<try>plant</try>
+		<try>edges</try>
+		<try>mouth</try>
+		<try>brick</try>
+		<try>oaken</try>
+		<try>loopy</try>
+		<try>curio</try>
+		<try>butte</try>
+	</quordle>
+
+	<quordle date="2025-04-05" number="1166" scores="4 9 6 7" words="gusty vault whine begat">
+		<try>trims</try>
+		<try>place</try>
+		<try>dodgy</try>
+		<try>gusty</try>
+		<try>agent</try>
+		<try>whine</try>
+		<try>begat</try>
+		<try>fault</try>
+		<try>vault</try>
+	</quordle>
+
+	<quordle date="2025-04-06" number="1167" scores="5 0 6 7" words="amber gauze store slick">
+		<try>bland</try>
+		<try>power</try>
+		<try>cubic</try>
+		<try>tames</try>
+		<try>amber</try>
+		<try>store</try>
+		<try>slick</try>
+		<try>fauve</try>
+		<try>gauge</try>
+	</quordle>
+
+	<quordle date="2025-04-07" number="1168" scores="6 5 7 8" words="broth shout brute cabin">
+		<try>quant</try>
+		<try>power</try>
+		<try>sighs</try>
+		<try>flamy</try>
+		<try>shout</try>
+		<try>broth</try>
+		<try>brute</try>
+		<try>cabin</try>
+	</quordle>
+
+	<quordle date="2025-04-08" number="1169" scores="8 7 5 6" words="width visor medal brook">
+		<try>stray</try>
+		<try>plied</try>
+		<try>cumin</try>
+		<try>ghost</try>
+		<try>medal</try>
+		<try>brook</try>
+		<try>visor</try>
+		<try>width</try>
+	</quordle>
+
 </wordles>

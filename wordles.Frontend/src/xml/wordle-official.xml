@@ -657,4 +657,39 @@
 		<try>shear</try>
 	</wordle>
 
+	<wordle date="2025-04-04" number="1385" score="4" word="krill">
+		<try>flank</try>
+		<try>licks</try>
+		<try>inkle</try>
+		<try>krill</try>
+	</wordle>
+
+	<wordle date="2025-04-05" number="1386" score="4" word="foamy">
+		<try>plain</try>
+		<try>stack</try>
+		<try>grave</try>
+		<try>foamy</try>
+	</wordle>
+
+	<wordle date="2025-04-06" number="1387" score="4" word="villa">
+		<try>loads</try>
+		<try>alive</try>
+		<try>valid</try>
+		<try>villa</try>
+	</wordle>
+
+	<wordle date="2025-04-07" number="1388" score="4" word="hazel">
+		<try>crave</try>
+		<try>mated</try>
+		<try>pales</try>
+		<try>hazel</try>
+	</wordle>
+
+	<wordle date="2025-04-08" number="1389" score="4" word="spare">
+		<try>takes</try>
+		<try>cease</try>
+		<try>seare</try>
+		<try>spare</try>
+	</wordle>
+
 </wordles>
