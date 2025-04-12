@@ -1117,4 +1117,49 @@
 		<try>width</try>
 	</quordle>
 
+	<quordle date="2025-04-09" number="1170" scores="5 6 8 7" words="lithe lefty knoll mulch">
+		<try>flush</try>
+		<try>opera</try>
+		<try>tying</try>
+		<try>jewel</try>
+		<try>lithe</try>
+		<try>lefty</try>
+		<try>mulch</try>
+		<try>knoll</try>
+	</quordle>
+
+	<quordle date="2025-04-10" number="1171" scores="8 7 6 5" words="least sewer untie noose">
+		<try>spent</try>
+		<try>width</try>
+		<try>amour</try>
+		<try>cycle</try>
+		<try>noose</try>
+		<try>untie</try>
+		<try>sewer</try>
+		<try>least</try>
+	</quordle>
+
+	<quordle date="2025-04-11" number="1172" scores="6 7 0 9" words="folly pithy scowl curly">
+		<try>coals</try>
+		<try>drink</try>
+		<try>bumpy</try>
+		<try>jolly</try>
+		<try>fetch</try>
+		<try>folly</try>
+		<try>pithy</try>
+		<try>vlogs</try>
+		<try>curly</try>
+	</quordle>
+
+	<quordle date="2025-04-12" number="1173" scores="6 7 8 5" words="blind ovoid cache thing">
+		<try>plain</try>
+		<try>sight</try>
+		<try>rowdy</try>
+		<try>fetch</try>
+		<try>thing</try>
+		<try>blind</try>
+		<try>ovoid</try>
+		<try>cache</try>
+	</quordle>
+
 </wordles>

@@ -692,4 +692,32 @@
 		<try>spare</try>
 	</wordle>
 
+	<wordle date="2025-04-09" number="1390" score="4" word="wheat">
+		<try>spark</try>
+		<try>adobe</try>
+		<try>camel</try>
+		<try>wheat</try>
+	</wordle>
+
+	<wordle date="2025-04-10" number="1391" score="4" word="turbo">
+		<try>space</try>
+		<try>broil</try>
+		<try>robot</try>
+		<try>turbo</try>
+	</wordle>
+
+	<wordle date="2025-04-11" number="1392" score="4" word="arrow">
+		<try>split</try>
+		<try>bacon</try>
+		<try>armor</try>
+		<try>arrow</try>
+	</wordle>
+
+	<wordle date="2025-04-12" number="1393" score="4" word="nurse">
+		<try>fling</try>
+		<try>antes</try>
+		<try>sense</try>
+		<try>nurse</try>
+	</wordle>
+
 </wordles>

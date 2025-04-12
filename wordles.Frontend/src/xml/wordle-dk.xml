@@ -718,4 +718,32 @@
 		<try>tutor</try>
 	</wordle>
 
+	<wordle date="2025-04-09" number="1187" score="3" word="ental">
+		<try>opera</try>
+		<try>andel</try>
+		<try>ental</try>
+	</wordle>
+
+	<wordle date="2025-04-10" number="1188" score="4" word="harem">
+		<try>nøler</try>
+		<try>rides</try>
+		<try>arvet</try>
+		<try>harem</try>
+	</wordle>
+
+	<wordle date="2025-04-11" number="1189" score="4" word="omvej">
+		<try>opera</try>
+		<try>osten</try>
+		<try>omdel</try>
+		<try>omvej</try>
+	</wordle>
+
+	<wordle date="2025-04-12" number="1190" score="5" word="rejse">
+		<try>grums</try>
+		<try>riste</try>
+		<try>revse</try>
+		<try>rense</try>
+		<try>rejse</try>
+	</wordle>
+
 </wordles>
