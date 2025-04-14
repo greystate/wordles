@@ -720,4 +720,16 @@
 		<try>nurse</try>
 	</wordle>
 
+	<wordle date="2025-04-13" number="1394" score="3" word="laugh">
+		<try>cared</try>
+		<try>mashy</try>
+		<try>laugh</try>
+	</wordle>
+
+	<wordle date="2025-04-14" number="1395" score="2" word="crest">
+		<try>unset</try>
+		<try>crest</try>
+	</wordle>
+
+
 </wordles>

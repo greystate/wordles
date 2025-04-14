@@ -746,4 +746,19 @@
 		<try>rejse</try>
 	</wordle>
 
+	<wordle date="2025-04-13" number="1191" score="4" word="scene">
+		<try>plads</try>
+		<try>skørt</try>
+		<try>snoge</try>
+		<try>scene</try>
+	</wordle>
+
+	<wordle date="2025-04-14" number="1192" score="5" word="afhud">
+		<try>prale</try>
+		<try>sandt</try>
+		<try>afdød</try>
+		<try>afkod</try>
+		<try>afhud</try>
+	</wordle>
+
 </wordles>

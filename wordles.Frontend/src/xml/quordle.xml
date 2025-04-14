@@ -1162,4 +1162,27 @@
 		<try>cache</try>
 	</quordle>
 
+	<quordle date="2025-04-13" number="1174" scores="6 7 8 9" words="shale kinky shorn whoop">
+		<try>power</try>
+		<try>lists</try>
+		<try>glade</try>
+		<try>funky</try>
+		<try>shade</try>
+		<try>shale</try>
+		<try>kinky</try>
+		<try>shorn</try>
+		<try>whoop</try>
+	</quordle>
+
+	<quordle date="2025-04-14" number="1175" scores="5 6 8 7" words="drawl crook actor lance">
+		<try>spark</try>
+		<try>cumin</try>
+		<try>wedge</try>
+		<try>award</try>
+		<try>drawl</try>
+		<try>crook</try>
+		<try>lance</try>
+		<try>actor</try>
+	</quordle>
+
 </wordles>
