@@ -1185,4 +1185,24 @@
 		<try>actor</try>
 	</quordle>
 
+	<quordle date="2025-04-15" number="1176" scores="7 5 6 4" words="sleet merit harsh foray">
+		<try>power</try>
+		<try>davit</try>
+		<try>mulch</try>
+		<try>foray</try>
+		<try>merit</try>
+		<try>harsh</try>
+		<try>sleet</try>
+	</quordle>
+
+	<quordle date="2025-04-16" number="1177" scores="5 7 4 6" words="stump graft chord input">
+		<try>story</try>
+		<try>plain</try>
+		<try>hedge</try>
+		<try>chord</try>
+		<try>stump</try>
+		<try>input</try>
+		<try>graft</try>
+	</quordle>
+
 </wordles>

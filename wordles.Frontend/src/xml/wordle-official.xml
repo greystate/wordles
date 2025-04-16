@@ -731,5 +731,16 @@
 		<try>crest</try>
 	</wordle>
 
+	<wordle date="2025-04-15" number="1396" score="3" word="ashen">
+		<try>waved</try>
+		<try>asset</try>
+		<try>ashen</try>
+	</wordle>
+
+	<wordle date="2025-04-16" number="1397" score="3" word="moral">
+		<try>tidal</try>
+		<try>coral</try>
+		<try>moral</try>
+	</wordle>
 
 </wordles>

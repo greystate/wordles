@@ -761,4 +761,20 @@
 		<try>afhud</try>
 	</wordle>
 
+	<wordle date="2025-04-15" number="1193" score="5" word="østat">
+		<try>slank</try>
+		<try>gasts</try>
+		<try>astma</try>
+		<try>istap</try>
+		<try>østat</try>
+	</wordle>
+
+	<wordle date="2025-04-16" number="1194" score="5" word="skrue">
+		<try>opera</try>
+		<try>rense</try>
+		<try>sørge</try>
+		<try>særke</try>
+		<try>skrue</try>
+	</wordle>
+
 </wordles>
