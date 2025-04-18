@@ -1205,4 +1205,26 @@
 		<try>graft</try>
 	</quordle>
 
+	<quordle date="2025-04-17" number="1178" scores="6 5 8 4" words="spray ramen shelf court">
+		<try>stone</try>
+		<try>vapid</try>
+		<try>rough</try>
+		<try>court</try>
+		<try>ramen</try>
+		<try>spray</try>
+		<try>shell</try>
+		<try>shelf</try>
+	</quordle>
+
+	<quordle date="2025-04-18" number="1179" scores="5 6 7 8" words="debut glade baste pesto">
+		<try>plain</try>
+		<try>words</try>
+		<try>fumed</try>
+		<try>blade</try>
+		<try>debut</try>
+		<try>glade</try>
+		<try>baste</try>
+		<try>pesto</try>
+	</quordle>
+
 </wordles>

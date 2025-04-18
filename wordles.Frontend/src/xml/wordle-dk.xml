@@ -777,4 +777,16 @@
 		<try>skrue</try>
 	</wordle>
 
+	<wordle date="2025-04-17" number="1195" score="2" word="taske">
+		<try>trask</try>
+		<try>taske</try>
+	</wordle>
+
+	<wordle date="2025-04-18" number="1196" score="4" word="stilk">
+		<try>synge</try>
+		<try>sport</try>
+		<try>stald</try>
+		<try>stilk</try>
+	</wordle>
+
 </wordles>

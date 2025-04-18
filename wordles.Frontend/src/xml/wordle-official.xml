@@ -743,4 +743,16 @@
 		<try>moral</try>
 	</wordle>
 
+	<wordle date="2025-04-17" number="1398" score="3" word="stood">
+		<try>blear</try>
+		<try>posit</try>
+		<try>stood</try>
+	</wordle>
+
+	<wordle date="2025-04-18" number="1399" score="3" word="dirge">
+		<try>plaid</try>
+		<try>doing</try>
+		<try>dirge</try>
+	</wordle>
+
 </wordles>
