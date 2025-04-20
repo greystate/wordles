@@ -789,4 +789,18 @@
 		<try>stilk</try>
 	</wordle>
 
+	<wordle date="2025-04-19" number="1197" score="4" word="bjerg">
+		<try>laver</try>
+		<try>ryste</try>
+		<try>egern</try>
+		<try>bjerg</try>
+	</wordle>
+
+	<wordle date="2025-04-20" number="1198" score="4" word="fabel">
+		<try>trane</try>
+		<try>opera</try>
+		<try>abbed</try>
+		<try>fabel</try>
+	</wordle>
+
 </wordles>

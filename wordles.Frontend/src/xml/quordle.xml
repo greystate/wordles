@@ -1227,4 +1227,27 @@
 		<try>pesto</try>
 	</quordle>
 
+	<quordle date="2025-04-19" number="1180" scores="5 7 9 8" words="grade laugh rainy exult">
+		<try>quote</try>
+		<try>cream</try>
+		<try>fight</try>
+		<try>beads</try>
+		<try>grade</try>
+		<try>unlet</try>
+		<try>laugh</try>
+		<try>exult</try>
+		<try>rainy</try>
+	</quordle>
+
+	<quordle date="2025-04-20" number="1181" scores="5 6 7 8" words="diner horde shone fugue">
+		<try>prong</try>
+		<try>comet</try>
+		<try>dashy</try>
+		<try>quill</try>
+		<try>diner</try>
+		<try>horde</try>
+		<try>shone</try>
+		<try>fugue</try>
+	</quordle>
+
 </wordles>

@@ -755,4 +755,19 @@
 		<try>dirge</try>
 	</wordle>
 
+	<wordle date="2025-04-19" number="1400" score="3" word="inbox">
+		<try>viral</try>
+		<try>edict</try>
+		<try>inbox</try>
+	</wordle>
+
+	<wordle date="2025-04-20" number="1401" score="6" word="patch">
+		<try>tread</try>
+		<try>latch</try>
+		<try>batch</try>
+		<try>catch</try>
+		<try>match</try>
+		<try>patch</try>
+	</wordle>
+
 </wordles>
