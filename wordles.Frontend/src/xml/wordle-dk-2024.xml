@@ -1227,12 +1227,8 @@
 		<try>pligt</try>
 	</wordle>
 
-	<wordle date="2024-06-20" number="894" score="4" word="scent">
-		<try>tiles</try>
-		<try>stern</try>
-		<try>spent</try>
-		<try>scent</try>
-	</wordle>
+	<!-- Missed #894 -->
+	<wordle date="2024-06-20" number="894" score="0" word="?" />
 
 	<wordle date="2024-06-21" number="895" score="4" word="flæsk">
 		<try>pejle</try>
