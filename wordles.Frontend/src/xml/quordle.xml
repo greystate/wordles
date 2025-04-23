@@ -1250,4 +1250,38 @@
 		<try>fugue</try>
 	</quordle>
 
+	<quordle date="2025-04-21" number="1182" scores="7 4 9 8" words="shard print sumac leach">
+		<try>crave</try>
+		<try>power</try>
+		<try>thing</try>
+		<try>print</try>
+		<try>shark</try>
+		<try>fully</try>
+		<try>shard</try>
+		<try>leach</try>
+		<try>sumac</try>
+	</quordle>
+
+	<quordle date="2025-04-22" number="1183" scores="5 6 7 8" words="pouty chest broom tepee">
+		<try>power</try>
+		<try>cumin</try>
+		<try>baste</try>
+		<try>dough</try>
+		<try>pouty</try>
+		<try>chest</try>
+		<try>broom</try>
+		<try>tepee</try>
+	</quordle>
+
+	<quordle date="2025-04-23" number="1184" scores="7 8 6 5" words="valet pupal creep drift">
+		<try>scoff</try>
+		<try>agile</try>
+		<try>punty</try>
+		<try>march</try>
+		<try>drift</try>
+		<try>creep</try>
+		<try>valet</try>
+		<try>pupal</try>
+	</quordle>
+
 </wordles>

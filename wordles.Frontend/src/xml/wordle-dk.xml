@@ -803,4 +803,26 @@
 		<try>fabel</try>
 	</wordle>
 
+	<wordle date="2025-04-21" number="1199" score="3" word="tekop">
+		<try>krone</try>
+		<try>poker</try>
+		<try>tekop</try>
+	</wordle>
+
+	<wordle date="2025-04-22" number="1200" score="5" word="ajour">
+		<try>drage</try>
+		<try>radio</try>
+		<try>sonar</try>
+		<try>alvor</try>
+		<try>ajour</try>
+	</wordle>
+
+	<wordle date="2025-04-23" number="1201" score="5" word="tekst">
+		<try>plade</try>
+		<try>sener</try>
+		<try>bestå</try>
+		<try>hejst</try>
+		<try>tekst</try>
+	</wordle>
+
 </wordles>

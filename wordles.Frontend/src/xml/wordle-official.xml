@@ -770,4 +770,24 @@
 		<try>patch</try>
 	</wordle>
 
+	<wordle date="2025-04-21" number="1402" score="3" word="spate">
+		<try>print</try>
+		<try>tapes</try>
+		<try>spate</try>
+	</wordle>
+
+	<wordle date="2025-04-22" number="1403" score="4" word="artsy">
+		<try>clear</try>
+		<try>rants</try>
+		<try>start</try>
+		<try>artsy</try>
+	</wordle>
+
+	<wordle date="2025-04-23" number="1404" score="4" word="ozone">
+		<try>prank</try>
+		<try>veins</try>
+		<try>event</try>
+		<try>ozone</try>
+	</wordle>
+
 </wordles>
