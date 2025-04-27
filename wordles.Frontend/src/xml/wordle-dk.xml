@@ -825,4 +825,31 @@
 		<try>tekst</try>
 	</wordle>
 
+	<wordle date="2025-04-24" number="1202" score="3" word="blend">
+		<try>streg</try>
+		<try>blade</try>
+		<try>blend</try>
+	</wordle>
+
+	<wordle date="2025-04-25" number="1203" score="0" word="citar">
+		<try>slank</try>
+		<try>afbud</try>
+		<try>mappe</try>
+		<try>tyran</try>
+		<try>notar</try>
+		<try>katar</try>
+	</wordle>
+
+	<wordle date="2025-04-26" number="1204" score="3" word="spand">
+		<try>opera</try>
+		<try>spagt</try>
+		<try>spand</try>
+	</wordle>
+
+	<wordle date="2025-04-27" number="1205" score="3" word="sværd">
+		<try>drone</try>
+		<try>strid</try>
+		<try>sværd</try>
+	</wordle>
+
 </wordles>

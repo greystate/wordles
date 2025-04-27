@@ -790,4 +790,32 @@
 		<try>ozone</try>
 	</wordle>
 
+	<wordle date="2025-04-24" number="1405" score="4" word="genie">
+		<try>climb</try>
+		<try>inset</try>
+		<try>hinge</try>
+		<try>genie</try>
+	</wordle>
+
+	<wordle date="2025-04-25" number="1406" score="4" word="known">
+		<try>shine</try>
+		<try>gnarl</try>
+		<try>uncut</try>
+		<try>known</try>
+	</wordle>
+
+	<wordle date="2025-04-26" number="1407" score="3" word="clash">
+		<try>oiled</try>
+		<try>latch</try>
+		<try>clash</try>
+	</wordle>
+
+	<wordle date="2025-04-27" number="1408" score="5" word="weedy">
+		<try>track</try>
+		<try>dumpy</try>
+		<try>seedy</try>
+		<try>needy</try>
+		<try>weedy</try>
+	</wordle>
+
 </wordles>
