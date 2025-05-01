@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<xi:include href="wordle-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
-	<xi:include href="wordle-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
-	<xi:include href="wordle-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:wordle)" parse="xml" />
 
 	<wordle date="2025-01-01" number="1292" score="5" word="nerve">
 		<try>sweat</try>
@@ -816,6 +816,34 @@
 		<try>seedy</try>
 		<try>needy</try>
 		<try>weedy</try>
+	</wordle>
+
+	<wordle date="2025-04-28" number="1409" score="5" word="dummy">
+		<try>swine</try>
+		<try>craft</try>
+		<try>dough</try>
+		<try>dumpy</try>
+		<try>dummy</try>
+	</wordle>
+
+	<wordle date="2025-04-29" number="1410" score="5" word="bliss">
+		<try>paste</try>
+		<try>swing</try>
+		<try>frisk</try>
+		<try>hoist</try>
+		<try>bliss</try>
+	</wordle>
+
+	<wordle date="2025-04-30" number="1411" score="3" word="idler">
+		<try>inset</try>
+		<try>irked</try>
+		<try>idler</try>
+	</wordle>
+
+	<wordle date="2025-05-01" number="1412" score="3" word="adept">
+		<try>snake</try>
+		<try>dream</try>
+		<try>adept</try>
 	</wordle>
 
 </wordles>

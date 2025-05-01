@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<xi:include href="quordle-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:quordle)" parse="xml" />
-	<xi:include href="quordle-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:quordle)" parse="xml" />
-	<xi:include href="quordle-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:quordle)" parse="xml" />
+	<xi:include href="quordle-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:quordle)" parse="xml" />
+	<xi:include href="quordle-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:quordle)" parse="xml" />
+	<xi:include href="quordle-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:quordle)" parse="xml" />
 
 	<quordle date="2025-01-01" number="1072" scores="9 4 8 6" words="cling suite worry tonic">
 		<try>feast</try>
@@ -1327,6 +1327,48 @@
 		<try>croze</try>
 		<try>chive</try>
 		<try>credo</try>
+	</quordle>
+
+	<quordle date="2025-04-28" number="1189" scores="7 6 4 5" words="jaunt allow fruit burnt">
+		<try>power</try>
+		<try>cumin</try>
+		<try>sadly</try>
+		<try>fruit</try>
+		<try>burnt</try>
+		<try>allow</try>
+		<try>jaunt</try>
+	</quordle>
+
+	<quordle date="2025-04-29" number="1190" scores="6 5 7 4" words="hover hence octal copse">
+		<try>cumin</try>
+		<try>boast</try>
+		<try>defer</try>
+		<try>copse</try>
+		<try>hence</try>
+		<try>hover</try>
+		<try>octal</try>
+	</quordle>
+
+	<quordle date="2025-04-30" number="1191" scores="7 5 8 6" words="baton torso annex drown">
+		<try>plays</try>
+		<try>month</try>
+		<try>wedge</try>
+		<try>fruit</try>
+		<try>torso</try>
+		<try>drown</try>
+		<try>baton</try>
+		<try>annex</try>
+	</quordle>
+
+	<quordle date="2025-05-01" number="1192" scores="7 5 6 8" words="idiom exile spoof drape">
+		<try>queen</try>
+		<try>stark</try>
+		<try>bigly</try>
+		<try>chimp</try>
+		<try>exile</try>
+		<try>spoof</try>
+		<try>idiom</try>
+		<try>drape</try>
 	</quordle>
 
 </wordles>

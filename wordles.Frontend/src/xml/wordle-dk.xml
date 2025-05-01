@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wordles xml:lang="da" xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<xi:include href="wordle-dk-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
-	<xi:include href="wordle-dk-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
-	<xi:include href="wordle-dk-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles)xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-dk-2022.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-dk-2023.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:wordle)" parse="xml" />
+	<xi:include href="wordle-dk-2024.xml" xpointer="xmlns(w=http://xmlns.greystate.dk/2022/wordles) xpointer(/w:wordles/w:wordle)" parse="xml" />
 
 	<wordle date="2025-01-01" number="1089" score="4" word="start">
 		<try>klang</try>
@@ -850,6 +850,38 @@
 		<try>drone</try>
 		<try>strid</try>
 		<try>sværd</try>
+	</wordle>
+
+	<wordle date="2025-04-28" number="1206" score="5" word="titel">
+		<try>opera</try>
+		<try>feste</try>
+		<try>buket</try>
+		<try>myten</try>
+		<try>titel</try>
+	</wordle>
+
+	<wordle date="2025-04-29" number="1207" score="5" word="løkke">
+		<try>brand</try>
+		<try>polet</try>
+		<try>luske</try>
+		<try>lykke</try>
+		<try>løkke</try>
+	</wordle>
+
+	<wordle date="2025-04-30" number="1208" score="6" word="skærf">
+		<try>prosa</try>
+		<try>riste</try>
+		<try>blærs</try>
+		<try>skærv</try>
+		<try>skærm</try>
+		<try>skærf</try>
+	</wordle>
+
+	<wordle date="2025-05-01" number="1209" score="4" word="butan">
+		<try>store</try>
+		<try>minut</try>
+		<try>nutid</try>
+		<try>butan</try>
 	</wordle>
 
 </wordles>
