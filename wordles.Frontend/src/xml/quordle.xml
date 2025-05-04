@@ -1371,4 +1371,36 @@
 		<try>drape</try>
 	</quordle>
 
+	<quordle date="2025-05-02" number="1193" scores="5 4 6 7" words="cause risen macaw smelt">
+		<try>octal</try>
+		<try>dumpy</try>
+		<try>rinse</try>
+		<try>risen</try>
+		<try>cause</try>
+		<try>macaw</try>
+		<try>smelt</try>
+	</quordle>
+
+	<quordle date="2025-05-03" number="1194" scores="5 8 4 7" words="plush verge wrote condo">
+		<try>power</try>
+		<try>cumin</try>
+		<try>hasty</try>
+		<try>wrote</try>
+		<try>plush</try>
+		<try>convo</try>
+		<try>condo</try>
+		<try>verge</try>
+	</quordle>
+
+	<quordle date="2025-05-04" number="1195" scores="4 5 6 8" words="pinch smoke scary canny">
+		<try>pride</try>
+		<try>sloan</try>
+		<try>might</try>
+		<try>pinch</try>
+		<try>smoke</try>
+		<try>scary</try>
+		<try>fancy</try>
+		<try>canny</try>
+	</quordle>
+
 </wordles>

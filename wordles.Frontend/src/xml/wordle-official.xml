@@ -846,4 +846,23 @@
 		<try>adept</try>
 	</wordle>
 
+	<wordle date="2025-05-02" number="1413" score="4" word="whose">
+		<try>grade</try>
+		<try>style</try>
+		<try>poise</try>
+		<try>whose</try>
+	</wordle>
+
+	<wordle date="2025-05-03" number="1414" score="3" word="patsy">
+		<try>stray</try>
+		<try>hasty</try>
+		<try>patsy</try>
+	</wordle>
+
+	<wordle date="2025-05-04" number="1415" score="3" word="trout">
+		<try>doubt</try>
+		<try>stout</try>
+		<try>trout</try>
+	</wordle>
+
 </wordles>

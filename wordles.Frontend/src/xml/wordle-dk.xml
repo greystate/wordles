@@ -884,4 +884,27 @@
 		<try>butan</try>
 	</wordle>
 
+	<wordle date="2025-05-02" number="1210" score="5" word="snøvs">
+		<try>drage</try>
+		<try>skælm</try>
+		<try>stift</try>
+		<try>svøbs</try>
+		<try>snøvs</try>
+	</wordle>
+
+	<wordle date="2025-05-03" number="1211" score="4" word="tjære">
+		<try>opera</try>
+		<try>skøre</try>
+		<try>blære</try>
+		<try>tjære</try>
+	</wordle>
+
+	<wordle date="2025-05-04" number="1212" score="5" word="farsi">
+		<try>træde</try>
+		<try>alvor</try>
+		<try>spark</try>
+		<try>giraf</try>
+		<try>farsi</try>
+	</wordle>
+
 </wordles>
