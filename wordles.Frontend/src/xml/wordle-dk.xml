@@ -907,4 +907,18 @@
 		<try>farsi</try>
 	</wordle>
 
+	<wordle date="2025-05-05" number="1213" score="4" word="tarot">
+		<try>plade</try>
+		<try>afstå</try>
+		<try>tango</try>
+		<try>tarot</try>
+	</wordle>
+
+	<wordle date="2025-05-06" number="1214" score="4" word="foged">
+		<try>pinde</try>
+		<try>møder</try>
+		<try>dages</try>
+		<try>foged</try>
+	</wordle>
+
 </wordles>

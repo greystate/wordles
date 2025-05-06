@@ -1403,4 +1403,27 @@
 		<try>canny</try>
 	</quordle>
 
+	<quordle date="2025-05-05" number="1196" scores="8 7 4 9" words="wreak cower stead queue">
+		<try>strip</try>
+		<try>mound</try>
+		<try>abbey</try>
+		<try>stead</try>
+		<try>clear</try>
+		<try>cover</try>
+		<try>cower</try>
+		<try>wreak</try>
+		<try>queue</try>
+	</quordle>
+
+	<quordle date="2025-05-06" number="1197" scores="6 7 5 8" words="unite soggy filet porch">
+		<try>cumin</try>
+		<try>lower</try>
+		<try>stays</try>
+		<try>biled</try>
+		<try>filet</try>
+		<try>unite</try>
+		<try>soggy</try>
+		<try>porch</try>
+	</quordle>
+
 </wordles>

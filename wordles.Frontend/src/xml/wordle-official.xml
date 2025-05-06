@@ -865,4 +865,20 @@
 		<try>trout</try>
 	</wordle>
 
+	<wordle date="2025-05-05" number="1416" score="5" word="shush">
+		<try>grant</try>
+		<try>pouch</try>
+		<try>blush</try>
+		<try>smush</try>
+		<try>shush</try>
+	</wordle>
+
+	<wordle date="2025-05-06" number="1417" score="5" word="suite">
+		<try>money</try>
+		<try>evade</try>
+		<try>truce</try>
+		<try>utile</try>
+		<try>suite</try>
+	</wordle>
+
 </wordles>
