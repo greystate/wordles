@@ -921,4 +921,34 @@
 		<try>foged</try>
 	</wordle>
 
+	<wordle date="2025-05-07" number="1215" score="3" word="sonde">
+		<try>brænd</try>
+		<try>danse</try>
+		<try>sonde</try>
+	</wordle>
+
+	<wordle date="2025-05-08" number="1216" score="6" word="såsæd">
+		<try>panik</try>
+		<try>grejs</try>
+		<try>skovl</try>
+		<try>stødt</try>
+		<try>smæld</try>
+		<try>såsæd</try>
+	</wordle>
+
+	<wordle date="2025-05-09" number="1217" score="5" word="glæde">
+		<try>opera</try>
+		<try>fælde</try>
+		<try>klæde</try>
+		<try>slæde</try>
+		<try>glæde</try>
+	</wordle>
+
+	<wordle date="2025-05-10" number="1218" score="4" word="hækle">
+		<try>streg</try>
+		<try>danne</try>
+		<try>hulke</try>
+		<try>hækle</try>
+	</wordle>
+
 </wordles>

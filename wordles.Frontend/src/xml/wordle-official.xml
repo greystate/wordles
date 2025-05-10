@@ -881,4 +881,35 @@
 		<try>suite</try>
 	</wordle>
 
+	<wordle date="2025-05-07" number="1418" score="3" word="macho">
+		<try>mount</try>
+		<try>major</try>
+		<try>macho</try>
+	</wordle>
+
+	<wordle date="2025-05-08" number="1419" score="6" word="balmy">
+		<try>soare</try>
+		<try>panic</try>
+		<try>laugh</try>
+		<try>badly</try>
+		<try>balky</try>
+		<try>balmy</try>
+	</wordle>
+
+	<wordle date="2025-05-09" number="1420" score="5" word="tripe">
+		<try>poker</try>
+		<try>recap</try>
+		<try>spore</try>
+		<try>gripe</try>
+		<try>tripe</try>
+	</wordle>
+
+	<wordle date="2025-05-10" number="1421" score="5" word="yeast">
+		<try>drole</try>
+		<try>epics</try>
+		<try>sweat</try>
+		<try>beast</try>
+		<try>yeast</try>
+	</wordle>
+
 </wordles>
