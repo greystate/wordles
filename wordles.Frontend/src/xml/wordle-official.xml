@@ -912,4 +912,18 @@
 		<try>yeast</try>
 	</wordle>
 
+	<wordle date="2025-05-11" number="1422" score="6" word="dowel">
+		<try>patch</try>
+		<try>lemon</try>
+		<try>older</try>
+		<try>soled</try>
+		<try>yodel</try>
+		<try>dowel</try>
+	</wordle>
+
+	<wordle date="2025-05-12" number="1423" score="2" word="bicep">
+		<try>space</try>
+		<try>bicep</try>
+	</wordle>
+
 </wordles>

@@ -951,4 +951,21 @@
 		<try>hækle</try>
 	</wordle>
 
+	<wordle date="2025-05-11" number="1219" score="5" word="knips">
+		<try>brage</try>
+		<try>motiv</try>
+		<try>silds</try>
+		<try>fliks</try>
+		<try>knips</try>
+	</wordle>
+
+	<wordle date="2025-05-12" number="1220" score="6" word="meter">
+		<try>frisk</try>
+		<try>rydde</try>
+		<try>opera</try>
+		<try>hæler</try>
+		<try>tøver</try>
+		<try>meter</try>
+	</wordle>
+
 </wordles>

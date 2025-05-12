@@ -1469,4 +1469,27 @@
 		<try>satin</try>
 	</quordle>
 
+	<quordle date="2025-05-11" number="1202" scores="6 4 5 8" words="quash munch alter undue">
+		<try>trays</try>
+		<try>bowed</try>
+		<try>cumin</try>
+		<try>munch</try>
+		<try>alter</try>
+		<try>quash</try>
+		<try>upend</try>
+		<try>undue</try>
+	</quordle>
+
+	<quordle date="2025-05-12" number="1203" scores="6 7 8 9" words="royal argue bunch ready">
+		<try>ovals</try>
+		<try>edict</try>
+		<try>bungy</try>
+		<try>hazel</try>
+		<try>alloy</try>
+		<try>royal</try>
+		<try>argue</try>
+		<try>bunch</try>
+		<try>ready</try>
+	</quordle>
+
 </wordles>
