@@ -968,4 +968,28 @@
 		<try>meter</try>
 	</wordle>
 
+	<wordle date="2025-05-13" number="1221" score="5" word="afhug">
+		<try>opera</try>
+		<try>sukat</try>
+		<try>ampul</try>
+		<try>afbud</try>
+		<try>afhug</try>
+	</wordle>
+
+	<wordle date="2025-05-14" number="1222" score="6" word="sprød">
+		<try>brase</try>
+		<try>visir</try>
+		<try>skurs</try>
+		<try>sprog</try>
+		<try>spræl</try>
+		<try>sprød</try>
+	</wordle>
+
+	<wordle date="2025-05-15" number="1223" score="4" word="potte">
+		<try>plade</try>
+		<try>pirke</try>
+		<try>putte</try>
+		<try>potte</try>
+	</wordle>
+
 </wordles>

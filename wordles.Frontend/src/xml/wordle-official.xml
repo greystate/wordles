@@ -926,4 +926,25 @@
 		<try>bicep</try>
 	</wordle>
 
+	<wordle date="2025-05-13" number="1424" score="3" word="aware">
+		<try>tempo</try>
+		<try>wreck</try>
+		<try>aware</try>
+	</wordle>
+
+	<wordle date="2025-05-14" number="1425" score="4" word="bongo">
+		<try>bring</try>
+		<try>begun</try>
+		<try>bangs</try>
+		<try>bongo</try>
+	</wordle>
+
+	<wordle date="2025-05-15" number="1426" score="5" word="eager">
+		<try>money</try>
+		<try>paced</try>
+		<try>gavel</try>
+		<try>wager</try>
+		<try>eager</try>
+	</wordle>
+
 </wordles>
