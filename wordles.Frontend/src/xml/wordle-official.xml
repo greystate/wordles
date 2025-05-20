@@ -947,4 +947,41 @@
 		<try>eager</try>
 	</wordle>
 
+	<wordle date="2025-05-16" number="1427" score="5" word="fifth">
+		<try>bacon</try>
+		<try>lumpy</try>
+		<try>hiker</try>
+		<try>fight</try>
+		<try>fifth</try>
+	</wordle>
+
+	<wordle date="2025-05-17" number="1428" score="5" word="grown">
+		<try>split</try>
+		<try>dream</try>
+		<try>frock</try>
+		<try>brown</try>
+		<try>grown</try>
+	</wordle>
+
+	<wordle date="2025-05-18" number="1429" score="4" word="livid">
+		<try>point</try>
+		<try>fiery</try>
+		<try>civil</try>
+		<try>livid</try>
+	</wordle>
+
+	<wordle date="2025-05-19" number="1430" score="4" word="pitch">
+		<try>great</try>
+		<try>stump</try>
+		<try>potty</try>
+		<try>pitch</try>
+	</wordle>
+
+	<wordle date="2025-05-20" number="1431" score="4" word="borne">
+		<try>plaid</try>
+		<try>truce</try>
+		<try>swore</try>
+		<try>borne</try>
+	</wordle>
+
 </wordles>

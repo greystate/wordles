@@ -992,4 +992,38 @@
 		<try>potte</try>
 	</wordle>
 
+	<wordle date="2025-05-16" number="1224" score="3" word="hikke">
+		<try>stork</try>
+		<try>kamin</try>
+		<try>hikke</try>
+	</wordle>
+
+	<wordle date="2025-05-17" number="1225" score="5" word="tange">
+		<try>udsat</try>
+		<try>talon</try>
+		<try>tanke</try>
+		<try>tante</try>
+		<try>tange</try>
+	</wordle>
+
+	<wordle date="2025-05-18" number="1226" score="4" word="vikle">
+		<try>opera</try>
+		<try>limes</try>
+		<try>vilje</try>
+		<try>vikle</try>
+	</wordle>
+
+	<wordle date="2025-05-19" number="1227" score="3" word="patos">
+		<try>sagde</try>
+		<try>falsk</try>
+		<try>patos</try>
+	</wordle>
+
+	<wordle date="2025-05-20" number="1228" score="4" word="spind">
+		<try>plade</try>
+		<try>depot</try>
+		<try>spænd</try>
+		<try>spind</try>
+	</wordle>
+
 </wordles>

@@ -1523,4 +1523,60 @@
 		<try>fluke</try>
 	</quordle>
 
+	<quordle date="2025-05-16" number="1207" scores="5 6 8 4" words="sheep snuck drift break">
+		<try>black</try>
+		<try>white</try>
+		<try>spurt</try>
+		<try>break</try>
+		<try>sheep</try>
+		<try>snuck</try>
+		<try>grift</try>
+		<try>drift</try>
+	</quordle>
+
+	<quordle date="2025-05-17" number="1208" scores="5 6 7 8" words="strip range unite geese">
+		<try>cumin</try>
+		<try>washy</try>
+		<try>greed</try>
+		<try>plots</try>
+		<try>strip</try>
+		<try>range</try>
+		<try>unite</try>
+		<try>geese</try>
+	</quordle>
+
+	<quordle date="2025-05-18" number="1209" scores="5 6 7 8" words="quack roach purge downy">
+		<try>swank</try>
+		<try>trope</try>
+		<try>chill</try>
+		<try>buggy</try>
+		<try>quack</try>
+		<try>roach</try>
+		<try>purge</try>
+		<try>downy</try>
+	</quordle>
+
+	<quordle date="2025-05-19" number="1210" scores="7 9 8 5" words="clink handy ditch waive">
+		<try>great</try>
+		<try>filmy</try>
+		<try>sound</try>
+		<try>wedge</try>
+		<try>waive</try>
+		<try>candy</try>
+		<try>clink</try>
+		<try>ditch</try>
+		<try>handy</try>
+	</quordle>
+
+	<quordle date="2025-05-20" number="1211" scores="8 7 5 6" words="decoy shake maple purer">
+		<try>worst</try>
+		<try>ideal</try>
+		<try>chump</try>
+		<try>vaped</try>
+		<try>maple</try>
+		<try>purer</try>
+		<try>shake</try>
+		<try>decoy</try>
+	</quordle>
+
 </wordles>
