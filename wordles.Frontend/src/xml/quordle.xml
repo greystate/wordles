@@ -1578,5 +1578,26 @@
 		<try>shake</try>
 		<try>decoy</try>
 	</quordle>
+	
+	<quordle date="2025-05-21" number="1212" scores="7 4 6 5" words="novel chose dirty donut">
+		<try>cumin</try>
+		<try>white</try>
+		<try>polar</try>
+		<try>chose</try>
+		<try>donut</try>
+		<try>dirty</try>
+		<try>novel</try>
+	</quordle>
+	
+	<quordle date="2025-05-22" number="1213" scores="4 7 6 8" words="close glove stint excel">
+		<try>short</try>
+		<try>leady</try>
+		<try>cumin</try>
+		<try>close</try>
+		<try>globe</try>
+		<try>stint</try>
+		<try>glove</try>
+		<try>excel</try>
+	</quordle>
 
 </wordles>

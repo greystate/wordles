@@ -983,5 +983,19 @@
 		<try>swore</try>
 		<try>borne</try>
 	</wordle>
+	
+	<wordle date="2025-05-21" number="1432" score="2" word="alarm">
+		<try>bears</try>
+		<try>alarm</try>
+	</wordle>
+	
+	<wordle date="2025-05-22" number="1433" score="6" word="folio">
+		<try>taken</try>
+		<try>slump</try>
+		<try>child</try>
+		<try>lyric</try>
+		<try>broil</try>
+		<try>folio</try>
+	</wordle>
 
 </wordles>

@@ -1025,5 +1025,18 @@
 		<try>spænd</try>
 		<try>spind</try>
 	</wordle>
+	
+	<wordle date="2025-05-21" number="1229" score="4" word="værft">
+		<try>opera</try>
+		<try>riffs</try>
+		<try>skæft</try>
+		<try>værft</try>
+	</wordle>
+	
+	<wordle date="2025-05-22" number="1230" score="3" word="klump">
+		<try>blade</try>
+		<try>slæbt</try>
+		<try>klump</try>
+	</wordle>
 
 </wordles>
