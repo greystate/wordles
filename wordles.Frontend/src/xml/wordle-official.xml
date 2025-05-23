@@ -997,5 +997,13 @@
 		<try>broil</try>
 		<try>folio</try>
 	</wordle>
+	
+	<wordle date="2025-05-23" number="1434" score="5" word="shuck">
+		<try>games</try>
+		<try>softy</try>
+		<try>spill</try>
+		<try>shrub</try>
+		<try>shuck</try>
+	</wordle>
 
 </wordles>
