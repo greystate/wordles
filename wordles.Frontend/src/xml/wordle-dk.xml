@@ -1047,5 +1047,35 @@
 		<try>bragt</try>
 		<try>pragt</try>
 	</wordle>
+	
+	<wordle date="2025-05-24" number="1232" score="5" word="kokon">
+		<try>træls</try>
+		<try>munde</try>
+		<try>bacon</try>
+		<try>kupon</try>
+		<try>kokon</try>
+	</wordle>
+	
+	<wordle date="2025-05-25" number="1233" score="5" word="lærke">
+		<try>dogme</try>
+		<try>klase</try>
+		<try>lokke</try>
+		<try>lænke</try>
+		<try>lærke</try>
+	</wordle>
+	
+	<wordle date="2025-05-26" number="1234" score="3" word="snude">
+		<try>fugle</try>
+		<try>skude</try>
+		<try>snude</try>
+	</wordle>
+	
+	<wordle date="2025-05-27" number="1235" score="4" word="trone">
+		<try>blank</try>
+		<try>stund</try>
+		<try>front</try>
+		<try>trone</try>
+	</wordle>
+
 
 </wordles>

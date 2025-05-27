@@ -1609,5 +1609,53 @@
 		<try>caper</try>
 		<try>shire</try>
 	</quordle>
+	
+	<quordle date="2025-05-24" number="1215" scores="9 8 6 4" words="husky heist foggy polar">
+		<try>clown</try>
+		<try>paste</try>
+		<try>drums</try>
+		<try>polar</try>
+		<try>fight</try>
+		<try>foggy</try>
+		<try>hussy</try>
+		<try>heist</try>
+		<try>husky</try>
+	</quordle>
+	
+	<quordle date="2025-05-25" number="1216" scores="3 8 9 4" words="ocean amber piper glean">
+		<try>great</try>
+		<try>cumin</try>
+		<try>ocean</try>
+		<try>glean</try>
+		<try>mares</try>
+		<try>riper</try>
+		<try>viper</try>
+		<try>amber</try>
+		<try>piper</try>
+	</quordle>
+	
+	<quordle date="2025-05-26" number="1217" scores="6 0 7 8" words="bleat howdy aside scoop">
+		<try>quest</try>
+		<try>vapid</try>
+		<try>folly</try>
+		<try>ideas</try>
+		<try>cleat</try>
+		<try>bleat</try>
+		<try>aside</try>
+		<try>scoop</try>
+		<try>doddy</try>
+	</quordle>
+	
+	<quordle date="2025-05-27" number="1218" scores="4 7 0 8" words="tweet range poppy radar">
+		<try>plain</try>
+		<try>overt</try>
+		<try>cushy</try>
+		<try>tweet</try>
+		<try>poofy</try>
+		<try>anger</try>
+		<try>range</try>
+		<try>radar</try>
+		<try>poopy</try>
+	</quordle>
 
 </wordles>

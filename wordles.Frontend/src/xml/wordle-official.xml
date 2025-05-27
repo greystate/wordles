@@ -1005,5 +1005,28 @@
 		<try>shrub</try>
 		<try>shuck</try>
 	</wordle>
+	
+	<wordle date="2025-05-24" number="1435" score="3" word="suede">
+		<try>share</try>
+		<try>segue</try>
+		<try>suede</try>
+	</wordle>
+	
+	<wordle date="2025-05-25" number="1436" score="3" word="grift">
+		<try>loins</try>
+		<try>tried</try>
+		<try>grift</try>
+	</wordle>
+	
+	<wordle date="2025-05-26" number="1437" score="2" word="drone">
+		<try>dream</try>
+		<try>drone</try>
+	</wordle>
+	
+	<wordle date="2025-05-27" number="1438" score="3" word="sport">
+		<try>stain</try>
+		<try>setup</try>
+		<try>sport</try>
+	</wordle>
 
 </wordles>
