@@ -1064,4 +1064,24 @@
 		<try>preen</try>
 	</wordle>
 
+	<wordle date="2025-06-03" number="1445" score="5" word="admin">
+		<try>punch</try>
+		<try>nears</try>
+		<try>annoy</try>
+		<try>align</try>
+		<try>admin</try>
+	</wordle>
+
+	<wordle date="2025-06-04" number="1446" score="2" word="cease">
+		<try>clash</try>
+		<try>cease</try>
+	</wordle>
+
+	<wordle date="2025-06-05" number="1447" score="4" word="datum">
+		<try>least</try>
+		<try>taboo</try>
+		<try>hatch</try>
+		<try>datum</try>
+	</wordle>
+
 </wordles>

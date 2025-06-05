@@ -1123,4 +1123,25 @@
 		<try>kargo</try>
 	</wordle>
 
+	<wordle date="2025-06-03" number="1242" score="5" word="bakke">
+		<try>opera</try>
+		<try>egalt</try>
+		<try>asken</try>
+		<try>hakke</try>
+		<try>bakke</try>
+	</wordle>
+
+	<wordle date="2025-06-04" number="1243" score="4" word="fedme">
+		<try>opera</try>
+		<try>munde</try>
+		<try>sødme</try>
+		<try>fedme</try>
+	</wordle>
+
+	<wordle date="2025-06-05" number="1244" score="3" word="guava">
+		<try>plads</try>
+		<try>fragt</try>
+		<try>guava</try>
+	</wordle>
+
 </wordles>
