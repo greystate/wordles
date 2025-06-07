@@ -1144,4 +1144,19 @@
 		<try>guava</try>
 	</wordle>
 
+	<wordle date="2025-06-06" number="1245" score="3" word="lomme">
+		<try>finer</try>
+		<try>spade</try>
+		<try>lomme</try>
+	</wordle>
+
+	<wordle date="2025-06-07" number="1246" score="6" word="balde">
+		<try>træde</try>
+		<try>plade</try>
+		<try>kalde</try>
+		<try>galde</try>
+		<try>falde</try>
+		<try>balde</try>
+	</wordle>
+
 </wordles>

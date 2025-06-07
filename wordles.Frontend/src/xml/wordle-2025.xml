@@ -1084,4 +1084,18 @@
 		<try>datum</try>
 	</wordle>
 
+	<wordle date="2025-06-06" number="1448" score="4" word="edify">
+		<try>place</try>
+		<try>emits</try>
+		<try>eying</try>
+		<try>edify</try>
+	</wordle>
+
+	<wordle date="2025-06-07" number="1449" score="4" word="reuse">
+		<try>prank</try>
+		<try>refer</try>
+		<try>retie</try>
+		<try>reuse</try>
+	</wordle>
+
 </wordles>

@@ -1758,4 +1758,26 @@
 		<try>gusty</try>
 	</quordle>
 
+	<quordle date="2025-06-06" number="1228" scores="8 7 6 5" words="elude khaki vista smoky">
+		<try>smart</try>
+		<try>field</try>
+		<try>pokes</try>
+		<try>tough</try>
+		<try>smoky</try>
+		<try>vista</try>
+		<try>khaki</try>
+		<try>elude</try>
+	</quordle>
+
+	<quordle date="2025-06-07" number="1229" scores="8 6 4 5" words="flunk ester spite cheap">
+		<try>clams</try>
+		<try>point</try>
+		<try>shrew</try>
+		<try>spite</try>
+		<try>cheap</try>
+		<try>ester</try>
+		<try>blunk</try>
+		<try>flunk</try>
+	</quordle>
+
 </wordles>
