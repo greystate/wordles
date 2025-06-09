@@ -1098,4 +1098,17 @@
 		<try>reuse</try>
 	</wordle>
 
+	<wordle date="2025-06-08" number="1450" score="4" word="lease">
+		<try>creak</try>
+		<try>heaps</try>
+		<try>yeast</try>
+		<try>lease</try>
+	</wordle>
+
+	<wordle date="2025-06-09" number="1451" score="3" word="board">
+		<try>clash</try>
+		<try>brain</try>
+		<try>board</try>
+	</wordle>
+
 </wordles>

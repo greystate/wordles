@@ -1780,4 +1780,25 @@
 		<try>flunk</try>
 	</quordle>
 
+	<quordle date="2025-06-08" number="1230" scores="7 6 4 9" words="rebar alert payee flume">
+		<try>lease</try>
+		<try>point</try>
+		<try>mucky</try>
+		<try>payee</try>
+		<try>bleat</try>
+		<try>alert</try>
+		<try>rebar</try>
+		<try>glume</try>
+		<try>flume</try>
+	</quordle>
+
+	<quordle date="2025-06-09" number="1231" scores="3 6 4 5" words="derby lemon write hovel">
+		<try>words</try>
+		<try>peach</try>
+		<try>derby</try>
+		<try>write</try>
+		<try>hovel</try>
+		<try>lemon</try>
+	</quordle>
+
 </wordles>
