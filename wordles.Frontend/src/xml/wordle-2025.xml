@@ -1111,4 +1111,32 @@
 		<try>board</try>
 	</wordle>
 
+	<wordle date="2025-06-10" number="1452" score="5" word="taffy">
+		<try>cheap</try>
+		<try>rabid</try>
+		<try>gamut</try>
+		<try>salty</try>
+		<try>taffy</try>
+	</wordle>
+
+	<wordle date="2025-06-11" number="1453" score="4" word="plaid">
+		<try>spout</try>
+		<try>peach</try>
+		<try>prank</try>
+		<try>plaid</try>
+	</wordle>
+
+	<wordle date="2025-06-12" number="1454" score="3" word="vixen">
+		<try>coast</try>
+		<try>given</try>
+		<try>vixen</try>
+	</wordle>
+
+	<wordle date="2025-06-13" number="1455" score="4" word="bilge">
+		<try>least</try>
+		<try>drole</try>
+		<try>bulge</try>
+		<try>bilge</try>
+	</wordle>
+
 </wordles>

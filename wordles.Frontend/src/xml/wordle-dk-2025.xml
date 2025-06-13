@@ -1174,4 +1174,37 @@
 		<try>byrde</try>
 	</wordle>
 
+	<wordle date="2025-06-10" number="1249" score="0" word="byret">
+		<try>opera</try>
+		<try>rasle</try>
+		<try>kimer</try>
+		<try>fyret</try>
+		<try>dyret</try>
+		<try>hyret</try>
+	</wordle>
+
+	<wordle date="2025-06-11" number="1250" score="6" word="force">
+		<try>polær</try>
+		<try>rosin</try>
+		<try>forgå</try>
+		<try>foret</try>
+		<try>forme</try>
+		<try>force</try>
+	</wordle>
+
+	<wordle date="2025-06-12" number="1251" score="5" word="banjo">
+		<try>prøve</try>
+		<try>stabl</try>
+		<try>banan</try>
+		<try>banko</try>
+		<try>banjo</try>
+	</wordle>
+
+	<wordle date="2025-06-13" number="1252" score="4" word="foton">
+		<try>opera</try>
+		<try>skudt</try>
+		<try>tonic</try>
+		<try>foton</try>
+	</wordle>
+
 </wordles>

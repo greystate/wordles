@@ -1801,4 +1801,50 @@
 		<try>lemon</try>
 	</quordle>
 
+	<quordle date="2025-06-10" number="1232" scores="9 4 5 8" words="decry cheek filet easel">
+		<try>cumin</try>
+		<try>polar</try>
+		<try>sheet</try>
+		<try>cheek</try>
+		<try>filet</try>
+		<try>vales</try>
+		<try>lased</try>
+		<try>easel</try>
+		<try>decry</try>
+	</quordle>
+
+	<quordle date="2025-06-11" number="1233" scores="4 5 7 6" words="crave roost angle flood">
+		<try>whack</try>
+		<try>point</try>
+		<try>rudes</try>
+		<try>crave</try>
+		<try>roost</try>
+		<try>flood</try>
+		<try>angle</try>
+	</quordle>
+
+	<quordle date="2025-06-12" number="1234" scores="7 0 8 4" words="scant batch under parse">
+		<try>spark</try>
+		<try>lower</try>
+		<try>crepe</try>
+		<try>parse</try>
+		<try>fungi</try>
+		<try>scans</try>
+		<try>scant</try>
+		<try>under</try>
+		<try>match</try>
+	</quordle>
+
+	<quordle date="2025-06-13" number="1235" scores="9 4 7 0" words="repel large snide carry">
+		<try>start</try>
+		<try>lemon</try>
+		<try>lader</try>
+		<try>large</try>
+		<try>revel</try>
+		<try>rebel</try>
+		<try>snide</try>
+		<try>parry</try>
+		<try>repel</try>
+	</quordle>
+
 </wordles>
