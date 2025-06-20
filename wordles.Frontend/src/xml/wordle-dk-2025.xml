@@ -1207,4 +1207,60 @@
 		<try>foton</try>
 	</wordle>
 
+	<wordle date="2025-06-14" number="1253" score="4" word="kasse">
+		<try>opera</try>
+		<try>asken</try>
+		<try>kaste</try>
+		<try>kasse</try>
+	</wordle>
+
+	<wordle date="2025-06-15" number="1254" score="4" word="dække">
+		<try>polen</try>
+		<try>remis</try>
+		<try>hægte</try>
+		<try>dække</try>
+	</wordle>
+
+	<wordle date="2025-06-16" number="1255" score="5" word="bolle">
+		<try>opera</try>
+		<try>sovet</try>
+		<try>holde</try>
+		<try>kolbe</try>
+		<try>bolle</try>
+	</wordle>
+
+	<wordle date="2025-06-17" number="1256" score="5" word="slæde">
+		<try>prosa</try>
+		<try>stene</try>
+		<try>skyde</try>
+		<try>slide</try>
+		<try>slæde</try>
+	</wordle>
+
+	<wordle date="2025-06-18" number="1257" score="6" word="tunge">
+		<try>opera</try>
+		<try>meste</try>
+		<try>tylle</try>
+		<try>tønde</try>
+		<try>tænke</try>
+		<try>tunge</try>
+	</wordle>
+
+	<wordle date="2025-06-19" number="1258" score="5" word="kilde">
+		<try>opera</try>
+		<try>milde</try>
+		<try>vilde</try>
+		<try>gilde</try>
+		<try>kilde</try>
+	</wordle>
+
+	<wordle date="2025-06-20" number="1259" score="6" word="bynke">
+		<try>opera</try>
+		<try>fødte</try>
+		<try>huske</try>
+		<try>kælke</try>
+		<try>vinke</try>
+		<try>bynke</try>
+	</wordle>
+
 </wordles>

@@ -1847,4 +1847,79 @@
 		<try>repel</try>
 	</quordle>
 
+	<quordle date="2025-06-14" number="1236" scores="6 4 7 5" words="stick ferry these ionic">
+		<try>point</try>
+		<try>wears</try>
+		<try>hubby</try>
+		<try>ferry</try>
+		<try>ionic</try>
+		<try>stick</try>
+		<try>these</try>
+	</quordle>
+
+	<quordle date="2025-06-15" number="1237" scores="5 4 7 6" words="shock stein broil coven">
+		<try>point</try>
+		<try>dream</try>
+		<try>gushy</try>
+		<try>stein</try>
+		<try>shock</try>
+		<try>coven</try>
+		<try>broil</try>
+	</quordle>
+
+	<quordle date="2025-06-16" number="1238" scores="7 9 0 6" words="retry scald dingo feign">
+		<try>quest</try>
+		<try>hinge</try>
+		<try>wingy</try>
+		<try>bingo</try>
+		<try>frack</try>
+		<try>feign</try>
+		<try>retry</try>
+		<try>scamp</try>
+		<try>scald</try>
+	</quordle>
+
+	<quordle date="2025-06-17" number="1239" scores="4 6 7 8" words="leapt prism admin whine">
+		<try>plain</try>
+		<try>offer</try>
+		<try>bucks</try>
+		<try>leapt</try>
+		<try>midge</try>
+		<try>prism</try>
+		<try>admin</try>
+		<try>whine</try>
+	</quordle>
+
+	<quordle date="2025-06-18" number="1240" scores="5 6 7 8" words="media shark guppy mourn">
+		<try>flash</try>
+		<try>point</try>
+		<try>derby</try>
+		<try>mucky</try>
+		<try>media</try>
+		<try>shark</try>
+		<try>guppy</try>
+		<try>mourn</try>
+	</quordle>
+
+	<quordle date="2025-06-19" number="1241" scores="5 7 4 6" words="brush islet fruit privy">
+		<try>plain</try>
+		<try>overt</try>
+		<try>flubs</try>
+		<try>fruit</try>
+		<try>brush</try>
+		<try>privy</try>
+		<try>islet</try>
+	</quordle>
+
+	<quordle date="2025-06-20" number="1242" scores="8 6 4 7" words="braid dully haste lurid">
+		<try>truce</try>
+		<try>hippo</try>
+		<try>washy</try>
+		<try>haste</try>
+		<try>guild</try>
+		<try>dully</try>
+		<try>lurid</try>
+		<try>braid</try>
+	</quordle>
+
 </wordles>

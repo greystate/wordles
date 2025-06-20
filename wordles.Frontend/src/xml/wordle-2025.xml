@@ -1139,4 +1139,50 @@
 		<try>bilge</try>
 	</wordle>
 
+	<wordle date="2025-06-14" number="1456" score="3" word="ghost">
+		<try>space</try>
+		<try>trios</try>
+		<try>ghost</try>
+	</wordle>
+
+	<wordle date="2025-06-15" number="1457" score="3" word="quail">
+		<try>train</try>
+		<try>claim</try>
+		<try>quail</try>
+	</wordle>
+
+	<wordle date="2025-06-16" number="1458" score="3" word="petty">
+		<try>steal</try>
+		<try>tenor</try>
+		<try>petty</try>
+	</wordle>
+
+	<wordle date="2025-06-17" number="1459" score="3" word="prank">
+		<try>sable</try>
+		<try>track</try>
+		<try>prank</try>
+	</wordle>
+
+	<wordle date="2025-06-18" number="1460" score="5" word="munch">
+		<try>alien</try>
+		<try>ponds</try>
+		<try>funny</try>
+		<try>bunch</try>
+		<try>munch</try>
+	</wordle>
+
+	<wordle date="2025-06-19" number="1461" score="3" word="curio">
+		<try>plain</try>
+		<try>stoic</try>
+		<try>curio</try>
+	</wordle>
+
+	<wordle date="2025-06-20" number="1462" score="5" word="taupe">
+		<try>glove</try>
+		<try>crane</try>
+		<try>taste</try>
+		<try>taube</try>
+		<try>taupe</try>
+	</wordle>
+
 </wordles>
