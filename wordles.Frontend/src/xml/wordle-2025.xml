@@ -1185,4 +1185,12 @@
 		<try>taupe</try>
 	</wordle>
 
+	<wordle date="2025-06-21" number="1463" score="5" word="glade">
+		<try>power</try>
+		<try>beats</try>
+		<try>flake</try>
+		<try>clave</try>
+		<try>glade</try>
+	</wordle>
+
 </wordles>

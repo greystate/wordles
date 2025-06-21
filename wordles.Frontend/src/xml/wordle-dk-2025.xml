@@ -1263,4 +1263,12 @@
 		<try>bynke</try>
 	</wordle>
 
+	<wordle date="2025-06-21" number="1260" score="5" word="klode">
+		<try>stork</try>
+		<try>epoke</try>
+		<try>klone</try>
+		<try>kloge</try>
+		<try>klode</try>
+	</wordle>
+
 </wordles>
