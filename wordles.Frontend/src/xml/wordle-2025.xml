@@ -1193,4 +1193,17 @@
 		<try>glade</try>
 	</wordle>
 
+	<wordle date="2025-06-22" number="1464" score="4" word="thrum">
+		<try>acorn</try>
+		<try>fresh</try>
+		<try>hurly</try>
+		<try>thrum</try>
+	</wordle>
+
+	<wordle date="2025-06-23" number="1465" score="3" word="oddly">
+		<try>prawn</try>
+		<try>stole</try>
+		<try>oddly</try>
+	</wordle>
+
 </wordles>

@@ -1271,4 +1271,20 @@
 		<try>klode</try>
 	</wordle>
 
+	<wordle date="2025-06-22" number="1261" score="0" word="snare">
+		<try>super</try>
+		<try>serie</try>
+		<try>styre</try>
+		<try>sløre</try>
+		<try>skære</try>
+		<try>svare</try>
+	</wordle>
+
+	<wordle date="2025-06-23" number="1262" score="4" word="skørt">
+		<try>opera</try>
+		<try>styrt</try>
+		<try>smurt</try>
+		<try>skørt</try>
+	</wordle>
+
 </wordles>

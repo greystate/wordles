@@ -1932,4 +1932,27 @@
 		<try>madam</try>
 	</quordle>
 
+	<quordle date="2025-06-22" number="1244" scores="5 0 0 7" words="wrest craze papal scion">
+		<try>quest</try>
+		<try>drain</try>
+		<try>cable</try>
+		<try>crave</try>
+		<try>wrest</try>
+		<try>lammy</try>
+		<try>scion</try>
+		<try>crake</try>
+		<try>crape</try>
+	</quordle>
+
+	<quordle date="2025-06-23" number="1245" scores="6 5 8 7" words="pixel fjord steal exist">
+		<try>plain</try>
+		<try>overt</try>
+		<try>fussy</try>
+		<try>piled</try>
+		<try>fjord</try>
+		<try>pixel</try>
+		<try>exist</try>
+		<try>steal</try>
+	</quordle>
+
 </wordles>
