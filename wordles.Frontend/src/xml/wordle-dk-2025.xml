@@ -1287,4 +1287,41 @@
 		<try>skørt</try>
 	</wordle>
 
+	<wordle date="2025-06-24" number="1263" score="5" word="skøde">
+		<try>opera</try>
+		<try>hænge</try>
+		<try>dyste</try>
+		<try>sidde</try>
+		<try>skøde</try>
+	</wordle>
+
+	<wordle date="2025-06-25" number="1264" score="4" word="afise">
+		<try>streg</try>
+		<try>masse</try>
+		<try>klase</try>
+		<try>afise</try>
+	</wordle>
+
+	<wordle date="2025-06-26" number="1265" score="5" word="afkod">
+		<try>opera</try>
+		<try>vokal</try>
+		<try>ankom</try>
+		<try>afkog</try>
+		<try>afkod</try>
+	</wordle>
+
+	<!-- Missed #1266 -->
+	<wordle date="2025-06-27" number="1266" score="0" word="?" />
+
+	<!-- Missed #1267 -->
+	<wordle date="2025-06-28" number="1267" score="0" word="?" />
+
+	<wordle date="2025-06-29" number="1268" score="5" word="blini">
+		<try>opera</try>
+		<try>stilk</try>
+		<try>ulige</try>
+		<try>blind</try>
+		<try>blini</try>
+	</wordle>
+
 </wordles>

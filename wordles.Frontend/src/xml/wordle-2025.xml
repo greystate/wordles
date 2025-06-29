@@ -1206,4 +1206,44 @@
 		<try>oddly</try>
 	</wordle>
 
+	<wordle date="2025-06-24" number="1466" score="3" word="elite">
+		<try>trail</try>
+		<try>light</try>
+		<try>elite</try>
+	</wordle>
+
+	<wordle date="2025-06-25" number="1467" score="4" word="comfy">
+		<try>brain</try>
+		<try>could</try>
+		<try>comet</try>
+		<try>comfy</try>
+	</wordle>
+
+	<wordle date="2025-06-26" number="1468" score="4" word="offer">
+		<try>pours</try>
+		<try>croak</try>
+		<try>minor</try>
+		<try>offer</try>
+	</wordle>
+
+	<wordle date="2025-06-27" number="1469" score="3" word="plain">
+		<!-- Note: This 1st guess was reconstructed from knowing the answer (forgot to log it on the day) -->
+		<try>crave</try>
+		<try>plant</try>
+		<try>plain</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 168 😭 -->
+
+	<!-- Missed #1470 -->
+	<wordle date="2025-06-28" number="1470" score="0" word="?" />
+
+	<wordle date="2025-06-29" number="1471" score="5" word="witty">
+		<try>feast</try>
+		<try>trick</try>
+		<try>pinot</try>
+		<try>width</try>
+		<try>witty</try>
+	</wordle>
+
 </wordles>
