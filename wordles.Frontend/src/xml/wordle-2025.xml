@@ -1236,7 +1236,7 @@
 	<!--  ⬆️ Streak of 168 😭 -->
 
 	<!-- Missed #1470 -->
-	<wordle date="2025-06-28" number="1470" score="0" word="?" />
+	<wordle date="2025-06-28" number="1470" score="0" word="stump" />
 
 	<wordle date="2025-06-29" number="1471" score="5" word="witty">
 		<try>feast</try>
@@ -1244,6 +1244,12 @@
 		<try>pinot</try>
 		<try>width</try>
 		<try>witty</try>
+	</wordle>
+
+	<wordle date="2025-06-30" number="1472" score="3" word="blink">
+		<try>trunk</try>
+		<try>clank</try>
+		<try>blink</try>
 	</wordle>
 
 </wordles>

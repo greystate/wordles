@@ -1324,4 +1324,10 @@
 		<try>blini</try>
 	</wordle>
 
+	<wordle date="2025-06-30" number="1269" score="3" word="denim">
+		<try>streg</try>
+		<try>dampe</try>
+		<try>denim</try>
+	</wordle>
+
 </wordles>
