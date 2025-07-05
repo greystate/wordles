@@ -1252,4 +1252,46 @@
 		<try>blink</try>
 	</wordle>
 
+	<wordle date="2025-07-01" number="1473" score="4" word="moldy">
+		<try>spark</try>
+		<try>lunch</try>
+		<try>bowel</try>
+		<try>moldy</try>
+	</wordle>
+
+	<wordle date="2025-07-02" number="1474" score="3" word="incur">
+		<try>train</try>
+		<try>rinse</try>
+		<try>incur</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 4 😆 -->
+
+	<wordle date="2025-07-03" number="1475" score="0" word="poppy">
+		<try>young</try>
+		<try>wooly</try>
+		<try>dotty</try>
+		<try>sorry</try>
+		<try>cocky</try>
+		<try>bobby</try>
+	</wordle>
+
+	<wordle date="2025-07-04" number="1476" score="4" word="curve">
+		<try>grand</try>
+		<try>strip</try>
+		<try>merch</try>
+		<try>curve</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 1 😆 -->
+
+	<wordle date="2025-07-05" number="1477" score="0" word="baler">
+		<try>fruit</try>
+		<try>rakes</try>
+		<try>pared</try>
+		<try>gamer</try>
+		<try>caver</try>
+		<try>waler</try>
+	</wordle>
+
 </wordles>

@@ -1330,4 +1330,13 @@
 		<try>denim</try>
 	</wordle>
 
+	<wordle date="2025-07-01" number="1270" score="6" word="frise">
+		<try>opera</try>
+		<try>rente</try>
+		<try>kurve</try>
+		<try>gryde</try>
+		<try>brise</try>
+		<try>frise</try>
+	</wordle>
+
 </wordles>
