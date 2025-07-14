@@ -1294,4 +1294,66 @@
 		<try>waler</try>
 	</wordle>
 
+	<wordle date="2025-07-06" number="1478" score="4" word="atria">
+		<try>trash</try>
+		<try>party</try>
+		<try>amrit</try>
+		<try>atria</try>
+	</wordle>
+
+	<wordle date="2025-07-07" number="1479" score="3" word="stilt">
+		<try>stare</try>
+		<try>stout</try>
+		<try>stilt</try>
+	</wordle>
+
+	<wordle date="2025-07-08" number="1480" score="4" word="dread">
+		<try>stray</try>
+		<try>polar</try>
+		<try>cream</try>
+		<try>dread</try>
+	</wordle>
+
+	<wordle date="2025-07-09" number="1481" score="3" word="novel">
+		<try>mains</try>
+		<try>noble</try>
+		<try>novel</try>
+	</wordle>
+
+	<wordle date="2025-07-10" number="1482" score="6" word="jumpy">
+		<try>clown</try>
+		<try>taper</try>
+		<try>pushy</try>
+		<try>bumpy</try>
+		<try>dumpy</try>
+		<try>jumpy</try>
+	</wordle>
+
+	<wordle date="2025-07-11" number="1483" score="4" word="brand">
+		<try>stack</try>
+		<try>plain</try>
+		<try>meany</try>
+		<try>brand</try>
+	</wordle>
+
+	<wordle date="2025-07-12" number="1484" score="4" word="exile">
+		<try>stray</try>
+		<try>pound</try>
+		<try>level</try>
+		<try>exile</try>
+	</wordle>
+
+	<wordle date="2025-07-13" number="1485" score="4" word="gnome">
+		<try>train</try>
+		<try>noble</try>
+		<try>shone</try>
+		<try>gnome</try>
+	</wordle>
+
+	<wordle date="2025-07-14" number="1486" score="3" word="undid">
+		<try>paint</try>
+		<try>infer</try>
+		<try>undid</try>
+	</wordle>
+
 </wordles>

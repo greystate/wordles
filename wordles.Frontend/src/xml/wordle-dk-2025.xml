@@ -1339,4 +1339,22 @@
 		<try>frise</try>
 	</wordle>
 
+	<!-- Missed #1271 -->
+	<wordle date="2025-07-02" number="1271" score="0" word="?" />
+
+	<!-- Missed #1272 -->
+	<wordle date="2025-07-03" number="1272" score="0" word="?" />
+
+	<!-- Missed #1273 -->
+	<wordle date="2025-07-04" number="1273" score="0" word="?" />
+
+	<wordle date="2025-07-05" number="1274" score="0" word="mokke">
+		<try>opera</try>
+		<try>hoved</try>
+		<try>folie</try>
+		<try>jogge</try>
+		<try>tomme</try>
+		<try>mobbe</try>
+	</wordle>
+
 </wordles>
