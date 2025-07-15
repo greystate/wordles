@@ -17,7 +17,7 @@
 	<xsl:param name="showall" select="false()" />
 	<xsl:param name="debugging" select="true()" />
 
-	<xsl:variable name="max-wordles" select="6" />
+	<xsl:variable name="max-wordles" select="12" />
 	<xsl:variable name="max-quordles" select="4" />
 
 	<xsl:variable name="today" select="substring(date:date(), 1, 10)" />
@@ -160,7 +160,7 @@
 		<xsl:variable name="danish-wordles" select="w:wordles[lang('da')]/w:wordle" />
 		<xsl:variable name="quordles" select="w:wordles[w:quordle]/w:quordle" />
 
-		<h2>From the official Wordle</h2>
+		<!-- <h2>From the official Wordle</h2> -->
 		<xsl:call-template name="local-stats">
 			<xsl:with-param name="wordles" select="$official-wordles" />
 		</xsl:call-template>
@@ -173,71 +173,75 @@
 			</xsl:for-each>
 		</div>
 
-		<h2>From wørdle.dk</h2>
-		<xsl:call-template name="local-stats">
-			<xsl:with-param name="wordles" select="$danish-wordles" />
-		</xsl:call-template>
-		<div style="--bgcolor-ok: #f80" lang="da">
-			<xsl:for-each select="$danish-wordles">
-				<xsl:sort select="@date" order="descending" />
-				<xsl:if test="position() &lt;= $max-wordles or $showall = 'yes'">
-					<xsl:apply-templates select="." />
-				</xsl:if>
-			</xsl:for-each>
-		</div>
-
-		<h2>Quordle</h2>
-		<details>
-			<summary>Stats</summary>
-			<div class="stats-content">
-				<xsl:variable name="current" select="$quordles[last()]" />
-				<xsl:variable name="latest-lost" select="$current/preceding-sibling::w:quordle[contains(@scores, 0)][1]" />
-
-				<div>
-					<h3>Wins &amp; streaks</h3>
-					<table border="1">
-						<tr>
-							<th scope="row">Wins</th>
-							<td>
-								<xsl:value-of select="round(count($quordles[not(contains(@scores, 0))]) div (count($quordles)) * 100)" />
-								<xsl:text>%</xsl:text>
-							</td>
-						</tr>
-						<tr>
-							<th scope="row">Current streak</th>
-							<td>
-								<xsl:value-of select="($current/@number - $latest-lost/@number) * number(not(contains($current/@scores, '0')))" />
-							</td>
-						</tr>
-						<tr>
-							<th scope="row">Longest streak</th>
-							<td>
-								<xsl:call-template name="longest-streak-quordle">
-									<xsl:with-param name="wordles" select="$quordles" />
-								</xsl:call-template>
-							</td>
-						</tr>
-					</table>
-				</div>
+		<xsl:if test="$danish-wordles">
+			<h2>From wørdle.dk</h2>
+			<xsl:call-template name="local-stats">
+				<xsl:with-param name="wordles" select="$danish-wordles" />
+			</xsl:call-template>
+			<div style="--bgcolor-ok: #f80" lang="da">
+				<xsl:for-each select="$danish-wordles">
+					<xsl:sort select="@date" order="descending" />
+					<xsl:if test="position() &lt;= $max-wordles or $showall = 'yes'">
+						<xsl:apply-templates select="." />
+					</xsl:if>
+				</xsl:for-each>
 			</div>
-		</details>
+		</xsl:if>
 
+		<xsl:if test="$quordles">
 
-		<div style="--col-size: 14rem;" lang="en">
-			<xsl:for-each select="$quordles">
-				<xsl:sort select="@date" order="descending" />
-				<xsl:if test="position() &lt;= $max-quordles or $showall = 'yes'">
-					<div class="quad-panel hide" xsl:use-attribute-sets="identification">
-						<xsl:if test="@date = $today">
-							<xsl:attribute name="class">quad-panel hide today</xsl:attribute>
-						</xsl:if>
-						<header><h3 title="{@date}"><xsl:value-of select="concat('#', @number)" /></h3></header>
-						<xsl:apply-templates select="." mode="scores" />
-						<xsl:apply-templates select="." mode="panels" />
+			<h2>Quordle</h2>
+			<details>
+				<summary>Stats</summary>
+				<div class="stats-content">
+					<xsl:variable name="current" select="$quordles[last()]" />
+					<xsl:variable name="latest-lost" select="$current/preceding-sibling::w:quordle[contains(@scores, 0)][1]" />
+
+					<div>
+						<h3>Wins &amp; streaks</h3>
+						<table border="1">
+							<tr>
+								<th scope="row">Wins</th>
+								<td>
+									<xsl:value-of select="round(count($quordles[not(contains(@scores, 0))]) div (count($quordles)) * 100)" />
+									<xsl:text>%</xsl:text>
+								</td>
+							</tr>
+							<tr>
+								<th scope="row">Current streak</th>
+								<td>
+									<xsl:value-of select="($current/@number - $latest-lost/@number) * number(not(contains($current/@scores, '0')))" />
+								</td>
+							</tr>
+							<tr>
+								<th scope="row">Longest streak</th>
+								<td>
+									<xsl:call-template name="longest-streak-quordle">
+										<xsl:with-param name="wordles" select="$quordles" />
+									</xsl:call-template>
+								</td>
+							</tr>
+						</table>
 					</div>
-				</xsl:if>
-			</xsl:for-each>
-		</div>
+				</div>
+			</details>
+
+			<div style="--col-size: 14rem;" lang="en">
+				<xsl:for-each select="$quordles">
+					<xsl:sort select="@date" order="descending" />
+					<xsl:if test="position() &lt;= $max-quordles or $showall = 'yes'">
+						<div class="quad-panel hide" xsl:use-attribute-sets="identification">
+							<xsl:if test="@date = $today">
+								<xsl:attribute name="class">quad-panel hide today</xsl:attribute>
+							</xsl:if>
+							<header><h3 title="{@date}"><xsl:value-of select="concat('#', @number)" /></h3></header>
+							<xsl:apply-templates select="." mode="scores" />
+							<xsl:apply-templates select="." mode="panels" />
+						</div>
+					</xsl:if>
+				</xsl:for-each>
+			</div>
+		</xsl:if>
 
 	</xsl:template>
 
