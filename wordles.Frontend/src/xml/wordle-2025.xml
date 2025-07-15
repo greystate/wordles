@@ -1356,4 +1356,13 @@
 		<try>undid</try>
 	</wordle>
 
+	<wordle date="2025-07-15" number="1487" score="6" word="foist">
+		<try>cries</try>
+		<try>spiny</try>
+		<try>twist</try>
+		<try>hoist</try>
+		<try>moist</try>
+		<try>foist</try>
+	</wordle>
+
 </wordles>
