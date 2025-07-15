@@ -5,7 +5,7 @@
 <wordles xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
 
 	<xi:include href="wordle-official.xml" parse="xml" />
-	<xi:include href="wordle-dk.xml" parse="xml" />
-	<xi:include href="quordle.xml" parse="xml" />
+	<!-- <xi:include href="wordle-dk.xml" parse="xml" /> -->
+	<!-- <xi:include href="quordle.xml" parse="xml" /> -->
 
 </wordles>
