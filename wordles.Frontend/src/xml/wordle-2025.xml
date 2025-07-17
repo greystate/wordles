@@ -1365,4 +1365,12 @@
 		<try>foist</try>
 	</wordle>
 
+	<wordle date="2025-07-16" number="1488" score="5" word="nervy">
+		<try>weary</try>
+		<try>derby</try>
+		<try>ferry</try>
+		<try>perky</try>
+		<try>nervy</try>
+	</wordle>
+
 </wordles>
