@@ -1373,4 +1373,11 @@
 		<try>nervy</try>
 	</wordle>
 
+	<wordle date="2025-07-17" number="1489" score="4" word="modal">
+		<try>paint</try>
+		<try>shake</try>
+		<try>aloud</try>
+		<try>modal</try>
+	</wordle>
+
 </wordles>
