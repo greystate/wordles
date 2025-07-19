@@ -1391,4 +1391,11 @@
 		<try>looks</try>
 	</wordle>
 
+	<wordle date="2025-07-19" number="1491" score="4" word="sword">
+		<try>stare</try>
+		<try>smirk</try>
+		<try>slurp</try>
+		<try>sword</try>
+	</wordle>
+
 </wordles>
