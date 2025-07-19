@@ -1380,4 +1380,15 @@
 		<try>modal</try>
 	</wordle>
 
+	<!--  ⬆️ Streak of 10 😆 -->
+
+	<wordle date="2025-07-18" number="1490" score="0" word="loris">
+		<try>place</try>
+		<try>bowls</try>
+		<try>folds</try>
+		<try>longs</try>
+		<try>lotus</try>
+		<try>looks</try>
+	</wordle>
+
 </wordles>
