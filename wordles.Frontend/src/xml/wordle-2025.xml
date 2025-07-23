@@ -1398,4 +1398,33 @@
 		<try>sword</try>
 	</wordle>
 
+	<wordle date="2025-07-20" number="1492" score="4" word="blank">
+		<try>warts</try>
+		<try>clang</try>
+		<try>plane</try>
+		<try>blank</try>
+	</wordle>
+
+	<wordle date="2025-07-21" number="1493" score="6" word="tizzy">
+		<try>prank</try>
+		<try>louse</try>
+		<try>fight</try>
+		<try>timid</try>
+		<try>titty</try>
+		<try>tizzy</try>
+	</wordle>
+
+	<wordle date="2025-07-22" number="1494" score="3" word="burnt">
+		<try>scant</try>
+		<try>grunt</try>
+		<try>burnt</try>
+	</wordle>
+
+	<wordle date="2025-07-23" number="1495" score="4" word="water">
+		<try>toads</try>
+		<try>attic</try>
+		<try>eater</try>
+		<try>water</try>
+	</wordle>
+
 </wordles>
