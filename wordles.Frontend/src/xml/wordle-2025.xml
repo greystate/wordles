@@ -1427,4 +1427,32 @@
 		<try>water</try>
 	</wordle>
 
+	<wordle date="2025-07-24" number="1496" score="4" word="quake">
+		<try>slack</try>
+		<try>beaky</try>
+		<try>awake</try>
+		<try>quake</try>
+	</wordle>
+
+	<wordle date="2025-07-25" number="1497" score="6" word="gofer">
+		<try>slain</try>
+		<try>mouth</try>
+		<try>bower</try>
+		<try>coder</try>
+		<try>roger</try>
+		<try>gofer</try>
+	</wordle>
+
+	<wordle date="2025-07-26" number="1498" score="3" word="haunt">
+		<try>plain</try>
+		<try>dance</try>
+		<try>haunt</try>
+	</wordle>
+
+	<wordle date="2025-07-27" number="1499" score="3" word="whole">
+		<try>chase</try>
+		<try>thyme</try>
+		<try>whole</try>
+	</wordle>
+
 </wordles>
