@@ -1455,4 +1455,17 @@
 		<try>whole</try>
 	</wordle>
 
+	<wordle date="2025-07-28" number="1500" score="3" word="savvy">
+		<try>house</try>
+		<try>spray</try>
+		<try>savvy</try>
+	</wordle>
+
+	<wordle date="2025-07-29" number="1501" score="4" word="omega">
+		<try>blues</try>
+		<try>endow</try>
+		<try>retro</try>
+		<try>omega</try>
+	</wordle>
+
 </wordles>
