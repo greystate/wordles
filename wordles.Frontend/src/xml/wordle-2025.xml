@@ -1468,4 +1468,20 @@
 		<try>omega</try>
 	</wordle>
 
+	<wordle date="2025-07-30" number="1502" score="4" word="assay">
+		<try>roast</try>
+		<try>sacks</try>
+		<try>essay</try>
+		<try>assay</try>
+	</wordle>
+
+	<wordle date="2025-07-31" number="1503" score="6" word="frill">
+		<try>spare</try>
+		<try>truly</try>
+		<try>drill</try>
+		<try>grill</try>
+		<try>brill</try>
+		<try>frill</try>
+	</wordle>
+
 </wordles>
