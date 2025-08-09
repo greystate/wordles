@@ -1484,4 +1484,67 @@
 		<try>frill</try>
 	</wordle>
 
+	<wordle date="2025-08-01" number="1504" score="4" word="banjo">
+		<try>flows</try>
+		<try>round</try>
+		<try>bacon</try>
+		<try>banjo</try>
+	</wordle>
+
+	<wordle date="2025-08-02" number="1505" score="3" word="daunt">
+		<try>plaid</try>
+		<try>dater</try>
+		<try>daunt</try>
+	</wordle>
+
+	<wordle date="2025-08-03" number="1506" score="4" word="lumpy">
+		<try>crest</try>
+		<try>found</try>
+		<try>haiku</try>
+		<try>lumpy</try>
+	</wordle>
+
+	<wordle date="2025-08-04" number="1507" score="4" word="rigid">
+		<try>pawns</try>
+		<try>glory</try>
+		<try>right</try>
+		<try>rigid</try>
+	</wordle>
+
+	<wordle date="2025-08-05" number="1508" score="3" word="stork">
+		<try>gleam</try>
+		<try>drunk</try>
+		<try>stork</try>
+	</wordle>
+
+	<wordle date="2025-08-06" number="1509" score="5" word="groan">
+		<try>wilds</try>
+		<try>rebel</try>
+		<try>armor</try>
+		<try>croak</try>
+		<try>groan</try>
+	</wordle>
+
+	<wordle date="2025-08-07" number="1510" score="4" word="coral">
+		<try>youth</try>
+		<try>soare</try>
+		<try>moral</try>
+		<try>coral</try>
+	</wordle>
+
+	<wordle date="2025-08-08" number="1511" score="4" word="imbue">
+		<try>glare</try>
+		<try>ounce</try>
+		<try>issue</try>
+		<try>imbue</try>
+	</wordle>
+
+	<wordle date="2025-08-09" number="1512" score="5" word="nasal">
+		<try>crumb</try>
+		<try>ashen</try>
+		<try>saint</try>
+		<try>lands</try>
+		<try>nasal</try>
+	</wordle>
+
 </wordles>
