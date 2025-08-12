@@ -1561,4 +1561,9 @@
 		<try>south</try>
 	</wordle>
 
+	<wordle date="2025-08-12" number="1515" score="2" word="nomad">
+		<try>scram</try>
+		<try>nomad</try>
+	</wordle>
+
 </wordles>
