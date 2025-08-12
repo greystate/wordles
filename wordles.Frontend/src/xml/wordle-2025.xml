@@ -1547,4 +1547,18 @@
 		<try>nasal</try>
 	</wordle>
 
+	<wordle date="2025-08-10" number="1513" score="5" word="minty">
+		<try>stain</try>
+		<try>intel</try>
+		<try>point</try>
+		<try>tinty</try>
+		<try>minty</try>
+	</wordle>
+
+	<wordle date="2025-08-11" number="1514" score="3" word="south">
+		<try>flash</try>
+		<try>smith</try>
+		<try>south</try>
+	</wordle>
+
 </wordles>
