@@ -1566,4 +1566,28 @@
 		<try>nomad</try>
 	</wordle>
 
+	<wordle date="2025-08-13" number="1516" score="6" word="kefir">
+		<try>clove</try>
+		<try>reaps</try>
+		<try>berry</try>
+		<try>femur</try>
+		<try>defer</try>
+		<try>kefir</try>
+	</wordle>
+
+	<wordle date="2025-08-14" number="1517" score="5" word="knell">
+		<try>barky</try>
+		<try>stick</try>
+		<try>known</try>
+		<try>kneed</try>
+		<try>knell</try>
+	</wordle>
+
+	<wordle date="2025-08-15" number="1518" score="4" word="level">
+		<try>share</try>
+		<try>evict</try>
+		<try>loved</try>
+		<try>level</try>
+	</wordle>
+
 </wordles>
