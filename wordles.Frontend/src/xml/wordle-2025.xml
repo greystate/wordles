@@ -1590,4 +1590,16 @@
 		<try>level</try>
 	</wordle>
 
+	<wordle date="2025-08-16" number="1519" score="3" word="matte">
+		<try>plate</try>
+		<try>haste</try>
+		<try>matte</try>
+	</wordle>
+
+	<wordle date="2025-08-17" number="1520" score="3" word="lousy">
+		<try>kings</try>
+		<try>stare</try>
+		<try>lousy</try>
+	</wordle>
+
 </wordles>
