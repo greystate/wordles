@@ -1602,4 +1602,69 @@
 		<try>lousy</try>
 	</wordle>
 
+	<wordle date="2025-08-18" number="1521" score="4" word="issue">
+		<try>count</try>
+		<try>pulpy</try>
+		<try>usher</try>
+		<try>issue</try>
+	</wordle>
+
+	<wordle date="2025-08-19" number="1522" score="5" word="rowdy">
+		<try>plain</try>
+		<try>mouth</try>
+		<try>docks</try>
+		<try>woody</try>
+		<try>rowdy</try>
+	</wordle>
+
+	<wordle date="2025-08-20" number="1523" score="3" word="llama">
+		<try>plays</try>
+		<try>claim</try>
+		<try>llama</try>
+	</wordle>
+
+	<wordle date="2025-08-21" number="1524" score="5" word="extol">
+		<try>neigh</try>
+		<try>maple</try>
+		<try>sleek</try>
+		<try>excel</try>
+		<try>extol</try>
+	</wordle>
+
+	<wordle date="2025-08-22" number="1525" score="2" word="ratty">
+		<try>cater</try>
+		<try>ratty</try>
+	</wordle>
+
+	<wordle date="2025-08-23" number="1526" score="3" word="union">
+		<try>drink</try>
+		<try>snipe</try>
+		<try>union</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 37 😆 -->
+
+	<wordle date="2025-08-24" number="1527" score="0" word="spore">
+		<try>frisk</try>
+		<try>dears</try>
+		<try>soare</try>
+		<try>store</try>
+		<try>swore</try>
+		<try>smore</try>
+	</wordle>
+
+	<wordle date="2025-08-25" number="1528" score="4" word="mirth">
+		<try>panic</try>
+		<try>dries</try>
+		<try>right</try>
+		<try>mirth</try>
+	</wordle>
+
+	<wordle date="2025-08-26" number="1529" score="4" word="annex">
+		<try>quart</try>
+		<try>mason</try>
+		<try>anvil</try>
+		<try>annex</try>
+	</wordle>
+
 </wordles>
