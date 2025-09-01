@@ -1642,7 +1642,7 @@
 		<try>union</try>
 	</wordle>
 
-	<!--  ⬆️ Streak of 37 😆 -->
+	<!--  ⬆️ Streak of 36 😆 -->
 
 	<wordle date="2025-08-24" number="1527" score="0" word="spore">
 		<try>frisk</try>
@@ -1665,6 +1665,51 @@
 		<try>mason</try>
 		<try>anvil</try>
 		<try>annex</try>
+	</wordle>
+
+	<wordle date="2025-08-27" number="1530" score="4" word="tower">
+		<try>space</try>
+		<try>merit</try>
+		<try>trend</try>
+		<try>tower</try>
+	</wordle>
+
+	<wordle date="2025-08-28" number="1531" score="3" word="split">
+		<try>fruit</try>
+		<try>digit</try>
+		<try>split</try>
+	</wordle>
+
+	<wordle date="2025-08-29" number="1532" score="5" word="graft">
+		<try>bacon</try>
+		<try>steam</try>
+		<try>trawl</try>
+		<try>draft</try>
+		<try>graft</try>
+	</wordle>
+
+	<!--  ⬆️ Streak of 5 😆 -->
+
+	<wordle date="2025-08-30" number="1533" score="0" word="elate">
+		<try>rapid</try>
+		<try>steam</try>
+		<try>taken</try>
+		<try>abate</try>
+		<try>coate</try>
+		<try>quate</try>
+	</wordle>
+
+	<wordle date="2025-08-31" number="1534" score="4" word="petal">
+		<try>games</try>
+		<try>drape</try>
+		<try>penal</try>
+		<try>petal</try>
+	</wordle>
+
+	<wordle date="2025-09-01" number="1535" score="3" word="least">
+		<try>plows</try>
+		<try>steel</try>
+		<try>least</try>
 	</wordle>
 
 </wordles>
