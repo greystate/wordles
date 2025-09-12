@@ -1712,4 +1712,77 @@
 		<try>least</try>
 	</wordle>
 
+	<wordle date="2025-09-02" number="1536" score="6" word="might">
+		<try>bland</try>
+		<try>power</try>
+		<try>stick</try>
+		<try>tight</try>
+		<try>fight</try>
+		<try>might</try>
+	</wordle>
+
+	<wordle date="2025-09-03" number="1537" score="5" word="fetch">
+		<try>stray</try>
+		<try>thumb</try>
+		<try>cloth</try>
+		<try>ditch</try>
+		<try>fetch</try>
+	</wordle>
+
+	<wordle date="2025-09-04" number="1538" score="4" word="blend">
+		<try>stern</try>
+		<try>fiend</try>
+		<try>amend</try>
+		<try>blend</try>
+	</wordle>
+
+	<wordle date="2025-09-05" number="1539" score="3" word="drift">
+		<try>cramp</try>
+		<try>trios</try>
+		<try>drift</try>
+	</wordle>
+
+	<wordle date="2025-09-06" number="1540" score="4" word="bulge">
+		<try>space</try>
+		<try>brute</try>
+		<try>budge</try>
+		<try>bulge</try>
+	</wordle>
+
+	<wordle date="2025-09-07" number="1541" score="4" word="tenor">
+		<try>plant</try>
+		<try>nutty</try>
+		<try>stern</try>
+		<try>tenor</try>
+	</wordle>
+
+	<wordle date="2025-09-08" number="1542" score="4" word="chirp">
+		<try>young</try>
+		<try>dream</try>
+		<try>first</try>
+		<try>chirp</try>
+	</wordle>
+
+	<!-- Missed #1543 -->
+	<wordle date="2025-09-09" number="1543" score="0" word="trick" />
+
+	<wordle date="2025-09-10" number="1544" score="3" word="pouty">
+		<try>error</try>
+		<try>flout</try>
+		<try>pouty</try>
+	</wordle>
+
+	<wordle date="2025-09-11" number="1545" score="3" word="chair">
+		<try>place</try>
+		<try>chain</try>
+		<try>chair</try>
+	</wordle>
+
+	<wordle date="2025-09-12" number="1546" score="4" word="throb">
+		<try>drain</try>
+		<try>rebus</try>
+		<try>forby</try>
+		<try>throb</try>
+	</wordle>
+
 </wordles>
