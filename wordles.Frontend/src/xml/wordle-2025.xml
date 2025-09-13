@@ -1785,4 +1785,11 @@
 		<try>throb</try>
 	</wordle>
 
+	<wordle date="2025-09-13" number="1547" score="4" word="nadir">
+		<try>forms</try>
+		<try>bread</try>
+		<try>dairy</try>
+		<try>nadir</try>
+	</wordle>
+
 </wordles>
