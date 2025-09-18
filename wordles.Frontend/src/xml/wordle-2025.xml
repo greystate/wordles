@@ -1792,4 +1792,38 @@
 		<try>nadir</try>
 	</wordle>
 
+	<wordle date="2025-09-14" number="1548" score="3" word="noisy">
+		<try>prone</try>
+		<try>nobly</try>
+		<try>noisy</try>
+	</wordle>
+
+	<wordle date="2025-09-15" number="1549" score="4" word="along">
+		<try>steak</try>
+		<try>radio</try>
+		<try>poach</try>
+		<try>along</try>
+	</wordle>
+
+	<wordle date="2025-09-16" number="1550" score="4" word="lefty">
+		<try>glass</try>
+		<try>broil</try>
+		<try>fully</try>
+		<try>lefty</try>
+	</wordle>
+
+	<wordle date="2025-09-17" number="1551" score="4" word="teeth">
+		<try>lucky</try>
+		<try>swear</try>
+		<try>theme</try>
+		<try>teeth</try>
+	</wordle>
+
+	<wordle date="2025-09-18" number="1552" score="4" word="knife">
+		<try>stray</try>
+		<try>mould</try>
+		<try>infix</try>
+		<try>knife</try>
+	</wordle>
+
 </wordles>
