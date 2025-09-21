@@ -1826,4 +1826,27 @@
 		<try>knife</try>
 	</wordle>
 
+	<wordle date="2025-09-19" number="1553" score="6" word="later">
+		<try>rains</try>
+		<try>cared</try>
+		<try>paver</try>
+		<try>wager</try>
+		<try>maker</try>
+		<try>later</try>
+	</wordle>
+
+	<wordle date="2025-09-20" number="1554" score="4" word="defer">
+		<try>bland</try>
+		<try>modes</try>
+		<try>drier</try>
+		<try>defer</try>
+	</wordle>
+
+	<wordle date="2025-09-21" number="1555" score="4" word="coven">
+		<try>trial</try>
+		<try>poked</try>
+		<try>women</try>
+		<try>coven</try>
+	</wordle>
+
 </wordles>
