@@ -1849,4 +1849,18 @@
 		<try>coven</try>
 	</wordle>
 
+	<wordle date="2025-09-22" number="1556" score="4" word="quill">
+		<try>stain</try>
+		<try>hired</try>
+		<try>climb</try>
+		<try>quill</try>
+	</wordle>
+
+	<wordle date="2025-09-23" number="1557" score="4" word="mouth">
+		<try>thing</try>
+		<try>wrath</try>
+		<try>booth</try>
+		<try>mouth</try>
+	</wordle>
+
 </wordles>
