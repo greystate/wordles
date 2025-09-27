@@ -1863,4 +1863,32 @@
 		<try>mouth</try>
 	</wordle>
 
+	<wordle date="2025-09-24" number="1558" score="4" word="blunt">
+		<try>sting</try>
+		<try>daunt</try>
+		<try>mount</try>
+		<try>blunt</try>
+	</wordle>
+
+	<wordle date="2025-09-25" number="1559" score="4" word="drape">
+		<try>spawn</try>
+		<try>place</try>
+		<try>grape</try>
+		<try>drape</try>
+	</wordle>
+
+	<wordle date="2025-09-26" number="1560" score="4" word="dally">
+		<try>polar</try>
+		<try>abled</try>
+		<try>walds</try>
+		<try>dally</try>
+	</wordle>
+
+	<wordle date="2025-09-27" number="1561" score="4" word="fritz">
+		<try>dream</try>
+		<try>trunk</try>
+		<try>frost</try>
+		<try>fritz</try>
+	</wordle>
+
 </wordles>
