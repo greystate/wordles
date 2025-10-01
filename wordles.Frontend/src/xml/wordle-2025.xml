@@ -1891,4 +1891,33 @@
 		<try>fritz</try>
 	</wordle>
 
+	<wordle date="2025-09-28" number="1562" score="5" word="gooey">
+		<try>stain</try>
+		<try>poker</try>
+		<try>hovel</try>
+		<try>bogey</try>
+		<try>gooey</try>
+	</wordle>
+
+	<wordle date="2025-09-29" number="1563" score="5" word="civil">
+		<try>hours</try>
+		<try>tweak</try>
+		<try>blind</try>
+		<try>filmy</try>
+		<try>civil</try>
+	</wordle>
+
+	<wordle date="2025-09-30" number="1564" score="4" word="geese">
+		<try>young</try>
+		<try>glare</try>
+		<try>gimme</try>
+		<try>geese</try>
+	</wordle>
+
+	<wordle date="2025-10-01" number="1565" score="3" word="spoil">
+		<try>birth</try>
+		<try>sails</try>
+		<try>spoil</try>
+	</wordle>
+
 </wordles>
