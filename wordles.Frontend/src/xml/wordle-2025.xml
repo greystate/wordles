@@ -1920,4 +1920,24 @@
 		<try>spoil</try>
 	</wordle>
 
+	<wordle date="2025-10-02" number="1566" score="5" word="width">
+		<try>alien</try>
+		<try>pinky</try>
+		<try>fight</try>
+		<try>birth</try>
+		<try>width</try>
+	</wordle>
+
+	<wordle date="2025-10-03" number="1567" score="3" word="spasm">
+		<try>flair</try>
+		<try>stamp</try>
+		<try>spasm</try>
+	</wordle>
+
+	<wordle date="2025-10-04" number="1568" score="3" word="relay">
+		<try>flick</try>
+		<try>lamer</try>
+		<try>relay</try>
+	</wordle>
+
 </wordles>
