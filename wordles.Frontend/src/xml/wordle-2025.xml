@@ -1940,4 +1940,23 @@
 		<try>relay</try>
 	</wordle>
 
+	<wordle date="2025-10-05" number="1569" score="2" word="plane">
+		<try>slave</try>
+		<try>plane</try>
+	</wordle>
+
+	<wordle date="2025-10-06" number="1570" score="4" word="amuse">
+		<try>ranch</try>
+		<try>stead</try>
+		<try>ables</try>
+		<try>amuse</try>
+	</wordle>
+
+	<wordle date="2025-10-07" number="1571" score="4" word="nylon">
+		<try>large</try>
+		<try>sloth</try>
+		<try>colon</try>
+		<try>nylon</try>
+	</wordle>
+
 </wordles>
