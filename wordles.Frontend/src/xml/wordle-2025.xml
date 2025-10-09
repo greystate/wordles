@@ -1959,4 +1959,17 @@
 		<try>nylon</try>
 	</wordle>
 
+	<wordle date="2025-10-08" number="1572" score="3" word="annoy">
+		<try>clean</try>
+		<try>amino</try>
+		<try>annoy</try>
+	</wordle>
+
+	<wordle date="2025-10-09" number="1573" score="4" word="hardy">
+		<try>plaid</try>
+		<try>darts</try>
+		<try>barde</try>
+		<try>hardy</try>
+	</wordle>
+
 </wordles>
