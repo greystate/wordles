@@ -1972,4 +1972,31 @@
 		<try>hardy</try>
 	</wordle>
 
+	<!--  ⬆️ Streak of 30 😭 -->
+
+	<!-- Missed #1574 -->
+	<wordle date="2025-10-10" number="1574" score="0" word="level" />
+
+	<wordle date="2025-10-11" number="1575" score="3" word="stack">
+		<try>crave</try>
+		<try>scant</try>
+		<try>stack</try>
+	</wordle>
+
+	<wordle date="2025-10-12" number="1576" score="0" word="wound">
+		<try>space</try>
+		<try>light</try>
+		<try>found</try>
+		<try>mound</try>
+		<try>bound</try>
+		<try>round</try>
+	</wordle>
+
+	<wordle date="2025-10-13" number="1577" score="4" word="beard">
+		<try>poker</try>
+		<try>reals</try>
+		<try>weary</try>
+		<try>beard</try>
+	</wordle>
+
 </wordles>
