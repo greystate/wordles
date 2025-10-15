@@ -1999,4 +1999,21 @@
 		<try>beard</try>
 	</wordle>
 
+	<wordle date="2025-10-14" number="1578" score="5" word="forum">
+		<try>sling</try>
+		<try>worth</try>
+		<try>force</try>
+		<try>forky</try>
+		<try>forum</try>
+	</wordle>
+
+	<wordle date="2025-10-15" number="1579" score="4" word="spoof">
+		<try>noise</try>
+		<try>stood</try>
+		<try>scoop</try>
+		<try>spoof</try>
+	</wordle>
+
+
+
 </wordles>
