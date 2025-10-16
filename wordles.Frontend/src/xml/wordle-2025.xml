@@ -2014,6 +2014,13 @@
 		<try>spoof</try>
 	</wordle>
 
+	<wordle date="2025-10-16" number="1580" score="5" word="catty">
+		<try>fangs</try>
+		<try>labor</try>
+		<try>paced</try>
+		<try>hatch</try>
+		<try>catty</try>
+	</wordle>
 
 
 </wordles>
