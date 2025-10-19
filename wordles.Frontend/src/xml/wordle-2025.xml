@@ -2022,5 +2022,24 @@
 		<try>catty</try>
 	</wordle>
 
+	<wordle date="2025-10-17" number="1581" score="3" word="gross">
+		<try>stomp</try>
+		<try>floss</try>
+		<try>gross</try>
+	</wordle>
+
+	<wordle date="2025-10-18" number="1582" score="4" word="haven">
+		<try>slice</try>
+		<try>poker</try>
+		<try>tamed</try>
+		<try>haven</try>
+	</wordle>
+
+	<wordle date="2025-10-19" number="1583" score="4" word="ideal">
+		<try>stake</try>
+		<try>named</try>
+		<try>pedal</try>
+		<try>ideal</try>
+	</wordle>
 
 </wordles>
