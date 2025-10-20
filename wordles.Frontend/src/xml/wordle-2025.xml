@@ -2042,4 +2042,18 @@
 		<try>ideal</try>
 	</wordle>
 
+	<wordle date="2025-10-20" number="1584" score="3" word="limbo">
+		<try>split</try>
+		<try>limed</try>
+		<try>limbo</try>
+	</wordle>
+
+	<wordle date="2025-10-21" number="1585" score="5" word="detox">
+		<try>teach</try>
+		<try>reset</try>
+		<try>melty</try>
+		<try>jeton</try>
+		<try>detox</try>
+	</wordle>
+
 </wordles>
