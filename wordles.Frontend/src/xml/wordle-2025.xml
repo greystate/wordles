@@ -2056,4 +2056,10 @@
 		<try>detox</try>
 	</wordle>
 
+	<wordle date="2025-10-22" number="1586" score="3" word="stunt">
+		<try>hangs</try>
+		<try>snide</try>
+		<try>stunt</try>
+	</wordle>
+
 </wordles>
