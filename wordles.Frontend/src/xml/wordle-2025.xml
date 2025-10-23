@@ -2062,4 +2062,10 @@
 		<try>stunt</try>
 	</wordle>
 
+	<wordle date="2025-10-23" number="1587" score="3" word="drill">
+		<try>flair</try>
+		<try>girly</try>
+		<try>drill</try>
+	</wordle>
+
 </wordles>
