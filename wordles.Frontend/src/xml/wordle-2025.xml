@@ -2068,4 +2068,26 @@
 		<try>drill</try>
 	</wordle>
 
+	<wordle date="2025-10-24" number="1588" score="5" word="tuber">
+		<try>poach</try>
+		<try>lives</try>
+		<try>kneed</try>
+		<try>buyer</try>
+		<try>tuber</try>
+	</wordle>
+
+	<wordle date="2025-10-25" number="1589" score="4" word="gauge">
+		<try>birds</try>
+		<try>clang</try>
+		<try>gauze</try>
+		<try>gauge</try>
+	</wordle>
+
+	<wordle date="2025-10-26" number="1590" score="4" word="plump">
+		<try>joint</try>
+		<try>swear</try>
+		<try>lumpy</try>
+		<try>plump</try>
+	</wordle>
+
 </wordles>
