@@ -2090,4 +2090,18 @@
 		<try>plump</try>
 	</wordle>
 
+	<wordle date="2025-10-27" number="1591" score="3" word="fetid">
+		<try>place</try>
+		<try>muted</try>
+		<try>fetid</try>
+	</wordle>
+
+	<wordle date="2025-10-28" number="1592" score="5" word="holly">
+		<try>fifth</try>
+		<try>hence</try>
+		<try>harpy</try>
+		<try>howdy</try>
+		<try>holly</try>
+	</wordle>
+
 </wordles>
