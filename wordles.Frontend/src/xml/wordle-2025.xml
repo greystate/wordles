@@ -2104,4 +2104,25 @@
 		<try>holly</try>
 	</wordle>
 
+	<wordle date="2025-10-29" number="1593" score="4" word="glare">
+		<try>strum</try>
+		<try>ready</try>
+		<try>learn</try>
+		<try>glare</try>
+	</wordle>
+
+	<wordle date="2025-10-30" number="1594" score="4" word="lathe">
+		<try>prove</try>
+		<try>image</try>
+		<try>saute</try>
+		<try>lathe</try>
+	</wordle>
+
+	<wordle date="2025-10-31" number="1595" score="4" word="abhor">
+		<try>movie</try>
+		<try>orcas</try>
+		<try>radon</try>
+		<try>abhor</try>
+	</wordle>
+
 </wordles>
