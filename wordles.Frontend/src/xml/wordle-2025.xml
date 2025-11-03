@@ -2125,4 +2125,26 @@
 		<try>abhor</try>
 	</wordle>
 
+	<wordle date="2025-11-01" number="1596" score="5" word="motel">
+		<try>awful</try>
+		<try>spill</try>
+		<try>novel</try>
+		<try>model</try>
+		<try>motel</try>
+	</wordle>
+
+	<wordle date="2025-11-02" number="1597" score="4" word="rabid">
+		<try>rivet</try>
+		<try>ruins</try>
+		<try>rapid</try>
+		<try>rabid</try>
+	</wordle>
+
+	<wordle date="2025-11-03" number="1598" score="4" word="awoke">
+		<try>brace</try>
+		<try>gauze</try>
+		<try>awake</try>
+		<try>awoke</try>
+	</wordle>
+
 </wordles>
