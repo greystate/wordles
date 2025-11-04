@@ -2154,4 +2154,10 @@
 		<try>venue</try>
 	</wordle>
 
+	<wordle date="2025-11-05" number="1600" score="3" word="short">
+		<try>clash</try>
+		<try>shirt</try>
+		<try>short</try>
+	</wordle>
+
 </wordles>
