@@ -2160,4 +2160,11 @@
 		<try>short</try>
 	</wordle>
 
+	<wordle date="2025-11-06" number="1601" score="4" word="guise">
+		<try>trail</try>
+		<try>pinch</try>
+		<try>skims</try>
+		<try>guise</try>
+	</wordle>
+
 </wordles>
