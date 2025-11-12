@@ -2167,4 +2167,51 @@
 		<try>guise</try>
 	</wordle>
 
+	<wordle date="2025-11-07" number="1602" score="2" word="peril">
+		<try>birch</try>
+		<try>peril</try>
+	</wordle>
+
+	<wordle date="2025-11-08" number="1603" score="4" word="arise">
+		<try>prawn</try>
+		<try>freak</try>
+		<try>argue</try>
+		<try>arise</try>
+	</wordle>
+
+	<wordle date="2025-11-09" number="1604" score="5" word="fugue">
+		<try>youth</try>
+		<try>using</try>
+		<try>guard</try>
+		<try>bugle</try>
+		<try>fugue</try>
+	</wordle>
+
+	<wordle date="2025-11-10" number="1605" score="4" word="tabby">
+		<try>trial</try>
+		<try>tacky</try>
+		<try>tangy</try>
+		<try>tabby</try>
+	</wordle>
+
+	<wordle date="2025-11-11" number="1606" score="3" word="gizmo">
+		<try>bring</try>
+		<try>legit</try>
+		<try>gizmo</try>
+	</wordle>
+
+	<wordle date="2025-11-12" number="1607" score="4" word="deuce">
+		<try>swing</try>
+		<try>opera</try>
+		<try>lubed</try>
+		<try>deuce</try>
+	</wordle>
+
+	<wordle date="2025-11-13" number="1608" score="4" word="tinge">
+		<try>truly</try>
+		<try>toxic</try>
+		<try>taint</try>
+		<try>tinge</try>
+	</wordle>
+
 </wordles>
