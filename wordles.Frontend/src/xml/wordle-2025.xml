@@ -2214,4 +2214,23 @@
 		<try>tinge</try>
 	</wordle>
 
+	<wordle date="2025-11-14" number="1609" score="2" word="lurid">
+		<try>shard</try>
+		<try>lurid</try>
+	</wordle>
+
+	<wordle date="2025-11-15" number="1610" score="4" word="clung">
+		<try>point</try>
+		<try>scene</try>
+		<try>chunk</try>
+		<try>clung</try>
+	</wordle>
+
+	<wordle date="2025-11-16" number="1611" score="4" word="wield">
+		<try>blunt</try>
+		<try>lower</try>
+		<try>welsh</try>
+		<try>wield</try>
+	</wordle>
+
 </wordles>
