@@ -2233,4 +2233,18 @@
 		<try>wield</try>
 	</wordle>
 
+	<wordle date="2025-11-17" number="1612" score="3" word="clamp">
+		<try>wrath</try>
+		<try>space</try>
+		<try>clamp</try>
+	</wordle>
+
+	<wordle date="2025-11-18" number="1613" score="5" word="opine">
+		<try>wings</try>
+		<try>incur</try>
+		<try>taint</try>
+		<try>blind</try>
+		<try>opine</try>
+	</wordle>
+
 </wordles>
