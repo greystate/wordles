@@ -2247,4 +2247,32 @@
 		<try>opine</try>
 	</wordle>
 
+	<wordle date="2025-11-19" number="1614" score="3" word="maker">
+		<try>drive</try>
+		<try>taker</try>
+		<try>maker</try>
+	</wordle>
+
+	<wordle date="2025-11-20" number="1615" score="6" word="grave">
+		<try>poker</try>
+		<try>rebus</try>
+		<try>erect</try>
+		<try>frame</try>
+		<try>grade</try>
+		<try>grave</try>
+	</wordle>
+
+	<wordle date="2025-11-21" number="1616" score="3" word="vowel">
+		<try>blows</try>
+		<try>world</try>
+		<try>vowel</try>
+	</wordle>
+
+	<wordle date="2025-11-22" number="1617" score="4" word="thick">
+		<try>quest</try>
+		<try>trial</try>
+		<try>thigh</try>
+		<try>thick</try>
+	</wordle>
+
 </wordles>
