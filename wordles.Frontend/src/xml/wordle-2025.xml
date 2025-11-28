@@ -2275,4 +2275,46 @@
 		<try>thick</try>
 	</wordle>
 
+	<wordle date="2025-11-23" number="1618" score="3" word="bunny">
+		<try>broth</try>
+		<try>binge</try>
+		<try>bunny</try>
+	</wordle>
+
+	<wordle date="2025-11-24" number="1619" score="3" word="dough">
+		<try>shrug</try>
+		<try>cough</try>
+		<try>dough</try>
+	</wordle>
+
+	<wordle date="2025-11-25" number="1620" score="5" word="plead">
+		<try>brawl</try>
+		<try>lands</try>
+		<try>adult</try>
+		<try>yclad</try>
+		<try>plead</try>
+	</wordle>
+
+	<wordle date="2025-11-26" number="1621" score="3" word="hovel">
+		<try>valid</try>
+		<try>lover</try>
+		<try>hovel</try>
+	</wordle>
+
+	<wordle date="2025-11-27" number="1622" score="4" word="remit">
+		<try>seven</try>
+		<try>fetal</try>
+		<try>teary</try>
+		<try>remit</try>
+	</wordle>
+
+	<wordle date="2025-11-28" number="1623" score="6" word="colic">
+		<try>crown</try>
+		<try>codes</try>
+		<try>cocky</try>
+		<try>couch</try>
+		<try>comic</try>
+		<try>colic</try>
+	</wordle>
+
 </wordles>
