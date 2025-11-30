@@ -2317,4 +2317,17 @@
 		<try>colic</try>
 	</wordle>
 
+	<wordle date="2025-11-29" number="1624" score="2" word="gruff">
+		<try>flunk</try>
+		<try>gruff</try>
+	</wordle>
+
+	<wordle date="2025-11-30" number="1625" score="5" word="muggy">
+		<try>trial</try>
+		<try>mouse</try>
+		<try>mucky</try>
+		<try>muddy</try>
+		<try>muggy</try>
+	</wordle>
+
 </wordles>
