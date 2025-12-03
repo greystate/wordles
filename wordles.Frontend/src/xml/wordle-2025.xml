@@ -2330,4 +2330,25 @@
 		<try>muggy</try>
 	</wordle>
 
+	<wordle date="2025-12-01" number="1626" score="4" word="leach">
+		<try>great</try>
+		<try>annex</try>
+		<try>leash</try>
+		<try>leach</try>
+	</wordle>
+
+	<wordle date="2025-12-02" number="1627" score="5" word="cacti">
+		<try>plays</try>
+		<try>dream</try>
+		<try>giant</try>
+		<try>attic</try>
+		<try>cacti</try>
+	</wordle>
+
+	<wordle date="2025-12-03" number="1628" score="3" word="haste">
+		<try>space</try>
+		<try>taste</try>
+		<try>haste</try>
+	</wordle>
+
 </wordles>
