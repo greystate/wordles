@@ -2351,4 +2351,16 @@
 		<try>haste</try>
 	</wordle>
 
+	<wordle date="2025-12-04" number="1629" score="3" word="tulip">
+		<try>stain</try>
+		<try>merit</try>
+		<try>tulip</try>
+	</wordle>
+
+	<wordle date="2025-12-05" number="1630" score="3" word="among">
+		<try>ghost</try>
+		<try>agony</try>
+		<try>among</try>
+	</wordle>
+
 </wordles>
