@@ -2363,4 +2363,24 @@
 		<try>among</try>
 	</wordle>
 
+	<wordle date="2025-12-06" number="1631" score="4" word="waist">
+		<try>spark</try>
+		<try>lasso</try>
+		<try>marsh</try>
+		<try>waist</try>
+	</wordle>
+
+	<wordle date="2025-12-07" number="1632" score="2" word="flute">
+		<try>fruit</try>
+		<try>flute</try>
+	</wordle>
+
+	<wordle date="2025-12-08" number="1633" score="5" word="gravy">
+		<try>flash</try>
+		<try>tramp</try>
+		<try>brake</try>
+		<try>crazy</try>
+		<try>gravy</try>
+	</wordle>
+
 </wordles>
