@@ -2383,4 +2383,29 @@
 		<try>gravy</try>
 	</wordle>
 
+	<wordle date="2025-12-09" number="1634" score="3" word="snide">
+		<try>plain</try>
+		<try>singe</try>
+		<try>snide</try>
+	</wordle>
+
+	<wordle date="2025-12-10" number="1635" score="4" word="erase">
+		<try>cloud</try>
+		<try>bring</try>
+		<try>wraps</try>
+		<try>erase</try>
+	</wordle>
+
+	<wordle date="2025-12-11" number="1636" score="2" word="guess">
+		<try>brute</try>
+		<try>guess</try>
+	</wordle>
+
+	<wordle date="2025-12-12" number="1637" score="4" word="truck">
+		<try>spawn</try>
+		<try>other</try>
+		<try>trill</try>
+		<try>truck</try>
+	</wordle>
+
 </wordles>
