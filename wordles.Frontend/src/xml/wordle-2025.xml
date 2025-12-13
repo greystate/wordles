@@ -2416,4 +2416,10 @@
 		<try>miser</try>
 	</wordle>
 
+	<wordle date="2025-12-14" number="1639" score="3" word="swing">
+		<try>flick</try>
+		<try>sting</try>
+		<try>swing</try>
+	</wordle>
+
 </wordles>
