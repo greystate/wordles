@@ -2408,4 +2408,12 @@
 		<try>truck</try>
 	</wordle>
 
+	<wordle date="2025-12-13" number="1638" score="5" word="miser">
+		<try>grain</try>
+		<try>wired</try>
+		<try>viper</try>
+		<try>riser</try>
+		<try>miser</try>
+	</wordle>
+
 </wordles>
