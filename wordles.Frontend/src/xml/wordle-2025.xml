@@ -2422,4 +2422,20 @@
 		<try>swing</try>
 	</wordle>
 
+	<wordle date="2025-12-15" number="1640" score="5" word="dodgy">
+		<try>power</try>
+		<try>loads</try>
+		<try>doubt</try>
+		<try>doggy</try>
+		<try>dodgy</try>
+	</wordle>
+
+	<wordle date="2025-12-16" number="1641" score="5" word="segue">
+		<try>slain</try>
+		<try>storm</try>
+		<try>sewed</try>
+		<try>seepy</try>
+		<try>segue</try>
+	</wordle>
+
 </wordles>
