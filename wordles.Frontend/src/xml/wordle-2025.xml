@@ -2438,4 +2438,17 @@
 		<try>segue</try>
 	</wordle>
 
+	<wordle date="2025-12-17" number="1642" score="4" word="grass">
+		<try>slash</try>
+		<try>brass</try>
+		<try>crass</try>
+		<try>grass</try>
+	</wordle>
+
+	<wordle date="2025-12-18" number="1643" score="3" word="rugby">
+		<try>boast</try>
+		<try>pubic</try>
+		<try>rugby</try>
+	</wordle>
+
 </wordles>
