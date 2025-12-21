@@ -2451,4 +2451,27 @@
 		<try>rugby</try>
 	</wordle>
 
+	<wordle date="2025-12-19" number="1644" score="4" word="myrrh">
+		<try>stray</try>
+		<try>beryl</try>
+		<try>lyric</try>
+		<try>myrrh</try>
+	</wordle>
+
+	<wordle date="2025-12-20" number="1645" score="5" word="white">
+		<try>dream</try>
+		<try>fetch</try>
+		<try>lithe</try>
+		<try>thine</try>
+		<try>white</try>
+	</wordle>
+
+	<wordle date="2025-12-21" number="1646" score="5" word="quilt">
+		<try>steam</try>
+		<try>topic</try>
+		<try>right</try>
+		<try>flint</try>
+		<try>quilt</try>
+	</wordle>
+
 </wordles>
