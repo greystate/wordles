@@ -2474,4 +2474,12 @@
 		<try>quilt</try>
 	</wordle>
 
+	<wordle date="2025-12-22" number="1647" score="5" word="conch">
+		<try>weird</try>
+		<try>salon</try>
+		<try>count</try>
+		<try>convo</try>
+		<try>conch</try>
+	</wordle>
+
 </wordles>
