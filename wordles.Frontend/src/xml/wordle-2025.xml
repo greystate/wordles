@@ -2489,4 +2489,13 @@
 		<try>glint</try>
 	</wordle>
 
+	<wordle date="2025-12-24" number="1649" score="6" word="spool">
+		<try>merry</try>
+		<try>voids</try>
+		<try>ghost</try>
+		<try>scoop</try>
+		<try>spook</try>
+		<try>spool</try>
+	</wordle>
+
 </wordles>
