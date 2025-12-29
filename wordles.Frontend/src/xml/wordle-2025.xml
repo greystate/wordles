@@ -2498,4 +2498,34 @@
 		<try>spool</try>
 	</wordle>
 
+	<!-- Missed #1470 -->
+	<wordle date="2025-12-25" number="1650" score="0" word="prism" />
+
+	<wordle date="2025-12-26" number="1651" score="4" word="speed">
+		<try>plays</try>
+		<try>spire</try>
+		<try>spend</try>
+		<try>speed</try>
+	</wordle>
+
+	<wordle date="2025-12-27" number="1652" score="3" word="batch">
+		<try>pears</try>
+		<try>batty</try>
+		<try>batch</try>
+	</wordle>
+
+	<wordle date="2025-12-28" number="1653" score="4" word="abbot">
+		<try>spake</try>
+		<try>broad</try>
+		<try>taboo</try>
+		<try>abbot</try>
+	</wordle>
+
+	<wordle date="2025-12-29" number="1654" score="3" word="fruit">
+		<try>poker</try>
+		<try>ruins</try>
+		<try>fruit</try>
+	</wordle>
+
+
 </wordles>
