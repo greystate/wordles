@@ -264,6 +264,14 @@
 			<xsl:call-template name="fillers">
 				<xsl:with-param name="count" select="6 - count(w:try)" />
 			</xsl:call-template>
+			<xsl:if test="not(w:try) and @score = 0">
+				<xsl:call-template name="solution">
+					<xsl:with-param name="solution" select="@word" />
+					<xsl:with-param name="letters" select="str:tokenize(@word, '')" />
+					<xsl:with-param name="control-row" select="true()" />
+				</xsl:call-template>
+			</xsl:if>
+
 		</div>
 	</xsl:template>
 
