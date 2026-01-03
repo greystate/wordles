@@ -147,8 +147,13 @@
 		<x:context>
 			<w:wordle date="2025-06-25" number="1650" score="0" word="prism" />
 		</x:context>
-		<x:expect label="it should generate placeholder">
-			<div class="guess">
+		<x:expect label="it should generate a single solution row">
+			<div class="guess solution">
+				<span class="correct tile">p</span>
+				<span class="correct tile">r</span>
+				<span class="correct tile">i</span>
+				<span class="correct tile">s</span>
+				<span class="correct tile">m</span>
 			</div>
 		</x:expect>
 	</x:scenario>
