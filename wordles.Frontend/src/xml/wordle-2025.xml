@@ -2534,4 +2534,10 @@
 		<try>decor</try>
 	</wordle>
 
+	<wordle date="2025-12-31" number="1656" score="3" word="siren">
+		<try>spark</try>
+		<try>sheer</try>
+		<try>siren</try>
+	</wordle>
+
 </wordles>

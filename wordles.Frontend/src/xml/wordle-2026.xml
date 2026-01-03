@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+	<wordle date="2026-01-01" number="1657" score="5" word="fable">
+		<try>whale</try>
+		<try>agile</try>
+		<try>maple</try>
+		<try>easle</try>
+		<try>fable</try>
+	</wordle>
+
+	<wordle date="2026-01-02" number="1658" score="6" word="proof">
+		<try>plain</try>
+		<try>posts</try>
+		<try>prove</try>
+		<try>proud</try>
+		<try>promo</try>
+		<try>proof</try>
+	</wordle>
+
+</wordles>
