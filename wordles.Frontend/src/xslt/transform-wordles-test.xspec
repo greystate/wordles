@@ -143,6 +143,16 @@
 		</x:expect>
 	</x:scenario>
 
+	<x:scenario label="processing a missed wordle">
+		<x:context>
+			<w:wordle date="2025-06-25" number="1650" score="0" word="prism" />
+		</x:context>
+		<x:expect label="it should generate placeholder">
+			<div class="guess">
+			</div>
+		</x:expect>
+	</x:scenario>
+
 	<x:scenario label="processing the quordle in the 'scores' mode">
 		<x:context mode="scores">
 			<x:param name="scores">
