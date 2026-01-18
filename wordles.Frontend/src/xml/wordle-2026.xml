@@ -25,4 +25,109 @@
 		<try>sitar</try>
 	</wordle>
 
+	<wordle date="2026-01-04" number="1660" score="3" word="posse">
+		<try>train</try>
+		<try>pokes</try>
+		<try>posse</try>
+	</wordle>
+
+	<wordle date="2026-01-05" number="1661" score="5" word="filly">
+		<try>plead</try>
+		<try>lurks</try>
+		<try>jolly</try>
+		<try>billy</try>
+		<try>filly</try>
+	</wordle>
+
+	<wordle date="2026-01-06" number="1662" score="4" word="oomph">
+		<try>plays</try>
+		<try>moped</try>
+		<try>compt</try>
+		<try>oomph</try>
+	</wordle>
+
+	<wordle date="2026-01-07" number="1663" score="6" word="pecan">
+		<try>flail</try>
+		<try>asked</try>
+		<try>earnt</try>
+		<try>quean</try>
+		<try>began</try>
+		<try>pecan</try>
+	</wordle>
+
+	<wordle date="2026-01-08" number="1664" score="3" word="blast">
+		<try>mourn</try>
+		<try>beast</try>
+		<try>blast</try>
+	</wordle>
+
+	<wordle date="2026-01-09" number="1665" score="3" word="eight">
+		<try>pieds</try>
+		<try>hinge</try>
+		<try>eight</try>
+	</wordle>
+
+	<wordle date="2026-01-10" number="1666" score="5" word="manic">
+		<try>drunk</try>
+		<try>leany</try>
+		<try>satin</try>
+		<try>panic</try>
+		<try>manic</try>
+	</wordle>
+
+	<wordle date="2026-01-11" number="1667" score="3" word="quark">
+		<try>frame</try>
+		<try>stark</try>
+		<try>quark</try>
+	</wordle>
+
+	<wordle date="2026-01-12" number="1668" score="3" word="trial">
+		<try>talks</try>
+		<try>tonal</try>
+		<try>trial</try>
+	</wordle>
+
+	<wordle date="2026-01-13" number="1669" score="4" word="gumbo">
+		<try>brawl</try>
+		<try>pubic</try>
+		<try>jumbo</try>
+		<try>gumbo</try>
+	</wordle>
+
+	<wordle date="2026-01-14" number="1670" score="4" word="avoid">
+		<try>panic</try>
+		<try>stair</try>
+		<try>media</try>
+		<try>avoid</try>
+	</wordle>
+
+	<wordle date="2026-01-15" number="1671" score="3" word="chasm">
+		<try>grain</try>
+		<try>stamp</try>
+		<try>chasm</try>
+	</wordle>
+
+	<wordle date="2026-01-16" number="1672" score="0" word="racer">
+		<try>diver</try>
+		<try>poker</try>
+		<try>wager</try>
+		<try>later</try>
+		<try>saner</try>
+		<try>facer</try>
+	</wordle>
+
+	<wordle date="2026-01-17" number="1673" score="4" word="fiery">
+		<try>spark</try>
+		<try>where</try>
+		<try>overt</try>
+		<try>fiery</try>
+	</wordle>
+
+	<wordle date="2026-01-18" number="1674" score="4" word="sumac">
+		<try>torch</try>
+		<try>cease</try>
+		<try>scuba</try>
+		<try>sumac</try>
+	</wordle>
+
 </wordles>
