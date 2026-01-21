@@ -130,4 +130,24 @@
 		<try>sumac</try>
 	</wordle>
 
+	<wordle date="2026-01-19" number="1675" score="4" word="waxen">
+		<try>train</try>
+		<try>bacon</try>
+		<try>haven</try>
+		<try>waxen</try>
+	</wordle>
+
+	<wordle date="2026-01-20" number="1676" score="4" word="sully">
+		<try>steak</try>
+		<try>spoil</try>
+		<try>surly</try>
+		<try>sully</try>
+	</wordle>
+
+	<wordle date="2026-01-21" number="1677" score="3" word="cubic">
+		<try>blame</try>
+		<try>scrub</try>
+		<try>cubic</try>
+	</wordle>
+
 </wordles>
