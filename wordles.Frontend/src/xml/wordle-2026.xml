@@ -150,4 +150,19 @@
 		<try>cubic</try>
 	</wordle>
 
+	<wordle date="2026-01-22" number="1678" score="4" word="clink">
+		<try>glows</try>
+		<try>alive</try>
+		<try>flick</try>
+		<try>clink</try>
+	</wordle>
+
+	<wordle date="2026-01-23" number="1679" score="5" word="baron">
+		<try>space</try>
+		<try>dawns</try>
+		<try>hanky</try>
+		<try>naval</try>
+		<try>baron</try>
+	</wordle>
+
 </wordles>
