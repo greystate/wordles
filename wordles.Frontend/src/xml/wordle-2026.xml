@@ -165,4 +165,11 @@
 		<try>baron</try>
 	</wordle>
 
+	<wordle date="2026-01-24" number="1680" score="4" word="cliff">
+		<try>weird</try>
+		<try>hails</try>
+		<try>fling</try>
+		<try>cliff</try>
+	</wordle>
+
 </wordles>
