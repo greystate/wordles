@@ -172,4 +172,30 @@
 		<try>cliff</try>
 	</wordle>
 
+	<wordle date="2026-01-25" number="1681" score="5" word="strut">
+		<try>favor</try>
+		<try>ruins</try>
+		<try>slurp</try>
+		<try>strum</try>
+		<try>strut</try>
+	</wordle>
+
+	<wordle date="2026-01-26" number="1682" score="6" word="freak">
+		<try>cloud</try>
+		<try>prawn</try>
+		<try>arias</try>
+		<try>great</try>
+		<try>break</try>
+		<try>freak</try>
+	</wordle>
+
+	<wordle date="2026-01-27" number="1683" score="6" word="dusky">
+		<try>trill</try>
+		<try>pokes</try>
+		<try>musky</try>
+		<try>busky</try>
+		<try>husky</try>
+		<try>dusky</try>
+	</wordle>
+
 </wordles>
