@@ -198,4 +198,11 @@
 		<try>dusky</try>
 	</wordle>
 
+	<wordle date="2026-01-28" number="1684" score="4" word="cruel">
+		<try>spilt</try>
+		<try>leady</try>
+		<try>hovel</try>
+		<try>cruel</try>
+	</wordle>
+
 </wordles>
