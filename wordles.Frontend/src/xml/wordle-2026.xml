@@ -205,4 +205,22 @@
 		<try>cruel</try>
 	</wordle>
 
+	<wordle date="2026-01-29" number="1685" score="2" word="flaky">
+		<try>claps</try>
+		<try>flaky</try>
+	</wordle>
+
+	<wordle date="2026-01-30" number="1686" score="3" word="jumbo">
+		<try>bread</try>
+		<try>thumb</try>
+		<try>jumbo</try>
+	</wordle>
+
+	<wordle date="2026-01-31" number="1687" score="4" word="allot">
+		<try>trick</try>
+		<try>gates</try>
+		<try>float</try>
+		<try>allot</try>
+	</wordle>
+
 </wordles>
