@@ -223,4 +223,10 @@
 		<try>allot</try>
 	</wordle>
 
+	<wordle date="2026-02-01" number="1688" score="3" word="spiny">
+		<try>sunny</try>
+		<try>shiny</try>
+		<try>spiny</try>
+	</wordle>
+
 </wordles>
