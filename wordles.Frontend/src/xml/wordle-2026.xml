@@ -229,4 +229,10 @@
 		<try>spiny</try>
 	</wordle>
 
+	<wordle date="2026-02-02" number="1689" score="3" word="cigar">
+		<try>trace</try>
+		<try>carol</try>
+		<try>cigar</try>
+	</wordle>
+
 </wordles>
