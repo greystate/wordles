@@ -235,4 +235,34 @@
 		<try>cigar</try>
 	</wordle>
 
+	<wordle date="2026-02-03" number="1690" score="4" word="weigh">
+		<try>stray</try>
+		<try>olden</try>
+		<try>chime</try>
+		<try>weigh</try>
+	</wordle>
+
+	<wordle date="2026-02-04" number="1691" score="5" word="chide">
+		<try>grift</try>
+		<try>spine</try>
+		<try>olive</try>
+		<try>abide</try>
+		<try>chide</try>
+	</wordle>
+
+	<wordle date="2026-02-05" number="1692" score="5" word="swoop">
+		<try>buoys</try>
+		<try>store</try>
+		<try>shock</try>
+		<try>swoon</try>
+		<try>swoop</try>
+	</wordle>
+
+	<wordle date="2026-02-06" number="1693" score="4" word="gavel">
+		<try>start</try>
+		<try>alive</try>
+		<try>navel</try>
+		<try>gavel</try>
+	</wordle>
+
 </wordles>
