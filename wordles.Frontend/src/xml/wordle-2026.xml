@@ -265,4 +265,19 @@
 		<try>gavel</try>
 	</wordle>
 
+	<wordle date="2026-02-07" number="1694" score="5" word="bleat">
+		<try>spray</try>
+		<try>freak</try>
+		<try>clean</try>
+		<try>gleam</try>
+		<try>bleat</try>
+	</wordle>
+
+	<wordle date="2026-02-08" number="1295" score="4" word="embed">
+		<try>drape</try>
+		<try>edits</try>
+		<try>endow</try>
+		<try>embed</try>
+	</wordle>
+
 </wordles>
