@@ -280,4 +280,25 @@
 		<try>embed</try>
 	</wordle>
 
+	<wordle date="2026-02-09" number="1296" score="3" word="cello">
+		<try>spore</try>
+		<try>coven</try>
+		<try>cello</try>
+	</wordle>
+
+	<wordle date="2026-02-10" number="1297" score="5" word="scene">
+		<try>bland</try>
+		<try>stunt</try>
+		<try>shine</try>
+		<try>scone</try>
+		<try>scene</try>
+	</wordle>
+
+	<wordle date="2026-02-11" number="1298" score="4" word="vegan">
+		<try>prank</try>
+		<try>talon</try>
+		<try>began</try>
+		<try>vegan</try>
+	</wordle>
+
 </wordles>
