@@ -273,20 +273,20 @@
 		<try>bleat</try>
 	</wordle>
 
-	<wordle date="2026-02-08" number="1295" score="4" word="embed">
+	<wordle date="2026-02-08" number="1695" score="4" word="embed">
 		<try>drape</try>
 		<try>edits</try>
 		<try>endow</try>
 		<try>embed</try>
 	</wordle>
 
-	<wordle date="2026-02-09" number="1296" score="3" word="cello">
+	<wordle date="2026-02-09" number="1696" score="3" word="cello">
 		<try>spore</try>
 		<try>coven</try>
 		<try>cello</try>
 	</wordle>
 
-	<wordle date="2026-02-10" number="1297" score="5" word="scene">
+	<wordle date="2026-02-10" number="1697" score="5" word="scene">
 		<try>bland</try>
 		<try>stunt</try>
 		<try>shine</try>
@@ -294,11 +294,18 @@
 		<try>scene</try>
 	</wordle>
 
-	<wordle date="2026-02-11" number="1298" score="4" word="vegan">
+	<wordle date="2026-02-11" number="1698" score="4" word="vegan">
 		<try>prank</try>
 		<try>talon</try>
 		<try>began</try>
 		<try>vegan</try>
+	</wordle>
+
+	<wordle date="2026-02-12" number="1699" score="4" word="surge">
+		<try>boast</try>
+		<try>spire</try>
+		<try>serve</try>
+		<try>surge</try>
 	</wordle>
 
 </wordles>
