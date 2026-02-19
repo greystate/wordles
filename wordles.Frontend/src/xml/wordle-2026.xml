@@ -308,4 +308,51 @@
 		<try>surge</try>
 	</wordle>
 
+	<wordle date="2026-02-13" number="1700" score="5" word="mooch">
+		<try>shave</try>
+		<try>hippo</try>
+		<try>bough</try>
+		<try>month</try>
+		<try>mooch</try>
+	</wordle>
+
+	<wordle date="2026-02-14" number="1701" score="3" word="bloom">
+		<try>place</try>
+		<try>blunt</try>
+		<try>bloom</try>
+	</wordle>
+
+	<wordle date="2026-02-15" number="1702" score="4" word="skull">
+		<try>blank</try>
+		<try>locks</try>
+		<try>skill</try>
+		<try>skull</try>
+	</wordle>
+
+	<wordle date="2026-02-16" number="1703" score="3" word="roost">
+		<try>probe</try>
+		<try>rooms</try>
+		<try>roost</try>
+	</wordle>
+
+	<wordle date="2026-02-17" number="1704" score="4" word="squad">
+		<try>grave</try>
+		<try>waist</try>
+		<try>sloan</try>
+		<try>squad</try>
+	</wordle>
+
+	<wordle date="2026-02-18" number="1705" score="4" word="mogul">
+		<try>stain</try>
+		<try>poker</try>
+		<try>mould</try>
+		<try>mogul</try>
+	</wordle>
+
+	<wordle date="2026-02-19" number="1706" score="3" word="hoist">
+		<try>trace</try>
+		<try>stomp</try>
+		<try>hoist</try>
+	</wordle>
+
 </wordles>
