@@ -355,4 +355,16 @@
 		<try>hoist</try>
 	</wordle>
 
+	<wordle date="2026-02-20" number="1707" score="4" word="stank">
+		<try>tonal</try>
+		<try>meant</try>
+		<try>stand</try>
+		<try>stank</try>
+	</wordle>
+
+	<wordle date="2026-02-21" number="1708" score="2" word="awake">
+		<try>frail</try>
+		<try>awake</try>
+	</wordle>
+
 </wordles>
