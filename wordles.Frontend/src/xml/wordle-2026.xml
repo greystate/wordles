@@ -367,4 +367,38 @@
 		<try>awake</try>
 	</wordle>
 
+	<wordle date="2026-02-22" number="1709" score="4" word="guava">
+		<try>teams</try>
+		<try>plain</try>
+		<try>gravy</try>
+		<try>guava</try>
+	</wordle>
+
+	<wordle date="2026-02-23" number="1710" score="4" word="attic">
+		<try>gnash</try>
+		<try>pacer</try>
+		<try>cloak</try>
+		<try>attic</try>
+	</wordle>
+
+	<wordle date="2026-02-24" number="1711" score="3" word="buyer">
+		<try>tonic</try>
+		<try>bulgy</try>
+		<try>buyer</try>
+	</wordle>
+
+	<wordle date="2026-02-25" number="1712" score="4" word="shred">
+		<try>alter</try>
+		<try>breed</try>
+		<try>hired</try>
+		<try>shred</try>
+	</wordle>
+
+	<wordle date="2026-02-26" number="1713" score="4" word="lance">
+		<try>spice</try>
+		<try>trace</try>
+		<try>dance</try>
+		<try>lance</try>
+	</wordle>
+
 </wordles>
