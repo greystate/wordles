@@ -401,4 +401,11 @@
 		<try>lance</try>
 	</wordle>
 
+	<wordle date="2026-02-27" number="1714" score="4" word="dizzy">
+		<try>stain</try>
+		<try>while</try>
+		<try>picky</try>
+		<try>dizzy</try>
+	</wordle>
+
 </wordles>
