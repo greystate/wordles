@@ -408,4 +408,12 @@
 		<try>dizzy</try>
 	</wordle>
 
+	<wordle date="2026-02-28" number="1715" score="5" word="hydra">
+		<try>frown</try>
+		<try>tiger</try>
+		<try>charm</try>
+		<try>harry</try>
+		<try>hydra</try>
+	</wordle>
+
 </wordles>
