@@ -416,4 +416,10 @@
 		<try>hydra</try>
 	</wordle>
 
+	<wordle date="2026-03-01" number="1716" score="3" word="fluke">
+		<try>trade</try>
+		<try>plume</try>
+		<try>fluke</try>
+	</wordle>
+
 </wordles>
