@@ -79,6 +79,31 @@
 		<xsl:value-of select="math:max($streaks/streak/@length)" />
 	</xsl:template>
 
+	<xsl:template name="latest-streak-wordle">
+		<xsl:param name="wordles" select="/.." />
+		<xsl:variable name="start" select="$wordles[1]/@number" />
+		<xsl:variable name="current" select="$wordles[last()]" />
+		<xsl:variable name="streaks-RTF">
+			<xsl:for-each select="$wordles[@score = 0] | $current">
+				<xsl:variable name="previous" select="preceding-sibling::w:wordle[@score = 0][1]" />
+				<xsl:variable name="streak" select="@number - ($previous/@number + 1)" />
+				<xsl:choose>
+					<xsl:when test="string($streak) = 'NaN'">
+						<streak length="{@number - $start}" number="{@number}" />
+					</xsl:when>
+					<xsl:when test="@number = $current/@number and not(@score = 0)">
+						<streak length="{@number - $previous/@number}" number="{@number}" />
+					</xsl:when>
+					<xsl:otherwise>
+						<streak length="{$streak}" number="{@number}" />
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:variable name="streaks" select="make:node-set($streaks-RTF)" />
+		<xsl:value-of select="$streaks/streak[position() = last()]/@length" />
+	</xsl:template>
+
 	<xsl:template name="longest-streak-quordle">
 		<xsl:param name="wordles" select="/.." />
 		<xsl:variable name="start" select="$wordles[1]/@number" />
@@ -138,6 +163,14 @@
 							<th scope="row">Current streak</th>
 							<td>
 								<xsl:value-of select="($current/@number - $latest-lost/@number) * number(not($current/@score = 0))" />
+							</td>
+						</tr>
+						<tr>
+							<th scope="row">Latest streak</th>
+							<td>
+								<xsl:call-template name="latest-streak-wordle">
+									<xsl:with-param name="wordles" select="$wordles" />
+								</xsl:call-template>
 							</td>
 						</tr>
 						<tr>
