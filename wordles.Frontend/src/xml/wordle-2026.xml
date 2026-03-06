@@ -422,4 +422,43 @@
 		<try>fluke</try>
 	</wordle>
 
+	<wordle date="2026-03-02" number="1717" score="4" word="slime">
+		<try>cheat</try>
+		<try>piles</try>
+		<try>slide</try>
+		<try>slime</try>
+	</wordle>
+
+	<wordle date="2026-03-03" number="1718" score="4" word="linen">
+		<try>opera</try>
+		<try>evict</try>
+		<try>helix</try>
+		<try>linen</try>
+	</wordle>
+
+	<wordle date="2026-03-04" number="1719" score="5" word="theft">
+		<try>power</try>
+		<try>evict</try>
+		<try>bleat</try>
+		<try>quest</try>
+		<try>theft</try>
+	</wordle>
+
+	<wordle date="2026-03-05" number="1720" score="5" word="sheep">
+		<try>crawl</try>
+		<try>dents</try>
+		<try>mouse</try>
+		<try>sheik</try>
+		<try>sheep</try>
+	</wordle>
+
+	<wordle date="2026-03-06" number="1721" score="0" word="gunky">
+		<try>magic</try>
+		<try>group</try>
+		<try>glued</try>
+		<try>gushy</try>
+		<try>gunny</try>
+		<try>gungy</try>
+	</wordle>
+
 </wordles>
