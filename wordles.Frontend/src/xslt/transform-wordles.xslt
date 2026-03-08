@@ -84,7 +84,7 @@
 		<xsl:variable name="start" select="$wordles[1]/@number" />
 		<xsl:variable name="current" select="$wordles[last()]" />
 		<xsl:variable name="streaks-RTF">
-			<xsl:for-each select="$wordles[@score = 0] | $current">
+			<xsl:for-each select="$wordles[@score = 0]">
 				<xsl:variable name="previous" select="preceding-sibling::w:wordle[@score = 0][1]" />
 				<xsl:variable name="streak" select="@number - ($previous/@number + 1)" />
 				<xsl:choose>
