@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles" xmlns:xi="http://www.w3.org/2001/XInclude">
+<wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles">
 
 	<wordle date="2026-01-01" number="1657" score="5" word="fable">
 		<try>whale</try>
@@ -452,6 +452,8 @@
 		<try>sheep</try>
 	</wordle>
 
+	<!--  ⬆️ Streak of 48 😭 -->
+
 	<wordle date="2026-03-06" number="1721" score="0" word="gunky">
 		<try>magic</try>
 		<try>group</try>
@@ -459,6 +461,21 @@
 		<try>gushy</try>
 		<try>gunny</try>
 		<try>gungy</try>
+	</wordle>
+
+	<wordle date="2026-03-07" number="1722" score="5" word="vogue">
+		<try>brash</try>
+		<try>wield</try>
+		<try>money</try>
+		<try>coupe</try>
+		<try>vogue</try>
+	</wordle>
+
+	<wordle date="2026-03-08" number="1723" score="4" word="lobby">
+		<try>stark</try>
+		<try>pound</try>
+		<try>bowel</try>
+		<try>lobby</try>
 	</wordle>
 
 </wordles>
