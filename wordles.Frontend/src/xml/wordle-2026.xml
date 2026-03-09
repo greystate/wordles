@@ -478,4 +478,9 @@
 		<try>lobby</try>
 	</wordle>
 
+	<wordle date="2026-03-09" number="1724" score="2" word="hasty">
+		<try>youth</try>
+		<try>hasty</try>
+	</wordle>
+
 </wordles>
