@@ -483,4 +483,31 @@
 		<try>hasty</try>
 	</wordle>
 
+	<wordle date="2026-03-10" number="1725" score="5" word="shoal">
+		<try>crave</try>
+		<try>align</try>
+		<try>lasso</try>
+		<try>molas</try>
+		<try>shoal</try>
+	</wordle>
+
+	<wordle date="2026-03-11" number="1726" score="3" word="teddy">
+		<try>grade</try>
+		<try>bendy</try>
+		<try>teddy</try>
+	</wordle>
+
+	<wordle date="2026-03-12" number="1727" score="4" word="smell">
+		<try>space</try>
+		<try>sever</try>
+		<try>swell</try>
+		<try>smell</try>
+	</wordle>
+
+	<wordle date="2026-03-13" number="1728" score="3" word="eaten">
+		<try>flash</try>
+		<try>rated</try>
+		<try>eaten</try>
+	</wordle>
+
 </wordles>
