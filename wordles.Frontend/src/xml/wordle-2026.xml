@@ -510,4 +510,10 @@
 		<try>eaten</try>
 	</wordle>
 
+	<wordle date="2026-03-14" number="1729" score="3" word="ankle">
+		<try>slate</try>
+		<try>angle</try>
+		<try>ankle</try>
+	</wordle>
+
 </wordles>
