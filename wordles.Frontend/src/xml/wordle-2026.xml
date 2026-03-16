@@ -516,4 +516,20 @@
 		<try>ankle</try>
 	</wordle>
 
+	<wordle date="2026-03-15" number="1730" score="5" word="grade">
+		<try>poker</try>
+		<try>react</try>
+		<try>erase</try>
+		<try>brame</try>
+		<try>grade</try>
+	</wordle>
+
+	<wordle date="2026-03-16" number="1731" score="5" word="drama">
+		<try>probe</try>
+		<try>track</try>
+		<try>gravy</try>
+		<try>drain</try>
+		<try>drama</try>
+	</wordle>
+
 </wordles>
