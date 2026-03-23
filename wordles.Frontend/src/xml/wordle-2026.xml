@@ -532,4 +532,49 @@
 		<try>drama</try>
 	</wordle>
 
+	<wordle date="2026-03-17" number="1732" score="4" word="clasp">
+		<try>mouse</try>
+		<try>harsh</try>
+		<try>avast</try>
+		<try>clasp</try>
+	</wordle>
+
+	<wordle date="2026-03-18" number="1733" score="4" word="amply">
+		<try>strap</try>
+		<try>paved</try>
+		<try>apply</try>
+		<try>amply</try>
+	</wordle>
+
+	<wordle date="2026-03-19" number="1734" score="4" word="rehab">
+		<try>spoke</try>
+		<try>great</try>
+		<try>clear</try>
+		<try>rehab</try>
+	</wordle>
+
+	<wordle date="2026-03-20" number="1735" score="3" word="oasis">
+		<try>stain</try>
+		<try>basic</try>
+		<try>oasis</try>
+	</wordle>
+
+	<wordle date="2026-03-21" number="1736" score="3" word="slick">
+		<try>craft</try>
+		<try>scope</try>
+		<try>slick</try>
+	</wordle>
+
+	<wordle date="2026-03-22" number="1737" score="3" word="basil">
+		<try>graph</try>
+		<try>waste</try>
+		<try>basil</try>
+	</wordle>
+
+	<wordle date="2026-03-23" number="1738" score="3" word="serif">
+		<try>opera</try>
+		<try>reins</try>
+		<try>serif</try>
+	</wordle>
+
 </wordles>
