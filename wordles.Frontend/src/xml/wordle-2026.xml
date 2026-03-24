@@ -577,4 +577,12 @@
 		<try>serif</try>
 	</wordle>
 
+	<wordle date="2026-03-24" number="1739" score="5" word="brood">
+		<try>stray</try>
+		<try>rider</try>
+		<try>proud</try>
+		<try>crown</try>
+		<try>brood</try>
+	</wordle>
+
 </wordles>
