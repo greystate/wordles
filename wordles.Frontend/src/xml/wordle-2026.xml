@@ -585,4 +585,26 @@
 		<try>brood</try>
 	</wordle>
 
+	<wordle date="2026-03-25" number="1740" score="4" word="wiser">
+		<try>space</try>
+		<try>duets</try>
+		<try>miser</try>
+		<try>wiser</try>
+	</wordle>
+
+	<wordle date="2026-03-26" number="1741" score="5" word="befit">
+		<try>gauze</try>
+		<try>opens</try>
+		<try>fever</try>
+		<try>lefty</try>
+		<try>befit</try>
+	</wordle>
+
+	<wordle date="2026-03-27" number="1742" score="4" word="ivory">
+		<try>spare</try>
+		<try>thorn</try>
+		<try>glory</try>
+		<try>ivory</try>
+	</wordle>
+
 </wordles>
