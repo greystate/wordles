@@ -607,4 +607,25 @@
 		<try>ivory</try>
 	</wordle>
 
+	<wordle date="2026-03-28" number="1743" score="4" word="afoot">
+		<try>ruins</try>
+		<try>motel</try>
+		<try>photo</try>
+		<try>afoot</try>
+	</wordle>
+
+	<wordle date="2026-03-29" number="1744" score="5" word="chump">
+		<try>opera</try>
+		<try>bumpy</try>
+		<try>slump</try>
+		<try>thump</try>
+		<try>chump</try>
+	</wordle>
+
+	<wordle date="2026-03-30" number="1745" score="3" word="comet">
+		<try>patch</try>
+		<try>erect</try>
+		<try>comet</try>
+	</wordle>
+
 </wordles>
