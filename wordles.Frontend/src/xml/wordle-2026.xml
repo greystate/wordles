@@ -628,4 +628,11 @@
 		<try>comet</try>
 	</wordle>
 
+	<wordle date="2026-03-31" number="1746" score="4" word="swamp">
+		<try>wound</try>
+		<try>swirl</try>
+		<try>sweat</try>
+		<try>swamp</try>
+	</wordle>
+
 </wordles>
