@@ -635,4 +635,19 @@
 		<try>swamp</try>
 	</wordle>
 
+	<wordle date="2026-04-01" number="1747" score="4" word="fizzy">
+		<try>poker</try>
+		<try>stays</try>
+		<try>lying</try>
+		<try>fizzy</try>
+	</wordle>
+
+	<wordle date="2026-04-02" number="1748" score="5" word="sober">
+		<try>smack</try>
+		<try>slide</try>
+		<try>sneer</try>
+		<try>super</try>
+		<try>sober</try>
+	</wordle>
+
 </wordles>
