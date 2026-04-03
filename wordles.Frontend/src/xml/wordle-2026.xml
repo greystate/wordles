@@ -650,4 +650,10 @@
 		<try>sober</try>
 	</wordle>
 
+	<wordle date="2026-04-03" number="1749" score="3" word="singe">
+		<try>stage</try>
+		<try>siege</try>
+		<try>singe</try>
+	</wordle>
+
 </wordles>
