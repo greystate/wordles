@@ -656,4 +656,11 @@
 		<try>singe</try>
 	</wordle>
 
+	<wordle date="2026-04-04" number="1750" score="4" word="sandy">
+		<try>trope</try>
+		<try>walls</try>
+		<try>dashy</try>
+		<try>sandy</try>
+	</wordle>
+
 </wordles>
