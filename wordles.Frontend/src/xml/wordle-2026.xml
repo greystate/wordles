@@ -663,4 +663,12 @@
 		<try>sandy</try>
 	</wordle>
 
+	<wordle date="2026-04-05" number="1751" score="5" word="envoy">
+		<try>sting</try>
+		<try>ramen</try>
+		<try>bench</try>
+		<try>enjoy</try>
+		<try>envoy</try>
+	</wordle>
+
 </wordles>
