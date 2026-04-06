@@ -671,4 +671,19 @@
 		<try>envoy</try>
 	</wordle>
 
+	<wordle date="2026-04-06" number="1752" score="4" word="sworn">
+		<try>earth</try>
+		<try>round</try>
+		<try>minor</try>
+		<try>sworn</try>
+	</wordle>
+
+	<wordle date="2026-04-07" number="1753" score="5" word="dense">
+		<try>jumps</try>
+		<try>scare</try>
+		<try>goose</try>
+		<try>these</try>
+		<try>dense</try>
+	</wordle>
+
 </wordles>
