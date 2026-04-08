@@ -686,4 +686,11 @@
 		<try>dense</try>
 	</wordle>
 
+	<wordle date="2026-04-08" number="1754" score="4" word="inlet">
+		<try>spell</try>
+		<try>relic</try>
+		<try>filed</try>
+		<try>inlet</try>
+	</wordle>
+
 </wordles>
