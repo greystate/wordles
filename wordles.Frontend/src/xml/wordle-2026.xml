@@ -693,4 +693,11 @@
 		<try>inlet</try>
 	</wordle>
 
+	<wordle date="2026-04-09" number="1755" score="4" word="laden">
+		<try>sloth</try>
+		<try>lunge</try>
+		<try>liven</try>
+		<try>laden</try>
+	</wordle>
+
 </wordles>
