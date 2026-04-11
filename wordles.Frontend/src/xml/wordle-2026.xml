@@ -700,4 +700,19 @@
 		<try>laden</try>
 	</wordle>
 
+	<wordle date="2026-04-10" number="1756" score="5" word="carom">
+		<try>poker</try>
+		<try>trios</try>
+		<try>carol</try>
+		<try>carob</try>
+		<try>carom</try>
+		<try>carom</try>
+	</wordle>
+
+	<wordle date="2026-04-11" number="1757" score="3" word="prude">
+		<try>globe</try>
+		<try>pride</try>
+		<try>prude</try>
+	</wordle>
+
 </wordles>
