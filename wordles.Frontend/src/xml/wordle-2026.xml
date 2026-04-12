@@ -715,4 +715,10 @@
 		<try>prude</try>
 	</wordle>
 
+	<wordle date="2026-04-12" number="1758" score="3" word="alley">
+		<try>flick</try>
+		<try>sleep</try>
+		<try>alley</try>
+	</wordle>
+
 </wordles>
