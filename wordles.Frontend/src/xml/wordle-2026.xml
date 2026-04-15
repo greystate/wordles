@@ -721,4 +721,26 @@
 		<try>alley</try>
 	</wordle>
 
+	<wordle date="2026-04-13" number="1759" score="5" word="elfin">
+		<try>opera</try>
+		<try>inset</try>
+		<try>neigh</try>
+		<try>wince</try>
+		<try>elfin</try>
+	</wordle>
+
+	<wordle date="2026-04-14" number="1760" score="4" word="cycle">
+		<try>blast</try>
+		<try>lower</try>
+		<try>kluge</try>
+		<try>cycle</try>
+	</wordle>
+
+	<wordle date="2026-04-15" number="1761" score="4" word="begun">
+		<try>trope</try>
+		<try>laced</try>
+		<try>weigh</try>
+		<try>begun</try>
+	</wordle>
+
 </wordles>
