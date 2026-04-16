@@ -743,4 +743,12 @@
 		<try>begun</try>
 	</wordle>
 
+	<wordle date="2026-04-16" number="1762" score="5" word="cubit">
+		<try>solar</try>
+		<try>deity</try>
+		<try>tight</try>
+		<try>unfit</try>
+		<try>cubit</try>
+	</wordle>
+
 </wordles>
