@@ -751,4 +751,12 @@
 		<try>cubit</try>
 	</wordle>
 
+	<wordle date="2026-04-17" number="1763" score="5" word="belle">
+		<try>place</try>
+		<try>while</try>
+		<try>style</try>
+		<try>noble</try>
+		<try>belle</try>
+	</wordle>
+
 </wordles>
