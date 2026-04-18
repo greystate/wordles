@@ -759,4 +759,11 @@
 		<try>belle</try>
 	</wordle>
 
+	<wordle date="2026-04-18" number="1764" score="4" word="toady">
+		<try>trial</try>
+		<try>tames</try>
+		<try>thank</try>
+		<try>toady</try>
+	</wordle>
+
 </wordles>
