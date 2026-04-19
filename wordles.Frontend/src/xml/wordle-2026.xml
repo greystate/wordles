@@ -766,4 +766,12 @@
 		<try>toady</try>
 	</wordle>
 
+	<wordle date="2026-04-19" number="1765" score="5" word="stand">
+		<try>plain</try>
+		<try>moans</try>
+		<try>scant</try>
+		<try>stank</try>
+		<try>stand</try>
+	</wordle>
+
 </wordles>
