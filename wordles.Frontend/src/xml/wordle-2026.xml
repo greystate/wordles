@@ -774,4 +774,13 @@
 		<try>stand</try>
 	</wordle>
 
+	<wordle date="2026-04-20" number="1766" score="6" word="weave">
+		<try>timer</try>
+		<try>spoke</try>
+		<try>bugle</try>
+		<try>chafe</try>
+		<try>evade</try>
+		<try>weave</try>
+	</wordle>
+
 </wordles>
