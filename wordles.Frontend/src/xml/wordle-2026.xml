@@ -783,4 +783,11 @@
 		<try>weave</try>
 	</wordle>
 
+	<wordle date="2026-04-21" number="1767" score="4" word="clump">
+		<try>bulge</try>
+		<try>ultra</try>
+		<try>slump</try>
+		<try>clump</try>
+	</wordle>
+
 </wordles>
