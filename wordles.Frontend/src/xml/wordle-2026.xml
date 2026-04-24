@@ -790,4 +790,23 @@
 		<try>clump</try>
 	</wordle>
 
+	<wordle date="2026-04-22" number="1768" score="4" word="snore">
+		<try>forms</try>
+		<try>arson</try>
+		<try>snort</try>
+		<try>snore</try>
+	</wordle>
+
+	<!-- Missed #1769 -->
+	<wordle date="2026-04-23" number="1769" score="0" word="tweet" />
+
+	<wordle date="2026-04-24" number="1770" score="4" word="drunk">
+		<try>plain</try>
+		<try>crone</try>
+		<try>trunk</try>
+		<try>drunk</try>
+	</wordle>
+
+
+
 </wordles>
