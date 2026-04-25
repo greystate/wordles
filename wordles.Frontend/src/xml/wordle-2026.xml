@@ -807,6 +807,10 @@
 		<try>drunk</try>
 	</wordle>
 
-
+	<wordle date="2026-04-25" number="1771" score="3" word="women">
+		<try>drawn</try>
+		<try>woven</try>
+		<try>women</try>
+	</wordle>
 
 </wordles>
