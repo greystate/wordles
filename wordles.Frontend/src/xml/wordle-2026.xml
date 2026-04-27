@@ -813,4 +813,19 @@
 		<try>women</try>
 	</wordle>
 
+	<wordle date="2026-04-26" number="1772" score="4" word="gloss">
+		<try>clash</try>
+		<try>bliss</try>
+		<try>floss</try>
+		<try>gloss</try>
+	</wordle>
+
+	<wordle date="2026-04-27" number="1773" score="5" word="eerie">
+		<try>uncle</try>
+		<try>trade</try>
+		<try>rhyme</try>
+		<try>fibre</try>
+		<try>eerie</try>
+	</wordle>
+
 </wordles>
