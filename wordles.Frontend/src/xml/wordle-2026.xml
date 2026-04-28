@@ -828,4 +828,12 @@
 		<try>eerie</try>
 	</wordle>
 
+	<wordle date="2026-04-28" number="1774" score="5" word="quack">
+		<try>after</try>
+		<try>soapy</try>
+		<try>bland</try>
+		<try>whack</try>
+		<try>quack</try>
+	</wordle>
+
 </wordles>
