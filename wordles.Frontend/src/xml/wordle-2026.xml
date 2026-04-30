@@ -836,4 +836,19 @@
 		<try>quack</try>
 	</wordle>
 
+	<wordle date="2026-04-29" number="1775" score="5" word="rural">
+		<try>bread</try>
+		<try>coral</try>
+		<try>aural</try>
+		<try>mural</try>
+		<try>rural</try>
+	</wordle>
+
+	<wordle date="2026-04-30" number="1776" score="4" word="crock">
+		<try>relic</try>
+		<try>crush</try>
+		<try>crank</try>
+		<try>crock</try>
+	</wordle>
+
 </wordles>
