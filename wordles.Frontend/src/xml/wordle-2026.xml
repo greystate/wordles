@@ -851,4 +851,17 @@
 		<try>crock</try>
 	</wordle>
 
+	<wordle date="2026-05-01" number="1777" score="5" word="plume">
+		<try>wired</try>
+		<try>foley</try>
+		<try>slept</try>
+		<try>place</try>
+		<try>plume</try>
+	</wordle>
+
+	<wordle date="2026-05-02" number="1778" score="2" word="bring">
+		<try>great</try>
+		<try>bring</try>
+	</wordle>
+
 </wordles>
