@@ -872,4 +872,11 @@
 		<try>puffy</try>
 	</wordle>
 
+	<wordle date="2026-05-04" number="1780" score="4" word="riser">
+		<try>scarf</try>
+		<try>reset</try>
+		<try>risen</try>
+		<try>riser</try>
+	</wordle>
+
 </wordles>
