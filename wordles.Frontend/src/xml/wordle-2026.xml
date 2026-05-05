@@ -879,4 +879,9 @@
 		<try>riser</try>
 	</wordle>
 
+	<wordle date="2026-05-05" number="1781" score="2" word="latch">
+		<try>slack</try>
+		<try>latch</try>
+	</wordle>
+
 </wordles>
