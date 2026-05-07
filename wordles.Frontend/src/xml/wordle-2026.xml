@@ -884,4 +884,18 @@
 		<try>latch</try>
 	</wordle>
 
+	<wordle date="2026-05-06" number="1782" score="4" word="liken">
+		<try>steak</try>
+		<try>hiker</try>
+		<try>liked</try>
+		<try>liken</try>
+	</wordle>
+
+	<wordle date="2026-05-07" number="1783" score="4" word="budge">
+		<try>poker</try>
+		<try>deets</try>
+		<try>blade</try>
+		<try>budge</try>
+	</wordle>
+
 </wordles>
