@@ -898,4 +898,11 @@
 		<try>budge</try>
 	</wordle>
 
+	<wordle date="2026-05-08" number="1784" score="4" word="umbra">
+		<try>youth</try>
+		<try>burns</try>
+		<try>gebur</try>
+		<try>umbra</try>
+	</wordle>
+
 </wordles>
