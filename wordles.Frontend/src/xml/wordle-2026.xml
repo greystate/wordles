@@ -905,4 +905,11 @@
 		<try>umbra</try>
 	</wordle>
 
+	<wordle date="2026-05-09" number="1785" score="4" word="satin">
+		<try>wreck</try>
+		<try>loins</try>
+		<try>basin</try>
+		<try>satin</try>
+	</wordle>
+
 </wordles>
