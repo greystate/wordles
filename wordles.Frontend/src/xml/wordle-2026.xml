@@ -912,4 +912,11 @@
 		<try>satin</try>
 	</wordle>
 
+	<wordle date="2026-05-10" number="1786" score="4" word="parka">
+		<try>pungy</try>
+		<try>poker</try>
+		<try>parks</try>
+		<try>parka</try>
+	</wordle>
+
 </wordles>
