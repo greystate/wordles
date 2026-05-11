@@ -919,4 +919,11 @@
 		<try>parka</try>
 	</wordle>
 
+	<wordle date="2026-05-11" number="1787" score="4" word="newly">
+		<try>spark</try>
+		<try>fluid</try>
+		<try>lemon</try>
+		<try>newly</try>
+	</wordle>
+
 </wordles>
