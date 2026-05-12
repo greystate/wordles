@@ -926,4 +926,12 @@
 		<try>newly</try>
 	</wordle>
 
+	<wordle date="2026-05-12" number="1788" score="5" word="clock">
+		<try>hangs</try>
+		<try>prove</try>
+		<try>flowy</try>
+		<try>block</try>
+		<try>clock</try>
+	</wordle>
+
 </wordles>
