@@ -934,4 +934,13 @@
 		<try>clock</try>
 	</wordle>
 
+	<wordle date="2026-05-13" number="1789" score="6" word="dowdy">
+		<try>flunk</try>
+		<try>opera</try>
+		<try>stoic</try>
+		<try>bobby</try>
+		<try>howdy</try>
+		<try>dowdy</try>
+	</wordle>
+
 </wordles>
