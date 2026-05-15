@@ -943,4 +943,20 @@
 		<try>dowdy</try>
 	</wordle>
 
+	<wordle date="2026-05-14" number="1790" score="4" word="waver">
+		<try>opera</try>
+		<try>rates</try>
+		<try>wager</try>
+		<try>waver</try>
+	</wordle>
+
+	<wordle date="2026-05-15" number="1791" score="6" word="creed">
+		<try>youth</try>
+		<try>reads</try>
+		<try>fried</try>
+		<try>greed</try>
+		<try>breed</try>
+		<try>creed</try>
+	</wordle>
+
 </wordles>
