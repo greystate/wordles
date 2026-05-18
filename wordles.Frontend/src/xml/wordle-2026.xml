@@ -959,4 +959,25 @@
 		<try>creed</try>
 	</wordle>
 
+	<wordle date="2026-05-16" number="1792" score="4" word="mover">
+		<try>patch</try>
+		<try>dries</try>
+		<try>lover</try>
+		<try>mover</try>
+	</wordle>
+
+	<wordle date="2026-05-17" number="1793" score="4" word="bylaw">
+		<try>spare</try>
+		<try>taint</try>
+		<try>aloud</try>
+		<try>bylaw</try>
+	</wordle>
+
+	<wordle date="2026-05-18" number="1794" score="4" word="loath">
+		<try>power</try>
+		<try>bound</try>
+		<try>folly</try>
+		<try>loath</try>
+	</wordle>
+
 </wordles>
