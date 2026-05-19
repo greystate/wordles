@@ -980,4 +980,10 @@
 		<try>loath</try>
 	</wordle>
 
+	<wordle date="2026-05-19" number="1795" score="3" word="dusty">
+		<try>rocky</try>
+		<try>piety</try>
+		<try>dusty</try>
+	</wordle>
+
 </wordles>
