@@ -986,4 +986,9 @@
 		<try>dusty</try>
 	</wordle>
 
+	<wordle date="2026-05-20" number="1796" score="2" word="wreck">
+		<try>think</try>
+		<try>wreck</try>
+	</wordle>
+
 </wordles>
