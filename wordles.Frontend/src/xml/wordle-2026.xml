@@ -991,4 +991,11 @@
 		<try>wreck</try>
 	</wordle>
 
+	<wordle date="2026-05-21" number="1797" score="4" word="agree">
+		<try>plain</try>
+		<try>faced</try>
+		<try>aster</try>
+		<try>agree</try>
+	</wordle>
+
 </wordles>
