@@ -998,4 +998,12 @@
 		<try>agree</try>
 	</wordle>
 
+	<wordle date="2026-05-22" number="1798" score="5" word="vocal">
+		<try>ruins</try>
+		<try>whale</try>
+		<try>cloak</try>
+		<try>local</try>
+		<try>vocal</try>
+	</wordle>
+
 </wordles>
