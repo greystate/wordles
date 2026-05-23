@@ -1006,4 +1006,12 @@
 		<try>vocal</try>
 	</wordle>
 
+	<wordle date="2026-05-23" number="1799" score="5" word="chuck">
+		<try>stain</try>
+		<try>poker</try>
+		<try>mucky</try>
+		<try>cluck</try>
+		<try>chuck</try>
+	</wordle>
+
 </wordles>
