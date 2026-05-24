@@ -1014,4 +1014,12 @@
 		<try>chuck</try>
 	</wordle>
 
+	<wordle date="2026-05-24" number="1800" score="5" word="niece">
+		<try>trope</try>
+		<try>swale</try>
+		<try>budge</try>
+		<try>chime</try>
+		<try>niece</try>
+	</wordle>
+
 </wordles>
