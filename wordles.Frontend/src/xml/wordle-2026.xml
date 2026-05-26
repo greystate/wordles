@@ -1022,4 +1022,19 @@
 		<try>niece</try>
 	</wordle>
 
+	<wordle date="2026-05-25" number="1801" score="4" word="visit">
+		<try>spike</try>
+		<try>minds</try>
+		<try>fishy</try>
+		<try>visit</try>
+	</wordle>
+
+	<wordle date="2026-05-26" number="1802" score="5" word="couch">
+		<try>spice</try>
+		<try>lunch</try>
+		<try>touch</try>
+		<try>vouch</try>
+		<try>couch</try>
+	</wordle>
+
 </wordles>
