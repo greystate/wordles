@@ -1037,4 +1037,50 @@
 		<try>couch</try>
 	</wordle>
 
+	<wordle date="2026-05-27" number="1803" score="5" word="stuff">
+		<try>tower</try>
+		<try>stand</try>
+		<try>stick</try>
+		<try>stump</try>
+		<try>stuff</try>
+	</wordle>
+
+	<wordle date="2026-05-28" number="1804" score="5" word="divot">
+		<try>trace</try>
+		<try>stink</try>
+		<try>fight</try>
+		<try>pivot</try>
+		<try>divot</try>
+	</wordle>
+
+	<wordle date="2026-05-29" number="1805" score="4" word="clang">
+		<try>youth</try>
+		<try>dream</try>
+		<try>plain</try>
+		<try>clang</try>
+	</wordle>
+
+	<wordle date="2026-05-30" number="1806" score="4" word="smile">
+		<try>torch</try>
+		<try>plane</try>
+		<try>bugle</try>
+		<try>smile</try>
+	</wordle>
+
+	<wordle date="2026-05-31" number="1807" score="4" word="etude">
+		<try>mound</try>
+		<try>adult</try>
+		<try>study</try>
+		<try>etude</try>
+	</wordle>
+
+	<wordle date="2026-06-01" number="1808" score="6" word="chili">
+		<try>opera</try>
+		<try>might</try>
+		<try>which</try>
+		<try>child</try>
+		<try>chill</try>
+		<try>chili</try>
+	</wordle>
+
 </wordles>
