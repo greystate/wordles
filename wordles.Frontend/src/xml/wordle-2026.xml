@@ -1083,4 +1083,11 @@
 		<try>chili</try>
 	</wordle>
 
+	<wordle date="2026-06-02" number="1809" score="4" word="basis">
+		<try>plays</try>
+		<try>cares</try>
+		<try>gains</try>
+		<try>basis</try>
+	</wordle>
+
 </wordles>
