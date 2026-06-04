@@ -1090,4 +1090,17 @@
 		<try>basis</try>
 	</wordle>
 
+	<wordle date="2026-06-03" number="1810" score="3" word="notch">
+		<try>sweat</try>
+		<try>trick</try>
+		<try>notch</try>
+	</wordle>
+
+	<wordle date="2026-06-04" number="1811" score="4" word="alloy">
+		<try>crown</try>
+		<try>pokes</try>
+		<try>oddly</try>
+		<try>alloy</try>
+	</wordle>
+
 </wordles>
