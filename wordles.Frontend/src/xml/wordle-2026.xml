@@ -1103,4 +1103,12 @@
 		<try>alloy</try>
 	</wordle>
 
+	<wordle date="2026-06-05" number="1812" score="5" word="nobly">
+		<try>scrum</try>
+		<try>wheat</try>
+		<try>doily</try>
+		<try>folly</try>
+		<try>nobly</try>
+	</wordle>
+
 </wordles>
