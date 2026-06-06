@@ -1118,4 +1118,11 @@
 		<try>morph</try>
 	</wordle>
 
+	<wordle date="2026-06-07" number="1814" score="4" word="thumb">
+		<try>spawn</try>
+		<try>lucky</try>
+		<try>brute</try>
+		<try>thumb</try>
+	</wordle>
+
 </wordles>
