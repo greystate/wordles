@@ -1111,4 +1111,11 @@
 		<try>nobly</try>
 	</wordle>
 
+	<wordle date="2026-06-06" number="1813" score="4" word="morph">
+		<try>slate</try>
+		<try>brown</try>
+		<try>micro</try>
+		<try>morph</try>
+	</wordle>
+
 </wordles>
