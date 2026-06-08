@@ -1125,4 +1125,12 @@
 		<try>thumb</try>
 	</wordle>
 
+	<wordle date="2026-06-08" number="1815" score="5" word="mafia">
+		<try>diary</try>
+		<try>pains</try>
+		<try>habit</try>
+		<try>magic</try>
+		<try>mafia</try>
+	</wordle>
+
 </wordles>
