@@ -1133,4 +1133,12 @@
 		<try>mafia</try>
 	</wordle>
 
+	<wordle date="2026-06-09" number="1816" score="5" word="wharf">
+		<try>based</try>
+		<try>aging</try>
+		<try>cloak</try>
+		<try>wharf</try>
+		<try>wrath</try>
+	</wordle>
+
 </wordles>
