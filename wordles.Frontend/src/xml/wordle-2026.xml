@@ -1141,4 +1141,11 @@
 		<try>wrath</try>
 	</wordle>
 
+	<wordle date="2026-06-10" number="1817" score="4" word="align">
+		<try>rains</try>
+		<try>avian</try>
+		<try>alien</try>
+		<try>align</try>
+	</wordle>
+
 </wordles>
