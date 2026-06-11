@@ -1148,4 +1148,12 @@
 		<try>align</try>
 	</wordle>
 
+	<wordle date="2026-06-11" number="1818" score="5" word="testy">
+		<try>drape</try>
+		<try>fleet</try>
+		<try>bento</try>
+		<try>zesty</try>
+		<try>testy</try>
+	</wordle>
+
 </wordles>
