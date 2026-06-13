@@ -1156,4 +1156,17 @@
 		<try>testy</try>
 	</wordle>
 
+	<wordle date="2026-06-12" number="1819" score="4" word="break">
+		<try>altos</try>
+		<try>pared</try>
+		<try>reach</try>
+		<try>break</try>
+	</wordle>
+
+	<wordle date="2026-06-13" number="1820" score="3" word="quell">
+		<try>skill</try>
+		<try>dwell</try>
+		<try>quell</try>
+	</wordle>
+
 </wordles>
