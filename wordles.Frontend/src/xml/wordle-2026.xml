@@ -1137,8 +1137,8 @@
 		<try>based</try>
 		<try>aging</try>
 		<try>cloak</try>
-		<try>wharf</try>
 		<try>wrath</try>
+		<try>wharf</try>
 	</wordle>
 
 	<wordle date="2026-06-10" number="1817" score="4" word="align">
@@ -1167,6 +1167,13 @@
 		<try>skill</try>
 		<try>dwell</try>
 		<try>quell</try>
+	</wordle>
+
+	<wordle date="2026-06-14" number="1821" score="4" word="sepia">
+		<try>point</try>
+		<try>limps</try>
+		<try>sprig</try>
+		<try>sepia</try>
 	</wordle>
 
 </wordles>
