@@ -1176,4 +1176,10 @@
 		<try>sepia</try>
 	</wordle>
 
+	<wordle date="2026-06-15" number="1822" score="3" word="broil">
+		<try>great</try>
+		<try>frown</try>
+		<try>broil</try>
+	</wordle>
+
 </wordles>
