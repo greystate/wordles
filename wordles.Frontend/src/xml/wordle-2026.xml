@@ -1182,4 +1182,10 @@
 		<try>broil</try>
 	</wordle>
 
+	<wordle date="2026-06-16" number="1823" score="3" word="amaze">
+		<try>scram</try>
+		<try>maple</try>
+		<try>amaze</try>
+	</wordle>
+
 </wordles>
