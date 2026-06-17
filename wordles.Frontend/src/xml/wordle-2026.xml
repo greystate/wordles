@@ -1188,4 +1188,11 @@
 		<try>amaze</try>
 	</wordle>
 
+	<wordle date="2026-06-17" number="1824" score="4" word="token">
+		<try>grown</try>
+		<try>felon</try>
+		<try>dozen</try>
+		<try>token</try>
+	</wordle>
+
 </wordles>
