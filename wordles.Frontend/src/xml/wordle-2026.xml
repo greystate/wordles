@@ -1195,4 +1195,11 @@
 		<try>token</try>
 	</wordle>
 
+	<wordle date="2026-06-18" number="1825" score="4" word="entry">
+		<try>bland</try>
+		<try>sonic</try>
+		<try>never</try>
+		<try>entry</try>
+	</wordle>
+
 </wordles>
