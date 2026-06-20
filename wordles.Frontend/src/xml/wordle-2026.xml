@@ -1202,4 +1202,21 @@
 		<try>entry</try>
 	</wordle>
 
+
+	<wordle date="2026-06-19" number="1826" score="6" word="emoji">
+		<try>happy</try>
+		<try>birth</try>
+		<try>sling</try>
+		<try>comic</try>
+		<try>duomi</try>
+		<try>emoji</try>
+	</wordle>
+
+	<wordle date="2026-06-20" number="1827" score="4" word="drake">
+		<try>spare</try>
+		<try>trace</try>
+		<try>brake</try>
+		<try>drake</try>
+	</wordle>
+
 </wordles>
