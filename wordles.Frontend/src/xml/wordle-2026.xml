@@ -1219,4 +1219,11 @@
 		<try>drake</try>
 	</wordle>
 
+	<wordle date="2026-06-21" number="1828" score="4" word="alibi">
+		<try>grave</try>
+		<try>patty</try>
+		<try>axiom</try>
+		<try>alibi</try>
+	</wordle>
+
 </wordles>
