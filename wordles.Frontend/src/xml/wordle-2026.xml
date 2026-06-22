@@ -1226,4 +1226,11 @@
 		<try>alibi</try>
 	</wordle>
 
+	<wordle date="2026-06-22" number="1829" score="4" word="ovate">
+		<try>lunch</try>
+		<try>poker</try>
+		<try>emote</try>
+		<try>ovate</try>
+	</wordle>
+
 </wordles>
