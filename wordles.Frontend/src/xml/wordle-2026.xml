@@ -1233,4 +1233,11 @@
 		<try>ovate</try>
 	</wordle>
 
+	<wordle date="2026-06-23" number="1830" score="4" word="curry">
+		<try>store</try>
+		<try>alarm</try>
+		<try>churn</try>
+		<try>curry</try>
+	</wordle>
+
 </wordles>
