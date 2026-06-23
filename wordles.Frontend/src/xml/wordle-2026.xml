@@ -1240,4 +1240,10 @@
 		<try>curry</try>
 	</wordle>
 
+	<wordle date="2026-06-24" number="1831" score="3" word="queer">
+		<try>slice</try>
+		<try>dream</try>
+		<try>queer</try>
+	</wordle>
+
 </wordles>
