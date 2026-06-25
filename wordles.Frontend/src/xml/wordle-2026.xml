@@ -1246,4 +1246,10 @@
 		<try>queer</try>
 	</wordle>
 
+	<wordle date="2026-06-25" number="1832" score="3" word="unity">
+		<try>stark</try>
+		<try>guilt</try>
+		<try>unity</try>
+	</wordle>
+
 </wordles>
