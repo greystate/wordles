@@ -1259,4 +1259,11 @@
 		<try>acute</try>
 	</wordle>
 
+	<wordle date="2026-06-27" number="1834" score="4" word="scoop">
+		<try>rains</try>
+		<try>stoke</try>
+		<try>swoop</try>
+		<try>scoop</try>
+	</wordle>
+
 </wordles>
