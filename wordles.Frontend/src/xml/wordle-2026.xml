@@ -1252,4 +1252,11 @@
 		<try>unity</try>
 	</wordle>
 
+	<wordle date="2026-06-26" number="1833" score="4" word="acute">
+		<try>swear</try>
+		<try>heath</try>
+		<try>latte</try>
+		<try>acute</try>
+	</wordle>
+
 </wordles>
