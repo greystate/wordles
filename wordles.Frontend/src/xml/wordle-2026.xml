@@ -1266,4 +1266,11 @@
 		<try>scoop</try>
 	</wordle>
 
+	<wordle date="2026-06-28" number="1835" score="4" word="emcee">
+		<try>tours</try>
+		<try>plead</try>
+		<try>mince</try>
+		<try>emcee</try>
+	</wordle>
+
 </wordles>
