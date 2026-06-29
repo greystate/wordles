@@ -1273,4 +1273,11 @@
 		<try>emcee</try>
 	</wordle>
 
+	<wordle date="2026-06-29" number="1836" score="4" word="crude">
+		<try>brand</try>
+		<try>drill</try>
+		<try>prude</try>
+		<try>crude</try>
+	</wordle>
+
 </wordles>
