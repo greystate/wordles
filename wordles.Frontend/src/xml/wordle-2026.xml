@@ -1280,4 +1280,13 @@
 		<try>crude</try>
 	</wordle>
 
+	<wordle date="2026-06-30" number="1837" score="6" word="puppy">
+		<try>cough</try>
+		<try>nurse</try>
+		<try>audit</try>
+		<try>bulky</try>
+		<try>pumpy</try>
+		<try>puppy</try>
+	</wordle>
+
 </wordles>
