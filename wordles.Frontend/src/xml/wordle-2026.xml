@@ -1289,4 +1289,16 @@
 		<try>puppy</try>
 	</wordle>
 
+	<wordle date="2026-07-01" number="1838" score="3" word="demur">
+		<try>bride</try>
+		<try>cared</try>
+		<try>demur</try>
+	</wordle>
+
+	<wordle date="2026-07-02" number="1839" score="3" word="maven">
+		<try>opera</try>
+		<try>began</try>
+		<try>maven</try>
+	</wordle>
+
 </wordles>
