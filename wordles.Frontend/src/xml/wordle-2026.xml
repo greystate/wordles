@@ -1301,4 +1301,34 @@
 		<try>maven</try>
 	</wordle>
 
+	<!-- Missed #1840 -->
+	<wordle date="2026-07-03" number="1840" score="0" word="baton" />
+
+	<wordle date="2026-07-04" number="1841" score="4" word="pizza">
+		<try>prove</try>
+		<try>plays</try>
+		<try>panic</try>
+		<try>pizza</try>
+	</wordle>
+
+	<wordle date="2026-07-05" number="1842" score="4" word="swami">
+		<try>clash</try>
+		<try>usage</try>
+		<try>stamp</try>
+		<try>swami</try>
+	</wordle>
+
+	<wordle date="2026-07-06" number="1843" score="4" word="toddy">
+		<try>steak</try>
+		<try>tonic</try>
+		<try>tough</try>
+		<try>toddy</try>
+	</wordle>
+
+	<wordle date="2026-07-07" number="1844" score="3" word="sling">
+		<try>locks</try>
+		<try>slang</try>
+		<try>sling</try>
+	</wordle>
+
 </wordles>
