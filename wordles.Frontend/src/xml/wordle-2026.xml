@@ -1331,4 +1331,10 @@
 		<try>sling</try>
 	</wordle>
 
+	<wordle date="2026-07-08" number="1845" score="3" word="demon">
+		<try>cedar</try>
+		<try>depot</try>
+		<try>demon</try>
+	</wordle>
+
 </wordles>
