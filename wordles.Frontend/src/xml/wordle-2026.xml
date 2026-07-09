@@ -1337,4 +1337,10 @@
 		<try>demon</try>
 	</wordle>
 
+	<wordle date="2026-07-09" number="1846" score="3" word="amend">
+		<try>train</try>
+		<try>caned</try>
+		<try>amend</try>
+	</wordle>
+
 </wordles>
