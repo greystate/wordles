@@ -1343,4 +1343,31 @@
 		<try>amend</try>
 	</wordle>
 
+	<wordle date="2026-07-10" number="1847" score="4" word="canal">
+		<try>slack</try>
+		<try>decal</try>
+		<try>octal</try>
+		<try>canal</try>
+	</wordle>
+
+	<wordle date="2026-07-11" number="1848" score="3" word="avian">
+		<try>train</try>
+		<try>align</try>
+		<try>avian</try>
+	</wordle>
+
+	<wordle date="2026-07-12" number="1849" score="5" word="clack">
+		<try>flash</try>
+		<try>plane</try>
+		<try>glary</try>
+		<try>claim</try>
+		<try>clack</try>
+	</wordle>
+
+	<wordle date="2026-07-13" number="1850" score="3" word="stout">
+		<try>lions</try>
+		<try>short</try>
+		<try>stout</try>
+	</wordle>
+
 </wordles>
