@@ -1370,4 +1370,52 @@
 		<try>stout</try>
 	</wordle>
 
+	<!-- reconstructed -->
+	<wordle date="2026-07-14" number="1851" score="3" word="steak">
+		<try>sport</try>
+		<try>salty</try>
+		<try>steam</try>
+		<try>steak</try>
+	</wordle>
+
+	<wordle date="2026-07-15" number="1852" score="3" word="pshaw">
+		<try>opera</try>
+		<try>palms</try>
+		<try>pshaw</try>
+	</wordle>
+
+	<wordle date="2026-07-16" number="1853" score="4" word="butte">
+		<try>froth</try>
+		<try>waste</try>
+		<try>quite</try>
+		<try>butte</try>
+	</wordle>
+
+	<wordle date="2026-07-17" number="1854" score="5" word="legal">
+		<try>unset</try>
+		<try>opera</try>
+		<try>evade</try>
+		<try>belay</try>
+		<try>legal</try>
+	</wordle>
+
+	<wordle date="2026-07-18" number="1855" score="4" word="booth">
+		<try>tribe</try>
+		<try>boats</try>
+		<try>booty</try>
+		<try>booth</try>
+	</wordle>
+
+	<wordle date="2026-07-19" number="1856" score="3" word="churn">
+		<try>swarm</try>
+		<try>blurb</try>
+		<try>churn</try>
+	</wordle>
+
+	<wordle date="2026-07-20" number="1857" score="3" word="diver">
+		<try>point</try>
+		<try>magic</try>
+		<try>diver</try>
+	</wordle>
+
 </wordles>
