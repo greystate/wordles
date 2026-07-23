@@ -1418,4 +1418,25 @@
 		<try>diver</try>
 	</wordle>
 
+	<wordle date="2026-07-21" number="1858" score="5" word="shill">
+		<try>sugar</try>
+		<try>spike</try>
+		<try>shiny</try>
+		<try>shift</try>
+		<try>shill</try>
+	</wordle>
+
+	<wordle date="2026-07-22" number="1859" score="3" word="lorry">
+		<try>story</try>
+		<try>worry</try>
+		<try>lorry</try>
+	</wordle>
+
+	<wordle date="2026-07-23" number="1860" score="4" word="orbit">
+		<try>flare</try>
+		<try>porch</try>
+		<try>wrong</try>
+		<try>orbit</try>
+	</wordle>
+
 </wordles>
