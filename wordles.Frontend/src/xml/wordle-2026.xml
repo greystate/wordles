@@ -1439,4 +1439,11 @@
 		<try>orbit</try>
 	</wordle>
 
+	<wordle date="2026-07-24" number="1861" score="4" word="putty">
+		<try>teach</try>
+		<try>stint</try>
+		<try>lotto</try>
+		<try>putty</try>
+	</wordle>
+
 </wordles>
