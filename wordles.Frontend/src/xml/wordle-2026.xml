@@ -1446,4 +1446,27 @@
 		<try>putty</try>
 	</wordle>
 
+	<wordle date="2026-07-25" number="1862" score="3" word="aloha">
+		<try>truer</try>
+		<try>washy</try>
+		<try>aloha</try>
+	</wordle>
+
+	<!-- A repeat! (see 2024-02-05) -->
+	<wordle date="2026-07-26" number="1863" score="0" word="grape">
+		<try>delay</try>
+		<try>stake</try>
+		<try>brave</try>
+		<try>crane</try>
+		<try>frame</try>
+		<try>graze</try>
+	</wordle>
+
+	<wordle date="2026-07-27" number="1864" score="4" word="poser">
+		<try>weary</try>
+		<try>erode</try>
+		<try>roset</try>
+		<try>poser</try>
+	</wordle>
+
 </wordles>
