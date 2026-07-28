@@ -1469,4 +1469,11 @@
 		<try>poser</try>
 	</wordle>
 
+	<wordle date="2026-07-28" number="1865" score="4" word="sonar">
+		<try>scram</try>
+		<try>shear</try>
+		<try>solar</try>
+		<try>sonar</try>
+	</wordle>
+
 </wordles>
