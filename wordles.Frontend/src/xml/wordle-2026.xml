@@ -1476,4 +1476,11 @@
 		<try>sonar</try>
 	</wordle>
 
+	<wordle date="2026-07-29" number="1866" score="4" word="flume">
+		<try>opera</try>
+		<try>weigh</try>
+		<try>embed</try>
+		<try>flume</try>
+	</wordle>
+
 </wordles>
