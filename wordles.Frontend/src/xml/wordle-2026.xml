@@ -1483,4 +1483,10 @@
 		<try>flume</try>
 	</wordle>
 
+	<wordle date="2026-07-30" number="1867" score="3" word="purse">
+		<try>prays</try>
+		<try>poser</try>
+		<try>purse</try>
+	</wordle>
+
 </wordles>
