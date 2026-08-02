@@ -1452,6 +1452,7 @@
 		<try>aloha</try>
 	</wordle>
 
+	<!--  ⬆️ Streak of 22 😭 -->
 	<!-- A repeat! (see 2024-02-05) -->
 	<wordle date="2026-07-26" number="1863" score="0" word="grape">
 		<try>delay</try>
@@ -1476,25 +1477,39 @@
 		<try>sonar</try>
 	</wordle>
 
-	<wordle date="2026-07-29" number="1866" score="4" word="flume">
+	<!-- reconstructed -->
+	<wordle date="2026-07-29" number="1866" score="4" word="valve">
+		<try>train</try>
+		<try>fable</try>
+		<try>value</try>
+		<try>valve</try>
+	</wordle>
+
+	<wordle date="2026-07-30" number="1867" score="4" word="flume">
 		<try>opera</try>
 		<try>weigh</try>
 		<try>embed</try>
 		<try>flume</try>
 	</wordle>
 
-	<wordle date="2026-07-30" number="1867" score="3" word="purse">
+	<wordle date="2026-07-31" number="1868" score="3" word="purse">
 		<try>prays</try>
 		<try>poser</try>
 		<try>purse</try>
 	</wordle>
 
-	<wordle date="2026-07-31" number="1868" score="4" word="slush">
+	<wordle date="2026-08-01" number="1869" score="5" word="slush">
 		<try>foxes</try>
 		<try>spilt</try>
 		<try>slack</try>
 		<try>slyly</try>
 		<try>slush</try>
+	</wordle>
+
+	<wordle date="2026-08-02" number="1870" score="3" word="penal">
+		<try>blade</try>
+		<try>metal</try>
+		<try>penal</try>
 	</wordle>
 
 </wordles>
