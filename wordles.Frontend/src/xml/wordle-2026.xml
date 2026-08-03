@@ -1512,4 +1512,11 @@
 		<try>penal</try>
 	</wordle>
 
+	<wordle date="2026-08-03" number="1871" score="4" word="reply">
+		<try>spare</try>
+		<try>creep</try>
+		<try>peril</try>
+		<try>reply</try>
+	</wordle>
+
 </wordles>
