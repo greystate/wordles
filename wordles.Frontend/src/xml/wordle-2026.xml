@@ -1519,4 +1519,18 @@
 		<try>reply</try>
 	</wordle>
 
+	<wordle date="2026-08-04" number="1872" score="4" word="motif">
+		<try>await</try>
+		<try>stoic</try>
+		<try>toxin</try>
+		<try>motif</try>
+	</wordle>
+
+	<wordle date="2026-08-05" number="1873" score="4" word="posit">
+		<try>spawn</try>
+		<try>pushy</try>
+		<try>posse</try>
+		<try>posit</try>
+	</wordle>
+
 </wordles>
