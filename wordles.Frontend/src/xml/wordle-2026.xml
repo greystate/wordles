@@ -1533,4 +1533,10 @@
 		<try>posit</try>
 	</wordle>
 
+	<wordle date="2026-08-06" number="1874" score="3" word="gripe">
+		<try>strip</try>
+		<try>prime</try>
+		<try>gripe</try>
+	</wordle>
+
 </wordles>
