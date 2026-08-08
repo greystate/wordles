@@ -1539,4 +1539,18 @@
 		<try>gripe</try>
 	</wordle>
 
+	<wordle date="2026-08-07" number="1875" score="4" word="feign">
+		<try>swear</try>
+		<try>clove</try>
+		<try>embed</try>
+		<try>feign</try>
+	</wordle>
+
+	<wordle date="2026-08-08" number="1876" score="4" word="privy">
+		<try>plead</try>
+		<try>pouch</try>
+		<try>print</try>
+		<try>privy</try>
+	</wordle>
+
 </wordles>
