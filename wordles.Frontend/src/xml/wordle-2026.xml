@@ -1559,4 +1559,26 @@
 		<try>clunk</try>
 	</wordle>
 
+	<wordle date="2026-08-10" number="1878" score="5" word="snipe">
+		<try>break</try>
+		<try>evict</try>
+		<try>shine</try>
+		<try>snide</try>
+		<try>snipe</try>
+	</wordle>
+
+	<wordle date="2026-08-11" number="1879" score="4" word="fence">
+		<try>flint</try>
+		<try>fangs</try>
+		<try>fence</try>
+		<try>funny</try>
+	</wordle>
+
+	<wordle date="2026-08-12" number="1880" score="4" word="wimpy">
+		<try>youth</try>
+		<try>plays</try>
+		<try>nippy</try>
+		<try>wimpy</try>
+	</wordle>
+
 </wordles>
