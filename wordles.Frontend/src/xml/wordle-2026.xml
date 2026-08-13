@@ -1581,4 +1581,11 @@
 		<try>wimpy</try>
 	</wordle>
 
+	<wordle date="2026-08-13" number="1881" score="4" word="crash">
+		<try>power</try>
+		<try>draft</try>
+		<try>crams</try>
+		<try>crash</try>
+	</wordle>
+
 </wordles>
