@@ -1588,4 +1588,34 @@
 		<try>crash</try>
 	</wordle>
 
+	<!-- Missed #1882 -->
+	<wordle date="2026-08-14" number="1882" score="0" word="geode" />
+
+	<wordle date="2026-08-15" number="1883" score="4" word="loose">
+		<try>opera</try>
+		<try>toned</try>
+		<try>louse</try>
+		<try>loose</try>
+	</wordle>
+
+	<wordle date="2026-08-16" number="1884" score="4" word="aspic">
+		<try>death</try>
+		<try>savoy</try>
+		<try>alias</try>
+		<try>aspic</try>
+	</wordle>
+
+	<wordle date="2026-08-17" number="1885" score="4" word="tribe">
+		<try>dance</try>
+		<try>prove</try>
+		<try>brute</try>
+		<try>tribe</try>
+	</wordle>
+
+	<wordle date="2026-08-18" number="1886" score="3" word="strip">
+		<try>frown</try>
+		<try>scare</try>
+		<try>strip</try>
+	</wordle>
+
 </wordles>
