@@ -1618,4 +1618,12 @@
 		<try>strip</try>
 	</wordle>
 
+	<wordle date="2026-08-19" number="1887" score="5" word="grill">
+		<try>price</try>
+		<try>brink</try>
+		<try>trial</try>
+		<try>drill</try>
+		<try>grill</try>
+	</wordle>
+
 </wordles>
