@@ -1626,4 +1626,9 @@
 		<try>grill</try>
 	</wordle>
 
+	<wordle date="2026-08-20" number="1888" score="2" word="murky">
+		<try>slurp</try>
+		<try>murky</try>
+	</wordle>
+
 </wordles>
