@@ -1631,4 +1631,10 @@
 		<try>murky</try>
 	</wordle>
 
+	<wordle date="2026-08-21" number="1889" score="3" word="trace">
+		<try>claim</try>
+		<try>react</try>
+		<try>trace</try>
+	</wordle>
+
 </wordles>
