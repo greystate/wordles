@@ -1637,4 +1637,25 @@
 		<try>trace</try>
 	</wordle>
 
+	<wordle date="2026-08-22" number="1890" score="3" word="prawn">
+		<try>drone</try>
+		<try>train</try>
+		<try>prawn</try>
+	</wordle>
+
+	<wordle date="2026-08-23" number="1891" score="3" word="olden">
+		<try>juror</try>
+		<try>ploys</try>
+		<try>olden</try>
+	</wordle>
+
+	<wordle date="2026-08-24" number="1892" score="6" word="runny">
+		<try>kings</try>
+		<try>fancy</try>
+		<try>monty</try>
+		<try>penny</try>
+		<try>bunny</try>
+		<try>runny</try>
+	</wordle>
+
 </wordles>
