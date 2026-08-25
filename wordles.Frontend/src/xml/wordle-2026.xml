@@ -1658,4 +1658,13 @@
 		<try>runny</try>
 	</wordle>
 
+	<wordle date="2026-08-25" number="1893" score="6" word="click">
+		<try>point</try>
+		<try>maize</try>
+		<try>grill</try>
+		<try>bliss</try>
+		<try>flick</try>
+		<try>click</try>
+	</wordle>
+
 </wordles>
