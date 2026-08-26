@@ -1667,4 +1667,10 @@
 		<try>click</try>
 	</wordle>
 
+	<wordle date="2026-08-26" number="1894" score="3" word="capon">
+		<try>opera</try>
+		<try>piano</try>
+		<try>capon</try>
+	</wordle>
+
 </wordles>
