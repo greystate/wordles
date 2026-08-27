@@ -1673,4 +1673,10 @@
 		<try>capon</try>
 	</wordle>
 
+	<wordle date="2026-08-27" number="1895" score="3" word="uncut">
+		<try>stain</try>
+		<try>tuned</try>
+		<try>uncut</try>
+	</wordle>
+
 </wordles>
