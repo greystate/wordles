@@ -1679,4 +1679,11 @@
 		<try>uncut</try>
 	</wordle>
 
+	<wordle date="2026-08-28" number="1896" score="4" word="tween">
+		<try>stray</try>
+		<try>point</try>
+		<try>tuned</try>
+		<try>tween</try>
+	</wordle>
+
 </wordles>
