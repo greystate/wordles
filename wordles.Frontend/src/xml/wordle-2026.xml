@@ -1686,4 +1686,11 @@
 		<try>tween</try>
 	</wordle>
 
+	<wordle date="2026-08-29" number="1897" score="4" word="blood">
+		<try>spray</try>
+		<try>noted</try>
+		<try>cloud</try>
+		<try>blood</try>
+	</wordle>
+
 </wordles>
