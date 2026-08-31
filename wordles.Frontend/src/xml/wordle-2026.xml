@@ -1693,4 +1693,16 @@
 		<try>blood</try>
 	</wordle>
 
+	<wordle date="2026-08-30" number="1898" score="2" word="intel">
+		<try>until</try>
+		<try>intel</try>
+	</wordle>
+
+	<wordle date="2026-08-31" number="1899" score="4" word="mound">
+		<try>undid</try>
+		<try>found</try>
+		<try>bound</try>
+		<try>mound</try>
+	</wordle>
+
 </wordles>
