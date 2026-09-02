@@ -1705,4 +1705,18 @@
 		<try>mound</try>
 	</wordle>
 
+	<wordle date="2026-09-01" number="1900" score="4" word="remix">
+		<try>plain</try>
+		<try>droid</try>
+		<try>remit</try>
+		<try>remix</try>
+	</wordle>
+
+	<wordle date="2026-09-02" number="1901" score="4" word="ruler">
+		<try>slick</try>
+		<try>belly</try>
+		<try>valet</try>
+		<try>ruler</try>
+	</wordle>
+
 </wordles>
