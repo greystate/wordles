@@ -1719,4 +1719,50 @@
 		<try>ruler</try>
 	</wordle>
 
+	<wordle date="2026-09-03" number="1902" score="4" word="joist">
+		<try>youth</try>
+		<try>topic</try>
+		<try>joint</try>
+		<try>joist</try>
+	</wordle>
+
+	<!-- Missed #1903 -->
+	<wordle date="2026-09-04" number="1903" score="0" word="wager" />
+
+	<wordle date="2026-09-05" number="1904" score="4" word="soupy">
+		<try>point</try>
+		<try>coped</try>
+		<try>soups</try>
+		<try>soupy</try>
+	</wordle>
+
+	<wordle date="2026-09-06" number="1905" score="4" word="beige">
+		<try>plays</try>
+		<try>under</try>
+		<try>weigh</try>
+		<try>beige</try>
+	</wordle>
+
+	<wordle date="2026-09-07" number="1906" score="3" word="blind">
+		<try>lawns</try>
+		<try>clone</try>
+		<try>blind</try>
+	</wordle>
+
+	<wordle date="2026-09-08" number="1907" score="6" word="liven">
+		<try>heave</try>
+		<try>evict</try>
+		<try>video</try>
+		<try>liver</try>
+		<try>lives</try>
+		<try>liven</try>
+	</wordle>
+
+	<wordle date="2026-09-09" number="1908" score="4" word="burst">
+		<try>fight</try>
+		<try>asset</try>
+		<try>quest</try>
+		<try>burst</try>
+	</wordle>
+
 </wordles>
