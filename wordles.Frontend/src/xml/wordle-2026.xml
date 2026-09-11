@@ -1772,4 +1772,11 @@
 		<try>dryly</try>
 	</wordle>
 
+	<wordle date="2026-09-11" number="1910" score="4" word="aster">
+		<try>steam</try>
+		<try>taste</try>
+		<try>reast</try>
+		<try>aster</try>
+	</wordle>
+
 </wordles>
