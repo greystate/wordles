@@ -1779,4 +1779,18 @@
 		<try>aster</try>
 	</wordle>
 
+	<wordle date="2026-09-12" number="1911" score="4" word="nifty">
+		<try>diner</try>
+		<try>lions</try>
+		<try>night</try>
+		<try>nifty</try>
+	</wordle>
+
+	<wordle date="2026-09-13" number="1912" score="4" word="focus">
+		<try>fleet</try>
+		<try>found</try>
+		<try>forum</try>
+		<try>focus</try>
+	</wordle>
+
 </wordles>
