@@ -1793,4 +1793,30 @@
 		<try>focus</try>
 	</wordle>
 
+	<wordle date="2026-09-14" number="1913" score="3" word="rinse">
+		<try>opera</try>
+		<try>miner</try>
+		<try>rinse</try>
+	</wordle>
+
+	<wordle date="2026-09-15" number="1914" score="3" word="dealt">
+		<try>opera</try>
+		<try>leant</try>
+		<try>dealt</try>
+	</wordle>
+
+	<wordle date="2026-09-16" number="1915" score="4" word="wispy">
+		<try>shunt</try>
+		<try>poser</try>
+		<try>apsis</try>
+		<try>wispy</try>
+	</wordle>
+
+	<wordle date="2026-09-17" number="1916" score="4" word="theta">
+		<try>split</try>
+		<try>truce</try>
+		<try>tamed</try>
+		<try>theta</try>
+	</wordle>
+
 </wordles>
