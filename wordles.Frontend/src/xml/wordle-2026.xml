@@ -1819,4 +1819,11 @@
 		<try>theta</try>
 	</wordle>
 
+	<wordle date="2026-09-18" number="1917" score="4" word="snowy">
+		<try>wilds</try>
+		<try>swear</try>
+		<try>shown</try>
+		<try>snowy</try>
+	</wordle>
+
 </wordles>
