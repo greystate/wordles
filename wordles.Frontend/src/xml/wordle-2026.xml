@@ -1826,4 +1826,16 @@
 		<try>snowy</try>
 	</wordle>
 
+	<wordle date="2026-09-19" number="1918" score="2" word="waken">
+		<try>waves</try>
+		<try>waken</try>
+	</wordle>
+
+	<wordle date="2026-09-20" number="1919" score="4" word="pager">
+		<try>world</try>
+		<try>rinse</try>
+		<try>vaper</try>
+		<try>pager</try>
+	</wordle>
+
 </wordles>
