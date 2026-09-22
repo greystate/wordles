@@ -1831,11 +1831,27 @@
 		<try>waken</try>
 	</wordle>
 
-	<wordle date="2026-09-20" number="1919" score="4" word="pager">
+	<wordle date="2026-09-20" number="1919" score="5" word="shone">
+		<try>poker</try>
+		<try>emote</try>
+		<try>clone</try>
+		<try>ozone</try>
+		<try>shone</try>
+	</wordle>
+
+	<wordle date="2026-09-21" number="1920" score="4" word="pager">
 		<try>world</try>
 		<try>rinse</try>
 		<try>vaper</try>
 		<try>pager</try>
+	</wordle>
+
+	<wordle date="2026-09-22" number="1921" score="5" word="stoke">
+		<try>grass</try>
+		<try>shunt</try>
+		<try>stove</try>
+		<try>stole</try>
+		<try>stoke</try>
 	</wordle>
 
 </wordles>
