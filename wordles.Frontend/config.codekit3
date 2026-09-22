@@ -7,7 +7,7 @@
       "uuidString" : "5CD93953-8419-48F3-B317-31E1D510E58B"
     }
   ],
-  "creatorBuild" : "34921",
+  "creatorBuild" : "36780",
   "files" : {
     "\/build" : {
       "ft" : 65536,
@@ -54,7 +54,6 @@
     },
     "\/src\/components\/all.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -96,7 +95,6 @@
     },
     "\/src\/components\/guess\/guess.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -130,7 +128,6 @@
     },
     "\/src\/components\/placeholder\/placeholder.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -156,7 +153,6 @@
     },
     "\/src\/components\/quadscore\/quadscore.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -182,7 +178,6 @@
     },
     "\/src\/components\/scorebar\/scorebar.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -288,7 +283,6 @@
     },
     "\/src\/components\/text\/text.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -314,7 +308,6 @@
     },
     "\/src\/components\/tile\/tile.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -456,7 +449,6 @@
     },
     "\/src\/layouts\/all.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -474,7 +466,6 @@
     },
     "\/src\/layouts\/default.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -492,7 +483,6 @@
     },
     "\/src\/less\/app.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -510,7 +500,6 @@
     },
     "\/src\/less\/basics.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -528,7 +517,6 @@
     },
     "\/src\/less\/constants.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -546,7 +534,6 @@
     },
     "\/src\/less\/flowz.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -564,7 +551,6 @@
     },
     "\/src\/less\/fonts.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -582,7 +568,6 @@
     },
     "\/src\/less\/mixins.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -600,7 +585,6 @@
     },
     "\/src\/less\/reset.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -634,7 +618,6 @@
     },
     "\/src\/panels\/all.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -668,7 +651,6 @@
     },
     "\/src\/panels\/game-panel\/game-panel.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -702,7 +684,6 @@
     },
     "\/src\/panels\/quad-panel\/quad-panel.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -728,7 +709,6 @@
     },
     "\/src\/panels\/sample-panel\/sample-panel.less" : {
       "aP" : 1,
-      "bl" : 1,
       "co" : 0,
       "eJ" : 0,
       "ft" : 1,
@@ -968,7 +948,6 @@
     },
     "\/vendor\/componentize\/componentize.css" : {
       "aP" : 0,
-      "bl" : 0,
       "ci" : 0,
       "co" : 0,
       "ft" : 16,
@@ -991,7 +970,6 @@
     },
     "\/vendor\/modern-css-reset\/reset.css" : {
       "aP" : 0,
-      "bl" : 0,
       "ci" : 0,
       "co" : 0,
       "ft" : 16,
@@ -1302,10 +1280,6 @@
     },
     "babelRetainLines" : 0,
     "babelUseBuiltInsType" : 0,
-    "bowerAbbreviatedPath" : "bower_components",
-    "bowerForceLatestOnConflict" : 1,
-    "bowerTargetDependencyListType" : 1,
-    "bowerUseExactVersion" : 0,
     "browserRefreshDelay" : 0,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
     "buildEnvironment" : 0,
@@ -2039,7 +2013,6 @@
       "cssoStyle" : 0,
       "purgeCSSStyle" : 0,
       "shouldRunAutoprefixer" : 0,
-      "shouldRunBless" : 0,
       "sourceMapStyle" : 0
     },
     "languageDefaultsGIF" : {
@@ -2128,7 +2101,6 @@
       "purgeCSSStyle" : 0,
       "rewriteURLStyle" : 0,
       "shouldRunAutoprefixer" : 1,
-      "shouldRunBless" : 1,
       "sourceMapStyle" : 0,
       "strictImports" : 0,
       "strictUnits" : 0
@@ -2200,7 +2172,6 @@
       "outputStyle" : 1,
       "purgeCSSStyle" : 0,
       "shouldRunAutoprefixer" : 1,
-      "shouldRunBless" : 1,
       "sourceMapStyle" : 0
     },
     "languageDefaultsSLIM" : {
@@ -2232,7 +2203,6 @@
       "purgeCSSStyle" : 0,
       "resolveRelativeURLS" : 0,
       "shouldRunAutoprefixer" : 1,
-      "shouldRunBless" : 1,
       "sourceMapStyle" : 0
     },
     "languageDefaultsSVG" : {
@@ -2251,12 +2221,13 @@
       "autoOutputPathReplace1" : "",
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 2,
+      "bundleFormat" : 4,
       "createDeclarationFile" : 0,
       "jsxMode" : 0,
       "minifierStyle" : 0,
       "moduleDetectionType" : 0,
-      "moduleResolutionType" : 0,
-      "moduleType" : 2,
+      "moduleResolutionType" : 5,
+      "moduleType" : 5,
       "removeComments" : 0,
       "sourceMapStyle" : 0,
       "targetECMAVersion" : 2018
@@ -2339,15 +2310,12 @@
     "susyVersion" : 3,
     "tsAllowArbitraryExtensions" : 0,
     "tsAllowImportingTSExtensions" : 0,
-    "tsAllowSyntheticDefaultImports" : 0,
     "tsAllowUMDGlobalAccess" : 0,
     "tsAllowUnreachableCode" : 0,
     "tsAllowUnusedLabels" : 0,
-    "tsAlwaysStrict" : 0,
-    "tsDownlevelIteration" : 0,
+    "tsConfigFileHandlingType" : 0,
     "tsEmitBOM" : 0,
     "tsEmitDecoratorMetadata" : 0,
-    "tsESModuleInterop" : 0,
     "tsExactOptionalPropertyTypes" : 0,
     "tsExperimentalDecorators" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
@@ -2355,6 +2323,7 @@
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
     "tsJSXFragmentFactory" : "Fragment",
+    "tsLibString" : "",
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
@@ -2365,6 +2334,7 @@
     "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
     "tsNoUncheckedIndexAccess" : 0,
+    "tsNoUncheckedSideEffectImports" : 0,
     "tsNoUnusedLocals" : 0,
     "tsNoUnusedParameters" : 0,
     "tsPreserveConstEnums" : 0,
@@ -2377,6 +2347,7 @@
     "tsStrictNullChecks" : 0,
     "tsStrictPropertyInitialization" : 0,
     "tsStripInternal" : 0,
+    "tsTypesString" : "*",
     "tsUseDefineForClassFields" : 0,
     "tsUseUnknownInCatchVariables" : 0,
     "tsVerbatimModuleSyntax" : 0,
