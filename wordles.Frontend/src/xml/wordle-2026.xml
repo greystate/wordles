@@ -1860,4 +1860,19 @@
 		<try>forth</try>
 	</wordle>
 
+	<wordle date="2026-09-24" number="1923" score="4" word="messy">
+		<try>doubt</try>
+		<try>hinge</try>
+		<try>laser</try>
+		<try>messy</try>
+	</wordle>
+
+	<wordle date="2026-09-25" number="1924" score="5" word="copse">
+		<try>adore</try>
+		<try>ounce</try>
+		<try>choke</try>
+		<try>combe</try>
+		<try>copse</try>
+	</wordle>
+
 </wordles>
