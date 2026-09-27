@@ -1875,4 +1875,17 @@
 		<try>copse</try>
 	</wordle>
 
+	<wordle date="2026-09-26" number="1925" score="4" word="elegy">
+		<try>pride</try>
+		<try>teach</try>
+		<try>sleek</try>
+		<try>elegy</try>
+	</wordle>
+
+	<wordle date="2026-09-27" number="1926" score="3" word="sloop">
+		<try>quest</try>
+		<try>spook</try>
+		<try>sloop</try>
+	</wordle>
+
 </wordles>
