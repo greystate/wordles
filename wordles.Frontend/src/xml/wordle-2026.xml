@@ -1888,4 +1888,11 @@
 		<try>sloop</try>
 	</wordle>
 
+	<wordle date="2026-09-28" number="1927" score="4" word="trunk">
+		<try>power</try>
+		<try>ruins</try>
+		<try>grunt</try>
+		<try>trunk</try>
+	</wordle>
+
 </wordles>
