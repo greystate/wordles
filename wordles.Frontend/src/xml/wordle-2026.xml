@@ -1895,4 +1895,11 @@
 		<try>trunk</try>
 	</wordle>
 
+	<wordle date="2026-09-29" number="1928" score="4" word="scuba">
+		<try>steak</try>
+		<try>sandy</try>
+		<try>scamp</try>
+		<try>scuba</try>
+	</wordle>
+
 </wordles>
