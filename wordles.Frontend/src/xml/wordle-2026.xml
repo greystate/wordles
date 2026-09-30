@@ -1902,4 +1902,11 @@
 		<try>scuba</try>
 	</wordle>
 
+	<wordle date="2026-09-30" number="1929" score="4" word="river">
+		<try>space</try>
+		<try>endow</try>
+		<try>breem</try>
+		<try>river</try>
+	</wordle>
+
 </wordles>
