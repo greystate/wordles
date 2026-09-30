@@ -1909,4 +1909,11 @@
 		<try>river</try>
 	</wordle>
 
+	<wordle date="2026-10-01" number="1930" score="4" word="ritzy">
+		<try>panda</try>
+		<try>globe</try>
+		<try>first</try>
+		<try>ritzy</try>
+	</wordle>
+
 </wordles>
