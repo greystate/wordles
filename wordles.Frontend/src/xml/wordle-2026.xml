@@ -1916,4 +1916,12 @@
 		<try>ritzy</try>
 	</wordle>
 
+	<wordle date="2026-10-02" number="1931" score="5" word="usury">
+		<try>brook</try>
+		<try>rains</try>
+		<try>surge</try>
+		<try>usurp</try>
+		<try>usury</try>
+	</wordle>
+
 </wordles>
