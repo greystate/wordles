@@ -1924,4 +1924,11 @@
 		<try>usury</try>
 	</wordle>
 
+	<wordle date="2026-10-03" number="1932" score="4" word="peeve">
+		<try>south</try>
+		<try>place</try>
+		<try>pride</try>
+		<try>peeve</try>
+	</wordle>
+
 </wordles>
