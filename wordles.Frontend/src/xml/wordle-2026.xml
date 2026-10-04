@@ -1931,4 +1931,11 @@
 		<try>peeve</try>
 	</wordle>
 
+	<wordle date="2026-10-04" number="1933" score="4" word="shack">
+		<try>touch</try>
+		<try>chirp</try>
+		<try>whack</try>
+		<try>shack</try>
+	</wordle>
+
 </wordles>
