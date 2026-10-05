@@ -1945,4 +1945,11 @@
 		<try>mocha</try>
 	</wordle>
 
+	<wordle date="2026-10-06" number="1935" score="4" word="dimly">
+		<try>plays</try>
+		<try>truly</try>
+		<try>oddly</try>
+		<try>dimly</try>
+	</wordle>
+
 </wordles>
