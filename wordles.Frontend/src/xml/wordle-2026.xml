@@ -1938,4 +1938,11 @@
 		<try>shack</try>
 	</wordle>
 
+	<wordle date="2026-10-05" number="1934" score="4" word="mocha">
+		<try>great</try>
+		<try>avoid</try>
+		<try>foals</try>
+		<try>mocha</try>
+	</wordle>
+
 </wordles>
