@@ -1959,4 +1959,11 @@
 		<try>prove</try>
 	</wordle>
 
+	<wordle date="2026-10-08" number="1937" score="4" word="strew">
+		<try>trash</try>
+		<try>strum</try>
+		<try>strop</try>
+		<try>strew</try>
+	</wordle>
+
 </wordles>
