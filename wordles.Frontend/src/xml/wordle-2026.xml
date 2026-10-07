@@ -1952,4 +1952,11 @@
 		<try>dimly</try>
 	</wordle>
 
+	<wordle date="2026-10-07" number="1936" score="4" word="prove">
+		<try>swear</try>
+		<try>refit</try>
+		<try>erode</try>
+		<try>prove</try>
+	</wordle>
+
 </wordles>
