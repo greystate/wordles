@@ -1966,4 +1966,11 @@
 		<try>strew</try>
 	</wordle>
 
+	<wordle date="2026-10-09" number="1938" score="4" word="major">
+		<try>opera</try>
+		<try>radon</try>
+		<try>favor</try>
+		<try>major</try>
+	</wordle>
+
 </wordles>
