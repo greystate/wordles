@@ -132,7 +132,14 @@
 	<xsl:template name="local-stats">
 		<xsl:param name="wordles" select="/.." />
 		<xsl:param name="end-score" select="6" />
-		<xsl:variable name="average" select="floor(sum($wordles/@score) div count($wordles))" />
+
+		<xsl:variable name="played" select="$wordles[w:try]" />
+		<xsl:variable name="missed" select="$wordles[not(w:try)]" />
+
+		<xsl:variable name="logged-count" select="count($wordles)" />
+		<xsl:variable name="played-count" select="count($played)" />
+
+		<xsl:variable name="average" select="floor(sum($played/@score) div $played-count)" />
 
 		<xsl:variable name="current" select="$wordles[last()]" />
 		<xsl:variable name="latest-lost" select="$current/preceding-sibling::w:wordle[@score = 0][1]" />
@@ -153,11 +160,27 @@
 					<h3>Wins &amp; streaks</h3>
 					<table border="1">
 						<tr>
+							<th>Logged</th>
+							<td><xsl:value-of select="$logged-count" /></td>
+						</tr>
+						<tr>
+							<th>Played</th>
+							<td><xsl:value-of select="$played-count" /></td>
+						</tr>
+						<tr>
 							<th scope="row">Wins</th>
 							<td>
-								<xsl:value-of select="round(count($wordles[not(@score = 0)]) div (count($wordles)) * 100)" />
+								<xsl:value-of select="round(count($played[not(@score = 0)]) div $played-count * 100)" />
 								<xsl:text>%</xsl:text>
 							</td>
+						</tr>
+						<tr>
+							<th>Fails</th>
+							<td><xsl:value-of select="count($played[@score = 0])" /></td>
+						</tr>
+						<tr>
+							<th>Missed</th>
+							<td><xsl:value-of select="count($missed)" /></td>
 						</tr>
 						<tr>
 							<th scope="row">Current streak</th>
