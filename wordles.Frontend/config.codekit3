@@ -896,7 +896,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/build\/xslt\/fix-quordles.xslt",
       "oF" : 0
     },
@@ -912,7 +912,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/build\/xslt\/transform-wordles.xslt",
       "oF" : 0
     },
@@ -2245,7 +2245,7 @@
         "shouldRunCacheBuster" : 0
       },
       {
-        "autoOutputAction" : 0,
+        "autoOutputAction" : 2,
         "autoOutputPathFilenamePattern" : "*.xslt",
         "autoOutputPathRelativePath" : "",
         "autoOutputPathReplace1" : "",
