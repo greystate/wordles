@@ -1973,4 +1973,11 @@
 		<try>major</try>
 	</wordle>
 
+	<wordle date="2026-10-10" number="1939" score="4" word="bumpy">
+		<try>bound</try>
+		<try>burst</try>
+		<try>bulky</try>
+		<try>bumpy</try>
+	</wordle>
+
 </wordles>
