@@ -1,5 +1,47 @@
 <wordles xml:lang="en" xmlns="http://xmlns.greystate.dk/2022/wordles">
 
+	<!--
+		These are made up to align my stats with the official stats
+		as I did not start logging my scores right away
+	-->
+	<wordle date="2022-01-08" number="203" score="1" word="?"><try /></wordle>
+
+	<wordle date="2022-01-09" number="204" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-10" number="205" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-11" number="206" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-12" number="207" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-13" number="208" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-14" number="209" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-15" number="210" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-16" number="211" score="3" word="?"><try /></wordle>
+	<wordle date="2022-01-17" number="212" score="3" word="?"><try /></wordle>
+
+	<wordle date="2022-01-18" number="213" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-19" number="214" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-20" number="215" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-21" number="216" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-22" number="217" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-23" number="218" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-24" number="219" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-25" number="220" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-26" number="221" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-27" number="222" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-28" number="223" score="4" word="?"><try /></wordle>
+	<wordle date="2022-01-29" number="224" score="4" word="?"><try /></wordle>
+
+	<wordle date="2022-01-30" number="225" score="5" word="?"><try /></wordle>
+	<wordle date="2022-01-31" number="226" score="5" word="?"><try /></wordle>
+	<wordle date="2022-02-01" number="227" score="5" word="?"><try /></wordle>
+	<wordle date="2022-02-02" number="228" score="5" word="?"><try /></wordle>
+	<wordle date="2022-02-03" number="229" score="5" word="?"><try /></wordle>
+	<wordle date="2022-02-04" number="230" score="5" word="?"><try /></wordle>
+	<wordle date="2022-02-05" number="231" score="5" word="?"><try /></wordle>
+	<wordle date="2022-02-06" number="232" score="5" word="?"><try /></wordle>
+
+	<wordle date="2022-02-07" number="233" score="6" word="?"><try /></wordle>
+	<wordle date="2022-02-08" number="234" score="6" word="?"><try /></wordle>
+
+	<!-- Actual logging starts here -->
 	<wordle date="2022-02-09" number="235" score="5" word="humor">
 		<try>stain</try>
 		<try>power</try>
