@@ -1980,4 +1980,11 @@
 		<try>bumpy</try>
 	</wordle>
 
+	<wordle date="2026-10-11" number="1940" score="4" word="uncap">
+		<try>stain</try>
+		<try>ankle</try>
+		<try>unbag</try>
+		<try>uncap</try>
+	</wordle>
+
 </wordles>
