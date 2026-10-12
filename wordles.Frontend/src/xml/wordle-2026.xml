@@ -1987,4 +1987,12 @@
 		<try>uncap</try>
 	</wordle>
 
+	<wordle date="2026-10-12" number="1941" score="5" word="yodel">
+		<try>taken</try>
+		<try>speed</try>
+		<try>older</try>
+		<try>model</try>
+		<try>yodel</try>
+	</wordle>
+
 </wordles>
