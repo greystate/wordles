@@ -1995,4 +1995,11 @@
 		<try>yodel</try>
 	</wordle>
 
+	<wordle date="2026-10-13" number="1942" score="4" word="wider">
+		<try>trick</try>
+		<try>sirup</try>
+		<try>finer</try>
+		<try>wider</try>
+	</wordle>
+
 </wordles>
