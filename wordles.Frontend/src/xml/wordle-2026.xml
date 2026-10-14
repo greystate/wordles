@@ -2002,4 +2002,12 @@
 		<try>wider</try>
 	</wordle>
 
+	<wordle date="2026-10-14" number="1943" score="5" word="psych">
+		<try>unset</try>
+		<try>spook</try>
+		<try>grips</try>
+		<try>clasp</try>
+		<try>psych</try>
+	</wordle>
+
 </wordles>
