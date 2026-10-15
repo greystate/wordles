@@ -2010,4 +2010,12 @@
 		<try>psych</try>
 	</wordle>
 
+	<wordle date="2026-10-15" number="1944" score="5" word="dunce">
+		<try>flash</try>
+		<try>overt</try>
+		<try>mined</try>
+		<try>bendy</try>
+		<try>dunce</try>
+	</wordle>
+
 </wordles>
