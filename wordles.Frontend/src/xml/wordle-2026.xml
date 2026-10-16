@@ -2018,4 +2018,10 @@
 		<try>dunce</try>
 	</wordle>
 
+	<wordle date="2026-10-16" number="1945" score="3" word="shady">
+		<try>plead</try>
+		<try>darts</try>
+		<try>shady</try>
+	</wordle>
+
 </wordles>
