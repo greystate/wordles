@@ -2024,4 +2024,13 @@
 		<try>shady</try>
 	</wordle>
 
+	<wordle date="2026-10-17" number="1946" score="6" word="gaffe">
+		<try>youth</try>
+		<try>price</try>
+		<try>lease</try>
+		<try>amaze</try>
+		<try>gadge</try>
+		<try>gaffe</try>
+	</wordle>
+
 </wordles>
