@@ -2033,4 +2033,10 @@
 		<try>gaffe</try>
 	</wordle>
 
+	<wordle date="2026-10-18" number="1947" score="3" word="adorn">
+		<try>mould</try>
+		<try>drone</try>
+		<try>adorn</try>
+	</wordle>
+
 </wordles>
