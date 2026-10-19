@@ -2046,4 +2046,11 @@
 		<try>stink</try>
 	</wordle>
 
+	<wordle date="2026-10-20" number="1949" score="4" word="wrest">
+		<try>found</try>
+		<try>price</try>
+		<try>great</try>
+		<try>wrest</try>
+	</wordle>
+
 </wordles>
