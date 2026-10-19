@@ -2039,4 +2039,11 @@
 		<try>adorn</try>
 	</wordle>
 
+	<wordle date="2026-10-19" number="1948" score="4" word="stink">
+		<try>feast</try>
+		<try>store</try>
+		<try>stuck</try>
+		<try>stink</try>
+	</wordle>
+
 </wordles>
