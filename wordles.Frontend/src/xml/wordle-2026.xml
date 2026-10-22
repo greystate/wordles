@@ -2061,4 +2061,10 @@
 		<try>penny</try>
 	</wordle>
 
+	<wordle date="2026-10-22" number="1951" score="3" word="reset">
+		<try>flash</try>
+		<try>sport</try>
+		<try>reset</try>
+	</wordle>
+
 </wordles>
