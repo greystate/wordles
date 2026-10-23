@@ -2067,4 +2067,11 @@
 		<try>reset</try>
 	</wordle>
 
+	<wordle date="2026-10-23" number="1952" score="4" word="trill">
+		<try>plyer</try>
+		<try>swirl</try>
+		<try>brill</try>
+		<try>trill</try>
+	</wordle>
+
 </wordles>
