@@ -2074,4 +2074,13 @@
 		<try>trill</try>
 	</wordle>
 
+	<wordle date="2026-10-24" number="1953" score="6" word="holey">
+		<try>slang</try>
+		<try>lemur</try>
+		<try>towel</try>
+		<try>foley</try>
+		<try>coley</try>
+		<try>holey</try>
+	</wordle>
+
 </wordles>
