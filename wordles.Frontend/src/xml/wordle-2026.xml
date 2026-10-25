@@ -2083,4 +2083,11 @@
 		<try>holey</try>
 	</wordle>
 
+	<wordle date="2026-10-25" number="1954" score="4" word="dress">
+		<try>storm</try>
+		<try>reaps</try>
+		<try>lures</try>
+		<try>dress</try>
+	</wordle>
+
 </wordles>
