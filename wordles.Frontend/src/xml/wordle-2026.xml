@@ -2090,4 +2090,12 @@
 		<try>dress</try>
 	</wordle>
 
+	<wordle date="2026-10-26" number="1955" score="5" word="geeky">
+		<try>young</try>
+		<try>tangy</try>
+		<try>gilly</try>
+		<try>gypsy</try>
+		<try>geeky</try>
+	</wordle>
+
 </wordles>
