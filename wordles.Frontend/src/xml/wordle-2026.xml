@@ -2098,4 +2098,18 @@
 		<try>geeky</try>
 	</wordle>
 
+	<wordle date="2026-10-27" number="1956" score="4" word="bingo">
+		<try>steam</try>
+		<try>pound</try>
+		<try>clown</try>
+		<try>bingo</try>
+	</wordle>
+
+	<wordle date="2026-10-28" number="1957" score="4" word="grist">
+		<try>trail</try>
+		<try>print</try>
+		<try>frist</try>
+		<try>grist</try>
+	</wordle>
+
 </wordles>
