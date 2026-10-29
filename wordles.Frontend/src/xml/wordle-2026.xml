@@ -2112,4 +2112,10 @@
 		<try>grist</try>
 	</wordle>
 
+	<wordle date="2026-10-29" number="1958" score="3" word="motor">
+		<try>wider</try>
+		<try>altar</try>
+		<try>motor</try>
+	</wordle>
+
 </wordles>
