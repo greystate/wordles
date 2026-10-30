@@ -2118,4 +2118,10 @@
 		<try>motor</try>
 	</wordle>
 
+	<wordle date="2026-10-30" number="1959" score="3" word="slide">
+		<try>tears</try>
+		<try>spend</try>
+		<try>slide</try>
+	</wordle>
+
 </wordles>
