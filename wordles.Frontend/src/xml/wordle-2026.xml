@@ -2124,4 +2124,12 @@
 		<try>slide</try>
 	</wordle>
 
+	<wordle date="2026-10-31" number="1960" score="5" word="yahoo">
+		<try>straw</try>
+		<try>clamp</try>
+		<try>oaken</try>
+		<try>baboo</try>
+		<try>yahoo</try>
+	</wordle>
+
 </wordles>
