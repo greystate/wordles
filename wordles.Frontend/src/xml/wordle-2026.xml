@@ -2132,4 +2132,12 @@
 		<try>yahoo</try>
 	</wordle>
 
+	<wordle date="2026-11-01" number="1961" score="5" word="viper">
+		<try>opera</try>
+		<try>repay</try>
+		<try>super</try>
+		<try>wiper</try>
+		<try>viper</try>
+	</wordle>
+
 </wordles>
