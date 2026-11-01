@@ -364,7 +364,7 @@
 				<xsl:variable name="index" select="position()" />
 				<xsl:variable name="diff" select="string-length(translate($guess, ., '')) - string-length(translate($solution, ., ''))" />
 
-				<span class="wrong tile">
+				<span class="wrong tile"> <!-- Those are just default classes - finalized while building the tile -->
 					<xsl:if test="$debugging">
 						<xsl:attribute name="data-diff"><xsl:value-of select="$diff" /></xsl:attribute>
 					</xsl:if>
@@ -420,6 +420,11 @@
 									<xsl:attribute name="class">tile unknown</xsl:attribute>
 								</xsl:otherwise>
 							</xsl:choose>
+						</xsl:when>
+
+						<!-- An earlier guess already called this letter out - _bad guess!_ -->
+						<xsl:when test="contains($guess/preceding-sibling::w:try, .)">
+							<xsl:attribute name="class">bad tile</xsl:attribute>
 						</xsl:when>
 
 					</xsl:choose>

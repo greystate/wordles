@@ -14,7 +14,7 @@
 	background: transparent;
 	color: var(--color-text);
 
-	&.wrong, &.ok, &.correct { border: none; }
+	&.wrong, &.ok, &.correct, &.bad { border: none; }
 
 	&.wrong {
 		background: var(--bgcolor-wrong);
@@ -26,6 +26,10 @@
 
 	&.correct {
 		background: var(--bgcolor-correct);
+	}
+
+	&.bad {
+		background: color-mix(rgb(from var(--bgcolor-wtf) r g b / 0.65), var(--bgcolor-wrong));
 	}
 
 	&.unknown {
