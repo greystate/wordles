@@ -47,13 +47,6 @@
 		<p style="color:red;"><xsl:value-of select="local-name()" /> #<xsl:value-of select="@number" /> seems out of sequence.</p>
 	</xsl:template>
 
-
-	<xsl:template name="global-stats">
-		<div>
-
-		</div>
-	</xsl:template>
-
 	<xsl:template name="longest-streak-wordle">
 		<xsl:param name="wordles" select="/.." />
 		<xsl:variable name="start" select="$wordles[1]/@number" />
@@ -144,6 +137,22 @@
 		<xsl:variable name="current" select="$wordles[last()]" />
 		<xsl:variable name="latest-lost" select="$current/preceding-sibling::w:wordle[@score = 0][1]" />
 
+		<xsl:variable name="most-common-RTF">
+			<xsl:for-each select="$wordles/w:try[1][normalize-space()]">
+				<xsl:variable name="word" select="." />
+				<try word="{.}" count="{count($wordles/w:try[1][. = $word])}" />
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:variable name="most-common" select="make:node-set($most-common-RTF)" />
+
+		<xsl:variable name="most-played-RTF">
+			<xsl:for-each select="$wordles/w:try[normalize-space()]">
+				<xsl:variable name="word" select="." />
+				<try word="{.}" count="{count($wordles/w:try[. = $word])}" />
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:variable name="most-played" select="make:node-set($most-played-RTF)" />
+
 		<details>
 			<summary>Stats</summary>
 			<div class="stats-content">
@@ -206,9 +215,47 @@
 						</tr>
 					</table>
 				</div>
+
+				<div>
+					<h3>Most common starters</h3>
+					<table border="1">
+						<xsl:call-template name="most-common-starters">
+							<xsl:with-param name="tries" select="$most-common" />
+						</xsl:call-template>
+					</table>
+				</div>
+
+				<div>
+					<h3>Most played word:</h3>
+					<div class="guess">
+						<xsl:for-each select="$most-played/try[not(@word = following-sibling::try/@word)]">
+							<xsl:sort select="@count" order="descending" data-type="number" />
+							<xsl:if test="position() &lt;= 1">
+								<xsl:variable name="letters" select="str:tokenize(@word, '')" />
+								<xsl:for-each select="$letters">
+									<span class="correct tile"><xsl:value-of select="." /></span>
+								</xsl:for-each>
+							</xsl:if>
+						</xsl:for-each>
+					</div>
+				</div>
 			</div>
 		</details>
 
+	</xsl:template>
+
+	<xsl:template name="most-common-starters">
+		<xsl:param name="tries" select="/.." />
+		<xsl:for-each select="$tries/try[not(@word = preceding-sibling::try/@word)]">
+			<xsl:sort select="@count" order="descending" data-type="number" />
+			<xsl:sort select="@word" order="ascending" />
+			<xsl:if test="position() &lt;= 8">
+				<tr>
+					<th scope="row"><xsl:value-of select="@word" /></th>
+					<td><xsl:value-of select="@count" /></td>
+				</tr>
+			</xsl:if>
+		</xsl:for-each>
 	</xsl:template>
 
 	<xsl:template match="/w:wordles">
