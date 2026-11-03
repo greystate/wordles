@@ -2140,4 +2140,16 @@
 		<try>viper</try>
 	</wordle>
 
+	<wordle date="2026-11-02" number="1962" score="3" word="scoot">
+		<try>slurp</try>
+		<try>scant</try>
+		<try>scoot</try>
+	</wordle>
+
+	<wordle date="2026-11-03" number="1963" score="3" word="pouch">
+		<try>rogue</try>
+		<try>south</try>
+		<try>pouch</try>
+	</wordle>
+
 </wordles>
