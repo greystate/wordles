@@ -2152,4 +2152,11 @@
 		<try>pouch</try>
 	</wordle>
 
+	<wordle date="2026-11-04" number="1964" score="4" word="nutty">
+		<try>world</try>
+		<try>peaks</try>
+		<try>unfit</try>
+		<try>nutty</try>
+	</wordle>
+
 </wordles>
