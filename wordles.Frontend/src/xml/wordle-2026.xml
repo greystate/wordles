@@ -2159,4 +2159,26 @@
 		<try>nutty</try>
 	</wordle>
 
+	<wordle date="2026-11-05" number="1965" score="4" word="parch">
+		<try>beast</try>
+		<try>havoc</try>
+		<try>march</try>
+		<try>parch</try>
+	</wordle>
+
+	<wordle date="2026-11-06" number="1966" score="4" word="dreck">
+		<try>break</try>
+		<try>creek</try>
+		<try>wreck</try>
+		<try>dreck</try>
+	</wordle>
+
+	<wordle date="2026-11-07" number="1967" score="5" word="prate">
+		<try>bland</try>
+		<try>stare</try>
+		<try>crate</try>
+		<try>grate</try>
+		<try>prate</try>
+	</wordle>
+
 </wordles>
