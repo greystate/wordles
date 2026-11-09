@@ -2181,4 +2181,20 @@
 		<try>prate</try>
 	</wordle>
 
+	<wordle date="2026-11-08" number="1968" score="4" word="first">
+		<try>brain</try>
+		<try>girth</try>
+		<try>tired</try>
+		<try>first</try>
+	</wordle>
+
+	<wordle date="2026-11-09" number="1969" score="6" word="loamy">
+		<try>fresh</try>
+		<try>count</try>
+		<try>dodgy</try>
+		<try>woozy</try>
+		<try>molly</try>
+		<try>loamy</try>
+	</wordle>
+
 </wordles>
