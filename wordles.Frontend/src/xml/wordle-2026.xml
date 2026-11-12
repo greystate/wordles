@@ -2197,4 +2197,25 @@
 		<try>loamy</try>
 	</wordle>
 
+	<wordle date="2026-11-10" number="1970" score="3" word="truce">
+		<try>steam</try>
+		<try>write</try>
+		<try>truce</try>
+	</wordle>
+
+	<wordle date="2026-11-11" number="1971" score="5" word="bless">
+		<try>wants</try>
+		<try>perks</try>
+		<try>lubes</try>
+		<try>bleys</try>
+		<try>bless</try>
+	</wordle>
+
+	<wordle date="2026-11-12" number="1972" score="4" word="karat">
+		<try>lunch</try>
+		<try>soare</try>
+		<try>triad</try>
+		<try>karat</try>
+	</wordle>
+
 </wordles>
