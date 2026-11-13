@@ -2218,4 +2218,12 @@
 		<try>karat</try>
 	</wordle>
 
+	<wordle date="2026-11-13" number="1973" score="5" word="moxie">
+		<try>train</try>
+		<try>devil</try>
+		<try>sheik</try>
+		<try>equip</try>
+		<try>moxie</try>
+	</wordle>
+
 </wordles>
